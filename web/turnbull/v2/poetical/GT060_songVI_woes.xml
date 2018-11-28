@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Song VI.</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope
+                  unit="page" from="222" to="224">222-224</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Song VI.<emph rend="super">1</emph><note type="head"
+                  place="bottom"><emph rend="super">1</emph> First published in <emph rend="italic"
+                     >Poetical Essays</emph> (1788), pp. 222-223.</note></title></head>
+         <note rend="center">Tune. <emph rend="italic">Woes my heart that we should
+               sunder.</emph><emph rend="super">2</emph><note type="gloss" place="bottom"><emph rend="super">2</emph> The air
+               is given in Robert Chambers, <emph rend="italic">The Songs of Scotland Prior to Burns
+                  with the Tunes</emph> (Edinburgh: W. &amp; R. Chambers, 1890), pp. 329-330.
+               Chambers comments that Ramsay composed a new song “to supersede a homely one which
+               had long possessed popular favour.” See Allan Ramsay, “With broken words and downcast
+               eyes,” <emph rend="italic">Tea Table Miscellany</emph>, 2 vols. (Edinburgh, 1724:
+               Glasgow: Crum, 1871), I: pp. 79-80. Chambers also notes: “An air under the title of <emph
+                  rend="italic">Alace my heart that we should sunder</emph> appears in Playford’s
+               Collection, 1700. There is also one, essentially different from the above, in the
+               Skene Manuscript, under the title of <emph rend="italic">Alace this night that we
+                  suld sinder</emph> (p. 331).</note></note>
+         <div1 type="stanza">
+            <head rend="center">I.</head>
+            <lg>
+               <l>One night by Irvine’s murm’ring tide,<emph rend="super">3</emph><note type="gloss"
+                     place="bottom"><emph rend="super">3</emph> The river Irvine flows through
+                     southwest Scotland, running near Kilmarnock, down to the coastal town of
+                     Irivine and is featured in many of Turnbull’s poems. Cf. “Elegy IV,” “Ode VII:
+                     To Irvine Water” and “Irvine Water” in <emph rend="italic">Poetical
+                        Essays</emph> (1788). </note></l>
+               <l rend="indent">As I a shady tree sat under,</l>
+               <l>And Colin,<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                        rend="super">4</emph> Shepherd-poet; Cf. Clement Marot, <emph rend="italic"
+                        >Complainte de Madame Loysc</emph> (1531); Edmund Spenser, <emph
+                        rend="italic">Shepheardes Calendar</emph> (1579); and John Gay, <emph
+                        rend="italic">The Shepherd’s Week</emph> (1714).</note> seated by my
+                  side,</l>
+               <l rend="indent">Gave me his hand we ne’er should sunder.</l>
+               <l n="5">Believe, he cry’d, dear charming fair,</l>
+               <l rend="indent">Thy beauty fires me all with wonder,</l>
+               <l>Long as I breathe the vital air,</l>
+               <l rend="indent">We’ll live in love, and never sunder.</l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">II.</head>
+            <lg>
+               <l>How could you, cruel youth, deceive,</l>
+               <l n="10" rend="indent">How ruin one so young and tender;</l>
+               <l>Why did I, simple maid, believe,</l>
+               <l rend="indent">And all my virgin-charms surrender:</l>
+               <l>Thy words such innocence display’d,</l>
+               <l rend="indent">While false designs were lurking under,</l>
+               <l n="15">Which me, unhappy nymph, betray’d,</l>
+               <l rend="indent">And broke my tender heart asunder.</l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">III.</head>
+            <lg>
+               <l>Ye murm’ring streams, ye shady groves,</l>
+               <l rend="indent">Where first I heard the tale so tender;</l>
+               <l>Ye scenes of our once happy loves,</l>
+               <l n="20" rend="indent">Where first my heart I did surrender;</l>
+               <l>Ye list’ning echoes, catch the strain,</l>
+               <l rend="indent">Repeat, repeat the tale with wonder,</l>
+               <l>Upbraid the dear deluding swain,</l>
+               <l rend="indetn">Who broke my tender heart asunder. </l>
+
+            </lg>
+         </div1>
+
+      </body>
+   </text>
+</TEI>

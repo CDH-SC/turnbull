@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>The Nightingale.</title>, <title>The Works of
+               Robert Burns</title> (<pubPlace>Liverpool</pubPlace>, <date>1800</date>),
+               <biblScope unit="page" from="140" to="141">140-141</biblScope>.</bibl>
+           
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">The Nightingale.<emph rend="super">1</emph><note type="head"
+            place="bottom"><emph rend="super">1</emph> From a letter of Robert Burns to George
+            Thomson, October 29, 1793. First published in James Currie's <emph rend="italic"
+               >Works of Robert Burns</emph>, 4 vols. (Liverpool: M'Creery, 1800), IV:
+            pp. 140-141.</note></title></head>
+
+         <lg type="stanza">
+            <l>Thou sweetest minstrel of the grove,</l>
+            <l rend="indent">That ever tried the plaintive strain</l>
+            <l>Awake thy tender tale of love,</l>
+            <l rend="indent">And sooth a poor forsaken swain.&#8212;</l>
+         </lg>
+         <lg type="stanza">
+            <l n="5">Who, though the muses deign to aid</l>
+            <l rend="indent">And teach him smoothly to complain;</l>
+            <l>Yet Delia,<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> Alternative name for Artemis or Diana. Citing Tibullus,
+                  Maurice Scêve (1510-64) and Samuel Daniel (1562-1619), Alastair Fowler argues that
+                  Delia was often used to denote purity. See <emph rend="italic">Literary
+                     Names</emph> (Oxford: Oxford UP, 2012), p. 44.</note> charming, cruel maid,</l>
+            <l rend="indent">Is deaf to her forsaken swain.&#8212;</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>All day, with Fashion’s gaudy sons,</l>
+            <l rend="indent" n="10">In sport she wanders o’er the plain,</l>
+            <l>Their tales approves, &amp; still she shuns</l>
+            <l rend="indent">The notes of her forsaken swain.&#8212;</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>When evening shades obscure the sky,</l>
+            <l rend="indent">And bring the solemn hours again,</l>
+            <l n="15">Begin, sweet bird, thy melody,</l>
+            <l rend="indent">And sooth a poor forsaken swain.&#8212; </l>
+         </lg>
+
+      </body>
+   </text>
+</TEI>

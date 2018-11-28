@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Epitaph.<emph rend="super">1</emph><note type="head"
+                  place="bottom"><emph rend="super">1</emph> First published in <emph rend="italic"
+                     >Poems</emph> (1794), p. 36; reprinted in <emph rend="italic">City Gazette and
+                     Daily Advertiser</emph> [Charleston] (February 20, 1796).</note></title></head>
+
+         <lg type="stanza">
+            <l rend="indent"> Stop, friends! or softly tread this holy ground,</l>
+            <l> And pass, with rev’rence, o’er the sacred bound,</l>
+            <l>Where low in earth the cold remains are laid</l>
+            <l>Of Elenor,<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> Derivation of the Old French <emph rend="italic"
+                     >Alienor</emph> popularized by Eleanor of Acquitaine.</note> a wise, and
+               beauteous maid.</l>
+            <l n="5">Truth flow’d than honey sweeter from her tongue,</l>
+            <l>And list’ning angels prais’d her when she sung.</l>
+            <l>Her wit and beauty all the young admir’d,</l>
+            <l>And age was with her matchless virtue fir’d.</l>
+            <l>Death had for once his mandate disobey’d,</l>
+            <l n="10"> Unwilling to arrest so sweet a maid;</l>
+            <l>But, judging life unworthy of the care</l>
+            <l>Of one so fit for Heav’n, he sent her there. </l>
+         </lg>
+
+
+      </body>
+   </text>
+</TEI>

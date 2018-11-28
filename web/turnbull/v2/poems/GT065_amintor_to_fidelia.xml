@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Epistle. Amintor to Fidelia.</title>, in
+                  <title>Poems,</title> (<pubPlace>Dumfries</pubPlace>, <date>1794</date>),
+                  <biblScope unit="page" from="19" to="22">19-22</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head rend="center"><title type="main">Epistle. Amintor to Fidelia.<emph rend="super"
+                  >1, </emph><note type="head" place="bottom"><emph rend="super">1</emph> First
+                  published in <emph rend="italic">Poems</emph> (1794), pp. 19-22; reprinted as “Epistle
+                  Amintor to Fidelia, Pastoral Elegy, by Mr. G. Turnbull of the Church-street
+                  Theatre” in <emph rend="italic">Columbian Herald and New Daily Advertiser</emph>
+                  [Charleston, SC] (March 12, 1796).</note><emph rend="super">2, </emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> Amintor is the name of the young courtier in and hero of
+                  Francis Beaumont and John Fletcher’s <emph rend="italic">The Maid’s Tragedy</emph>
+                  (1619).</note><emph rend="super">3</emph><note type="gloss" place="bottom"><emph rend="super">3</emph> Latin
+                  for faithful, Fidelia was often the name of heroines in seventeenth-century
+                  romance.</note></title></head>
+         <lg type="stanza">
+            <l>Stretch’d on a bed, where languishing I lie,</l>
+            <l>No pitying friend, no kind companion nigh;</l>
+            <l>Not joy’d, but thankful for the morning light,</l>
+            <l>These melancholy lines to thee I write;</l>
+            <l n="5">Only to tell the torments I endure,</l>
+            <l> I hope for pity, but expect no cure:</l>
+            <l>Ah, wretched thought! beyond relief I see</l>
+            <l>Thee, charming maid, lost to thyself and me.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent"> Since last we parted, many a joyless day</l>
+            <l n="10">And dreary night has slowly crept away:</l>
+            <l> Time with the happy, flies with furious speed,</l>
+            <l> But lamely crawls with wretchedness indeed!</l>
+            <l> Each night denied the blessing of repose,</l>
+            <l> And morning rais’d me to succeeding woes;</l>
+            <l n="15">Yet still a ray of hope would intervene,</l>
+            <l>And faintly cheer the melancholy scene;</l>
+            <l> But rob’d of that sweet soother of my care,</l>
+            <l> What now remains for me but wild despair!</l>
+         </lg>
+         <lg type="stanza">
+            <l rend="indent">As once, worn out with never-ending grief,</l>
+            <l n="20"> Unwonted slumber brought its kind relief;</l>
+            <l> Fair to my morbid fancy was display’d</l>
+            <l> The form of thee, all sweetly pensive laid</l>
+            <l> Within a frowning husband’s eager arms;</l>
+            <l> The undeserving master of thy charms.</l>
+            <l n="25"> Amaz’d I stood, and fix’d on both my eyes;</l>
+            <l> And thou, as eager gaz’d in strong surprize;</l>
+            <l> Attempting oft, methought, my sight to shun,</l>
+            <l> Too conscious of the wrong that thou hadst done.</l>
+            <l> Not many days elaps’d, when, oh dire tale!</l>
+            <l n="30"> These heavy accents did my ears assail;</l>
+            <l> That thou, to one thou ever didst despise,</l>
+            <l> For wealth had yielded up thyeslf a prize!</l>
+         </lg>
+         <lg type="stanza">
+            <l rend="indent"> If thou, Fidelia, ever felt for me</l>
+            <l> The tender flame I’ve cherish’d still for thee,</l>
+            <l n="35"> Then mayst thou know what passions tore my breast,</l>
+            <l> When these unwelcome tidings were express’d:</l>
+            <l> ’Twixt love and rage the dire contention hung,</l>
+            <l> Strength left my limbs, and speech forsook my tongue;</l>
+            <l> My soul with anguish torn—resentment gone,</l>
+            <l n="40"> I find relief in sorrow’s drops alone.</l>
+         </lg>
+         <lg type="stanza">
+            <l rend="indent"> Of all the woes that wretched man befal,</l>
+            <l> Sure, disappointment is the worst of all!</l>
+            <l> Time’s lenient hand may other griefs remove,</l>
+            <l> But never cure the wounds of hopeless love.</l>
+            <l n="45"> Not all that fell ambition e’er ador’d—</l>
+            <l> Not all the wealth that Indian mines afford<emph rend="super">4</emph><note
+                  type="gloss" place="bottom"><emph rend="super">4</emph> Poetic trope for
+                  jewels.</note>—</l>
+            <l> Not all the grandeur of an eastern throne,</l>
+            <l> Could for the loss of thee, dear maid, atone.</l>
+         </lg>
+         <lg type="stanza">
+            <l rend="indent"> Where now are all the prospects fancy drew,</l>
+            <l n="50"> When smiling hope on wings seraphic flew?</l>
+            <l> The hours of transport, years of true delight,</l>
+            <l> The joyous day and more enchanting night,</l>
+            <l> That should my triumph and my wishes crown,</l>
+            <l> When I could call Fidelia all my own?</l>
+            <l n="55"> Our time in mutual transport to employ,</l>
+            <l> And live but to encrease each other’s joy;</l>
+            <l> To chace from thy fair brow the clouds of care,</l>
+            <l> Thy griefs to banish, and thy pleasures share,</l>
+            <l> To see like flow’rs a blooming offspring rise,</l>
+            <l n="60"> The care and comfort of our aged eyes!</l>
+            <l> But ah, vain hope!<emph rend="super">5</emph><note type="gloss" place="bottom"><emph
+                     rend="super">5</emph> “But, ah! vain hope, two deadly foes / The heath’s wild
+                  honours claim” from “Acasto: An Elegiac Pastoral,” <emph rend="italic">The Scots
+                     Magazine</emph>, vol. 37 (March, 1775), p. 153.</note> why didst thou thus
+               betray,</l>
+            <l> Why didst thou lead my simple heart astray?</l>
+            <l> So oft deluded by thy hony’d tongue,</l>
+            <l> No more I’ll listen to thy syren song!</l>
+            <l n="65"> Of ev’ry false delusion hence beware,</l>
+            <l> And fall a willing victim to despair.</l>
+         </lg>
+         <lg type="stanza">
+            <l rend="indent"> Sweet maid, farewel! and all delight adieu!</l>
+            <l> A wretch forlorn life’s journey I’ll pursue;</l>
+            <l> Pleasure in vain her gilded baits shall throw,</l>
+            <l n="70"> To lure me from my lethargy of woe.</l>
+            <l> Bat O! may ev’ry happiness attend</l>
+            <l> My lov’d Fidelia, once my faithful friend!</l>
+            <l> Though fortune and stern fate’s supreme decree</l>
+            <l> Yet reluctantly, hath snatch’d thee from me;</l>
+            <l n="75"> So long as life shall warm this wretched frame,</l>
+            <l> My love shall unimpaird remain the same!</l>
+            <l> And when remembrance shall past scenes renew,</l>
+            <l> And bring departed happiness to view;</l>
+            <l> For thee, alone, the silent tears shall flow,</l>
+            <l n="80"> And joy shall mingle with the drops of woe. </l>
+         </lg>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Autumnal Ode.</title>, in
+                  <title>Poems,</title> (<pubPlace>Dumfries</pubPlace>, <date>1794</date>),
+                  <biblScope unit="page" from="5" to="7">5-7</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head rend="center"><title type="main">Autumnal Ode.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> First published in <emph
+                     rend="italic">Poems</emph> (1794), pp. 5-7.</note></title></head>
+         <lg type="stanza">
+            <l>Now Summer with a languid look,</l>
+            <l>Already hath the plains forsook;</l>
+            <l>And Ceres,<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> Roman goddess of agriculture.</note> with a graver
+               face,</l>
+            <l>Diffuses wealth in ev’ry place.</l>
+            <l n="5">Chearful along the yellow land</l>
+            <l>The farmer views the reaper band;</l>
+            <l>And as he slowly stalks behind,</l>
+            <l>Or stoops the new-cut sheaves to bind,</l>
+            <l>In rustic phrase inspires the crew,</l>
+            <l n="10">The labour jocund to pursue;</l>
+            <l>While ev’ry youth delighted moves,</l>
+            <l>To ease the ruddy maid he loves,</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Whilst thus in ev’ry valley round,</l>
+            <l> Industry’s voice I hear resound,</l>
+            <l n="15">And frequent guns with thund’ring noise,</l>
+            <l>Proclaim the jovial sportsman’s joys;</l>
+            <l>Let me across the glassy brook</l>
+            <l>Extend the line and baited hook,</l>
+            <l>And from their element, the flood,</l>
+            <l n="20">Delude the crimson spotted brood;</l>
+            <l>Or the rude rocky cliff ascend,</l>
+            <l>O’er which the hazel bushes bend,</l>
+            <l>Where nuts embrown’d suspended high,</l>
+            <l>In tempting clusters catch the eye;</l>
+            <l n="25">Or tracing up the hermit rill,</l>
+            <l> Ascend the summit of the hill,</l>
+            <l>Where far around on either side</l>
+            <l>The landscape stretches fair and wide.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Though lovely this autumnal scene,</l>
+            <l n="30"> Of yellow fields and vallies green;</l>
+            <l>The varigated show I find,</l>
+            <l>With melancholy clouds my mind;</l>
+            <l>To me the fading woods display—</l>
+            <l>A prospect of the year’s decay;</l>
+            <l n="35">Where o’er the streams the branches bend,</l>
+            <l>In frequent show’rs the leaves descend,</l>
+            <l>Beauty, dejected yields the plain</l>
+            <l>To sullen winter’s dreary reign</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Then come, my philosophic friend,</l>
+            <l n="40">Thy wise advice and counsel lend;</l>
+            <l>For now the season draws us hence,</l>
+            <l>Where science doth her stores dispense.</l>
+            <l>Say, whether had we best engage,</l>
+            <l>To trace the Poets’ charming page?</l>
+            <l n="45">Or, with sage Plato,<emph rend="super">3</emph><note type="gloss"
+                  place="bottom"><emph rend="super">3</emph> Greek philosopher.</note> seek to
+               scan</l>
+            <l>Whence flows th’ immortal part of man?</l>
+            <l>Or with the mighty Newton soar,<emph rend="super">4</emph><note type="gloss"
+                  place="bottom"><emph rend="super">4</emph> Isaac Newton (1642-1726), leading
+                  eighteenth-century British scientist. </note></l>
+            <l>Thy wonders, Nature, to explore?</l>
+            <l>What e’er the task to which we bend,</l>
+            <l n="50">May virtue all our steps attend,</l>
+            <l>That, when life’s fleeting summer’s gone,</l>
+            <l>The harvest may be all our own.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>

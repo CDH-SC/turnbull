@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>The Vicissitudes of Fortune. A
+                  Poem.</title>, in <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>,
+                  <date>1788</date>), <biblScope unit="page" from="111" to="118"
+               >111-118</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">The Vicissitudes of Fortune. A Poem.<emph
+                  rend="super">1</emph><note type="head" place="bottom"><emph rend="super">1</emph>
+                  First published in <emph rend="italic">Poetical Essays</emph> (1788),
+                  pp. 111-118.</note></title></head>
+         <epigraph rend="center">
+            <l><emph rend="italic">I still had hopes, for pride attends us still,</emph></l>
+            <l><emph rend="italic">Among the swains to show my book-learn’d skill. </emph></l>
+         </epigraph>
+         <bibl rend="center">Goldsmith.<emph rend="super">2</emph><note type="gloss" place="bottom"
+                  ><emph rend="super">2</emph> Oliver Goldsmith, <emph rend="italic">The Deserted
+                  Village</emph> (London: W. Griffin, 1770), p. 6.</note></bibl>
+
+         <lg type="stanza" n="1">
+            <l>Muse, sing the song which Damon<emph rend="super">3</emph><note type="gloss"
+                  place="bottom"><emph rend="super">3</emph> Pastoral name found in Virgil, <emph
+                     rend="italic">Eclogue</emph> 8. Cf. also Milton, “Epitaphium Damonis,” in <emph
+                     rend="italic">Poems</emph> (1645).</note> made,</l>
+            <l>As once he sat beneath the shade;</l>
+            <l>Where, list’ning on the flow’ry ground,</l>
+            <l>His youthful audience sat around. </l>
+         </lg>
+         <lg type="stanza" n="2">
+            <l n="5" rend="indent">He thus begun, Unwilling I,</l>
+            <l>O friends, with your demands comply,</l>
+            <l>For undeserving are the lays,</l>
+            <l>And Poet, you are pleas’d to praise,</l>
+            <l>Whose only skill is to rehearse</l>
+            <l n="10">Some rural tale, in simple verse,</l>
+            <l>Or, in some elegiac strain</l>
+            <l>Of love and wayward fate complain.</l>
+         </lg>
+         <lg type="stanza" n="3">
+            <l rend="indent">No jovial planet, at my birth,</l>
+            <l>Sent its enliv’ning influence forth;</l>
+            <l n="15">No happy constellation shone,</l>
+            <l>But melancholy reign’d alone. </l>
+         </lg>
+         <lg type="stanza" n="4">
+            <l rend="indent">Awhile capricious fortune smil’d,</l>
+            <l>And my deluded hopes beguil’d;</l>
+            <l>In innocence and careless play</l>
+            <l n="20">My years of childhood sped away,</l>
+            <l>Through those delightful golden years</l>
+            <l>I rambl’d with my young compeers;</l>
+            <l>No heart corroding care I knew,</l>
+            <l>No gloomy prospect rose to view,</l>
+            <l n="25">Gay as the kids, at early dawn,</l>
+            <l>I rambl’d o’er the dewy lawn;</l>
+            <l>The mossy bank, and winding rill,</l>
+            <l>Amus’d my youthful fancy still.</l>
+
+         </lg>
+         <lg type="stanza" n="5">
+            <l rend="indent">Short while the coz’ning moments last,</l>
+            <l n="30">And care advances wondrous fast,</l>
+            <l>The golden age too quickly gone,</l>
+            <l>The busy turmoil hastens on,</l>
+            <l>Schemes of importance fill the mind,</l>
+            <l>And wild ambition ill to bind;</l>
+            <l n="35">Pleasure begins to spread her charms,</l>
+            <l>And lure the captives to her arms,</l>
+            <l>While love, with his envenom’d dart,</l>
+            <l>Infuses poison through the heart.</l>
+         </lg>
+         <lg type="stanza" n="6">
+            <l rend="indent">Now future schemes were wisely laid,</l>
+            <l n="40">And learning summon’d to my aid,</l>
+            <l>What bright imaginations grew!</l>
+            <l>What fond ideas rose to view!</l>
+            <l>Ambition’s wild fantastic train,</l>
+            <l>Attendants of the proud and vain.</l>
+            <l n="45">With steady mind the task I bore,</l>
+            <l>Curious her wonders to explore, </l>
+            <l>And, with the youths of equal age,</l>
+            <l>Perus’d her rudimental page.</l>
+         </lg>
+         <lg type="stanza" n="7">
+            <l rend="indent">But ah! how vain are human schemes,<emph rend="super">4</emph><note
+                  type="gloss" place="bottom"><emph rend="super">4</emph> Cf. Robert Burns, “To a
+                  Mouse” in <emph rend="italic">Poems</emph> (1786), lines 36-41.</note></l>
+            <l n="50">Illusive visions, empty dreams,</l>
+            <l>Which when we grasp, our hopes betray’d,</l>
+            <l>We lose the substance for the shade.</l>
+
+         </lg>
+         <lg type="stanza" n="8">
+            <l rend="indent">Now blust’ring storms begin to rise,</l>
+            <l>And low'ring clouds involve the skies,</l>
+            <l n="55">Misfortunes, cruel and unkind,</l>
+            <l>Ferment the storm, and fan the wind,</l>
+            <l>Distress, in various shapes arose,</l>
+            <l>Each thought of pleasure to oppose;</l>
+            <l>Prosperity appear’d no more,</l>
+            <l n="60">To land us on some peaceful shore,</l>
+            <l>False friends, with fortune, took their flight,</l>
+            <l>And quickly vanish’d out of sight;</l>
+            <l>And those who former bounties shar’d,</l>
+            <l> With other miscreants disappear’d;</l>
+            <l n="65">Our native home we all forgo,</l>
+            <l>To wander through a world of wo;</l>
+            <l>A friendless melancholy train,</l>
+            <l>Expos’d to ev’ry fool’s disdain.</l>
+
+         </lg>
+         <lg type="stanza" n="9">
+            <l rend="indent">Now with my friends, their grief I share,</l>
+            <l n="70">And bear an equal load of care:</l>
+            <l>Sometimes I wail my hapless state,</l>
+            <l>And murmur at my adverse fate;</l>
+            <l>Till cheer’d by hope’s enliv’ning ray,</l>
+            <l>I chace the gloomy thoughts away,</l>
+            <l n="75">Trusting that Heaven may yet bestow</l>
+            <l>Some future good, for present wo.</l>
+
+         </lg>
+         <lg type="stanza" n="10">
+            <l rend="indent">Had the mad beldam finish’d here,</l>
+            <l>And stopp’d, in midst of her career,</l>
+            <l>My cares had then appear’d but small,</l>
+            <l n="80">Comparatively none at all;</l>
+            <l>But now, the little God of love,</l>
+            <l>Began my youthful heart to move;</l>
+            <l>Maria’s<emph rend="super">5</emph><note type="gloss" place="bottom"><emph
+                     rend="super">5</emph> Variant of Mary.</note> charms, which all admire,</l>
+            <l>Enflam’d my heart with am’rous fire:</l>
+            <l n="85">At first, unknowing whence it came, </l>
+            <l>I fed the sadly pleasing flame;</l>
+            <l>By backward modesty afraid,</l>
+            <l>I view’d, with awe, the lovely maid,</l>
+            <l>And, conscious of her pow’r alone,</l>
+            <l n="90">In secret made my am’rous moan:</l>
+            <l>Far from the cheerful haunts of man</l>
+            <l>To gloomy woods and wilds I ran,</l>
+            <l>No mirth could ease my aching heart;</l>
+            <l>No friendly counsel aid impart;</l>
+            <l n="95">To all, the fatal cause unknown,</l>
+            <l>I burn’d in secret, burn’d alone;</l>
+            <l>Sometimes I’d praise, sometimes upbraid,</l>
+            <l>The innocent tormenting maid.</l>
+         </lg>
+         <lg type="stanza" n="11">
+            <l rend="indent">Driv’n, by my passion, to divert,</l>
+            <l n="100">Or paint the anguish of my heart,</l>
+            <l>I woo’d the Muses, in the shade,</l>
+            <l>To celebrate the charming maid:</l>
+            <l>Neglecting all, but love and song,</l>
+            <l>I pass’d the tardy hours along;</l>
+            <l n="105">Till (ah who can the tale relate)</l>
+            <l>Approach’d the saddest stroke of fate!</l>
+            <l>When what, on earth, I valu’d most</l>
+            <l>Was irrecoverably lost,</l>
+            <l>A gaudy empty son of pride</l>
+            <l n="110">Made the illustrious nymph a bride.</l>
+         </lg>
+         <lg type="stanza" n="12">
+            <l rend="indent">When the unwelcome news I heard,</l>
+            <l>Th’ unwelcome news, which long I fear’d,</l>
+            <l>Dumb with despair, I stood amaz’d,</l>
+            <l>And like some listless image gaz’d;</l>
+            <l n="115">Pale and forlorn, I sought the shade,</l>
+            <l>To mourn the dear enchanting maid:</l>
+            <l>Till tir’d with grief my spirits gone,</l>
+            <l>Bright Reason reassum’d the throne:</l>
+            <l>“Be wise (she cry'd) and stop your grief,</l>
+            <l n="120">And seek, from nobler aims, relief:</l>
+            <l>How many youths, by love undone,</l>
+            <l>And folly, to perdition run!</l>
+            <l>Turn, mournful youth, O turn in time,</l>
+            <l>Ere grief involve you in a crime;</l>
+            <l n="125">Go, pay thy vows at Honour’s shrine,</l>
+            <l>And make that best ambition thine;</l>
+            <l>Go, instant, and enrol your name,</l>
+            <l>A daring candidate for Fame.”</l>
+         </lg>
+         <lg type="stanza" n="13">
+            <l rend="indent">Straight to the Goddess I repair,</l>
+            <l n="130">And bend an humble suppliant there;</l>
+            <l>And view the stately column rear’d,</l>
+            <l>Where laurel’d names enroll’d appear’d;<emph rend="super">6</emph><note type="gloss"
+                  place="bottom"><emph rend="super">6</emph> Sacred to Apollo, laurel sprigs were
+                  fashioned into a crown to honor poets and heroes.</note></l>
+            <l>The spoils of learning I explore,</l>
+            <l>And turn each sapient volume<emph rend="super">7</emph><note type="gloss"
+                  place="bottom"><emph rend="super">7</emph> “Enrag’d the rustic rout, with foul
+                  despight, / From Palinode the sapient volume tore,” from a short Spenserian poem
+                  in praise of Spenser in “To the Editor: Remarks on the Opinion of Dr. Johnson
+                  concerning the Imitation of Spenser,” <emph rend="italic">Edinburgh Magazine or
+                     Literary Miscellany</emph>, VI (August, 1787), p. 50. Cf. also Turnbull, “Elegy
+                  I,” line 20 in <emph rend="italic">Poetical Essays</emph> (1788), “Elegy,” line 16
+                  in <emph rend="italic">Columbian Herald and New Daily Advertiser</emph>
+                  [Charleston, SC] (March 25, 1796), and “Epilogue,” line 11, in the same (April 1,
+                  1796).</note> o’er;</l>
+            <l n="135">Fir’d with old Homer’s Epic page,</l>
+            <l>I burn with his heroic rage.</l>
+            <l>Charm’d with the skilful Mantuan Bard,<emph rend="super">8</emph><note type="gloss"
+                  place="bottom"><emph rend="super">8</emph> Virgil, a native of Mantua,
+                  Italy.</note></l>
+            <l>I read with rev’rence and regard;</l>
+            <l>And Ovid never fails to move</l>
+            <l n="140">My heart, and wake my dormant love;</l>
+            <l>Taught by sweet Thomson how to sing,</l>
+            <l>I celebrate the blooming spring,<emph rend="super">9</emph><note type="gloss"
+                  place="bottom"><emph rend="super">9</emph> Later published as part of James
+                  Thomson’s popular poet cycle, <emph rend="italic">The Seasons</emph> (1730), <emph
+                     rend="italic">Spring</emph> was first released in 1728.</note></l>
+            <l>The charms by varying seasons yield,</l>
+            <l>And all the beauties of the field;</l>
+            <l n="145">But, charming Shenstone,<emph rend="super">10</emph><note type="gloss"
+                  place="bottom"><emph rend="super">10</emph> Chiefly remembered for his Spenserian
+                  imitation, <emph rend="italic">The School-Mistress</emph> (1737), English poet and
+                  Jacobite sympathizer William Shenstone (1714-1763) wrote twenty-six elegies by
+                  1748. See Shenstone, <emph rend="italic">Works in Verse and Prose</emph>, vol.1,
+                  ed. Dodsley (1764-1765).</note> thee I chuse,</l>
+            <l>To guide my unexperienc’d Muse,</l>
+            <l>To sing with elegance and ease,</l>
+            <l>And with simplicity to please. </l>
+         </lg>
+      </body>
+   </text>
+</TEI>

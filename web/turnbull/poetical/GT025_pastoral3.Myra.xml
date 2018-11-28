@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Pastoral III. Myra.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="63" to="70">63-70</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Pastoral III. Myra.<emph rend="super">1, </emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> First published as “Myra”
+                  in <emph rend="italic">Poetical Essays</emph> (1788), 63-70; Part I, stanzas
+                  IV-VII, are reprinted, nearly verbatim, as “Pastoral Ballad,” published in <emph
+                     rend="poems">Poems</emph> (1794), pp. 15-17. Line 41 was revised in 1794 to read
+                  “The beauties that wait on the spring” rather than “The pleasures that wait on the
+                  spring.” “Pastoral Ballad” was subsequently reprinted in <emph rend="italic"
+                     >Columbian Herald and New Daily Advertiser</emph> [Charleston, SC] (March 10,
+                  1796). As David Radcliffe notes, “Myra” is modeled after William Shenstone’s “A
+                  Pastoral Ballad, in four Parts,” first published in <emph rend="italic">The London
+                     Magazine</emph> (1743) (<emph rend="italic">Spenser and the Tradition</emph>).
+                  </note><emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> The name Myra was first used by seventeenth-century poet, Fulke Greville,
+                  Lord Brooke (1554-1628); see “Sonnet XXII,” in <emph rend="italic">Cælica</emph>
+                  (c.1577). Cf. also David Mallet, “To Mira, from the Country,” in <emph
+                     rend="italic">Miscellaneous Poems and Translations</emph> Vol. 1 (1726), pp.
+                  306-308, and Alexander Pope, <emph rend="italic">Windsor Forest</emph> (1731),
+                  lines 290-296.</note></title></head>
+
+         <div1 type="section">
+            <head rend="center">Part I.</head>
+
+            <div2 type="stanza">
+               <head rend="center">I.</head>
+               <lg>
+                  <l>The forests are mantl’d in green,</l>
+                  <l rend="indent">The hawthorn in blossom looks gay,</l>
+                  <l>The primrose and daisy are seen,</l>
+                  <l rend="indent">And birds carol sweet on the spray.</l>
+                  <l n="5">’Tis now the gay season of love,</l>
+                  <l rend="indent">Soft raptures inspire ev’ry heart;</l>
+                  <l>Come, Myra, retire to the grove,</l>
+                  <l rend="indent">While I my fond passion impart. </l>
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center">II.</head>
+               <lg>
+                  <l>You say, that you doubt if I love;</l>
+                  <l n="10" rend="indent">From whence can such fancies arise;</l>
+                  <l> If words are too languid to prove,</l>
+                  <l rend="indent">’Tis seen in the glance of mine eyes.</l>
+                  <l>Believe me, thou charmer divine,</l>
+                  <l rend="indent">Those vallies can witness my pain;</l>
+                  <l n="15">The streams join their murmurs with mine,</l>
+                  <l rend="indent">And the echoes have learn’d to complain.</l>
+
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center">III.</head>
+               <lg>
+                  <l>I’m young, and too simple to lie,</l>
+                  <l rend="indent">To call thee a goddess or queen;</l>
+                  <l>My flame is reveal’d in that sigh,</l>
+                  <l n="20" rend="indent">My blushes explain what I mean.</l>
+                  <l>My passion’s so mild and sincere,</l>
+                  <l rend="indent">And chaste, as the innocent dove;</l>
+                  <l>I call thee not false nor severe,</l>
+                  <l rend="indent">’Tis sure the completest of love.</l>
+
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center">IV.</head>
+               <lg>
+                  <l n="25">I walk by the whispering grove,</l>
+                  <l rend="indent">Where the zephyrs sound soft thro’ the spray,</l>
+                  <l>I mourn, with the amorous dove;</l>
+                  <l rend="indent">And join the sweet nightingale’s lay,</l>
+                  <l>Those sounds are so mournfully sweet,</l>
+                  <l n="30" rend="indent">That mirth seems unpleasant to me;</l>
+                  <l>I’d leave the fond thought with regret,</l>
+                  <l rend="indent">Of indulging a passion for thee. </l>
+
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center">V.</head>
+               <lg>
+                  <l>I lie by the verge of the stream,</l>
+                  <l rend="indent">Whose murmurs oft lull me to rest;</l>
+                  <l n="35">I court the kind flattering dream,</l>
+                  <l rend="indent">To lay me supine on thy breast;</l>
+                  <l>I wake, and I fold thee in vain,</l>
+                  <l rend="indent">The shade is too subtile to keep;</l>
+                  <l>I foolishly dote on my pain,</l>
+                  <l n="40" rend="indent">And find it a pleasure to weep. </l>
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center">VI.</head>
+               <lg>
+                  <l>The pleasures that wait on the spring,</l>
+                  <l rend="indent">The flow’rs and the fair budding tree,</l>
+                  <l>The joys that the summer can bring,</l>
+                  <l rend="indent">Are tasteless when absent from thee;</l>
+                  <l n="45">The warblers, that sing from the grove,</l>
+                  <l rend="indent">In vain do their melody flow,</l>
+                  <l>But when, with the maid that I love,</l>
+                  <l rend="indent">’Tis enchantment wherever I go. </l>
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center">VII.</head>
+               <lg>
+                  <l>I covet not jewels and gold,</l>
+                  <l n="50" rend="indent">The rich I unenvy’d can see,</l>
+                  <l>No treasure on earth I behold,</l>
+                  <l rend="indent">No jewel so precious as thee;</l>
+                  <l>With me, to my cottage retire,</l>
+                  <l rend="indent">Unburthen’d with treasure and wealth;</l>
+                  <l n="55">Let love all our pleasures inspire,</l>
+                  <l rend="indent">And live in contentment and health. </l>
+               </lg>
+            </div2>
+         </div1>
+         <div1 type="section">
+            <head rend="center">Part II.</head>
+
+            <div2 type="stanza">
+               <head rend="center">I.</head>
+               <lg>
+                  <l>Why heaves my fond heart with a sigh?</l>
+                  <l rend="indent">Why wander so pensive alone?</l>
+                  <l>I ask, and the echoes reply,</l>
+                  <l rend="indent" n="60">’Cause shepherd, thy charmer is gone,</l>
+                  <l>Outo’er yon green mountain she flies,</l>
+                  <l rend="indent">Ah cruel! no more to return,</l>
+                  <l>Another, possess’d of the prize,</l>
+                  <l rend="indent">She leaves thee poor shepherd to mourn.</l>
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center">II.</head>
+               <lg>
+                  <l n="65">I urg’d my request to the fair,</l>
+                  <l rend="indent">Who listen’d awhile to my tale;</l>
+                  <l>She sigh’d, with a languishing air,</l>
+                  <l rend="indent">And I thought my fond suit would prevail.</l>
+                  <l>Poor shepherd, thy transport refrain,</l>
+                  <l n="70" rend="indent">Unhappy thou ever shalt be,</l>
+                  <l>She sighs for a gentle young swain,</l>
+                  <l rend="indent">And despises thy sheep-hook and thee. </l>
+
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center">III.</head>
+               <lg>
+                  <l>Young Calledon<emph rend="super">3</emph><note type="gloss" place="bottom"
+                           ><emph rend="super">3</emph> Perhaps, Caledon (a pseudo-Greek
+                        backformation from Latin Caledonia, Scotland, i.e. a representative Scotsman
+                        of Greek-godlike appearance.) Caledon is regularly used in the eighteenth
+                        century, including by Burns. Cf. "Fragment: When Guilford Good," line 69,
+                        first published in 1787. </note> came to the plain,</l>
+                  <l rend="indent">He look’d like a person divine,</l>
+                  <l n="75">Was honour’d by every swain,</l>
+                  <l rend="indent">Each tongue spoke his praises but mine;</l>
+                  <l>For Myra his beauty admir’d,</l>
+                  <l rend="indent">A glance the fond virgin had won,</l>
+                  <l>With him from the plain she retir’d, </l>
+                  <l n="80" rend="indent">She lov'd him and I am undone.</l>
+
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center">IV.</head>
+               <lg>
+                  <l>My wandering sheep I forsook,</l>
+                  <l rend="indent">Regardless of ought that was mine;</l>
+                  <l>I lost both my pipe and my crook,</l>
+                  <l rend="indent">While my friends at my folly repine:</l>
+                  <l n="85">My roses neglected grew pale,</l>
+                  <l rend="indent">And my bee-hives all empty were found;</l>
+                  <l>Pale poverty haunted the vale,</l>
+                  <l rend="indent">Where pleasure and wealth did abound.</l>
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center">V.</head>
+               <lg>
+                  <l>Ye swains, who beheld me of late</l>
+                  <l n="90" rend="indent">With envy, and thought me so bless’d;</l>
+                  <l>See how, by the turn of hard fate,</l>
+                  <l rend="indent">I’m rob’d of the joy I possess’d.</l>
+                  <l>Have pity, nor cruelly boast,</l>
+                  <l rend="indent">And triumph to hear my sad moan;</l>
+                  <l n="95">But think the fair charmer I’ve lost</l>
+                  <l rend="indent">Gives exquisite torment alone. </l>
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center">VI.</head>
+               <lg>
+                  <l>Ye gales, on your pinions so light,</l>
+                  <l rend="indent">O waft to her ear the sad strain:</l>
+                  <l>O tell her my pitiful plight,</l>
+                  <l n="100" rend="indent">And bid her return to her swain,</l>
+                  <l>If yet soft compassion does dwell</l>
+                  <l rend="indent">In her bosom, its mansion before,</l>
+                  <l>She’ll cruelty, break thy curs’d spell,</l>
+                  <l rend="indent">And bless her kind shepherd once more.</l>
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center">VII.</head>
+               <lg>
+                  <l n="105">Cease, Corydon,<emph rend="super">4</emph><note type="gloss"
+                        place="bottom"><emph rend="super">4</emph> Pastoral shepherd, generally
+                        characterized as ineffectual in love, first appearing in Theocritus, <emph
+                           rend="italic">Idylls</emph> 4 and 5. Corydon subsequently appears in,
+                        among others, Virgil’s <emph rend="italic">Eclogue</emph> 2; Juvenal 9.102;
+                        Petrarch, <emph rend="italic">Eclogue</emph> 6.144; Sidney, <emph
+                           rend="italic">Arcadia</emph> (1593); and Milton, <emph rend="italic"
+                           >L’Allegro</emph> 83. For a comprehensive list see Alastair Fowler, <emph
+                           rend="italic">Literary Names</emph> (Oxford: Oxford UP, 2012), p. 48
+                        n.16.</note> cease the fond strain,</l>
+                  <l rend="indent">Ah what will thy sorrow avail!</l>
+                  <l>Thy sighs and thy tears are in vain,</l>
+                  <l rend="indent">Thy numbers are lost in the gale;</l>
+                  <l>Yet still will I wander and mourn,</l>
+                  <l n="110" rend="indent">Though nought but the echoes reply;</l>
+                  <l>For Myra no more will return,</l>
+                  <l rend="indent">Then, mourn, hapless shepherd, and die. </l>
+               </lg>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Elegy V.</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope
+                  unit="page" from="16" to="19">16-19</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Elegy V.<emph rend="super">1</emph><note type="head"
+                  place="bottom"><emph rend="super">1</emph> First published in <emph rend="italic"
+                     >Poetical Essays</emph> (1788), pp. 16-19.</note></title></head>
+
+
+         <epigraph rend="center">
+            <l><emph rend="italic">Or find some ruin ’midst its dreary dells, </emph></l>
+            <l><emph rend="italic"> Whole walls, more awful, nod </emph>
+            </l>
+            <l><emph rend="italic">By thy religious gleams.</emph></l>
+            <bibl>Collins’ Ode to Evening<emph rend="super">2</emph><note type="gloss"
+                  place="bottom"><emph rend="super">2</emph> William Collins, “Ode to Evening,” in
+               <emph rend="italic">Odes on Several Descriptive and Allegorical Subjects</emph> (1747), pp. 36-38.</note></bibl>
+         </epigraph>
+         <div1 type="stanza" n="1">
+            <head rend="center">I.</head>
+            <lg>
+               <l>One night, by lonely contemplation led,</l>
+               <l rend="indent">Pensive I wander’d through a gloomy wood,</l>
+               <l>Where thick embow’r’d amid the leafy shade,</l>
+               <l rend="indent">The ruins of an antient dwelling stood.</l>
+            </lg>
+
+         </div1>
+         <div1 type="stanza" n="2">
+            <head rend="center">II.</head>
+
+            <lg>
+               <l n="5"> Fall’n was the roof, the chimney tops o’erthrown,</l>
+               <l rend="indent">The naked walls expos’d to ev’ry blast,</l>
+               <l>Green mossy fog o’erspread the mould’ring stone,</l>
+               <l rend="indent">And all around look’d desolate and waste.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="3">
+            <head rend="center">III.</head>
+
+            <lg>
+               <l>Now ’rose the moon and shed her silver light,</l>
+               <l n="10" rend="indent">And thro’ the dreary way my wand’ring cheer’d,</l>
+               <l>The tott’ring ruin’s rude impending height</l>
+               <l rend="indent">Along the ground an antique shade appear’d.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="4">
+            <head rend="center">IV.</head>
+
+            <lg>
+               <l>Could fancy paint, or fab’lous story tell,</l>
+               <l rend="indent">Or superstitious legend’ry describe</l>
+               <l n="15">A place so fit for sullen ghosts to dwell,</l>
+               <l rend="indent">Or nightly revels of the fairy tribe?</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="5">
+            <head rend="center">V.</head>
+
+            <lg>
+               <l>The mournful owl, that shuns the cheerful day,</l>
+               <l rend="indent">Now wail’d assiduous from her ivy’d tow’rs;</l>
+               <l>Yet pensive thoughtfulness too apt to stray,</l>
+               <l n="20" rend="indent">Urg’d me to trace those melancholy bow’rs.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="6">
+            <head rend="center">VI.</head>
+
+            <lg>
+               <l>What feeling heart, to soft compassion prone,</l>
+               <l rend="indent">Can view, without a tear or heaving sigh,</l>
+               <l>A stately dome its antient grandeur gone;</l>
+               <l rend="indent">And all its pomp an heap of ruin lie?</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="7">
+            <head rend="center">VII.</head>
+
+            <lg>
+               <l n="25">Here, once perhaps, with wealth and plenty crown’d,</l>
+               <l rend="indent"> Some noble Lord possess’d those ample walls,</l>
+               <l> With all his smiling family around,</l>
+               <l rend="indent">And peace the guardian of his spacious halls.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="8">
+            <head rend="center">VIII.</head>
+
+            <lg>
+               <l>But ah, what sad vicissitudes, what change</l>
+               <l n="30" rend="indent"> Of adverse fortune has its owners known;</l>
+               <l>Perhaps some lawless villain’s stern revenge,</l>
+               <l rend="indent">Perhaps by unrelenting foes, o’erthrown.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="9">
+            <head rend="center">IX.</head>
+
+            <lg>
+               <l>Alas! how vain are earthly pomp and state,</l>
+               <l rend="indent">And what the blessing riches can bestow,</l>
+               <l n="35">Ev’n all the dear-bought pleasure of the great,</l>
+               <l rend="indent">Is but a scene that terminates in wo.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="10">
+            <head rend="center">X.</head>
+
+            <lg>
+               <l>The pamper’d Lord, with supercilious brow,</l>
+               <l rend="indent"> Whom flatt’ry courts, and cringing slaves obey,</l>
+               <l> Beneath affliction’s chast’ning rod must bow,</l>
+               <l n="40" rend="indent">And fall to tyrant misery a prey. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="11">
+            <head rend="center">XI</head>
+
+            <lg>
+               <l>By you, who live in humble life retir’d,</l>
+               <l rend="indent">Who toil obsequious to industry’s call,</l>
+               <l>Be not the tinsel of the great admir’d,</l>
+               <l rend="indent"> Nor all the splendour of the lordly hall.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="12">
+            <head rend="center">XII.</head>
+
+            <lg>
+               <l n="45">I’ll seek contentment, in her humble cell,</l>
+               <l rend="indent">And woo the Muses, in my calm retreat;</l>
+               <l>The smiles of fortune, and her frowns repel,</l>
+               <l rend="indent">And scorn the flatt’ring follies of the great. </l>
+            </lg>
+         </div1>
+
+      </body>
+   </text>
+</TEI>

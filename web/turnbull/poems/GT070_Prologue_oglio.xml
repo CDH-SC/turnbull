@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Prologue to an Oglio.</title>, in
+                  <title>Poems,</title> (<pubPlace>Dumfries</pubPlace>, <date>1794</date>),
+                  <biblScope unit="page" from="34" to="36">34-36</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Prologue to an Oglio.<emph rend="super">1,
+                  </emph><note type="head" place="bottom"><emph rend="super">1</emph>First
+                  published in <emph rend="italic">Poems</emph> (1794), pp. 34-36.</note><emph rend="super">2</emph><note
+                  type="gloss" place="bottom"><emph rend="super">2</emph> Variant of olio; a musical
+                  medley.</note>
+            </title></head>
+
+         <lg type="stanza">
+            <l> Let others tell of Greece and ancient Rome,</l>
+            <l>Where learning sleeps beneath the mould’ring tomb;</l>
+            <l>Or wander in the fam’d aonian<emph rend="super">3</emph><note type="gloss"
+                  place="bottom"><emph rend="super">3</emph> Poetic term relating to Boeotia,
+                  especially Mt. Helicon, home of the Muses. </note> shades,</l>
+            <l>To hear the harps of the Harmonious Maids:—</l>
+            <l n="5">Those seats, so favour’d by the Nine of yore,<emph rend="super">4</emph><note
+                  type="gloss" place="bottom"><emph rend="super">4</emph> The nine Muses. Cf. Thomas
+                  Warton: “To hold short dalliance with the tuneful Nine” (Warton, <emph
+                     rend="italic">Triumph of Isis</emph> ([749], lines 97-98); and Robert Burns:
+                  “there are such who court the tuneful nine—,” "To Robert Graham of Fintry, Esqr,
+                  with a Request for an Excise Division," line 75 (sent to Graham September 10,
+                  1788, first published in Currie, 1800; Kinsley, I: 427; III: 1279). </note></l>
+            <l>Can boast their sacred influence no more:</l>
+            <l>No chearful numbers glad, or hill, or plain,</l>
+            <l> Where Tyranny and dire oppression reign.</l>
+            <l>But, bless’d Britannia! thine’s the favour’d seat,</l>
+            <l n="10">To which the tuneful sisters all retreat.</l>
+            <l>They lov’d thy clime, they lov’d thy happy ground,</l>
+            <l>And on thy plains a safe asylum found;</l>
+            <l>Where heav’n-born Liberty’s auspicious smile</l>
+            <l>Makes arts to flourish through the far fam’d Isle!</l>
+         </lg>
+
+         <lg type="stanza">
+            <l n="15" rend="indent">Not to the cells where hoary seers retire,</l>
+            <l>Nor where the academic tow’rs aspire,</l>
+            <l>Not only to the opulent and gay</l>
+            <l>Doth Science her unbounded stores display:</l>
+            <l>But like a garden, to its utmost bound,</l>
+            <l n="20">Fair flow’rs of learning ev’ry where are found.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">What tongue can speak, or pen can e’er describe</l>
+            <l>The matchless merits of thy tuneful tribe!</l>
+            <l>Where genius, with politest arts combin’d,</l>
+            <l>Soften, delight, and elevate the mind.</l>
+            <l n="25">Such universal lessons they afford,</l>
+            <l> The humble peasant emulates his lord;</l>
+            <l>Such boundless knowledge through Britannia reigns,</l>
+            <l>A philosophic school each lowly roof contains.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Since such the character of British wit,</l>
+            <l n="30">A British audience sure is fully fit</l>
+            <l>The works of genius justly to approve,</l>
+            <l>To feel where satire stings, or the soft passions move.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Permit us then, those beauties to explore,</l>
+            <l>And cull from out the unexausted store,</l>
+            <l n="35">Such precious relicts of each gentle muse,</l>
+            <l>As candour, sense, and elegance would chuse;</l>
+            <l>And, with submission to superior taste,</l>
+            <l>Offer a sweet poetical repast. </l>
+         </lg>
+
+
+      </body>
+   </text>
+</TEI>

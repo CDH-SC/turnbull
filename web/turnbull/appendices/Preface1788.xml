@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Preface</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div>
+            <head><title>Preface.<emph rend="super">1</emph><note type="head" place="bottom"><emph
+                        rend="super">1</emph> Printed in <emph rend="italic">Poetical Essays</emph>
+                     (1788), pp. iii-iv.</note></title></head>
+            <p>When an Author is conscious of superior talents, and his writings have already
+               merited general approbation, he may step boldly forward; and, without apology, claim
+               the public attention to his works: but, when one, unknown and unfriended, who can lay
+               no claim to superiority of talents, nor the public prepossession in his favour,
+               ventures to appear before their tribunal, he has every reason rather to court their
+               candour, and indulgence, than to challenge their censure, or to brave their
+               criticism.</p>
+            <p> The Author of the following Essays, deprived, early in life, by unforeseen
+               misfortunes, of the means of pursuing that liberal plan of education he once had a
+               prospect of, has not the vanity to imagine they have either that degree of novelty of
+               invention, or correctness of versification which will stand the test of rigid
+                  criticism;<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> Born in Berwickshire to a dyer, Turnbull left school
+                  young, working as a carpet-weaver in Kilmarnock before establishing himself as a
+                  poet. See Thomas Crichton, “Biographical Sketches of Alexander Wilson,” in <emph
+                     rend="italic">The Weaver</emph> [Paisley], 2 (1819); extract reprinted in
+                  Paterson, <emph rend="italic">The Contemporaries of Burns</emph> (Edinburgh: Hugh
+                  Paton, etc., 1840), pp. 23-24; and Scott, "Introduction" in <emph rend="italic">A Bard
+                     Unkend</emph> (Columbia: Scottish Poetry Reprints, 2015), pp. 5-7. Turnbull makes a
+                  similar complaint in the preface to <emph rend="italic">Poems</emph>
+                  (1794).</note> the truth is, that their present appearance has been less owing to
+               choice than the solicitation of friendship,<emph rend="super">3</emph><note
+                  type="gloss" place="bottom"><emph rend="super">3</emph> Turnbull knew Burns as
+                  well as those in Burns’s literary circle, such as David Sillar, from his
+                  Kilmarnock days. In addition to encouraging Turnbull, Burns sold at least six
+                  subscriptions of <emph rend="italic">Poetical Essays</emph> on Turnbull’s behalf; in a May 1789 letter, Burns
+                  enquires about Turnbull's whereabouts so that he could forward him the money. See
+                  G. Ross Roy, <emph rend="italic">Letters of Burns</emph> 2nd ed., vol. 1 (Oxford:
+                  Clarendon Press, 1985), pp. 399, 413-414; Paterson, <emph
+                     rend="italic">The Contemporaries of Burns</emph> (Edinburgh: Hugh Paton, etc.,
+                  1840), pp. 92-112; and Scott, “Whatever Happened to Gavin Turnbull” (<emph
+                     rend="italic">Robert Burns Lives!</emph>.159 [2012]) as well as <emph
+                     rend="italic">A Bard Unkend</emph> (Columbia: Scottish Poetry Reprints, 2015), p. 8.</note>
+               ever ready to overlook those faults which will be easily perceived, where the same
+               partiality is wanting.</p>
+            <p> A number of the Poems in this volume are of the Elegiac, and melancholy kind:
+               whether, from natural complexion, or by too much brooding over the failure of his
+               once better prospects, the Author acknowledges a partiality for this kind of poetry:
+               he has endeavoured to diversify the subjects and the expression; but, after all, the
+               same ideas may too frequently occur; and some unfavourable circumstances in his
+               situation, by hastening the publication, has prevented them from receiving that
+               degree of correction, they would otherwise have obtained.</p>
+            <p> On the whole, he submits these juvenile pieces (wrote merely for his own amusement)
+               to the public inspection, with much diffidence; and with this hope, That if they have
+               any merit worthy of notice, it may in some measure atone for their faults; and,
+               should they receive with favour, this, his first attempt, he may perhaps have it in
+               his power to pursue those studies which may enable him to produce something more
+               worthy of their approbation.</p>
+            <p> To his Subscribers, and in particular those who have interested themselves in his
+               cause, he returns his most grateful acknowledgment, and assures them it is a favour
+               he will always have in remembrance.</p>
+            <dateline>Glasgow, <date when="1788-10-24">Oct. 24, 1788</date>.</dateline>
+         </div>
+      </front>
+
+      <body>
+         <p/>
+      </body>
+
+   </text>
+</TEI>

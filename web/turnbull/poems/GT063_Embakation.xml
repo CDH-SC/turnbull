@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Prologue to a Pantomimical Piece. Called
+                  the Embakation.</title>, in <title>Poems,</title> (<pubPlace>Dumfries</pubPlace>,
+                  <date>1794</date>), <biblScope unit="page" from="8" to="10"
+               >8-10</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><title type="main" rend="center">Prologue to a Pantomimical Piece. Called The
+                  Embakation. Perfromed in the Royal Circus, 1739.<emph rend="super">1</emph><note type="head" place="bottom"><emph
+                     rend="super">1</emph> First published in <emph rend="italic">Poems</emph>
+                  (1794), pp. 8-10. Misprint in title, “Embakation” in the 1794 text, page 8, was
+                  corrected by Turnbull to read “Embarkation” in the 1794 Errata, page 48. The
+                  pantomime for which this appears to be a prologue is not traceable in, e.g., <emph
+                     rend="italic">The London Stage 1660-1800</emph>, or <emph rend="italic">Annals
+                     of the Edinburgh Stage</emph>. The Royal Circus named in the title was likely
+                  the Edinburgh Equestrian Circus, opened in 1790 in Leith Walk, at which burlettas,
+                  pantomimes and equestrian performances were the chief attractions. Alternatively,
+                  it might be the Royal Circus of London, though there is no other evidence of
+                  Turnbull working in London. Renamed the Surrey Theater in 1806, London’s Circus
+                  opened its doors on November 4, 1782 in Blackfriars Road, London and closed in
+                  1824.</note></title></head>
+         
+
+         <lg type="stanza">
+            <l>Since the creation many a mournful scene,</l>
+            <l>And fatal tragedy has acted been;</l>
+            <l>Though oft the warlike states of Rome and Greece</l>
+            <l>Have witness’d many a horrid bloody piece;</l>
+            <l n="5">Though tyrants bled, and slaves by them were free’d,</l>
+            <l>They never equall’d France’s regicide;<emph rend="super">2</emph><note type="gloss"
+                  place="bottom"><emph rend="super">2</emph> The Jacobin Maximilian Robespierre
+                  (1758-1794) played a major role when the French National Convention voted in
+                  January 1793 to execute Louis XVI, and he subsequently led the Committee of Public
+                  Safety in its Reign of Terror of 1793-1794. He was himself guillotined without
+                  trial on July 28, 1794. </note></l>
+            <l>An act which men unborn shall trembling hear,</l>
+            <l>And draw from hardest hearts soft pity’s tear!</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Though war we dread, who can unpleas’d survey</l>
+            <l n="10">All Europe rushing forward to the fray?</l>
+            <l>To meet the hell-inspired murd’ring train,</l>
+            <l>And offer sacrifices to the slain;</l>
+            <l>To plunge in Gallic blood th’ avenging blade,</l>
+            <l>And lay the wrath of Louis’<emph rend="super">3</emph><note type="gloss"
+                  place="bottom"><emph rend="super">3</emph> Louis XVI.</note> injur’d shade.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l n="15" rend="indent">Britannia’s Genius, to whose hand is given</l>
+            <l>The first and noblest attributes of heav’n;</l>
+            <l>Justice and Mercy, calls her sons to arms,</l>
+            <l>To arbitrate, and rectify those harms.</l>
+            <l>Rous’d by the trumpet and the warlike drum,</l>
+            <l n="20"> Spontaneous at the call her heroes come:</l>
+            <l> The sprightly youths, whose downy chins presage</l>
+            <l>Their forward courage riper than their age,</l>
+            <l>Renounce their weeping mother’s tender care,</l>
+            <l>Eager the glories of the cause to share;</l>
+            <l n="25">The brawny peasant leaves his plow and spade,</l>
+            <l>And quits his labour for a nobler trade;</l>
+            <l>The smart mechanic throws his tools aside,</l>
+            <l>And bears the musket with becoming pride;</l>
+            <l>Whist, those whose fortunes more indulgent breed</l>
+            <l n="30">In ease and elegance, our numbers lead.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Fair dawns the day, auspicious are the gales,</l>
+            <l>The hardy seamen hoist the swelling sails;</l>
+            <l>And thousands crowd on Belgia’s<emph rend="super">4</emph><note type="gloss"
+                  place="bottom"><emph rend="super">4</emph> Dutch, for Belgium; in February 1793,
+                  the Duke of York, accompanied by 1500 troops, was sent to the Netherlands with the
+                  aim of driving out the French and marching on Paris.</note> level strand</l>
+            <l>To see the flow’r of Britain’s army land;</l>
+            <l n="35"> Rejoicing that their foes<emph rend="super">5</emph><note type="gloss"
+                  place="bottom"><emph rend="super">5</emph> The French Republic.</note> shall
+               quickly yield</l>
+            <l> When York’s brave Duke<emph rend="super">6</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">6</emph> Prince Frederick (1763-1827), second son of King
+                  George III.</note> advances to the field.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">The Muse anticipates the happy times,</l>
+            <l>When France shall with aborrence view her crimes;</l>
+            <l>When Peace and Reason shall resume their reign,</l>
+            <l n="40">And Liberty an equal right maintain;</l>
+            <l>When Justice shall avenge a Monarch’s wrongs,</l>
+            <l>And teach the duty that to Kings belongs!</l>
+         </lg>
+      </body>
+   </text>
+</TEI>

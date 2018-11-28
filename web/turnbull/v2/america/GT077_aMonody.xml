@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>"Monody. Malvina for Oscar."</title>
+               <title><emph rend="italic">Columbian Herald and New Daily Advertiser</emph></title>
+                  (<pubPlace>Charleston, SC</pubPlace>), <date>March 22, 1796</date></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><title type="main" rend="center">Monody. Malvina for Oscar.<emph rend="super">1,
+                  </emph><note type="head" place="bottom"><emph rend="super">1</emph> First
+                  published in <emph rend="italic">Columbian Herald and New Daily Advertiser</emph>
+                  [Charleston, SC] (March 22, 1796), p. 2. <emph rend="italic">Oscar and Malvina</emph>
+                  (1791), a popular ballet-melodrama loosely adapted from MacPherson’s <emph
+                     rend="italic">Ossian</emph> by William Reeve, had been successfully staged at
+                  the Theatre Royal, Covent Garden, London in 1792. It was performed in the Dumfries
+                  Theatre in November 1793, as described in Burns's poem "Esopus to Maria" (Kinsley
+                  II: 769-771). When Turnbull and a troop of Dumfries actors performed the play in
+                  Whitehaven in March 1794, the Earl of Lonsdale had them arrested for vagrancy, as
+                  also described in the same Burns poem. Later it was regularly acted by the
+                  Charleston theatre company; Turnbull appeared in it as Fingal in his first
+                  Charleston season, and it was still being staged there in 1807 (<emph
+                     rend="italic">Charleston Courier</emph>, Charleston, SC, April 3, 1807).
+                  </note><emph rend="super">2</emph><note type="gloss" place="bottom"><emph rend="super">2</emph> [GT's note:
+                     <emph rend="italic">See the Poems of Ossian.</emph>] </note></title></head>
+
+         <div1 type="stanza">
+            <head rend="center">I.</head>
+            <lg>
+               <l>Sing, O sing the song of woe,</l>
+               <l rend="indent">Strive not to assuwage my grief;</l>
+               <l>Bid the tears of sorrow flow,</l>
+               <l rend="indent">Tears alone can bring relief.</l>
+               <l n="5">Oscar,<emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                        rend="super">3</emph> Killed by Cairbair, High King of Erin (in Macpherson,
+                     but not in the adaptation), Oscar was Ossian’s son and Malvina’s lover. </note>
+                  bright as April day</l>
+               <l rend="indent">In its fairest hues array’d,</l>
+               <l>Breathless, stretch’d upon the clay,</l>
+               <l rend="indent">Lies full low in yonder glade.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">II.</head>
+            <lg>
+               <l>By the crafty Olla<emph rend="super">4</emph><note type="gloss" place="bottom"
+                        ><emph rend="super">4</emph> Bard who, following Cairbair’s orders, invites
+                     Oscar to the feast at which he was to be killed.</note> led</l>
+               <l rend="indent" n="10">To gloomy Carbiari’s lofty hall,</l>
+               <l>At whose command the feast was spread</l>
+               <l rend="indent">To work my Heroe’s destin’d sail:</l>
+               <l>He fill’d with envy, swoll’n with ire,</l>
+               <l rend="indent">Raging like fierce Lora’s flood,<emph rend="super">5</emph><note
+                     type="gloss" place="bottom"><emph rend="super">5</emph> Of the river Lora,
+                     Macpherson comments “Lora was a small and rapid stream in the neighbourhood of
+                     Selma. There is no vestige of this name now remaining;….one of the small rivers
+                     on the north-west coast was called Lora some centuries ago.” See <emph
+                        rend="italic">The Poems of Ossian</emph> (Edinburgh, 1812), p. 255.
+                  </note></l>
+               <l n="15">Red with rising vengeance dire,</l>
+               <l rend="indent">Quench’d his wrath in Oscar’s blood.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">III.</head>
+            <lg>
+               <l>Fierce the strife when wintry waves,</l>
+               <l rend="indent">White with icy fragments o’er,</l>
+               <l>North’s fell blast impetuous heaves,</l>
+               <l rend="indent" n="20">On Pomona’s shelvy shore;<emph rend="super">6</emph><note
+                     type="gloss" place="bottom"><emph rend="super">6</emph> While Pomona is the
+                     goddess of gardens and fruit trees, this reference is to the largest of the
+                     Orkney islands situated near the north coast of Caithness. For an extended
+                     description see William Guthrie et al., <emph rend="italic">A New Geographical,
+                        Historical and Commercial Grammar</emph> (1774), p. 300.</note></l>
+               <l>But fiercer far when shield to shield</l>
+               <l rend="indent">And arm to arm, the heroes strove;</l>
+               <l>When Carbier gain’d by fraud the field,</l>
+               <l rend="indent">And Death bereft me of my love</l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">IV.</head>
+            <lg>
+               <l n="25">Swift, as shaggy Morven’s<emph rend="super">7</emph><note type="gloss"
+                     place="bottom"><emph rend="super">7</emph> Fingal’s kingdom in Macpherson’s
+                        <emph rend="italic">The Works of Ossian</emph>.</note> roe,</l>
+               <l rend="indent">His steps outstript the mountain wind,</l>
+               <l>His right arm lifted on the foe,</l>
+               <l rend="indent">Like thunder bolts, no pow’r could bind:</l>
+               <l>Yet Mercy, like the turtle mild,</l>
+               <l rend="indent" n="30">Sat beaming in the eagle’s eye,</l>
+               <l>Which ever on the vanquish’d smil’d</l>
+               <l rend="indent">And never bad the captive die.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">V.</head>
+            <lg>
+               <l>By yon valley’s dark blue stream,</l>
+               <l rend="indent">Where bearded thistles wave around,</l>
+               <l n="35">And the red-wing’d meteors gleam,</l>
+               <l rend="indent">In his narrow dwelling found:</l>
+               <l>There in sky-enwoven shrouds,</l>
+               <l rend="indent">Chiefs and bards of other days,</l>
+               <l>Stooping from their fleecy clouds,</l>
+               <l rend="indent" n="40">Sing my youthful warrior’s praise.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">VI.</head>
+            <lg>
+               <l>Virgin’s raise the song of woe—</l>
+               <l rend="indent">Ossian bid thy harp complain—</l>
+               <l>Let the drops of sorrow flow,</l>
+               <l rend="indent">Let them swell the briny main.</l>
+               <l n="45">Oscar fair as morning’s ray,</l>
+               <l rend="indent">In its brightest colours clad,</l>
+               <l>Breathless stretch’d upon the clay,</l>
+               <l rend="indent">Lies full low in yonder glade.</l>
+            </lg>
+         </div1>
+      </body>
+   </text>
+</TEI>

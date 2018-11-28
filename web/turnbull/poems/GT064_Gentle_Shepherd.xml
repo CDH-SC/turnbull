@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Prologue to the Gentle Shepherd.</title>,
+               in <title>Poems,</title> (<pubPlace>Dumfries</pubPlace>, <date>1794</date>),
+                  <biblScope unit="page" from="10" to="12">10-12</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head><title type="main" rend="center">Prologue to <emph rend="italic">The Gentle
+                  Shepherd</emph>.<emph rend="super">1</emph><note type="head" place="bottom"><emph
+                     rend="super">1</emph> First published in <emph rend="italic">Poems</emph>
+                  (1794), pp. 10-12; reprinted in <emph rend="italic">Columbian Herald and New Daily
+                     Advertiser</emph> [Charleston, SC] (March 11, 1796). Allan Ramsay’s pastoral
+                  comedy <emph rend="italic">The Gentle Shepherd</emph> was a staple of late
+                  eighteenth-century Scottish theatre; Turnbull’s prologue was written for the
+                  Dumfries Theatre. While the play was well-known to American readers, it had never
+                  been staged in Charleston before the performance at the City Theatre, on April 30,
+                  1796, “under the Sanction and Patronage of the R.W. Grand Lodge of South Carolina
+                  Ancient York Masons,” when Turnbull played Bauldy and his wife played
+                  Mause.</note></title></head>
+
+         <lg type="stanza">
+            <l>Sirs, I’m a Ghaist!—but dinna fear me,</l>
+            <l>I’m Ramsay’s Ghaist!<emph rend="super">2</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">2</emph> Allan Ramsay (1686-1758), Scottish poet and author
+                  of <emph rend="italic">The Gentle Shepherd</emph>. </note>—ay, now ye’ll hear
+               me;—</l>
+            <l>Frae sweet Elysium’s bonny bow’rs,<emph rend="super">3</emph><note type="gloss"
+                  place="bottom"><emph rend="super">3</emph> In Greek mythology, the dwelling place
+                  of the blessed after death.</note></l>
+            <l>Where Poets pass their blissfu’ hours,</l>
+            <l n="5">I come, and dinna scorn to tell,</l>
+            <l>Only to justify mysel’.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent"> When Death, that camsheugh carl,<emph rend="super">4</emph><note
+                  type="gloss" place="bottom"><emph rend="super">4</emph> Surly, ill-tempered
+                  man.</note> had fell’d me,</l>
+            <l>And first Elysian fouk beheld me,</l>
+            <l>My auld blue bonnet on my head,</l>
+            <l n="10">And hamely Caledonian<emph rend="super">5</emph><note type="gloss"
+                  place="bottom"><emph rend="super">5</emph> Scottish; from Caledonia, Latin for
+                  Scotland.</note> weed;</l>
+            <l>They cry’d, “preserve’s: what’s yon droll body,</l>
+            <l>That gangs just like a niddy noddy?<emph rend="super">6</emph><note type="gloss"
+                  place="bottom"><emph rend="super">6</emph> To nod repeatedly, as when dozing
+                     (<emph rend="italic">DSL</emph>).</note></l>
+            <l>’Tis some bit poor auld Scottish herd”:</l>
+            <l>“Na faith!” quo’ Hermes,<emph rend="super">7</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">7</emph> In Greek mythology, messenger of the Gods as well
+                  as conductor of the dead.</note> “he’s a Bard,</l>
+            <l n="15">Sic as the deel a’ mae ye’ll find,</l>
+            <l>And ane of the Dramatic kind.”</l>
+            <l>Syne he pronounc’d aloud my name,</l>
+            <l>A current passport for my fame.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Then I shook hands wi’ Johny Dryden,<emph rend="super">8</emph><note
+                  type="gloss" place="bottom"><emph rend="super">8</emph> Turnbull recurrently
+                  alludes to John Dryden (1631-1700), English poet and playwright. Cf. “To
+                  Morpheus,” epigraph; “Elegy I,” line 4; “Elegy IX,” line 14; “Elegy X,” line 28;
+                  and, “Pastoral I,” epigraph in <emph rend="italic">Poetical Essays</emph>
+               (1788).</note></l>
+            <l n="20">And twa-three mae, wham much we pride in;</l>
+            <l>As Irish Ben,<emph rend="super">9</emph><note type="gloss" place="bottom"><emph
+                     rend="super">9</emph> [GT's note: <emph rend="italic">Ben Johnston</emph>.]
+                  Scotticized spelling for Ben Jonson (1572-1637), English poet and playwright of
+                  Scottish descent. Turnbull’s footnote is, perhaps, an allusion to Jonson’s <emph
+                     rend="italic">The Irish Masque at Court</emph> (1616).</note>
+            </l>
+            <l>Wha’s, by my saul, a matchless Billy;<emph rend="super">10</emph><note type="gloss"
+                  place="bottom"><emph rend="super">10</emph> [GT's note: <emph rend="italic"
+                     >Shakespear</emph>.] William Shakespeare (1564-1616) was born
+                  in Stratford-upon-Avon, Warwickshire.</note></l>
+            <l>And poor Tam Oatway,<emph rend="super">11</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">11</emph> Thomas Otway (1652-1685), English playwright and
+                  poet.</note> wha’ could blaw</l>
+            <l>The sweetest whistle of them a’!</l>
+            <l n="25">And a’ that had a spunk of grace</l>
+            <l>Gied me kind welcome to the place;</l>
+            <l>But ane, wha look’d as if I stunk,</l>
+            <l>The chiel was either daft or drunk,</l>
+            <l>And though he had but little gumption,</l>
+            <l n="30">’Twas mair than balanc’d by presumption;</l>
+            <l>Said, in a kind of leering way,</l>
+            <l>“Friend! sure ye never read a play;</l>
+            <l>Or if ye had, ’tis plain enough,</l>
+            <l>Ye ne’er could fancy sic damn’d stuff,</l>
+            <l n="35">As Scottish Shepherds’ uncouth rhyms,</l>
+            <l>Could grace the stage and please the times”.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Guidman, quoth I, whate’er’s your name</l>
+            <l>I dinna ken, but never blame</l>
+            <l>Things as far past your comprehension,</l>
+            <l n="40">As is the very Piece ye mention;</l>
+            <l>And though ye may think little o’t,</l>
+            <l>I’ll wager you a sterling groat,</l>
+            <l> Or, what a Poet values mair,</l>
+            <l>This wreath<emph rend="super">12</emph><note type="gloss" place="bottom"><emph
+                     rend="super">12</emph> Crown of laurels fashioned to honor poets and
+                  heroes.</note> that I hae round my hair,</l>
+            <l n="45">Against that wither’d twig of thine,</l>
+            <l> I’ll get applause for ilka line!</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Now, Sirs, I sweat wi’ very fright,</l>
+            <l>Lest ye should hiss my play this night;</l>
+            <l>For Actors are grown sae refin’d,</l>
+            <l n="50">They never speak it to my mind; </l>
+            <l>Sae if the Piece its beauty tine,<emph rend="super">13</emph><note type="gloss"
+                  place="bottom"><emph rend="super">13</emph>
+                  <emph rend="italic">v.</emph> lose.</note></l>
+            <l>Ye canna say the wyte was mine:</l>
+            <l> Yet, O! be sparing for my sake,</l>
+            <l>For if ye hiss, I lose my <emph rend="italic">stake!</emph><emph rend="super"
+                  >14</emph><note type="gloss" place="bottom"><emph rend="super">14</emph> Share of
+                  the play’s proceeds; an actor’s earnings typically included at least one benefit
+                  performance towards the end of a theatrical season, for which he or she chose the
+                  pieces to be performed and shared the profits from the tickets sold.</note>
+            </l>
+         </lg>
+      </body>
+   </text>
+</TEI>

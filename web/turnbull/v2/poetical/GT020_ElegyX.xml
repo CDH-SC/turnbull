@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Elegy X. Winter.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="36" to="39">36-39</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Elegy X. Winter.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> First published in <emph
+                     rend="italic">Poetical Essays</emph> (1788), pp. 36-39.</note></title></head>
+
+
+
+         <epigraph rend="center">
+            <l><emph rend="italic">See winter comes——</emph></l>
+            <l><emph rend="italic">Sullen and sad, with all his rising train,</emph></l>
+            <l><emph rend="italic">Vapours and clouds and storms. </emph></l>
+
+            <bibl>Thomson.<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> James Thomson, <emph rend="italic">Winter. A Poem</emph>
+                  (London: N. Blandford for J Millan, 1726). The completed poem cycle, <emph
+                     rend="italic">The Seasons</emph>, appeared in 1730. The full line reads “See,
+                  Winter comes to rule the varied year, / Sullen and sad, with all his rising
+                  train-- / Vapours, and clouds, and storms. Be these my theme”
+               (ll.1-3).</note></bibl>
+         </epigraph>
+         <div1 type="stanza" n="1">
+            <head rend="center">I.</head>
+            <lg>
+               <l>Thick rolling clouds involve the gloomy sky,<emph rend="super">3</emph><note
+                     type="gloss" place="bottom"><emph rend="super">3</emph> Although no further
+                     connection has been established, this line is suggestively reminiscent of John
+                     Dryden: “Thick clouds of rolling smoke involve the skies” (<emph rend="italic"
+                        >The Aenied</emph>, [London: 1694], VIII.141).</note></l>
+               <l rend="indent">The wind sounds dreary in the leafless shade,</l>
+               <l>The joyless plains in desolation lie,</l>
+               <l rend="indent">And wintry tempests sweep the barren glade.</l>
+            </lg>
+
+         </div1>
+         <div1 type="stanza" n="2">
+            <head rend="center">II.</head>
+
+            <lg>
+               <l n="5">Ah me! how chang’d, how alter’d is the scene,</l>
+               <l rend="indent">Where late the turf in flow’ry pride was crown’d,</l>
+               <l>Decaying nature saddens all the green,</l>
+               <l rend="indent">And with’red herbs and foliage strew the ground. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="3">
+            <head rend="center">III.</head>
+
+            <lg>
+               <l>No shepherd’s pipe, no ’plaining damsel’s voice,</l>
+               <l n="10" rend="indent">No lovelorn nightingale renews her tale;</l>
+               <l>The grottoes echo, with a mournful noise,</l>
+               <l rend="indent">And sound responsive to the wintry gale.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="4">
+            <head rend="center">IV.</head>
+
+            <lg>
+               <l>Quick from the low’ring clouds descends the show’r,</l>
+               <l rend="indent">The swelling streams o’er precipices flow,</l>
+               <l n="15">From clift to clift impetuously they pour,</l>
+               <l rend="indent">And spread a deluge on the plains below.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="5">
+            <head rend="center">V.</head>
+
+            <lg>
+               <l>The lonely shepherd wanders o’er the hill,</l>
+               <l rend="indent">Seeking his shiv’ring flock, from field to field,</l>
+               <l>Or drives them to some muddy gurgling rill,</l>
+               <l n="20" rend="indent">Whose banks an hospitable shelter yield. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="6">
+            <head rend="center">VI.</head>
+
+            <lg>
+               <l>The tim’rous hare limps aukward to her den,</l>
+               <l rend="indent">Nor can the naked fields her wants supply;</l>
+               <l>The doleful plover skims the wat’ry fen,</l>
+               <l rend="indent">And fills the air with many a dreary cry.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="7">
+            <head rend="center">VII.</head>
+
+            <lg>
+               <l n="25">O surly winter, soon thy frigid pow’r</l>
+               <l rend="indent">Has stript the verdure of each spreading tree,</l>
+               <l>Nor in the forest, nor the birchen bow’r,</l>
+               <l rend="indent">Left any shelter for the muse or me.</l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza" n="8">
+            <head rend="center">VIII.</head>
+
+            <lg>
+               <l>Yet let me not at summer’s loss repine,</l>
+               <l n="30" rend="indent">Or eager wish the vernal months to see,</l>
+               <l>While inward heart-felt happiness is mine,</l>
+               <l rend="indent">The season sure has store of charms for me.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="9">
+            <head rend="center">IX.</head>
+
+            <lg>
+               <l>A little house kind fortune still bestows,</l>
+               <l rend="indent">A safe asylum from the tempest’s pow’r,</l>
+               <l n="35">An easy bed for indolent repose,</l>
+               <l rend="indent">And choice of books to pass a vacant hour. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="10">
+            <head rend="center">X.</head>
+
+            <lg>
+               <l>Here let me lie, in rest’s soft arms reclin’d,</l>
+               <l rend="indent">And hear the jarring winds at distance howl,</l>
+               <l>By fancy’s ear to melody refin’d,</l>
+               <l n="40" rend="indent">So sadly pleasing to the pensive soul.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="11">
+            <head rend="center">XI.</head>
+
+            <lg>
+               <l>Come, drousy Morpheus,<emph rend="super">4</emph><note type="gloss" place="bottom"
+                        ><emph rend="super">4</emph> Greek God of dreams.</note> hover round my
+                  bed,</l>
+               <l rend="indent">Shake downy influence from each silken wing,</l>
+               <l>O’er all my senses soft ideas shed,</l>
+               <l rend="indent">And all thy airy pleasing visions bring.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="12">
+            <head rend="center">XII.</head>
+
+            <lg>
+               <l n="45">O waft my fancy, in the midnight hours,</l>
+               <l rend="indent">To where the fairy bands their revels keep,</l>
+               <l>Lead me enraptur’d through elysian bow’rs,</l>
+               <l rend="indent">Where limpid streams in smooth meanders creep.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="13">
+            <head rend="center">XIII.</head>
+
+            <lg>
+               <l>Ye Bards departed, mighty men of song,</l>
+               <l n="50" rend="indent">Awake the harp, each wonted sound recall,</l>
+               <l>With flying fingers sweep the strings along,</l>
+               <l rend="indent">And raise the joy in Cona’s echoing hall.<emph rend="super"
+                     >5</emph><note type="gloss" place="bottom"><emph rend="super">5</emph> An
+                     Ossianic formula: cf. “Etha’s echoing hall” (“Dar-Thula,” in Macpherson, <emph
+                        rend="italic">Poems of Ossian</emph>), “Conmor’s echoing halls” (Macpherson,
+                        <emph rend="italic">Temora</emph>), "Conmor's echoing hall" ("Sul-malla of
+                     Lumon," in Gaskell, <emph rend="italic">The Poems of Ossian and Related
+                        Works</emph>) and "Caruls echoing halls" ("Colna-dona" in Gaskell), etc.,
+                     etc. </note></l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="14">
+            <head rend="center">XIV.</head>
+
+            <lg>
+               <l>Or come Philander,<emph rend="super">6</emph><note type="gloss" place="bottom"
+                        ><emph rend="super">6</emph> Male lover, not perjorative as in modern usage.
+                     [GT's note: See the character of Philander in Elegy II.] </note> from the
+                  silent grave,</l>
+               <l rend="indent">Come in a dream, dear youth, and visit me,</l>
+               <l n="55">My long lost friend enraptur’d I’ll receive,</l>
+               <l rend="indent">And bless the vision that restoreth thee. </l>
+            </lg>
+            
+         </div1>
+
+      </body>
+   </text>
+</TEI>

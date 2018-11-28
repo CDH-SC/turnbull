@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Elegy IX.</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope
+                  unit="page" from="32" to="35">32-35</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Elegy IX.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> First published in <emph
+                     rend="italic">Poetical Essays</emph> (1788), pp. 32-35.</note></title></head>
+
+
+
+         <epigraph rend="center">
+            <l><emph rend="italic">Some mute inglorious Milton here may rest.</emph></l>
+
+            <bibl>Gray.<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> Thomas Gray, <emph rend="italic">An Elegy wrote in a
+                     Country Church Yard</emph> (1751), p. 8.</note></bibl>
+         </epigraph>
+         <div1 type="stanza" n="1">
+            <head rend="center">I.</head>
+            <lg>
+               <l>Come, Melancholy, sweetly pensive maid,</l>
+               <l rend="indent">O lead me to thy haunts, and weeping cells,</l>
+               <l>Where mimic mirth, nor folly dare invade,</l>
+               <l rend="indent">Thy lov’d retreat, where contemplation dwells.</l>
+            </lg>
+
+         </div1>
+         <div1 type="stanza" n="2">
+            <head rend="center">II.</head>
+
+            <lg>
+               <l n="5">Beneath some aged tree, I’ll lie reclin’d,</l>
+               <l rend="indent">Among the lonely mansions of the dead;<emph rend="super"
+                     >3</emph><note type="gloss" place="bottom"><emph rend="super">3</emph> Used in
+                     Henry Baker, <emph rend="italic">Medulla Poetarum Romanorum</emph> (1737), p.
+                     488, from Nicholas Rowe’s translation of Lucan’s <emph rend="italic"
+                        >Pharsalia</emph>, book II.</note></l>
+               <l>To ruminate the fate of human kind,</l>
+               <l rend="indent">And from the tombs my future fortune read.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="3">
+            <head rend="center">III.</head>
+
+            <lg>
+               <l>Some lie beneath the marble’s polish’d stone,</l>
+               <l n="10" rend="indent">With sculpture grav’d and honour’s ensigns hung,</l>
+               <l>Perhaps distinguished by wealth alone,</l>
+               <l rend="indent">And mighty made by flatt’ry’s guilty tongue.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="4">
+            <head rend="center">IV.</head>
+
+            <lg>
+               <l>While round them lie a poor inglorious crew,</l>
+               <l rend="indent">Whose characters no wand’ring search can trace,</l>
+               <l n="15">Where no memorial rises to the view,</l>
+               <l rend="indent">No sculptur’d stone to tell their resting place.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="5">
+            <head rend="center">V.</head>
+
+            <lg>
+               <l>Say, were they such a poor ignoble race,</l>
+               <l rend="indent">Whose memory no monument requires?</l>
+               <l>Did they in life employ no useful place?</l>
+               <l n="20" rend="indent">Do nothing which the giddy world admires?</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="6">
+            <head rend="center">VI.</head>
+
+            <lg>
+               <l>Sure here were hearts with great emotions fir’d,</l>
+               <l rend="indent">Though ignorance conceal’d the gen’rous flame</l>
+               <l>Of such as would to mighty deeds aspir’d,</l>
+               <l rend="indent">And stood immortal, in the rolls of fame.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="7">
+            <head rend="center">VII.</head>
+
+            <lg>
+               <l n="25"> So the rough marble in the quarry lies,</l>
+               <l rend="indent">A mass in which no beauty can be seen,</l>
+               <l>Till the skill’d statu’ry his art applies;</l>
+               <l rend="indent">Then smiles a Juno,<emph rend="super">4</emph><note type="gloss"
+                     place="bottom"><emph rend="super">4</emph> Patron goddess of the Roman Empire
+                     and protector and special counselor of the state; daughter of Saturn, sister
+                     and wife of Jupiter and mother of Mars and Vulcan. </note> or the Paphian
+                     Queen.<emph rend="super">5</emph><note type="gloss" place="bottom"><emph
+                        rend="super">5</emph> Derived from Pamphos, an ancient city of Cyprus known
+                     for its temple to Venus. In his translation of Virgil’s <emph rend="italic">The
+                        Aeneid</emph> (1693), John Dryden references “the Paphian queen”: “Then, on
+                     the top of Eryx, they begin / A rising temple to the Paphian queen”
+                     (V.990-991). </note></l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza" n="8">
+            <head rend="center">VIII.</head>
+
+            <lg>
+               <l>Soon shall the mourner, of this artless song,</l>
+               <l n="30" rend="indent">Sink in the narrow house unknown to fame,</l>
+               <l>There sleep in silence, with the vulgar throng,</l>
+               <l rend="indent">Without the least memorial of his name. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="9">
+            <head rend="center">IX.</head>
+
+            <lg>
+               <l>For him, no sable ensign shall be born,</l>
+               <l rend="indent">No gorgeous pageants crown the nodding herse,</l>
+               <l n="35">No monument his humble grave adorn,</l>
+               <l rend="indent">Nor Bard record him in immortal verse.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="10">
+            <head rend="center">X.</head>
+
+            <lg>
+               <l>Perhaps the simple swains, who list’ning stray’d</l>
+               <l rend="indent">To hear his pipe, at eve amid the bow’rs,</l>
+               <l>With mournful songs will sooth his pensive shade,</l>
+               <l n="40" rend="indent">And strew his grave with sweetest vernal flow’rs.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="11">
+            <head rend="center">XI.</head>
+
+            <lg>
+               <l>Some gen’rous friend, hung o’er the silent urn,</l>
+               <l rend="indent">May shed a tear, and heave the artless sigh;</l>
+               <l> With unfeign’d grief his luckless fortune mourn,</l>
+               <l rend="indent">While pow’r and wealth’s unvarying cheeks are dry.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="12">
+            <head rend="center">XII.</head>
+
+            <lg>
+               <l n="45">His Delia<emph rend="super">6</emph><note type="gloss" place="bottom"><emph
+                        rend="super">6</emph> Name of Artemis or Diana, allegedly born in the island
+                     of Delos. Citing Tibullus, Maurice Scêve (1510-64) and Samuel Daniel
+                     (1562-1619), Alastair Fowler argues that Delia was often used to denote purity.
+                     See <emph rend="italic">Literary Names</emph> (Oxford: Oxford UP, 2012), p.
+                     44.</note> may, with other nymphs, repair</l>
+               <l rend="indent">A sad attendant on her Damon’s<emph rend="super">7</emph><note
+                     type="gloss" place="bottom"><emph rend="super">7</emph> Virgilian pastoral name
+                     found in <emph rend="italic">Eclogue</emph> 8. Cf. also Milton, "Epitaphium
+                     Damonis" in <emph rend="italic">Poems</emph> (1645).</note> bier,</l>
+               <l>His loss bewail, the soft contagion share,</l>
+               <l rend="indent">And pay the welcome tribute of a tear. </l>
+            </lg>
+         </div1>
+
+      </body>
+   </text>
+</TEI>

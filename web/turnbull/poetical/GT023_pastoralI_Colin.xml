@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Pastoral I. Colin, Alexis,
+                  Corydon.</title>, in <title>Poetical Essays,</title>
+               (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope unit="page" from="53"
+                  to="57">53-57</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Pastoral I. Colin, Alexis, Corydon.<emph
+                  rend="super">1</emph><note type="head" place="bottom"><emph rend="super">1</emph> First
+                     published in <emph rend="italic">Poetical Essays</emph> (1788), pp. 53-57.
+                  </note></title></head>
+         <epigraph rend="center">
+            <l><emph rend="italic">Alternate verse the ready champions chose.</emph></l>
+         </epigraph>
+         <bibl rend="center">Dryden's Virgil.<emph rend="super">2</emph><note type="gloss"
+               place="bottom"><emph rend="super">2</emph> John Dryden, “Pastoral VII” in <emph
+                  rend="italic">The Works of Virgil</emph> (1697), l.25. Dryden’s line reads
+               “Alternate rhyme” rather than “Alternate verse”.</note></bibl>
+
+
+         <div1 type="stanza">
+            <head rend="center">Colin.<emph rend="super">3</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">3</emph> The shepherd-poet. See, e.g., Colin Clout in Edmund
+                  Spenser’s <emph rend="italic">Shepheardes Calendar</emph> (1579) and John Gay’s
+                  rustic Colin in <emph rend="italic">The Shepherd’s Week</emph>
+               (1714).</note></head>
+            <lg>
+               <l>Now to the western main the sun descends,</l>
+               <l>Along the green, the lengthen’d shade extends,</l>
+               <l>The pointed rocks are ting’d with rays of gold,</l>
+               <l>Our flocks secure are pent within the fold,</l>
+               <l n="5">The nightly dews refresh the drooping flow’rs,</l>
+               <l>Sweetly the linnets warble in the bow’rs:</l>
+               <l>Let us beneath this spreading tree recline,</l>
+               <l>And sing the dictates of the tuneful nine,</l>
+               <l>Behold this rural pipe, so soft and clear,</l>
+               <l n="10">With which sweet Thomson sung the circling year,<emph rend="super"
+                     >4</emph><note type="gloss" place="bottom"><emph rend="super">4</emph> Reference
+                     to James Thomson’s <emph rend="italic">The Seasons</emph> (published in parts,
+                     completed 1730). </note></l>
+               <l>This be his prize who smoothest can rehearse</l>
+               <l>Some simple tale in soft bucolic verse:</l>
+               <l>Or sing by turns, as do the tuneful train,</l>
+               <l>And I as umpire will the prize ordain.</l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Alexis.<emph rend="super">5</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">5</emph> In Virgil’s <emph rend="italic">Eclogue</emph> 2
+                  Alexis is the object of Corydon’s unrequited love and, in <emph rend="italic"
+                     >Eclogue</emph> 8, praised by Corydon. Cf. also Alexander Pope’s <emph
+                     rend="italic">Summer. The Second Pastoral, or Alexis</emph> (1709), line 39. </note></head>
+            <lg>
+               <l n="15"> Begin thy carols, Corydon, proceed,</l>
+               <l> And I will follow, thou the song shalt lead,</l>
+               <l>Begin, the woods will multiply the sound,</l>
+               <l>And vocal rocks the melody rebound. </l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Corydon.<emph rend="super">6</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">6</emph> Pastoral shepherd, generally characterized as
+                  ineffectual in love, first appearing in Theocritus, <emph rend="italic"
+                     >Idylls</emph> 4 and 5, and subsequently in, e.g., Virgil, <emph rend="italic"
+                     >Eclogue</emph> 2; Juvenal 9.102; Petrarch, <emph rend="italic">Eclogue</emph>
+                  6.144; Sidney, <emph rend="italic">Arcadia</emph> (1593); and Milton, <emph
+                     rend="italic">L’Allegro</emph> 83. For a comprehensive list see Alastair
+                  Fowler, <emph rend="italic">Literary Names</emph> (Oxford: Oxford UP, 2012), p. 48
+                  n.16.</note></head>
+            <lg>
+               <l>See, spring again begins her smiling round,</l>
+               <l n="20"> And blooming flow’rs enamel all the ground;</l>
+               <l>Here daffodils and primroses are seen,</l>
+               <l>And pinks and daisies variegate the green. </l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Alexis.</head>
+            <lg>
+               <l>How gay the plains in vernal liv’ry drest,</l>
+               <l> Beneath our feet the blooming flow’rs are prest:</l>
+               <l n="25">Sweet are the scents that taint the gentle breeze,</l>
+               <l>And fair the blossoms on the spreading trees. </l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Corydon.</head>
+            <lg>
+               <l>Who would not quit the city, and retire</l>
+               <l> To rural shades, their beauty to admire;</l>
+               <l> Where such delights are purchas’d without cost,</l>
+               <l n="30">Beyond what courts and palaces can boast. </l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Alexis.</head>
+            <lg>
+               <l>Sure here are sports and pastimes, on the green,</l>
+               <l> May charm the greatest King and fairest Queen:</l>
+               <l>And some, if fame bely not, have forsook</l>
+               <l>Their crowns, and chang’d a sceptre for a crook. </l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Corydon.</head>
+            <lg>
+               <l n="35">O come, Amanda,<emph rend="super">7</emph><note type="gloss" place="bottom"
+                        ><emph rend="super">7</emph> From Latin <emph rend="italic">amanda</emph>
+                     meaning “lovable, worthy of love,” popularized by seventeenth-century poets and
+                     playwrights; see, e.g., Colly Cibber’s <emph rend="italic">Love’s Last
+                        Shift</emph> (1696).</note> pride of all the plain,</l>
+               <l> The love and wonder of each am’rous swain;</l>
+               <l>Come, like the rosy morn, in all thy charms;</l>
+               <l>O come, and bless thy longing shepherd’s arms. </l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Alexis.</head>
+            <lg>
+               <l>Come, Rosalinda,<emph rend="super">8</emph><note type="gloss" place="bottom"><emph
+                        rend="super">8</emph> Titular character in Thomas Lodge’s pastoral romance,
+                        <emph rend="italic">Rosalynde</emph>. <emph rend="italic">Euphues Golden
+                        Legacie</emph> (1590), the basis for Shakespeare’s <emph rend="italic">As
+                        you Like It</emph> (1623). In Edmund Spenser’s <emph rend="italic"
+                        >Shepheardes Calendar</emph> (1579) Rosalind is an unknown lady celebrated
+                     by the poet as his love.</note> beauty of the bow’rs,</l>
+               <l n="40">Gay as the early bloom, on op’ning flow’rs;</l>
+               <l>Come, Rosalinda, come, and with thee bring</l>
+               <l>That beauty which eclipses all the spring. </l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Corydon.</head>
+            <lg>
+               <l>Amanda loves me, yet would often hide</l>
+               <l> Her rising blushes with a modest pride;</l>
+               <l n="45">Ah, foolish nymph! how vain is this disguise,</l>
+               <l>Whilst I can read the language of thine eyes.</l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Alexis.</head>
+            <lg>
+               <l>Me Rosalinda flies, but flies in vain,</l>
+               <l> While oft she turns to gaze upon her swain;</l>
+               <l>An easy matter interrupts her haste,</l>
+               <l n="50">She feigns some mischief, but to be embrac’d. </l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Corydon.</head>
+            <lg>
+               <l>Sweet, to the mind forlorn, are soothing dreams,</l>
+               <l> Sweet, to the weary trav’ller, purling streams,</l>
+               <l>Sweet is the blossom, to the roving bee;</l>
+               <l>But sweeter far Amanda is to me. </l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Alexis.</head>
+            <lg>
+               <l n="55">Not to the lonely wand’rer, led astray,</l>
+               <l>Thro’ night’s dun shades, the morning’s cheering ray,</l>
+               <l>Not to the sons of Lapland’s dark domain,<emph rend="super">9</emph><note
+                     type="gloss" place="bottom"><emph rend="super">9</emph> Northernmost peninsula
+                     of Scandinavia, formerly thought to be home to witches and
+                  magicians.</note></l>
+               <l>The smiling months of summer’s cheerful reign,</l>
+               <l>Not to the captive linnet, liberty</l>
+               <l n="60">Is half so sweet as Rosalind to me.</l>
+
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Corydon.</head>
+            <lg>
+               <l>Singing’s the pastime my Amanda loves;</l>
+               <l> Each nymph and swain the tender strain approves,</l>
+               <l>Not fair Malvina, with her charming tongue,</l>
+               <l>To Ossian’s harp more pleasing numbers sung;<emph rend="super">10</emph><note
+                     type="gloss" place="bottom"><emph rend="super">10</emph> In James Macpherson’s
+                     epic poem, published as <emph rend="italic">The Works of Ossian</emph> (1765),
+                     Malvina looks after Ossian, father of her deceased lover Oscar, into his old
+                     age. See also Turnbull’s “Monody. Malvina for Oscar” first published in <emph
+                        rend="italic">Columbian Herald and New Daily Advertiser</emph> [Charleston,
+                     SC] (March 22, 1796), 2. The insurrectionary melodrama, <emph rend="italic"
+                        >Oscar and Malvina</emph>, was a staple of the theatre companies with which
+                     Turnbull acted both in Dumfries and Charleston. </note></l>
+               <l n="65">While she loves singing, singing I’ll approve,</l>
+               <l>Nor dance nor revel nor gay frolic love. </l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Alexis.</head>
+            <lg>
+               <l>My Rosalind in dancing far exceeds</l>
+               <l>The gayest nymph that ever trod the meads,</l>
+               <l>Not fairies lighter skiff the dews away</l>
+               <l n="70">Than Rosalinda, on a morn of May;</l>
+               <l>While she loves dancing, revels are for me,</l>
+               <l>I’ll leave the singing, to thy nymph and thee. </l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Colin.</head>
+            <lg>
+               <l>Pleas’d and surpris’d, I’ve listen’d to your songs;</l>
+               <l> For both have won, to both the prize belongs;</l>
+               <l n="75">Each for reward a boxen hautboy<emph rend="super">11</emph><note
+                  type="gloss" place="bottom"><emph rend="super">11</emph> <emph rend="italic">n.</emph> wooden double-reed
+                     wind instrument made from boxwood.</note> take,</l>
+               <l>And occupy them well for Colin’s sake;</l>
+               <l>But see, the ev’ning hurries us away,</l>
+               <l>Thomson’s will be the prize another day. </l>
+
+            </lg>
+         </div1>
+      </body>
+   </text>
+</TEI>

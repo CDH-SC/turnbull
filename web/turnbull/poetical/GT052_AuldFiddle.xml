@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>The Auld Fiddle. A Poem.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="202" to="204">202-204</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head><title type="main" rend="center">The Auld Fiddle. <emph rend="italic">A poem
+                  occasioned by a person's treading on it and crushing it to pieces.</emph><emph
+                  rend="super">1</emph><note type="head" place="bottom"><emph rend="super">1</emph>
+                  First published in <emph rend="italic">Poetical Essays</emph>, (1788), pp. 202-204;
+                  reprinted as “Elegy on My Auld Fiddle” in <emph rend="italic">Charleston
+                     Courier</emph> [Charleston, SC] (March 25, 1807) and in <emph rend="italic"
+                     >Port Folio</emph> [Philadelphia], 6 (August 20, 1808): 127-128. <emph
+                     rend="italic">The Port Folio</emph>, one of the more prestigious American
+                  magazines of the period, was published by Bradford and Inskeep, for whom
+                  Turnbull’s Scottish friend, the poet and ornithologist, Alexander Wilson worked as
+                  an editor from 1806 till 1813. Earlier, in 1807, the same magazine had published
+                  another Turnbull poem, “Ode to Suspicion.”</note></title></head>
+
+         <lg type="stanza">
+            <l>We see that each revolving day,</l>
+            <l>The rarest earthly things decay;</l>
+            <l>Nor can our best inventions save</l>
+            <l>Them frae the universal grave:</l>
+            <l n="5">Still some disaster, unforeseen,</l>
+            <l>Maks them as they had never been.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">See my auld Fiddle, ance sae good,</l>
+            <l>Which pat me aft in merry mood</l>
+            <l>When a’ things fail’d; see, in disguise,</l>
+            <l n="10">In broken fragments where she lies,</l>
+            <l>Thrawn in a neuk<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph>
+                  <emph rend="italic">n.</emph> corner, recess.</note> wi’ ither lumber,</l>
+            <l>Nae mair my study to encumber;</l>
+            <l>Of brig and finger-brod bereft,</l>
+            <l>Nae string, nor bass, nor tenor left;</l>
+            <l n="15">Her hand broke aff, her wame<emph rend="super">3</emph><note type="gloss"
+                  place="bottom"><emph rend="super">3</emph>
+                  <emph rend="italic">n.</emph> womb.</note> shot in,</l>
+            <l>And for to tune her ne’er a pin;</l>
+            <l>Her back and sides in waefu’ case,</l>
+            <l>Sad monuments of her disgrace.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Nae mair, alas! on her I’ll play</l>
+            <l n="20">Piano sweet, or blithe Strathspey;<emph rend="super">4</emph><note
+                  type="gloss" place="bottom"><emph rend="super">4</emph> Traditional Scottish dance
+                  tune in 4/4 time, e.g., “The Bonnie Banks O’ Loch Lomond” or “Auld Lang
+                  Syne”.</note></l>
+            <l>Nae mair, when dowie thoughts invade,</l>
+            <l>Shall she be summon’d to my aid:</l>
+            <l>Like some auld trophy she may hing,</l>
+            <l>A dismal melancholy thing.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l n="25" rend="indent">What tho’ she was of beauteous frame,</l>
+            <l>And frae the far Cremona<emph rend="super">5</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">5</emph> City in northern Italy known for its musical
+                  history and traditions.</note> came,</l>
+            <l>Yet that, and a’ her tones sae sweet,</l>
+            <l>Cou’d not award the murd’rer’s feet,</l>
+            <l>Wha, heedless what he heard or saw,</l>
+            <l n="30">Crush’d her poor banes against the wa’;</l>
+            <l>A mournfu’ echo, sad and sweet,</l>
+            <l>Resounded wi’ his clumsy feet:</l>
+            <l>Sae Poets tell before she die,</l>
+            <l>The swan sings her own elegy.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l n="35" rend="indent">May minstrels a’ the villain hate,</l>
+            <l>And mock and jeer him air and late;</l>
+            <l>May his dull lugs<emph rend="super">6</emph><note type="gloss" place="bottom"><emph
+                     rend="super">6</emph>
+                  <emph rend="italic">n.</emph> ears.</note> be ever found,</l>
+            <l>Deaf to the harmony of sound;</l>
+            <l>May discord deave him night and day,</l>
+            <l n="40">And corbies<emph rend="super">7</emph><note type="gloss" place="bottom"><emph
+                     rend="super">7</emph>
+                  <emph rend="italic">n.</emph> ravens, or carrion crows.</note> sing his fun’ral
+               lay;</l>
+            <l>While my auld Fiddle, tho’s she’s lame,</l>
+            <l>Is sounded by the voice of fame.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Ye wand’ring spirits of the wind,</l>
+            <l>May ye my silent Fiddle find,</l>
+            <l n="40">And, as ye tak your nightly rounds,</l>
+            <l>Recal, as erst, enchanting sounds.</l>
+            <l>Methinks I hear M‘Pherson<emph rend="super">8</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">8</emph> Perhaps James MacPherson (1675-1700), for whom the
+                  fiddle tune “MacPherson’s Rant” is named, who before his execution as an outlaw
+                  was reputed to have broken his own fiddle on the scaffold.</note> there,</l>
+            <l>Awake some Caledonian<emph rend="super">9</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">9</emph> Scottish; from Caledonia: literary name and Latin
+                  term for Scotland.</note> air,</l>
+            <l>Or Handel,<emph rend="super">10</emph><note type="gloss" place="bottom"><emph
+                     rend="super">10</emph> George Frederick Handel (1685-1759); German-born British
+                  composer.</note> master o’ the band,</l>
+            <l n="45">Employ his sound-compelling hand:</l>
+            <l>Haste, haste, ye tunefu’ shapes of air,</l>
+            <l>And to my ruin’d strings repair. </l>
+         </lg>
+
+
+      </body>
+   </text>
+</TEI>

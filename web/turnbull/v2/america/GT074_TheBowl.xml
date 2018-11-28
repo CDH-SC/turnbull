@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>"The Bowl. <emph rend="italic"
+                     >Anacreontic</emph>."</title>
+               <title><emph rend="italic">City Gazette and Daily Advertiser,</emph></title>
+                  (<pubPlace>Charleston, SC</pubPlace>), <date>June 2,1801</date></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><title type="main" rend="center">The Bowl. <emph rend="italic"
+                  >Anacreontic</emph>.<emph rend="super">1, </emph><note type="head" place="bottom"
+                     ><emph rend="super">1</emph> Published in <emph rend="italic">City Gazette and
+                     Daily Advertiser</emph> [Charleston, SC] (February 27, 1796), p. 3.</note><emph rend="super">2</emph><note
+                  type="gloss" place="bottom"><emph rend="super">2</emph> In English poetry, short
+                  lyrical pieces consisting of seven-syllable lines. First used by Abraham Cowley in
+                  1656, “Anacreontic” references the Greek poet Anacreon whose poems Cowley
+                  paraphrased in <emph rend="italic">Poems</emph>.</note></title></head>
+
+         <lg type="stanza">
+            <l rend="indent" n="1">Artist, form a spacious bowl,</l>
+            <l> Fit to let the liquor roll</l>
+            <l>Like the billows of the sea;</l>
+            <l>Artist, form this bowl for me.</l>
+            <l n="5">Round the silver brim entwine</l>
+            <l>Wreathing clusters of the vine,</l>
+            <l>Shew with smiling easy grace</l>
+            <l>Bacchus<emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                     rend="super">3</emph> God of wine.</note> of the jolly face.</l>
+            <l>Let Anacreon<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                     rend="super">4</emph> Greek lyric poet, notable for his drinking songs.</note>
+               there be plac’d</l>
+            <l n="10">With a crown of laurel<emph rend="super">5</emph><note type="gloss"
+                  place="bottom"><emph rend="super">5</emph> Symbol of honor for poets and
+                  heroes.</note> grac’d,</l>
+            <l>Singing to his sportive lyre</l>
+            <l>Joys that love and wine inspire.</l>
+            <l>Bacchus, press the purple vine,</l>
+            <l>Fill my cup with rosy wine;</l>
+            <l n="15">Then I’ll raise the song with glee,</l>
+            <l>Praising wine and praising thee. </l>
+
+         </lg>
+      </body>
+   </text>
+</TEI>

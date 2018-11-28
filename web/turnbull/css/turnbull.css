@@ -1,0 +1,340 @@
+/**
+ * turnbull.css
+ *
+ * Author: Center for Digital Humanities - University of South Carolina.
+ * Version: Beta.
+ * Copyright: 2015. All Rights Reserved.
+ */
+
+/**
+ * XML Specifics
+ */
+div1,
+div2,
+epigraph,
+l,
+sp,
+speaker,
+titlepart,
+heading,
+list,
+bibl,
+lg,
+note,
+byline {
+  position: relative;
+  display: block;
+}
+
+item {
+  display: list-item;
+  list-style: none;
+}
+
+castitem {
+  display: list-item;
+  margin-bottom: 15px;
+  clear: both;
+
+  list-style: none;
+}
+
+dateline {
+  display: block;
+  margin-top: 15px;
+}
+
+role {
+  float: left;
+  clear: left;
+}
+
+actor {
+  float: right;
+  clear: right;
+}
+
+epigraph { margin-top: 10px; }
+
+listbibl > bibl {
+  padding-left: 3em;
+  text-indent: -3em;
+}
+
+bibl {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+lg {
+  margin-top: 10px;
+  margin-bottom: 15px;
+
+  font-size: 14px;
+  text-align: left;
+}
+
+note {
+  margin-top: 5px;
+  font-size: 9.75px;
+}
+
+number {
+  float: left;
+  margin-left: -45px;
+
+  font-size: 10px;
+  text-indent: 0;
+}
+
+byline { margin-top: 15px; }
+
+[type="list"] p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+[type="stanza"] { margin-bottom: 15px; }
+
+[rend="bold"] { font-weight: bold; }
+[rend="center"] { text-align: center; }
+[rend="indent"] { text-indent: 15px; }
+[rend="indent2"] { text-indent: 30px; }
+[rend="indent3"] { text-indent: 45px; }
+[rend="italic"] { font-style: italic; }
+[rend="super"] {
+  position: relative;
+  top: -.5em;
+
+  font-size: 75%;
+  line-height: 0;
+
+  vertical-align: baseline;
+}
+
+titler {
+  display: block;
+  font-size: 36px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+titler [rend="super"] {
+  font-size: 25%;
+  top: -2.8em;
+}
+
+/**
+ * HTML Specifics
+ */
+html, body {
+  width: 100%;
+  height: 100%;
+
+  background-color: #555555;
+}
+
+header {
+  padding: 20px 15px;
+
+  color: #FFFFFF;
+
+  background-color: #012E78;
+}
+header img { width: 225px; }
+header h1 {
+  margin-top: 5px;
+  font-size: 30px;
+}
+header a { color: #000000; }
+header .alert {
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+nav {
+  position: relative;
+
+  float: left;
+  width: 25%;
+}
+nav > ul { background-color: #D2D6DC; }
+nav > ul > ul {
+  display: none;
+  overflow: auto;
+  background-color: #ECECEC;
+}
+nav a,
+nav a:link,
+nav a:active,
+nav a:visited {
+  display: block;
+  padding-top: 15px;
+  padding-right: 13px;
+  padding-bottom: 15px;
+
+  color: #000000;
+  text-decoration: none;
+
+  border-bottom: 1px solid #000000;
+}
+nav a:hover {
+  color: #000000;
+  text-decoration: none;
+}
+nav > ul a { padding-left: 13px; }
+nav > ul > ul a { padding-left: 25px; }
+
+nav a.active { background-color: #A6B0BD; }
+
+nav .glyphicon { float: right; }
+
+/*p { margin: 0; }*/
+
+/**
+ * Classes
+ */
+.container {
+  border-left: 1px solid #000000;
+  border-right: 1px solid #000000;
+
+  -webkit-box-shadow: 0 0 5px #000000;
+     -moz-box-shadow: 0 0 5px #000000;
+          box-shadow: 0 0 5px #000000;
+}
+
+.has-children {
+  background-color: #ECECEC;
+}
+
+.main {
+  padding: 20px 20px 50px 50px;
+
+  background-color: #FFFFFF;
+
+  overflow: auto;
+}
+.main p {
+  /*margin-top: 20px;*/
+  padding-right: 80px;
+}
+
+.throbber-holder {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+
+  width: 0.9em;
+  height: 1.5em;
+  margin: 0 auto;
+
+  -webkit-transform: translateY(-50%);
+     -moz-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+       -o-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.text-underline { text-decoration: underline; }
+
+.clear-top { margin-top: 0 !important; }
+.clear-bottom { margin-bottom: 0 !important; }
+
+.fb {
+  color: black !important;
+  text-decoration: underline !important;
+}
+
+/**
+ * Bootstrap Modifications
+ */
+.glyphicon { top: 3px; }
+.tooltip { width: 200px; }
+
+/*.navbar-form { margin-top: 25px; }*/
+.navbar-form { margin-top: -20px; }
+
+/**
+ * The following .throbber-loader is credited to http://www.css-spinners.com/spinner/throbber
+ * Modified by Center for Digital Humanities - University of South Carolina.
+ */
+.throbber-loader:not(:required) {
+  position: relative;
+
+  display: inline-block;
+  width: 0.9em;
+  height: 1.5em;
+  margin: 0 1.6em;
+
+  text-indent: 9999px;
+
+  background-color: #DDE2E7;
+
+  -webkit-animation: throbber-loader 2000ms 300ms infinite ease-out;
+     -moz-animation: throbber-loader 2000ms 300ms infinite ease-out;
+          animation: throbber-loader 2000ms 300ms infinite ease-out;
+}
+.throbber-loader:not(:required):before,
+.throbber-loader:not(:required):after {
+  content: "\x200B";
+
+  position: absolute;
+  top: 0;
+
+  display: inline-block;
+  width: 0.9em;
+  height: 1.5em;
+
+  background-color: #DDE2E7;
+}
+.throbber-loader:not(:required):before {
+  left: -1.6em;
+
+  -webkit-animation: throbber-loader 2000ms 150ms infinite ease-out;
+     -moz-animation: throbber-loader 2000ms 150ms infinite ease-out;
+          animation: throbber-loader 2000ms 150ms infinite ease-out;
+}
+.throbber-loader:not(:required):after {
+  right: -1.6em;
+
+  -webkit-animation: throbber-loader 2000ms 450ms infinite ease-out;
+     -moz-animation: throbber-loader 2000ms 450ms infinite ease-out;
+          animation: throbber-loader 2000ms 450ms infinite ease-out;
+}
+
+@-webkit-keyframes throbber-loader {
+  0% { background-color: #DDE2E7; }
+  10% { background-color: #6B9DC8; }
+  40% { background-color: #DDE2E7; }
+}
+@keyframes throbber-loader {
+  0% { background-color: #DDE2E7; }
+  10% { background-color: #6B9DC8; }
+  40% { background-color: #DDE2E7; }
+}
+
+/**
+ * Print
+ */
+@media print {
+  form,
+  nav { display: none; }
+
+  header { padding: 0 15px; }
+
+  /* Ignore CSS Lint here */
+  .main {
+    width: 100% !important;
+    height: 100% !important;
+    padding: 0 15px !important;
+  }
+  .main p {
+    width: 100% !important;
+    margin: 0 !important;
+
+    text-align: center;
+  }
+}

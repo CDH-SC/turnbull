@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Ode I. To Melancholy.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="151" to="152">151-152</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Ode I. To Melancholy.<emph rend="super"
+                  >1</emph><note type="head" place="bottom"><emph rend="super">1</emph> First
+                  published in <emph rend="italic">Poetical Essays</emph> (1788), pp. 151-152; reprinted
+                  in <emph rend="italic">New London Magazine</emph> [London] (November 1788), 603;
+                  and, later in <emph rend="italic">Columbian Herald and New Daily Advertiser</emph>
+                  [Charleston, SC] (April 12, 1796). Raymond Havens lists “To Melancholy” among the
+                  many poems influenced by Milton’s octosyllabic poems <emph rend="italic">L’Allegro</emph> and <emph rend="italic">Il
+                     Penseroso</emph> (1631). See Havens, <emph rend="italic">The Influence of Milton on English
+                     Poetry</emph>, (New York: Russell &amp; Russell, 1961, pp. 656 and 676); David
+                     Radcliffe reads it as a condensed version of John Milton’s <emph rend="italic">Il Penseroso</emph> (ca.
+                  1630), (<emph rend="italic">Spencer and the
+            Tradition</emph>).</note></title></head>
+
+
+         <lg>
+            <l>Maiden of the downcast eye,</l>
+            <l>Who, when ev’ning draweth nigh,</l>
+            <l>Windest oft thy devious way,</l>
+            <l>Beneath the sober twilight gray,</l>
+            <l n="5">Pursuing still the lonely road,</l>
+            <l>By human footsteps seldom trode;</l>
+            <l>By the hills, or shady woods,</l>
+            <l>Dreary dells, and haunted floods;</l>
+            <l>By the church-yard’s lonely bound,</l>
+            <l n="10">Wand’ring o’er the cheerless ground,</l>
+            <l>Where oft (as vulgar stories tell)</l>
+            <l>From isles the midnight spectres yell;</l>
+            <l>Or where some stalwart ruins nod,</l>
+            <l>Of wealth and grandeur once th’ abode,</l>
+            <l n="15">Delighted with the dismal howl</l>
+            <l>Of ravens, and the screaming owl:</l>
+            <l>Come, Melancholy, sober maid,</l>
+            <l>In all thy winning charms array’d;</l>
+            <l>Come, sober nymph, nor once disdain</l>
+            <l n="20">To take me in thy pensive train. </l>
+         </lg>
+
+
+
+      </body>
+   </text>
+</TEI>

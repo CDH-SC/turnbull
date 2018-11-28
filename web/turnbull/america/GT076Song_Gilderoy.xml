@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Ode to Columbus.</title>
+               <title><emph rend="italic">City Gazette and Daily Advertiser,</emph></title>
+                  (<pubPlace>Charleston, SC</pubPlace>), <date>March 5, 1796</date></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><title type="main" rend="center">Song.<emph rend="super">1</emph><note type="head"
+                  place="bottom"><emph rend="super">1</emph> Published in <emph rend="italic"
+                     >Columbian Herald and New Daily Advertiser</emph> [Charleston, SC] (March 7,
+                  1796), p. 3.</note></title></head>
+         
+        
+         <a href="/turnbull/img/songs/gild.png" class="fb">  <note rend="center">Tune--Gilderoy.<emph rend="super">2</emph></note></a><note type="gloss"
+            place="bottom"><emph rend="super">2</emph> Versions of the ballad “Gilderoy” are known in the seventeenth
+            century; it is in Ramsay’s <emph rend="italic">Tea-Table Miscellany</emph> (1724;
+            1871 ed.), and the music is included in <emph rend="italic">Musick for Allan Ramsay’s
+               Collection of Scots Songs</emph> (1726), pp. 94-95, and then in <emph
+                  rend="italic">Orpheus Caledonius</emph> (1733) II, song 47; Oswald’s <emph
+                     rend="italic">Caledonian Pocket Companion</emph>, (1753), song 20, etc. See J.C.
+            Dick, <emph rend="italic">The Songs of Robert Burns</emph> (London: Frowde, 1903), p.
+            360; Peter Garside, et al., eds., <emph rend="italic">The Forest Minstrel</emph>, by
+            James Hogg (Edinburgh: Edinburgh U.P., 2006), p. 212. Burns used the tune for his
+            early song “From thee, Eliza,” included in his 1786 Kilmarnock poems and his other
+            lifetime collections; in Thomson’s <emph rend="italic">Select Collection of Original
+               Scotish Airs</emph>, I (1793), the Air is given as “Donald.” Cf. Kinsley I: 15-16
+            (item 9); and III: 1010-1011.</note>
+         <lg type="stanza">
+            <l n="1">Beneath a tree, in pensive mood,</l>
+            <l rend="indent">Young Corydon<emph rend="super">3</emph><note type="gloss"
+                  place="bottom"><emph rend="super">3</emph> Pastoral shepherd, generally
+                  characterized as ineffectual in love. Cf. Theocritus, <emph rend="italic"
+                     >Idylls</emph> 4 and 5; Virgil’s <emph rend="italic">Eclogue</emph> 2; Juvenal
+                  9.102; Petrarch, <emph rend="italic">Eclogue</emph> 6.144; Sidney, <emph
+                     rend="italic">Arcadia</emph> (1593); and Milton, <emph rend="italic">L’Allegro</emph> 83. See Alastair
+                  Fowler, <emph rend="italic">Literary Names</emph> (Oxford: Oxford UP, 2012), p. 48
+                  n. 16.</note> reclin’d;</l>
+            <l>His tears encreas’d the murm’ring flood,</l>
+            <l rend="indent">His sighs, the breezy wind:</l>
+            <l n="5">Ah me! the lovelorn shepherd cry’d,</l>
+            <l rend="indent">Must this be my reward,</l>
+            <l>Must faithful lovers be deny’d,</l>
+            <l rend="indent">And flatt'ring fops perferr’d?</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>It ne’er was mine with guilty tongue,</l>
+            <l rend="indent">To feign a flame untrue;</l>
+            <l>To work a simple maiden wrong,</l>
+            <l rend="indent" n="10">And innocence undo.</l>
+            <l>I ne’er, like youths of fashion, swore</l>
+            <l rend="indent">By any pow’r above;</l>
+            <l>Mine eyes, my looks, and actions bore</l>
+            <l rend="indent">The strongest proofs of love. </l>
+         </lg>
+         <lg type="stanza">
+            <l n="15">Yet see, how heedness of my truth,</l>
+            <l rend="indent">The wanton Delia<emph rend="super">4</emph><note type="gloss"
+                  place="bottom"><emph rend="super">4</emph> Alternative name for Artemis or
+                  Diana, Goddess of the Moon. Citing Tibullus, Maurice Scêve (1510-64) and Samuel
+                  Daniel (1562-1619), Alastair Fowler argues that Delia was often used to denote
+                  purity. See <emph rend="italic">Literary Names</emph> (Oxford: Oxford UP, 2012),
+                  p. 44.</note> strays,</l>
+            <l>Enamour’d of yon gaudy youth,</l>
+            <l rend="indent">And his deceitful ways.</l>
+            <l>But ah! vain maid soon to thy cost,</l>
+            <l rend="indent" n="20">That empty thing, you’ll see,</l>
+            <l>For all the passion he may boast,</l>
+            <l rend="indent">Can never love like me. </l>
+         </lg>
+
+      </body>
+   </text>
+</TEI>

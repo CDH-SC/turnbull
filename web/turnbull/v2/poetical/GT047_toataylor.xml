@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>To a Taylor, with Cloth for a New
+                  Suit.</title>, in <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>,
+                  <date>1788</date>), <biblScope unit="page" from="186" to="187"
+               >186-187</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head><title type="main" rend="center">To a Taylor, <emph rend="italic">with cloth for a
+                  new suit</emph><emph rend="super">1</emph><note type="head" place="bottom"><emph
+                        rend="super">1</emph> First published in <emph rend="italic">Poetical
+                        Essays</emph> (1788), pp. 186-187.</note></title></head>
+         <epigraph rend="center">
+            <lg>
+               <l><emph rend="italic">Braid claith lends fowk an unco heeze,</emph></l>
+               <l><emph rend="italic"> Makes mony katl-worms butterflies,</emph></l>
+               <l><emph rend="italic">Gi’es mony a Doctor his degrees</emph></l>
+               <l rend="indent"><emph rend="italic">For little skaith;</emph></l>
+               <l><emph rend="italic">In short ye may be what ye please</emph></l>
+               <l rend="indent2"><emph rend="italic">Wi’ good braid claith.</emph></l>
+            </lg>
+         </epigraph>
+         <bibl rend="center">Fergusson<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                  rend="super">2</emph> Robert Fergusson, “Braid Claith,” lines 43-48, in <emph
+                  rend="italic">Poems of Robert Fergusson</emph>, ed. Matthew P. MacDiarmid
+               (Edinburgh: Scottish Text Society, 1954-1956), vol. II, p. 81.</note></bibl>
+         <lg>
+            <l>A poet, tatter’d and forlorn,</l>
+            <l>Whase coat and breeks are sadly torn,</l>
+            <l>Wha lately sue’d for aid divine,</l>
+            <l>Now, Taylor, maun apply for thine;</l>
+            <l n="5">Soliciting thy useful art,</l>
+            <l>Its needy succour to impart.</l>
+            <l>Ance manners could compleat a man,</l>
+            <l>But now the Taylor only can.</l>
+         </lg>
+
+         <lg>
+            <l rend="indent">O Taylor, this is true, I ween,</l>
+            <l n="10">As I’ve by sad experience seen,</l>
+            <l>Whatever talents we possess,</l>
+            <l>Are a’ inferior to our dress;</l>
+            <l>A ragged Bard, however gabby;</l>
+            <l>Will ay be counted dull and shabby;</l>
+            <l n="15">And since my coat and breeks turn’d duddy,</l>
+            <l>I hae been scorn’d by ilka body.</l>
+            <l rend="indent">But trust me, Taylor, soon ye’ll see</l>
+            <l>An unco,<emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                     rend="super">3</emph>
+                  <emph rend="italic">adj.</emph> unknown, unfamiliar, strange.</note> sudden change
+               on me;</l>
+            <l rend="indent">My friends will ken me ance again,</l>
+            <l n="20" rend="indent2">And some what kent na me short syne,</l>
+            <l rend="indent">Will my acquaintance strive to gain,</l>
+            <l rend="indent2">And ca’ my dullest verses fine.</l>
+            <l>See here’s the claith, come, cut it out,</l>
+            <l>A remnant maun be sav’d, nae doubt,</l>
+            <l n="25">Auld Nick<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                     rend="super">4</emph>
+                  <emph rend="italic">n.</emph> familiar name for the Devil.</note> can never want
+               his due,</l>
+            <l>And will get baith the piece and you;</l>
+            <l>Then ply your nimble han’s wi’ speed,</l>
+            <l>Rattle your sheers and wax your thread,</l>
+            <l>And mak the utmost haste you can,</l>
+            <l n="30">To rig me out a gentleman:</l>
+            <l>If you with these demands comply,</l>
+            <l>Then, Stitch, your name shall never die. </l>
+         </lg>
+
+
+      </body>
+   </text>
+</TEI>

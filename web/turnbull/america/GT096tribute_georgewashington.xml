@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head rend="center"><title type="main">A Tribute to the Memory of the Late Illustrious Gen.
+               George Washington. Written for the 4th of July, 1802.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> Published in <emph
+                     rend="italic">Massachusetts Spy</emph>, [Worcester, MA] (June 8, 1803), p. 4.
+                  Subsequently reprinted in <emph rend="italic">Spectator</emph> [New York, NY]
+                  (July 6, 1803) with the additional subtitle “and delivered by the Author on his
+                  benefit night at the Charleston Theater.” In the 1801-1802 season Turnbull had two
+                  benefit nights: April 23 and May 14, 1802. On the first, he played the role of
+                  Sampson in his musical interlude, <emph rend="italic">The Recruit</emph> and Mr.
+                  Harlow in Arthur Murphy's <emph rend="italic">The Old Maid</emph>; he shared his
+                  second benefit nigh with his wife, who was cast in the role of Pantilina in the
+                  pantomime <emph rend="italic">Care and Mirth</emph>, Mrs. Seymour and Jones. In
+                  the 1802-1803 season, Tunbull's benefit night was May 6, 1803 at which he played
+                  the role of Bonamo in Thomas Holcrofts's meladrama, <emph rend="italic">A Tale of
+                     Mystery</emph>. See Richard Sodders, <emph rend="italic">The Theatre Management
+                     of Alexandre Placide in Charleston, 1794-1812</emph>, vol. 2, unpub. Ph.D.
+                  diss. (Louisiana State University, 1983), pp. 502-503, 506,
+            530.</note></title></head>
+
+         <epigraph rend="center">
+            <l><emph rend="italic">Take him for all in all,</emph></l>
+            <l><emph rend="italic">We shall not look upon his like again.</emph></l>
+            <bibl>Shakespeare<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> Shakespeare, <emph rend="italic">Hamlet</emph>,
+                  1.2.</note></bibl>
+         </epigraph>
+         <lg type="stanza">
+            <l>When Liberty, bright progeny of Heav’n,<emph rend="super">3</emph><note type="gloss"
+                  place="bottom"><emph rend="super">3</emph> “She [Freedom], the bright Progeny of
+                  Heaven, descends”: Phillis Wheatley, <emph rend="italic">Liberty and Peace</emph>,
+                  line 5 (Boston: Warden and Russell, 1784). </note></l>
+            <l>Was from her ancient pristine glory driven,</l>
+            <l>And forc’d to quit her first belov’d abodes,</l>
+            <l>The feats of Heroes and of Demigods,</l>
+            <l n="5">From orient climes she westward bent her way.</l>
+            <l>To where the ocean drowns Sol’s parting ray;</l>
+            <l>“Here far from tyrants and their gorgeous tow’rs,”</l>
+            <l>This clime, Columbia<emph rend="super">4</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">4</emph> Poetic name, in use since the 1730s, for the
+                  original Thirteen Colonies of the United States.</note> cry’d, “bright nymph, is
+               yours."</l>
+            <l>“Here shalt thou, Goddess, ever more reside,</l>
+            <l n="10">My sons your guards, and Washington their guide."</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Return’d with glory from the bloody plain,</l>
+            <l>Sweet peace came dancing in her jocund train,</l>
+            <l>Display’d her olive branch, and bade once more</l>
+            <l>The arts to flourish round the happy shore,</l>
+            <l n="15">Bade commerce here her choice treasures bring;</l>
+            <l>Rejoice, Columbians; To Paeans<emph rend="super">5</emph><note type="gloss"
+                  place="bottom"><emph rend="super">5</emph> Songs of praise or exultation.</note>
+               sing!</l>
+            <l>From crime to crime the human mind is led,</l>
+            <l>One victim bleeds, because another bled;</l>
+            <l>The soldier who once shrank from blood and arms,</l>
+            <l n="20">His only music now is war’s a’arms;</l>
+            <l>And, like the Macedonian youth of yore,</l>
+            <l>Mourns that his conquest can extend no more;</l>
+            <l>Not such, Columbians, your’s the thirst for blood;</l>
+            <l>Your hearts are gentle, as your cause was good;</l>
+            <l n="25">Your foes subdu’d—soft pity, like the dove,</l>
+            <l>Descended from the radiant realms above,</l>
+            <l>Bade enmity be still, fell rancour cease,</l>
+            <l>And hail’d the reign of Industry and peace!</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Now slaughter ceas’d where blood disgrac’d the side.</l>
+            <l n="30">In p’acid streams the limped waters glide;</l>
+            <l>Where heaps of carnage strew’d the ensanguin’d plain.</l>
+            <l>Now toils in peace the inoffensive swain:</l>
+            <l>Where late the flames ascended to the skies</l>
+            <l>In rural pride the new-built hamlets rise,</l>
+            <l n="35">And lofty towns, once levell’d to the ground,</l>
+            <l>Rear high their fyires, and wider spread around.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Behold your Chief returning from the field,</l>
+            <l>Resign the faulchion<emph rend="super">6</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">6</emph> I.e., falchion: n. broad, slightly curved
+                  sword.</note> and the bossy<emph rend="super">7</emph><note type="gloss"
+                  place="bottom"><emph rend="super">7</emph>
+                  <emph rend="italic">adj.</emph>adorned with ornamental protuberances, usually
+                  metal.</note> shield;</l>
+            <l>With ever living laurels on his brow,</l>
+            <l n="40">Your Cincinnatus<emph rend="super">8</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">8</emph> Lucius Quinctius Cincinnatus (519-430 BC), Roman
+                  aristocrat and statesman who was granted dictatorial powers in 458 BC; after
+                  defeating Rome’s enemies Cincinnatus returned to his farm, relinquishing his
+                  dictatorship and refusing military honors. Comparisons between Washington and
+                  Cincinnatus proliferated during the Revolutionary and early Republican period:
+                  see, e.g., Philip Freneau's poem “Occasioned by General Washington’s Arrival in
+                  Philadelphia…” in <emph rend="italic">The Poems of Philip Freneau</emph>
+                  (Philadelphia: Francis Bailey, 1786), 356-359. </note> reassumes the plough;</l>
+            <l>Grac’d with the civic robe, he once again</l>
+            <l>Hails his lov’d villa and domeste train;</l>
+            <l>And skill’d in peace, as well as war, to guide,</l>
+            <l>Behold him o’er your dearest rights preside;</l>
+            <l n="45">And, foremost in the senatorial band,</l>
+            <l>Govern with equity his native land—</l>
+            <l>The pride, the glory of this wond’rous age,</l>
+            <l>The Father, Saint, the Soldier, and the Sage!</l>
+         </lg>
+
+         <lg type="stanza">
+            <l> Read, O Columbians, o’er your hero’s bier,</l>
+            <l n="50">Drop annually your grateful tribute here—</l>
+            <l>Lament your patriots mingled with the dust,</l>
+            <l>The wife, the brave, magnanimous and just—</l>
+            <l>Gone to that distant country, from whose bourn</l>
+            <l>The traveller shall never more return;</l>
+            <l n="55">Yet, long as men shall read the historic page,</l>
+            <l>Their deeds shall live thro’ every distant age;</l>
+            <l>Each rising Hero shall their acts admire,</l>
+            <l>Glow as he reads, and catch heroic fire:</l>
+            <l>And as this season comes its annual round—</l>
+            <l n="60">While patriot hearts with mighty joy rebound—</l>
+            <l>“Rejoice! Rejoice! and thus exulting say,</l>
+            <l>“’Tis Washington’s the tribute of the day,”</l>
+            <l>To him let then the glorious meed be given,</l>
+            <l>Renown on earth! Peace to his soul in Heav’n!</l>
+
+         </lg>
+      </body>
+   </text>
+</TEI>

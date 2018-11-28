@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Willie and Davie. A Pastoral.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="205" to="208">205-208</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Willie and Davie. A Pastoral.<emph rend="super"
+                  >1</emph><note type="head" place="bottom"><emph rend="super">1</emph> First
+                  published in <emph rend="italic">Poetical Essays</emph> (1788),
+               pp. 205-208.</note></title></head>
+
+
+         <div1 type="stanza">
+            <head rend="center">Willie.<emph rend="super">2</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">2</emph> Pastoral shepherd and speaker in Spenser’s <emph
+                     rend="italic">The Shepheardes Calender</emph> (1579).</note></head>
+            <lg>
+               <l>Ah Davie,<emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                        rend="super">3</emph> Pastoral shepherd; one of the eleven speakers in
+                  Spenser’s <emph rend="italic">The Shepheardes Calender</emph> (1579).</note> sure thy ruefu’ looks
+                  declare,</l>
+               <l>Thy mind o’er-burden’d wi’ a lade of care,</l>
+               <l>Shake aff that melancholy, blithe appear,</l>
+               <l>The winter’s past, and what hae we to fear?</l>
+               <l n="5">For hark! the birds, on ilka hawthorn, sing,</l>
+               <l>And smiling nature hails the welcome spring.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Davie.</head>
+            <lg>
+               <l rend="indent">Na, nature first shall change her course anew,</l>
+               <l>The bent<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                        rend="super">4</emph> Coarse grass of a reedy character.</note> forget to
+                  laugh in morning dew,</l>
+               <l>The birds nae mair the spring’s approaching hail,</l>
+               <l n="10">And mournfu’ shepherds winter’s loss bewail;</l>
+               <l>The wily tod grow tame and seek the fold,</l>
+               <l>And wi’ the harmless lambkin dalliance hold,</l>
+               <l>Clear streams retard their course and backward turn,</l>
+               <l>Ere I forget my griefs, and cease to mourn. </l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza">
+            <head rend="center">Willie.</head>
+            <lg>
+               <l n="15" rend="indent">Ah hapless lad! thou ever tauks of ill,</l>
+               <l>Wha bodes misfortunes will be luckless still,</l>
+               <l>What sad disaster has befa’n thee now,</l>
+               <l>Is Luath<emph rend="super">5</emph><note type="gloss" place="bottom"><emph
+                        rend="super">5</emph> Cuchullin’s celebrated dog in Macpherson’s Ossianic
+                     poems. Burns adopted the name “after some dog in Highland Sang” for his
+                     ploughman’s collie in “The Twa Dogs.” See Kinsley, <emph rend="italic">Burns:
+                        Complete Poems and Songs</emph> (Oxford: Oxford UP, 1969), pp. 110-116.</note>
+                  dead, has Maggie<emph rend="super">6</emph><note type="gloss" place="bottom"><emph
+                        rend="super">6</emph> This old song etc.: these comments, from Burns's
+                     annotations in the <emph rend="italic">Interleaved Scots Musical Museum</emph>,
+                     written for Burns's friend Robert Riddell, were first printed in Robert
+                     Cromek's <emph rend="italic">Select Scotish Songs</emph> (1810), vol. 1, p. 93:
+                     see Davidson Cook, <emph rend="italic">Annotations of Scottish Songs</emph> by
+                     Burns (Dumfries: Robert Dinwiddie, 1922), p. 13.</note> broke her vow. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Davie.</head>
+            <lg>
+               <l rend="indent">Far greater ills oblige me to complain,</l>
+               <l n="20"> Than loss of tykes or ony maid’s disdain;</l>
+               <l> Weil is it kend, nae shepherd on the lee,</l>
+               <l>Cares less for love, or womankind than me.</l>
+               <l>But joy’s forsaken, these deserted plains,</l>
+               <l>Where nought but languid melancholy reigns,</l>
+               <l n="25">Nae mair shall music wake the sprightly morn,</l>
+               <l>Nor shepherd lasses dance beneath the thorn,</l>
+               <l>Nae mair shall bands of jolly swains repair,</l>
+               <l>To haud gay revels, on the banks of Ayr,<emph rend="super">7</emph><note
+                     type="gloss" place="bottom"><emph rend="super">7</emph> The river Ayr runs
+                     through the town of Ayr two miles north of Robert Burns's birthplace in
+                     Alloway.</note></l>
+               <l>Nor flute, nor aiten<emph rend="super">8</emph><note type="gloss" place="bottom"
+                        ><emph rend="super">8</emph>
+                     <emph rend="italic">adj.</emph> oaten. </note> pipe’s melodious sound,</l>
+               <l n="30">At setting day the cavern’d banks rebound,</l>
+               <l>Nor tunefu’ Muses haunt the vocal shore,</l>
+               <l>For there shall Robin’s reed<emph rend="super">9</emph><note type="gloss"
+                     place="bottom"><emph rend="super">9</emph> “O a’ ye bard on bonie Doon! / An
+                     wha’ on Ayr your canters tune! / Come, join the melancholious croon / O’
+                     robin’s reed! / His heart will never get aboon— / His Mailie’s dead!”: Robert
+                     Burns, <emph rend="italic">Poor Mailie’s Elegy</emph> (1783), lines
+                     42-50.</note> be heard no more. </l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza">
+            <head rend="center">Willie.</head>
+            <lg>
+               <l rend="indent">Had he, in early youth and beauty’s bloom,</l>
+               <l>Descended to the mansions of the tomb,</l>
+               <l n="35">Then might ye greet, and shaw a friend’s despair,</l>
+               <l>And mournfu’ sangs, and elegies prepare;</l>
+               <l>But tell me, Davie, why should ye be sad,</l>
+               <l>That fortune favours the deserving lad,</l>
+               <l>Our praise through Albion’s spacious Isle<emph rend="super">10</emph><note
+                     type="gloss" place="bottom"><emph rend="super">10</emph> I.e., Britian.</note>
+                  shall ring,</l>
+               <l n="40">And courtly dames of Coila’s shepherds<emph rend="super">11</emph><note
+                     type="gloss" place="bottom"><emph rend="super">11</emph> Embodiment of the
+                     lands of Kyle in Ayrshire and muse of Robert Burns: “Of these am I—Coila my
+                     name: / And this district as mine I claim,”: “The Vision,” lines 199-200. See
+                     Kinsley, <emph rend="italic">Burns: Complete Poems and Songs</emph> (Oxford:
+                     Oxford UP, 1969), p. 88.</note> sing.</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza">
+            <head rend="center">Davie.</head>
+            <lg type="stanza">
+               <l rend="indent">I yield, dear Willie, now I maun submit;</l>
+               <l>My grief’s o’ercome, by thy superior wit;</l>
+               <l>But friendship and the love to him I bore,</l>
+               <l>Make me his absence day by day deplore.</l>
+               <l n="45">Nae shepherd lad, that ever trode the mead,</l>
+               <l>Cou’d, wi’ sic skilfu’ hand essay the reed.</l>
+               <l>Nane e’er was fit to entertain sae well,</l>
+               <l>As ilka lad and ilka lass can tell,</l>
+               <l>Wha sat in crowds beneath yon spreading tree,</l>
+               <l n="50">To hear his tales, for mony a tale had he:</l>
+               <l>But I will see him soon, though I should sell</l>
+               <l>My fatted pet, distinguish’d by the bell,</l>
+               <l>To buy a bonnet, and apparel meet,</l>
+               <l>To wauk, wi’ Robin, through Edina’s<emph rend="super">12</emph><note type="gloss"
+                     place="bottom"><emph rend="super">12</emph> Edinburgh.</note> street.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">Willie.</head>
+            <lg>
+               <l n="55" rend="indent">Nor shall ye, Davie, tak the road alone,</l>
+               <l>My Sunday’s coat and bonnet I’ll put on,</l>
+               <l>My mirlie<emph rend="super">13</emph><note type="gloss" place="bottom"><emph
+                        rend="super">13</emph>
+                     <emph rend="italic">adj.</emph> speckled.</note> stockings, which my mither
+                  made,</l>
+               <l>And wrap me in my Caledonian<emph rend="super">14</emph><note type="gloss"
+                     place="bottom"><emph rend="super">14</emph> Scottish; Caledonia: literary name
+                     and Latin term for Scotland.</note> plaid,</l>
+               <l>There ance again, our com’rade swain embrace,</l>
+               <l n="60">And see the wonders of that unco<emph rend="super">15</emph><note
+                     type="gloss" place="bottom"><emph rend="super">15</emph>
+                     <emph rend="italic">adj.</emph> unknown, unfamiliar, strange.</note> place;</l>
+               <l>But come, behold this bonny woodbine bow’r,</l>
+               <l>A shelter frae the sun’s meridian pow’r;</l>
+               <l>Here let us lean, and in some hamart<emph rend="super">16</emph><note type="gloss"
+                     place="bottom"><emph rend="super">16</emph>
+                     <emph rend="italic">adj.</emph> home-made, home-grown.</note> lays,</l>
+               <l>Not mourn his absence, but record his praise;</l>
+               <l n="65">And see this wallet plentifully stor’d,</l>
+               <l>Wi’ dainty fare, may please the nicest Lord,</l>
+               <l>This crystal well will cauler draughts supply,</l>
+               <l>And then we’ll carol when our dinner’s by. </l>
+            </lg>
+         </div1>
+
+
+      </body>
+   </text>
+</TEI>

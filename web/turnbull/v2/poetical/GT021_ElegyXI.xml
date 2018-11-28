@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Elegy XI. Loudon Church.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="40" to="46">40-46</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Elegy XI. Loudon Church.<emph rend="super"
+                  >1, </emph><note type="head" place="bottom"><emph rend="super">1</emph> First
+                  published in <emph rend="italic">Poetical Essays</emph> (1788), pp. 40-46.</note><emph
+                  rend="super">2</emph><note type="gloss" place="bottom"><emph rend="super"
+                  >2</emph> [GT's note: The burial place of the family of Loudon.] The original
+                  Loudons of Loudoun Castle, one of the oldest family seats in Scotland, were
+                  purpotedly related to the revered patriot, William Wallace; The barony passed to
+                  the Campbells in the reign of Robert the Bruce (1306-1329). During Turnbull’s life
+                  the estate was in the hands of John Campbell (1705-1782); James Mure-Campbell
+                  (1726-1786) and Flora Mure-Campbell (1780-1840) (<emph rend="italic">ODNB</emph>).
+                  Located west of Loudoun Castle, Ayrshire, the late medieval Loudoun Kirk remained
+                  the parish church until the seventeenth century after which time it fell into a
+                  state of disrepair.</note></title></head>
+
+
+
+
+         <epigraph rend="center">
+            <l><emph rend="italic">There lie inter’d the more illustrious dead.</emph></l>
+
+
+            <bibl>Blair.<emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                     rend="super">3</emph> Robert Blair, <emph rend="italic">The Grave</emph> (1743), p.
+                  5. An exemplar of graveyard poetry, Blair’s <emph rend="italic">The Grave</emph>
+                  gained widespread popularity after it was republished in Edinburgh in 1747.
+               </note></bibl>
+         </epigraph>
+         <div1 type="stanza" n="1">
+            <head rend="center">I.</head>
+            <lg>
+               <l>From yonder church the ev’ning bell is toll’d,</l>
+               <l rend="indent">The rising moon shines on the pointed spires,</l>
+               <l>The shepherd pens his flock within the fold,</l>
+               <l rend="indent">And whistling to his lowly cot retires.</l>
+            </lg>
+
+         </div1>
+         <div1 type="stanza" n="2">
+            <head rend="center">II.</head>
+
+            <lg>
+               <l n="5">Gray ev’ning shades the landscape all around,</l>
+               <l rend="indent">The plains, and silent groves, in sable drest,</l>
+               <l>From nodding tow’rs, with creeping ivy bound,</l>
+               <l rend="indent">The mournful owl proclaims the hour of rest. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="3">
+            <head rend="center">III.</head>
+
+            <lg>
+               <l>Mute are the feather’d songsters on each spray,</l>
+               <l n="10" rend="indent">Whose joyous anthems with the ev’ning close:</l>
+               <l>Save where the turtle, with bemoaning lay,</l>
+               <l rend="indent">And drousy murmurs, lulls them to repose.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="4">
+            <head rend="center">IV.</head>
+
+            <lg>
+               <l>How sad, how solemn is this scene of night,</l>
+               <l rend="indent">Which strikes with awe the contemplative mind!</l>
+               <l n="15">Pleasure appal’d betakes to sudden flight,</l>
+               <l rend="indent">Flies like a vision, nor once looks behind. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="5">
+            <head rend="center">V.</head>
+
+            <lg>
+               <l>Hark! where yon boding raven croaks aloud,</l>
+               <l rend="indent">Or chatt’ring magpie, from the dusky shade,</l>
+               <l>Or wand’ring ghost, wrapt in its sable shroud,</l>
+               <l n="20" rend="indent">Points out where some kind rustic shall be laid. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="6">
+            <head rend="center">VI.</head>
+
+            <lg>
+               <l>Yon aged Fane,<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                  rend="super">4</emph> <emph rend="italic">n.</emph> a temple or church.</note> rear’d in the days of
+                  yore,</l>
+               <l rend="indent">By pious hands, for sacred ends design’d,</l>
+               <l>The dome resounds the song of praise no more,</l>
+               <l rend="indent">But hangs in fragments tott’ring in the wind.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="7">
+            <head rend="center">VII.</head>
+
+            <lg>
+               <l n="25"> Deep in a vault which quite excludes the day,</l>
+               <l rend="indent">Where bones and urns promiscuous strew the ground,</l>
+               <l>The King of terrors fits, in grim array,</l>
+               <l rend="indent">Triumphing o’er his prostrate victims round. </l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza" n="8">
+            <head rend="center">VIII.</head>
+
+            <lg>
+               <l>Far from those ruin’d walls the trav’ller flies,</l>
+               <l n="30" rend="indent">Soon as the ev’ning’s wrapt in dismal gloom,</l>
+               <l>Whilst through the hollow vault the zephyr sighs,</l>
+               <l rend="indent">And dreadful spectres issue from the tomb.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="9">
+            <head rend="center">IX.</head>
+
+            <lg>
+               <l>Say, tim’rous mortal, say what makes thee run?</l>
+               <l rend="indent">Why fly precipitate, and in such haste?</l>
+               <l n="35">Why fly the drear abodes you cannot shun?</l>
+               <l rend="indent">Sooner or later here we all must rest. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="10">
+            <head rend="center">X.</head>
+
+            <lg>
+               <l>But thou, my Muse, whom reason’s ray directs,</l>
+               <l rend="indent">Like flaming taper through the shades of night,</l>
+               <l>Let no such whims thy fancy e’er perplex,</l>
+               <l n="40" rend="indent">Nor blinded superstition thee affright. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="11">
+            <head rend="center">XI.</head>
+
+            <lg>
+               <l>Come, wreath’d with cypress round they mournful head,</l>
+               <l rend="indent">’Mongst graves, in lonely meditation roam;</l>
+               <l>Let us explore the mansions of the dead,</l>
+               <l rend="indent">And read <emph rend="italic">memento mori</emph><emph rend="super"
+                     >5</emph><note type="gloss" place="bottom"><emph rend="super">5</emph> Latin:
+                     remember (that you have) to die. Part of the Jacobean cult of melancholia,
+                        <emph rend="italic">memento mori</emph> had been an important literary theme
+                     present in such works such as Sir Thomas Browne’s <emph rend="italic"
+                        >Hydriotaphia</emph> (1658) as well as Jeremy Taylor’s <emph rend="italic"
+                        >Holy Living</emph> (1650) and <emph rend="italic">Holy Dying</emph> (1651),
+                     as later in Blair’s <emph rend="italic">The Grave</emph> (1743) and Thomas
+                     Gray’s <emph rend="italic">Elegy Written in a Country Churchyard</emph> (1751).
+                  </note> on each tomb. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="12">
+            <head>XII.</head>
+
+            <lg>
+               <l n="45"> Draw near, ye haughty, and ye proud behold,</l>
+               <l rend="indent">Come and contemplate on this scene of wo:</l>
+               <l>Come view what those dumb monitors unfold,</l>
+               <l rend="indent">Which tell proud mortals they must lie as low. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="13">
+            <head rend="center">XIII.</head>
+
+            <lg>
+               <l>Promiscuous sleep, beneath the mould’ring clod,</l>
+               <l n="50" rend="indent">The grave, the gay, the vicious and the just;</l>
+               <l>Of those who life’s fantastic vale have trod,</l>
+               <l rend="indent">And lowly mingle with their kindred dust. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="14">
+            <head rend="center">XIV.</head>
+
+            <lg>
+               <l>Relentless death, who can thy pow’r withstand?</l>
+               <l rend="indent">Nor wealth nor honour can prolong our date,</l>
+               <l n="55"> Thou strik’st, obsequious to the High command,</l>
+               <l rend="indent">Princes and peasants yield alike to fate.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="15">
+            <head rend="center">XV.</head>
+
+            <lg>
+               <l>Yon gloomy vaults thy ravages display,</l>
+               <l rend="indent">Where lie of noble Lords a goodly train,</l>
+               <l>Who spent their lives in honour’s glorious way,</l>
+               <l n="60" rend="indent">Sages in council, heroes on the plain. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="16">
+            <head rend="center">XVI.</head>
+
+            <lg>
+               <l>For freedom still their manly bosoms burn’d,</l>
+               <l rend="indent">They rear’d the shield in virtue’s godlike cause,</l>
+               <l>At tyranny, with gen’rous zeal, they spurn’d,</l>
+               <l rend="indent">Which ev’ry nation to destruction draws.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="17">
+            <head rend="center">XVII.</head>
+
+            <lg>
+               <l n="65">Oft martial trumpets rous’d them to the war,</l>
+               <l rend="indent">Their waving banners floating in the wind,</l>
+               <l>Their ensigns dreadful to the hosts afar,</l>
+               <l rend="indent">Who fled and left them conquerors behind.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="18">
+            <head rend="center">XVIII.</head>
+
+            <lg>
+               <l>No more shall trumpets rouse those Chiefs to war,</l>
+               <l n="70" rend="indent">No more their colours in the zephyrs fly,</l>
+               <l>No more be dreadful to the hosts afar,</l>
+               <l rend="indent">No more before them slaughter’d nations lie. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="19">
+            <head rend="center">XIX.</head>
+
+            <lg>
+               <l>High in the hall their warlike arms are hung,</l>
+               <l rend="indent">No more to shine, terrific on the field,</l>
+               <l n="75">The plumed helm, th’ elastic bow unstrung,</l>
+               <l rend="indent">The bloody spear no more their arms shall wield.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="20">
+            <head rend="center">XX.</head>
+
+            <lg>
+               <l>This scene shall melt each gen’rous Briton’s eye,</l>
+               <l rend="indent">To see the patriot rest within his urn,</l>
+               <l>Here liberty shall heave a heart-felt sigh,</l>
+               <l n="80" rend="indent">And beauty here her fairest semblance mourn.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="21">
+            <head rend="center">XXI.</head>
+
+            <lg>
+               <l>Here honour weep her bravest sons decay’d,</l>
+               <l rend="indent">And valour hang apart the useless shield,</l>
+               <l>Here wealth resign at once her boasted aid,</l>
+               <l rend="indent">Ev’n pride her darling ornaments must yield.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="22">
+            <head rend="center">XXII.</head>
+
+            <lg>
+               <l n="85">The fiercest mind, the most heroic flame,</l>
+               <l rend="indent">The heart, by fame and great examples taught,</l>
+               <l>Death ev’n the most unruly will can tame,</l>
+               <l rend="indent">And quite extinguish, like a transient thought. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="23">
+            <head rend="center">XXIII.</head>
+
+            <lg>
+               <l>Where are the mighty names renown’d in war,</l>
+               <l n="90" rend="indent">Who to each trembling land destruction hurl’d?</l>
+               <l>Philips and Alexanders, fam’d afar,</l>
+               <l rend="indent">The vainly boasted Monarchs of a world. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="24">
+            <head rend="center">XXIV.</head>
+
+            <lg>
+               <l>Where now the heroes, fam’d for mighty deeds,</l>
+               <l rend="indent">Who rais’d imperial Rome to high renown?</l>
+               <l n="95">Now from those regions liberty recedes,</l>
+               <l rend="indent">And all the glory of the empire flown.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="25">
+            <head rend="center">XXV.</head>
+
+            <lg>
+               <l>Yet do they stand renown’d in classic page,</l>
+               <l rend="indent">Much to be read, and much to be admir’d,</l>
+               <l>Still shall the noble youth, in ev’ry age,</l>
+               <l n="100" rend="indent">Be with their great, their bold example fir’d.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="26">
+            <head rend="center">XXVI.</head>
+
+            <lg>
+               <l>So shall the fame of Loudon’s noble line</l>
+               <l rend="indent">O’er time and dark oblivion long prevail,</l>
+               <l>Their annals with irradiate lustre shine,</l>
+               <l rend="indent">And youthful Warriors kindle at the tale.</l>
+            </lg>
+         </div1>
+
+      </body>
+   </text>
+</TEI>

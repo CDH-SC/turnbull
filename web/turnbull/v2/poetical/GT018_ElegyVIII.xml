@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Elegy VIII.</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope
+                  unit="page" from="29" to="31">29-31</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Elegy VIII.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="1">1</emph> First published in <emph
+                     rend="italic">Poetical Essays</emph> (1788), pp. 29-31.</note></title></head>
+
+
+
+         <epigraph rend="center">
+            <l><emph rend="italic">Curse the sad fortune that detains thy Fair.</emph></l>
+
+            <bibl>Shenstone.<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> William Shenstone, <emph rend="italic">The Works in Verse
+                     and Prose</emph>, vol.1, ed. Dodsley (1764-1765).</note></bibl>
+         </epigraph>
+         <div1 type="stanza" n="1">
+            <head rend="center">I.</head>
+            <lg>
+               <l>And now the noon has short’ned ev’ry shade,</l>
+               <l rend="indent">The promis’d hour that Delia<emph rend="super">3</emph><note
+                     type="gloss" place="bottom"><emph rend="super">3</emph> Name of Artemis or
+                     Diana, allegedly born in the island of Delos. Citing Tibullus, Maurice Scêve
+                     (1510-64) and Samuel Daniel (1562-1619), Alastair Fowler argues that Delia was
+                     often used to denote purity. See <emph rend="italic">Literary Names</emph>
+                     (Oxford: Oxford UP, 2012), p. 44.</note> would be here;</l>
+               <l>Say what detains the sweet tormenting maid,</l>
+               <l rend="indent">Ah, will you, Delia, ever be sincere?</l>
+            </lg>
+
+         </div1>
+         <div1 type="stanza" n="2">
+            <head rend="center">II.</head>
+
+            <lg>
+               <l n="5">Each fanning breeze, that moves the bloomy spray,</l>
+               <l rend="indent">Would whisper hope and dissipate my fear;</l>
+               <l> It seems to tell me, Delia’s on her way,</l>
+               <l rend="indent">And now, methinks, her gentle steps I hear.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="3">
+            <head rend="center">III.</head>
+
+            <lg>
+               <l>Again deceiv’d, I take my rural reed,</l>
+               <l n="10" rend="indent">To pass the time, and play some simple strain;</l>
+               <l>Again, I bid the moments fly with speed,</l>
+               <l rend="indent">Now hope revives, now vanishes again.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="4">
+            <head rend="center">IV.</head>
+
+            <lg>
+               <l>Enrag’d with love, I cry, perhaps, ev’n now,</l>
+               <l rend="indent">Some rival youth the lovely maid infolds,</l>
+               <l n="15">While Delia, mindful to perform her vow,</l>
+               <l rend="indent">Offended struggles to elude his holds.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="5">
+            <head rend="center">V.</head>
+
+            <lg>
+               <l>Then blame my fate, that gave a nymph so fair,</l>
+               <l rend="indent">A nymph by whom each am’rous youth is fir’d,</l>
+               <l>Again resign my sorrows to the air,</l>
+               <l n="20" rend="indent">To think my nymph’s by ev’ry swain admired. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="6">
+            <head rend="center">VI.</head>
+
+            <lg>
+               <l>Now, sad, I wander by the mazy rill,</l>
+               <l rend="indent">Or pull the blossoms from the spreading tree;</l>
+               <l>Ah vain amusements, I’m unhappy still,</l>
+               <l rend="indent">For what are these, my Delia, wanting thee.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="7">
+            <head rend="center">VII.</head>
+
+            <lg>
+               <l n="25">Ye little birds, that hop from bush to bush,</l>
+               <l rend="indent">O how I murmur at your happy states;</l>
+               <l>You have no care, no unrewarded wish,</l>
+               <l rend="indent">No anxious longing for your absent mates.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="8">
+            <head rend="center">VIII.</head>
+
+            <lg>
+               <l>No rival will with-hold the constant dove,</l>
+               <l n="30" rend="indent">No other bird the linnet will detain;</l>
+               <l>But see, I languish, for my absent love,</l>
+               <l rend="indent">And eager wish, but ev’ry wish is vain. </l>
+            </lg>
+         </div1>
+
+      </body>
+   </text>
+</TEI>

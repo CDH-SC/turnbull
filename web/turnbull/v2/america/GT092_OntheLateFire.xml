@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>"On the late fire."</title>
+               <title><emph rend="italic">Columbian Herald and New Daily Advertiser</emph></title>
+                  (<pubPlace>Charleston, SC</pubPlace>), <date>March 18, 1796</date></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><title type="main" rend="center">On the Late Fire<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> Published in <emph
+                     rend="italic">Columbian Herald and New Daily Advertiser</emph> [Charleston, SC]
+                  (May 18, 1796), p. 3. Turnbull’s poem was written in response to a widespread fire in Charleston on May 16, 1796,
+                  allegedly set by the black servant of a Santo Domingo refugee. Published a mere two days after the fire, the poem was possibly
+                  intended for declamation at the theatrical benefit staged for the disaster relief
+                  fund.</note></title></head>
+        
+         <lg type="stanza">
+            <l>You, who midst affluence and riches plac’d,</l>
+            <l>Whose halls with gorgeous furniture are grac'd;</l>
+            <l>Whose dainty viands load the groaning board,</l>
+            <l>And chests encumbered with the precious hoard,</l>
+            <l n="5">Securely sit in luxury and ease—</l>
+            <l>Build not your happiness alone on these:</l>
+            <l>These earthly treasures in a single hour</l>
+            <l>The flood may sweep, or raging flames devour.</l>
+            <l>Let virtue be the treasure you adore,</l>
+            <l n="10">And Fortune’s spite can never make you poor</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>‘Twas dead of night; free’d from the toils of day,</l>
+            <l>In slumber’s chains the peaceful city lay;</l>
+            <l>The Miser quite forgot his worldly cares,</l>
+            <l>The Politician all his state affairs;</l>
+            <l n="15">The noisy Bacchanal<emph rend="super">2</emph><note type="gloss"
+                  place="bottom"><emph rend="super">2</emph> Drunken revelry; derived from the Roman
+                  God of Wine, Bacchus.</note> forgot to roar:</l>
+            <l>Riot and Dissipation rag’d no more—</l>
+            <l>When sudden from the silent dwellings broke</l>
+            <l>Devouring flames and suffocating smoke:</l>
+            <l>The dreadful bell the slumb’ring town alarms,</l>
+            <l n="20">And drums, like rolling thunders, beat to arms;</l>
+            <l>The smoke, in blackening columns, rises high,</l>
+            <l>The curling flames gleam horrid in the sky;</l>
+            <l>From dours the windows bursts the dreadful blaze,</l>
+            <l>The wasteful ruin spread an hundred ways;</l>
+            <l n="25">From place to place, accumulating force,</l>
+            <l>The conflagration spreads its rapid course:</l>
+            <l>Quick as the lightning from the clouds descends,</l>
+            <l>As quick the furious element extends;</l>
+            <l>Loud groans each bursting roof, and tumbling wall,</l>
+            <l n="30">The enflaming brands, from high, destructive fall;</l>
+            <l>The devastation rages unconfined,</l>
+            <l>And wider spreads, borne by the rushing wind:</l>
+            <l>In vain the industrious citizens exert</l>
+            <l>The force of labour, and the power of art;</l>
+            <l n="45">Pale fear and horror ev’ry heart confound</l>
+            <l>While universal ruin spreads around</l>
+         </lg>
+         <lg>
+            <l>How can the muse the dreadful tale relate?</l>
+            <l>How pain in colours true the dismal fate</l>
+            <l>Of each industrious citizen and friend,</l>
+            <l n="40">Who must beneath this dire misfortune bend?</l>
+            <l>Those who their hardy yourths in toil have spent,</l>
+            <l>Now under age and locks all hoary bent,</l>
+            <l>Behold the fruits of many toilsome days</l>
+            <l>Torn from their children in one cruel blaze,</l>
+            <l n="45">And now depriv’d of all their care could save,</l>
+            <l>To sink in want and sorrow to the grave.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l> Say who the ways of Providence can scan?</l>
+            <l>Where tell the destiny of wretched man?</l>
+            <l>He, who in regal purple, sits in state,</l>
+            <l n="50">Can not award the ruthless hand of fate;</l>
+            <l>To day he rises mighty over all—</l>
+            <l>To-morrow’s sun shall see the mighty fall</l>
+            <l>Then man exist not in the hoards or wealth,</l>
+            <l>But bless thy God for competence and health!</l>
+            <l n="55">If more the hand of Heav’n is pleas’d to give,</l>
+            <l>Be proud the wants of sorrow to relieve:</l>
+            <l>So may what thou in Charity hath given,</l>
+            <l>Be doubly paid thoe by indulgent heaven. </l>
+         </lg>
+
+      </body>
+   </text>
+</TEI>

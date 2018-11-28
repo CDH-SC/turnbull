@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>The Bard. A Poem; in the Manner of
+                  Spencer. Inscribed to Mr. R***** B****.</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope
+                  unit="page" from="136" to="148">136-148</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <head><title type="main">The Bard. A Poem; in the Manner of <emph rend="italic"
+                  >Spencer</emph>. Inscribed to Mr. R***** B****.<emph rend="super">1, </emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> First published in <emph
+                     rend="italic">Poetical Essays</emph> (1788), pp. 137- 148. Written in the style of
+                  Spenser, “The Bard” is equally influenced by three popular Spenserian imitations:
+                  John Philips’ <emph rend="italic">Splendid Shilling</emph> (1701), James Thomson’s
+                     <emph rend="italic">Castle of Indolence</emph> (1748) and William Shenstone’s
+                     <emph rend="italic">School-Mistress</emph> (1737) (Radcliffe, <emph
+                     rend="italic">Spenser and the Tradition</emph>).</note><emph rend="super">2</emph><note type="gloss"
+                  place="bottom"><emph rend="super">2</emph> Known as the Ayrshire Bard, Robert
+                  Burns (1759-1769) was a friend and supporter of his near contemporary, Gavin
+                  Turnbull, mentioning him in at least three letters. In two, Burns tries to send
+                  Turnbull money for six copies of <emph rend="italic">Poetical Essays</emph>
+                  (1788), which he had been selling on his behalf, and in one from Dumfries, Burns
+                  tries to interest George Thomson in three of Turnbull’s songs for publication in
+                  his <emph rend="italic">Select Collection</emph> (1793): “Laura,” “O, condescend” and
+                  “The Nightingale” (Scott, <emph rend="italic">Whatever Happened to Gavin
+                     Turnbull</emph>).</note></title></head>
+         <div type="list" n="1">
+            <head rend="center">Explanation of the obsolete Words used in this Poem.</head>
+            <list>
+               <item n="1">Aureat—<emph rend="italic">golden.</emph></item>
+               <item n="2">Ay—<emph rend="italic">always.</emph></item>
+               <item n="3">Besprent—<emph rend="italic">spread, sprinkled.</emph></item>
+               <item n="4">Dan—<emph rend="italic">a word prefixed to names.</emph></item>
+               <item n="5">Eath—<emph rend="italic">easy.</emph></item>
+               <item n="6"> Eke—<emph rend="italic">also.</emph></item>
+               <item n="7">Estsoons—<emph rend="italic">immediately, often,
+                  afterwards.</emph></item>
+               <item n="9">Lig—<emph rend="italic">to lie, item to lodge.</emph></item>
+               <item n="10">Moe—<emph rend="italic">more.</emph></item>
+               <item n="11">Mote—<emph rend="italic">might.</emph></item>
+               <item n="12">Mochel—<emph rend="italic">much, great.</emph></item>
+               <item n="13">Ne—<emph rend="italic">nor.</emph></item>
+               <item n="14">Passen—<emph rend="italic">passing.</emph></item>
+               <item n="15">Soot—<emph rend="italic">sweet, or sweetly.</emph></item>
+               <item n="16">Unkempt (Lat. <emph rend="italic">incomptus) unadorn’d.</emph></item>
+               <item n="17">Ween—<emph rend="italic">to think, be of opinion.</emph></item>
+               <item n="18">Whilom—<emph rend="italic">formerly.</emph></item>
+               <item n="19">Wight—<emph rend="italic">a man.</emph></item>
+               <item n="20">Withouten—<emph rend="italic">without, wanting, free from.</emph></item>
+               <item n="21">Yore—<emph rend="italic">of old.</emph></item>
+            </list>
+         </div>
+         <div type="list" n="2">
+            <p>NB <emph rend="italic">The letter Y is frequently placed at the beginning of a word,
+                  by</emph> Spencer<emph rend="italic">, to lengthen it a syllable.</emph></p>
+            <list>
+               <item n="1">Yblent—<emph rend="italic">blended, mingled.</emph></item>
+               <item n="2">Yclad—<emph rend="italic">clad.</emph></item>
+               <item n="3">Yclep’d—<emph rend="italic">called, named</emph></item>
+               <item n="4">Ycover’d—<emph rend="italic">covered.</emph></item>
+               <item n="5">Ymolten—<emph rend="italic">melted, moved, soothed.</emph></item>
+               <item n="6"> Ymove—<emph rend="italic">to move.</emph></item>
+               <item n="7"> Ypent—<emph rend="italic">pent, shut up.</emph></item>
+            </list>
+         </div>
+      </front>
+      <body>
+
+         <head rend="center"><title type="main">The Bard.</title></head>
+         <epigraph rend="center">
+            <l><emph rend="italic">Dear to the Muse, who gave his days to flow,</emph></l>
+            <l><emph rend="italic">With mighty blessings, mix’d with mighty wo.</emph></l>
+         </epigraph>
+         <bibl rend="center">Pope's Homer.<emph rend="super">3</emph><note type="gloss"
+               place="bottom"><emph rend="super">3</emph> Alexander Pope, <emph rend="italic"
+                  >Odyssey</emph> (London: 1726), VIII.57.</note></bibl>
+
+         <div1 type="stanza" n="1">
+            <head rend="center">I.</head>
+            <lg>
+               <l rend="indent">Happy the youth, on whom dame fortune smiles,</l>
+               <l rend="indent">And gives him wealth, his wishes to pursue;</l>
+               <l rend="indent">The jocund hours he easily beguiles,</l>
+               <l rend="indent">Still steering on to pleasures ever new.</l>
+               <l n="5" rend="indent">And if fair Science can attract his view,</l>
+               <l rend="indent">Enamour’d of the worthy Bards of old,</l>
+               <l rend="indent">He knows not the distresses of the crew,</l>
+               <l rend="indent">On whom the beldam ne’er her favours roll’d,</l>
+               <l>Or him whose hapless fate I purpose to unfold.</l>
+            </lg>
+         </div1>
+
+
+         <div1 type="stanza" n="2">
+            <head rend="center">II.</head>
+            <lg>
+               <l n="10" rend="indent">O thou, whom from the pleasant banks of Ayr<emph rend="super"
+                     >4</emph><note type="gloss" place="bottom"><emph rend="super">4</emph> The
+                     river Ayr runs through the town of Ayr two miles north of Robert Burns's
+                     birthplace in Alloway.</note></l>
+               <l rend="indent">Thy merit summon’d to Edina’s<emph rend="super">5</emph><note
+                     type="gloss" place="bottom"><emph rend="super">5</emph> Edinburgh.</note>
+                  walls,</l>
+               <l rend="indent">Whose songs delight her sons and daughters fair,</l>
+               <l rend="indent">And loudly echo through her splendid halls.</l>
+               <l rend="indent">On thee a simple Poet humbly calls,</l>
+               <l n="15" rend="indent">A simple Poet who obscur’d the while,</l>
+               <l rend="indent">The fear of scornful critic sore appals,</l>
+               <l rend="indent">On whom, if Coila’s Bard<emph rend="super">6</emph><note
+                     type="gloss" place="bottom"><emph rend="super">6</emph> Robert Burns.
+                     Stretching across parts of Ayrshire, Kyle (Coila, poetically) is the district
+                     in which Alloway, Burn’s birthplace, is located.</note> vouchsafe to smile,</l>
+               <l>His name shall spread abroad thro’. <emph rend="super">7</emph><note type="gloss"
+                     place="bottom"><emph rend="super">7</emph> Ancient name for Britain.</note></l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="3">
+            <head rend="center">III.</head>
+            <lg>
+               <l rend="indent">There whilom ligd,<emph rend="super">8</emph><note type="gloss"
+                     place="bottom"><emph rend="super">8</emph> Antique past tense for laid or
+                     dwelt, from OE liggan, to lie. Cf. James Thomson, <emph rend="italic">The
+                        Castle of Indolence</emph> (1748), line 595: "Here whilom ligged th' Esopus
+                     of the age." </note> ypent in garret high,</l>
+               <l n="20" rend="indent">A tuneful Bard, who well could touch the lyre,</l>
+               <l rend="indent">Who often sung so soot, and witchingly</l>
+               <l rend="indent">As made the crowds, in silent gaze, admire,</l>
+               <l rend="indent">Ymolten with the wild seraphic fire</l>
+               <l rend="indent">Which his sweet sonnets eathly could impart,</l>
+               <l n="25" rend="indent">They list’ning stood, ne never did they tire,</l>
+               <l rend="indent">So steal’d his soft persuasion on the heart,</l>
+               <l>So smooth his numbers flow’d, all unrestrain’d by art.</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="4">
+            <head rend="center">IV.</head>
+            <lg>
+               <l rend="indent">Sometimes, as fancy prompt him, he would sing</l>
+               <l rend="indent">The charms of nature at the morning’s dawn,</l>
+               <l n="30" rend="indent">Or paint the beauties of the blooming spring,</l>
+               <l rend="indent">The shady forest, and the flow’ry lawn,</l>
+               <l rend="indent">The whitened thorn and roses newly blawn,</l>
+               <l rend="indent">Or mazy rills, that wildly devious flow,</l>
+               <l rend="indent">Or pensive shepherd, from the crowd withdrawn,</l>
+               <l n="35" rend="indent">Sore pin’d with luckless love and mochel wo,</l>
+               <l>Design’d from tow’ring cliff his wretched self to throw.</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="5">
+            <head rend="center">V.</head>
+            <lg>
+               <l rend="indent">Eftsoons he changed quite the veering strain,</l>
+               <l rend="indent">To winter shrouded in her mantle hoar,</l>
+               <l rend="indent">The boreal blast, the bitter driving rain,</l>
+               <l n="40" rend="indent">The swelling torrent’s loud resounding roar,</l>
+               <l rend="indent">Which down the steep, the groaning forest bore,</l>
+               <l rend="indent">And delug’d all the swimming plains below;</l>
+               <l rend="indent">Then sung the lake with ice ycover’d o’er,</l>
+               <l rend="indent">The nimble youngsters, hurling to and fro,</l>
+               <l n="45">And mountain’s heaving head yclad in virgin snow.</l>
+            </lg>
+         </div1>
+
+
+         <div1 type="stanza" n="6">
+            <head rend="center">VI.</head>
+            <lg>
+               <l rend="indent">“Now shut the pond’rous gate, and rouse the fire,</l>
+               <l rend="indent">Produce the flask, and fill the massy bowl;</l>
+               <l rend="indent">To gloomy haunt let wrinkl’d care retire,</l>
+               <l rend="indent">Let joy abound possessing ev’ry soul,</l>
+               <l n="50" rend="indent">Let Boreas<emph rend="super">9</emph><note type="gloss"
+                     place="bottom"><emph rend="super">9</emph> God of the north wind and
+                     winter.</note> bluster, and the tempest howl;</l>
+               <l rend="indent">’Tis ours to snatch the pleasures, as they fly,</l>
+               <l rend="indent">Now up the lofty Diapason rowl,<emph rend="super">10</emph><note
+                     type="gloss" place="bottom"><emph rend="super">10</emph> Cf. “Who up the lofty
+                     Diapason roll”: James Thomson, <emph rend="italic">The Castle of
+                        Indolence</emph> (1748), 1.218.</note></l>
+               <l rend="indent">’Tis music gives the purest extacy,</l>
+               <l>And lifts the soul from earth exalted to the sky.</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="7">
+            <head rend="center">VII.</head>
+            <lg>
+               <l n="55" rend="indent">See where the miser, brooding o’er his gear,</l>
+               <l rend="indent">Sits sad and sullen, in his dreary cell,</l>
+               <l rend="indent">No glowing fire, the sable walls to cheer,</l>
+               <l rend="indent">With him pale want and timid fancy dwell.</l>
+               <l rend="indent">O! tell us true, ye wretched miscreants tell,</l>
+               <l n="60" rend="indent">Why all this caution to secure your gold,</l>
+               <l rend="indent">Will it appease the ruthless King of hell,</l>
+               <l rend="indent">Or help to make the burning climate cold,</l>
+               <l>Ah! vain your hope, for there no joy is bought or sold.</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="8">
+            <head rend="center">VIII.</head>
+            <lg>
+               <l rend="indent">Let the dull Cynic<emph rend="super">11</emph><note type="gloss"
+                     place="bottom"><emph rend="super">11</emph> School of philosophy in ancient
+                     Greece eschewing art, learning and luxury.</note> preach his musty rules,</l>
+               <l n="65" rend="indent">No son of Bacchus<emph rend="super">12</emph><note
+                     type="gloss" place="bottom"><emph rend="super">12</emph> God of wine who
+                     inspires music and poetry.</note> will attend his lore;</l>
+               <l rend="indent">Let him hold forth to children and to fools,</l>
+               <l rend="indent">And turn, and turn his lifeless lectures o’er;</l>
+               <l rend="indent">And cite old Plato,<emph rend="super">13</emph><note type="gloss"
+                     place="bottom"><emph rend="super">13</emph> Ancient Greek philosopher and
+                     mathematician.</note> and ilk sage of yore,</l>
+               <l rend="indent">And beat his breast, and grin and look awry,</l>
+               <l n="70" rend="indent">Down with the pedant, let us sing and roar:</l>
+               <l rend="indent">Behold the festive moments dancing by,</l>
+               <l>’Tis ours in joy to live, and catch them as they fly.”</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="9">
+            <head rend="center">IX.</head>
+            <lg>
+               <l rend="indent">Thus flow’d his numbers, to the jolly train,</l>
+               <l rend="indent">While buoyant spirits kept his soul above,</l>
+               <l n="75" rend="indent">Then grief would interfere, and damp his strain,</l>
+               <l rend="indent">And gloomy thoughts and sad ideas move;</l>
+               <l rend="indent">Then like a weary wight enthrall’d in love,</l>
+               <l rend="indent">Of flames and chains, and arrows would he tell,</l>
+               <l rend="indent">And, sadly sighing, seek the gloomy grove,</l>
+               <l n="80" rend="indent">Or ruin, seated in a dreary dell,</l>
+               <l>Whence oft, at dead of night, grim ghosts terrific yell.</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="10">
+            <head rend="center">X.</head>
+            <lg>
+               <l rend="indent">Whate’er he sung, or pleasing or sublime,</l>
+               <l rend="indent">The placid verses always run the same;</l>
+               <l rend="indent">Did love or friendship e’er demand his rhyme,</l>
+               <l n="85" rend="indent">Or wight grotesque his meditation claim,</l>
+               <l rend="indent">With equal force and energy they came,</l>
+               <l rend="indent">And pity or loud laughter could ymove,</l>
+               <l rend="indent">So eath he trode the arduous path of fame,</l>
+               <l rend="indent">And so engross’d the tuneful sisters’ love,</l>
+               <l n="90">None rival could his lays, so far less reach above.</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="11">
+            <head rend="center">XI.</head>
+            <lg>
+               <l rend="indent">Now Fame, with brazen tromp, proclaimed loud</l>
+               <l rend="indent">His name, which through all Caledonia<emph rend="super"
+                     >14</emph><note type="gloss" place="bottom"><emph rend="super">14</emph> Roman
+                     term and literary name for Scotland.</note> rung,</l>
+               <l rend="indent">The busy murmur spread along the crowd,</l>
+               <l rend="indent">In ev’ry place, his roundelays are sung,</l>
+               <l n="95" rend="indent">Improven much, by ev’ry female tongue,</l>
+               <l rend="indent">To whom the songs of love are ever dear,</l>
+               <l rend="indent">The grave, the gay, the am’rous and the young,</l>
+               <l rend="indent">All crowd around the wondrous Bard to hear,</l>
+               <l>For ne’er did Scottish Bard so much enchant the ear.</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="12">
+            <head rend="center">XII.</head>
+            <lg>
+               <l n="100" rend="indent">But, will the sweet delusion ever last?</l>
+               <l rend="indent">Will ay his reputation firm remain?</l>
+               <l rend="indent">Ah me! I fear misfortune’s ruthless blast,</l>
+               <l rend="indent">That still o’ertakes the Muses’ gentle train,</l>
+               <l rend="indent">Expos’d to poverty, and cold disdain</l>
+               <l n="105" rend="indent">Of witless louts, who see them passen by,</l>
+               <l rend="indent">And eke the beau, of gaudy trappings vain,</l>
+               <l rend="indent">Who on their tatter’d vestments cast an eye,</l>
+               <l>Gods! what a silly soul, the witless creatures cry.</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="13">
+            <head rend="center">XIII.</head>
+            <lg>
+               <l rend="indent">She next display’d, before his wondering eyes,</l>
+               <l n="110" rend="indent">A laurel crown, and thus her speech begun,</l>
+               <l rend="indent">“The youth who hopes to gain the mighty prize,</l>
+               <l rend="indent">The busy ways of avarice must shun,</l>
+               <l rend="indent">And from the haunts of low ambition run,</l>
+               <l rend="indent">Accurs’d is he who sings for worthless ore,</l>
+               <l n="115" rend="indent">Such of Apollo<emph rend="super">15</emph><note type="gloss"
+                     place="bottom"><emph rend="super">15</emph> God of medicine, music, especially
+                     the lyre, archery and prophecy.</note> never favour won;</l>
+               <l rend="indent">The most illustrious of the Bards of yore,</l>
+               <l>Pale poverty, and want, and mighty sorrows bore.”</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="14">
+            <head rend="center">XIV.</head>
+            <lg>
+               <l rend="indent">Admonish’d thus, he never crept abroad,</l>
+               <l rend="indent">Nor long’d to mingle in the busy coil</l>
+               <l n="120" rend="indent">Though others idoliz’d the aureate God,</l>
+               <l rend="indent">He never longs to share the filthy spoil,</l>
+               <l rend="indent">Ne fit for hurry, and disdaining toil,</l>
+               <l rend="indent">Assiduously, he turns the classic page,</l>
+               <l rend="indent">Which treats of war and many a bloody broil,</l>
+               <l n="125" rend="indent">How rival Gods in Ilium’s cause<emph rend="super"
+                     >16</emph><note type="gloss" place="bottom"><emph rend="super">16</emph>
+                     Trojan’s defense against Greece in Homer’s <emph rend="italic">Iliad</emph>.
+                  </note> engage,</l>
+               <l>And seems inspir’d with all Dan Homer’s Epic rage.</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="15">
+            <head rend="center">XV.</head>
+            <lg>
+               <l rend="indent">How good Æneas<emph rend="super">17</emph><note type="gloss"
+                     place="bottom"><emph rend="super">17</emph> A secondary figure in Homer’s <emph
+                        rend="italic">Iliad</emph> and hero of Virgil’s <emph rend="italic"
+                        >Aeneid</emph> (c. 29 and 19 BCE). </note> from the fatal shore,</l>
+               <l rend="indent">Convey’d his household Gods and aged Sire,</l>
+               <l rend="indent">The mournful fate of murder’d Polydore,<emph rend="super"
+                     >18</emph><note type="gloss" place="bottom"><emph rend="super">18</emph>
+                     Youngest son of Priam and Hecuba, murdered by Polymestor. Cf. Book III of
+                     Virgil’s <emph rend="italic">Aeneid</emph>.</note></l>
+               <l n="130" rend="indent">Poor Dido flaming on the funeral pire,<emph rend="super"
+                     >19</emph><note type="gloss" place="bottom"><emph rend="super">19</emph> See
+                     Book IV of Virgil’s <emph rend="italic">Aeneid</emph>; The episode of Dido and
+                     Aeneas was further popularized by Henry Purcell’s opera of the same title,
+                     first performed in London c.1688.</note></l>
+               <l rend="indent">When she beheld the Trojan fleet retire;</l>
+               <l rend="indent">The Cumæan oracle,<emph rend="super">20</emph><note type="gloss"
+                     place="bottom"><emph rend="super">20</emph> Apollonian oracle in the Greek
+                     colony of Cumae, near present day Naples.</note> the branch of gold,</l>
+               <l rend="indent">The reign of Pluto,<emph rend="super">21</emph><note type="gloss"
+                     place="bottom"><emph rend="super">21</emph> God of the underworld.</note> and
+                  his mansion dire,</l>
+               <l rend="indent">What wondrous things Anchises<emph rend="super">22</emph><note
+                     type="gloss" place="bottom"><emph rend="super">22</emph> Mortal lover of
+                     Aphrodite; father of Aeneas.</note> did unfold,</l>
+               <l n="135">And all that e’er the charming Bard of Mantua<emph rend="super"
+                     >23</emph><note type="gloss" place="bottom"><emph rend="super">23</emph>
+                     Virgil, a native of Mantua, Italy.</note> told.</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="16">
+            <head rend="center">XVI.</head>
+            <lg>
+               <l rend="indent">Sometimes the past’ral numbers he would read,</l>
+               <l rend="indent">Where is depainted many a simple swain,</l>
+               <l rend="indent">Supinely piping on the flow’ry mead,</l>
+               <l rend="indent">Sicilian valley or Arcadian plain,</l>
+               <l n="140" rend="indent">Where pass their golden days withouten pain:</l>
+               <l rend="indent">Or trace the am’rous Ovid’s<emph rend="super">24</emph><note
+                     type="gloss" place="bottom"><emph rend="super">24</emph> Best known for <emph
+                        rend="italic">Metamorphoses</emph>, a mythological narrative written in the
+                     meter of epic, the Roman poet Ovid was a contemporary of Virgil and
+                     Horace.</note> witching lay,</l>
+               <l rend="indent">Or smooth Tibullus’<emph rend="super">25</emph><note type="gloss"
+                     place="bottom"><emph rend="super">25</emph> Albius Tibullus (c. 55 BC-19BC),
+                     Latin poet and writer of elegies.</note> soft pathetic strain,</l>
+               <l rend="indent">Sharp Juvenal,<emph rend="super">26</emph><note type="gloss"
+                     place="bottom"><emph rend="super">26</emph> Roman poet and byword for satirical
+                     ferocity.</note> and Horace<emph rend="super">27</emph><note type="gloss"
+                     place="bottom"><emph rend="super">27</emph> Roman lyric poet during the time of
+                     Augustus, Horace was frequently imitated in the eighteenth century, most
+                     notably by Alexander Pope.</note> ever gay,</l>
+               <l>Bards who the utmost pow’r of human wit display.</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="17">
+            <head rend="center">XVII.</head>
+            <lg>
+               <l n="145" rend="indent">On wooden shelves were fav’rite authors plac’d,</l>
+               <l rend="indent">Gilt on the backs, and rang’d in seemly row;</l>
+               <l rend="indent">The Bard and Sage, his ample study grac’d,</l>
+               <l rend="indent">Historians wise, and many authors moe;</l>
+               <l rend="indent">There painted maps enhanc’d the learned show,</l>
+               <l n="150" rend="indent">Where all the world in miniature was seen,</l>
+               <l rend="indent">The landscape did with gaudy colours glow;</l>
+               <l rend="indent">The airy mountain, and the forest green,</l>
+               <l>Which all yblent produc’d a goodly scene I ween.</l>
+            </lg>
+         </div1>
+
+
+         <div1 type="stanza" n="18">
+            <head rend="center">XVIII.</head>
+            <lg>
+               <l rend="indent">The floor with scrolls of paper was besprent,</l>
+               <l n="155" rend="indent">And musty pamphlets, which disorder’d lay,</l>
+               <l rend="indent">An Epic Poem, here in pieces rent,</l>
+               <l rend="indent">And there appear’d the fragments of a Play,</l>
+               <l rend="indent">Which was to be revis’d some other day,</l>
+               <l rend="indent">And gain a crowded Theatre’s applause;</l>
+               <l n="160" rend="indent">And here an Ode a mouse had stolen away,</l>
+               <l rend="indent">A mouse as learn’d as Shenstone’s rottan was,<emph rend="super"
+                     >28</emph><note type="gloss" place="bottom"><emph rend="super">28</emph>[GT's
+                     note: See the rape of the trap.] In <emph rend="italic">The
+                        School-Mistress</emph> (1737) Shenstone's rat escapes with both the cheese
+                     and the trap set out for him. Although Turnbull refers to Shenstone in his
+                     footnote, Turnbull’s phrasing, “The Rape [i.e. siezing, capturing] of the Trap,”
+                     points also to Alexander <emph rend="italic">Pope’s Rape of the Lock</emph>
+                     (1712).</note></l>
+               <l>But thoughtlessly enthrall’d in fell grimalkin’s<emph rend="super">29</emph><note
+                     type="gloss" place="bottom"><emph rend="super">29</emph> Fairy cat associated
+                     with witchcraft that, according to Scottish legend, dwells in the highlands;
+                     familiar of the first witch in Shakespeare’s <emph rend="italic">Macbeth</emph>
+                     (1623): “I come, Graymalkin!”: I.i.9.</note> claws.</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="19">
+            <head rend="center">XIX.</head>
+            <lg>
+               <l rend="indent">Now would he quickly take a volume down,</l>
+               <l rend="indent">And read, with face demure, a page or twain,</l>
+               <l n="165" rend="indent">Catch at a hint, and mark it for his own,</l>
+               <l rend="indent">And place his benefactor right again,</l>
+               <l rend="indent">Then, with the thought, the marble paper stain,</l>
+               <l rend="indent">And gaze upon it, with enraptur’d look,</l>
+               <l rend="indent">Ay walking to and fro, nae little vain;</l>
+               <l n="170" rend="indent">Encourag’d thus, he reassumes the book,</l>
+               <l>To seek for more from when the other hint he took.</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="20">
+            <head rend="center">XX.</head>
+            <lg>
+               <l rend="indent">Thus spent he many a long and dreary day,</l>
+               <l rend="indent">With lean repast, not over merrily,</l>
+               <l rend="indent">For all unkempt he never lov’d to stray,</l>
+               <l n="175" rend="indent">Save when the gleaming moon illum’d the sky,</l>
+               <l rend="indent">When none his tatter’d liv’ry mote espy;</l>
+               <l rend="indent">Then would he stolen softly from his dome,</l>
+               <l rend="indent">And to some haunted stream’s meanders hy,</l>
+               <l rend="indent">And sullen, stalking through the solemn gloom,</l>
+               <l n="180">Some sadly plaintive strain or Elegy resume.</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza" n="21">
+            <head rend="center">XXI.</head>
+            <lg>
+               <l rend="indent">But O! what pen his terror can describe,<emph rend="super"
+                     >30</emph><note type="gloss" place="bottom"><emph rend="super">30</emph> Cf.
+                     “But ah! What pen his piteous plight may trace”: Shenstone, <emph rend="italic"
+                        >The School-Mistress</emph> (1737), line 190.</note></l>
+               <l rend="indent">When to his lofty mansion slow ascends,</l>
+               <l rend="indent">A caitiff, dreadful to the tuneful tribe,</l>
+               <l rend="indent">Yclep’d a dun, a catchpoll him attends,</l>
+               <l n="185" rend="indent">And in his fist a magic wand extends,</l>
+               <l rend="indent">Thund’ring they bawl, he trembles at the roar,</l>
+               <l rend="indent">His breath he stifles, and his voice suspends,</l>
+               <l rend="indent">And lies entranc’d, like Mahomet of yore,</l>
+               <l>Ne offers he to stir till all the siege is o’er.</l>
+            </lg>
+         </div1>
+
+
+         <div1 type="stanza" n="22">
+            <head rend="center">XXII.</head>
+            <lg>
+               <l n="190" rend="indent">So crafty Reynard,<emph rend="super">31</emph><note
+                     type="gloss" place="bottom"><emph rend="super">31</emph> A red fox and
+                     trickster figure; in the 1480s, Scottish poet Robert Henryson developed the
+                     Reynardian material as part of his <emph rend="italic">Morall
+                     Fabili.</emph></note> that nocturnal pest,</l>
+               <l rend="indent">Descends, in silence, from the cloudy hill;</l>
+               <l rend="indent">When all the village curs and mastiffs rest,</l>
+               <l rend="indent">The roost to pillage, and the geese to kill,</l>
+               <l rend="indent">Which having done, and eat and drunk his fill,</l>
+               <l n="195" rend="indent">Prepar’d for flight, the trap blockades the way,</l>
+               <l rend="indent">The farmer comes, and finds him lying still,</l>
+               <l rend="indent">Stretch’d on the ground, a lump of breathless clay,</l>
+               <l>But soon as he is gone, the villain sneaks away.</l>
+            </lg>
+         </div1>
+
+      </body>
+   </text>
+</TEI>

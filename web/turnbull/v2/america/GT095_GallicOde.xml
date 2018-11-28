@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>"Gallic Ode."</title>
+               <title><emph rend="italic">Philadelphia Minerva,</emph></title>
+                  (<pubPlace>Philadelphia, PA</pubPlace>), <date>January 27, 1798</date></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><title type="main" rend="center">Gallic Ode.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> Published in <emph rend="italic">Philadelphia Minerva</emph> [Philadelphia, PA]
+                  (January 27, 1798). Lines 1-2 in "Gallic Ode" are taken, verbatim, from “Ode
+                  VI” in <emph rend="italic">Poetical Essays</emph> (1788) p.
+            163, lines 1-2; line 3 is a revised version of line 3 in "Ode VI": "Boreas, sury and unkind."</note></title></head>
+
+         <div1 type="stanza">
+            <head rend="center">Bard</head>
+            <lg>
+               <l rend="indent">Wintry winds the forests bend,</l>
+               <l>Leaves in rustling show’rs descend,</l>
+               <l>Boreas<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                        rend="super">2</emph> God of the North wind.</note> with his surly
+                  train,</l>
+               <l>Rages o’er the foaming main,</l>
+               <l n="5">Rolling billows lash the shores,</l>
+               <l>Loud and long the thunder roars.</l>
+               <l>Swift driving to the rugged coast,</l>
+               <l>With dreadful crash the bark is toss’d;</l>
+               <l>The canvas parted from the mast,</l>
+               <l n="10">Hangs tatter’d bellying in the blast;</l>
+               <l>Each gloomy cavern round replies,</l>
+               <l>Repeating loud the seamen’s cries;</l>
+               <l>Blue the dismal lightnings flash,</l>
+               <l>Falling woods tremendous crash;</l>
+               <l n="15">From the Rock’s stupendous height,</l>
+               <l>The torrent roars in all its might,</l>
+               <l>And it its rapid progress sweeps,</l>
+               <l>Flocks, herds and shepherds to the deeps,</l>
+               <l>Plunging in the sullen flood, </l>
+               <l n="20">The dying trav’ller shrieks aloud.</l>
+               <l>Midnight ghosts their rites perform,</l>
+               <l>Riding majestic on the storm;</l>
+               <l>By the winding valley’s stream,</l>
+               <l>Horrid the red-wing’d meteors gleam,</l>
+               <l n="25">And from her seat obscene and foul,</l>
+               <l>Harsh screams the filthy boding owl.</l>
+               <l>Some mighty chief in arms renown’d</l>
+               <l>Shall fall and seek his native ground,</l>
+               <l>Shall sleep amid the battle’s roar,</l>
+               <l n="30">And join the strife of shields no more. </l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head>Chief.</head>
+            <lg>
+               <l rend="indent">Send round the shell!<emph rend="super">3</emph><note type="gloss"
+                     place="bottom"><emph rend="super">3</emph> Drinking whisky out of small scallop
+                     shells; see, e.g., <emph rend="italic">Fingal</emph>, Book V in Gaskell, <emph
+                        rend="italic">The Poems of Ossian and Related Works</emph> (Edinburgh:
+                     Edinburgh UP, 1996), p. 92.</note> the feast prolong</l>
+               <l>Strike strike the harp and strike it strong,</l>
+               <l>Though on the lofty castle’s height,</l>
+               <l>The turrets totter with the night,</l>
+               <l n="35">Though winds and foaming billows howl,</l>
+               <l>Tho’ meteors gleam and screams the owl,</l>
+               <l>Tho’ yawning graves all open’d wide,</l>
+               <l>Let forth their shrouded ghosts to glide.</l>
+               <l>Secure within this ample roof,</l>
+               <l n="40">Against the ruthless season proof;</l>
+               <l>Let us the present hour employ,</l>
+               <l>And give the night to love and joy,</l>
+               <l>Fill high the shell and send it round,</l>
+               <l>Let the lofty roof resound,</l>
+               <l n="45">With mirth and song and jovial feast,</l>
+               <l>And cheer the stranger and the guest.</l>
+               <l>To-morrow’s sun, if battle call,</l>
+               <l>May see the brave and might fall,</l>
+               <l>To-day we’ve fought; our mighty foes,</l>
+               <l n="50">With chiefs of other years repose.</l>
+               <l>From danger safe at battle’s eve,</l>
+               <l>How sweet the banquet to the brave.</l>
+               <l>Then haste! the joy of shells prepare,</l>
+               <l>Drink oblivion of your care;</l>
+               <l n="55">Let the pleasing tales be told,</l>
+               <l>Of war and mighty men of old,</l>
+               <l>To admiring youths proclaim,</l>
+               <l>Fingal’s deeds and Ossian’s fame.<emph rend="super">4</emph><note type="gloss"
+                     place="bottom"><emph rend="super">4</emph> A genearlized allusion to
+                     Macpherson’s Ossian. </note></l>
+               <l>Let pale fear alone controul,</l>
+               <l n="60">The trembling fear of little soul!</l>
+            </lg>
+         </div1>
+      </body>
+   </text>
+</TEI>

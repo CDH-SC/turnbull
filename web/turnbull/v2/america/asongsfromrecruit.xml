@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Songs from <emph rend="italic">The
+                     Recruit</emph></title>, in <title><emph rend="italic">Columbian Herald and New
+                     Daily Advertiser</emph></title> (<pubPlace>Charleston</pubPlace>,
+                  <date>February 19, 1796</date>).</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div>
+            <p><emph rend="italic">The following Songs are in the Musical Interlude of the Recruit,
+                  written by Mr. Turnbull, of the Church-street Theatre, and performed for his
+                  Benefit on Saturday Evening last.</emph></p>
+         </div>
+      </front>
+      <body>
+
+
+
+         <div type="section">
+            <head rend="center"><title type="main">Song I.<emph rend="super">1</emph><note
+                     type="head" place="bottom"><emph rend="super">1</emph> First published as "Song
+                     III" in <emph rend="italic">Poetical Essays</emph>, (1788), pp. 216-217 ; reprinted in <emph
+                        rend="italic">Poems</emph> (1794), pp. 38-39, as the first song in Turnbull’s comedy
+                        <emph rend="italic">The Recruit</emph>, first performed at the Dumfries
+                     Theater, January 1794; and again with the songs from <emph rend="italic">The
+                        Recruit</emph> in <emph rend="italic">Columbian Herald and New Daily
+                        Advertiser</emph> [Charleston, SC] (February 19, 1796).
+               </note></title></head>
+            <note rend="center">Tune. <emph rend="italic">The mucking o’ Geordie’s byre.</emph><emph
+                  rend="super">2</emph></note>
+            <note type="gloss" place="bottom"><emph rend="super">2</emph> The air Turnbull used,
+               “The Muckin’ o’ Geordie’s Byre,” had appeared in <emph rend="italic">Orpheus
+                  Caledonius</emph> (1733), no. 33; <emph rend="italic">Caledonian Pocket
+                  Companion</emph>, II (1745), p. 35; and (with earlier words) in Johnson, <emph
+                  rend="italic">Scots Musical Museum</emph>, I (1787), no. 96; it was also used
+               later by Burns for his song “Adown winding Nith I did wander” (Kinsley II:701),
+               published in Thomson, <emph rend="italic">Select Collection of Original Scotish
+                  Airs</emph>, II: set 3 (1799), song 66. <emph rend="italic">The Recruit</emph> was
+               first performed for Turnbull’s benefit performance in Dumfries in January, 1794. It
+               was staged at the City Theatre, Church Street, Charleston, again for Turnbull’s
+               benefit night, on March 11, 1796, and again at the Charleston Theatre, Broad Street,
+               Charleston, on May 30, 1807.</note>
+
+
+            <lg>
+               <head rend="center">I.</head>
+               <l>Ye lads that are plaguet wi’ lasses,</l>
+               <l rend="indent">Had need to be tenty<emph rend="super">3</emph><note type="gloss"
+                     place="bottom"><emph rend="super">3</emph>
+                     <emph rend="italic">adj.</emph> attentive.</note> and slie,</l>
+               <l>Or soon ye’ll be guidet like asses,</l>
+               <l rend="indent">Gif ye be as silly as me.</l>
+               <l n="5">I courtet a lassie for siller,<emph rend="super">4</emph><note type="gloss"
+                     place="bottom"><emph rend="super">4</emph>
+                     <emph rend="italic">n.</emph> silver.</note></l>
+               <l rend="indent">And she was right saucy and sprie;</l>
+               <l>But ’gin I was buckl’d until her,</l>
+               <l rend="indent">The fient a scrap siller had she.</l>
+            </lg>
+
+
+
+            <lg>
+               <head rend="center">II.</head>
+               <l>But kent ye the way how I gat her,</l>
+               <l n="10" rend="indent">Ye’d say it was cunning o’ me;</l>
+               <l>The chiels a’ gaed wood to be at her,</l>
+               <l rend="indent">Sae cadgie<emph rend="super">5</emph><note type="gloss"
+                     place="bottom"><emph rend="super">5</emph>
+                     <emph rend="italic">adj.</emph> cheerful.</note> the siller to see:</l>
+               <l>But I gied her something to carry,</l>
+               <l rend="indent">A sure memorandum to be,</l>
+               <l n="15">And syne she consentet to marry,</l>
+               <l rend="indent">And wad hae nae ither but me. </l>
+            </lg>
+
+
+            <lg>
+               <head rend="center">III.</head>
+               <l>In a doop<emph rend="super">6</emph><note type="gloss" place="bottom"><emph
+                        rend="super">6</emph> In a moment (Jamieson, <emph rend="italic"
+                        >Etymological Dictionary of the Scots Langauge</emph>).</note> she began to
+                  grow wally,<emph rend="super">7</emph><note type="gloss" place="bottom"><emph
+                        rend="super">7</emph>
+                     <emph rend="italic">adj.</emph> plump, big, buxom strong; in this case,
+                     pregnant.</note></l>
+               <l rend="indent">The neebours a’ fairli’t to see;</l>
+               <l>But I kent the reason fu’ brawly,<emph rend="super">8</emph><note type="gloss"
+                     place="bottom"><emph rend="super">8</emph> Very well.</note></l>
+               <l n="20" rend="indent">Wha soon was a daddy to be.</l>
+               <l>And when the black cutty<emph rend="super">9</emph><note type="gloss"
+                     place="bottom"><emph rend="super">9</emph>
+                     <emph rend="italic">n.</emph> horse or mare of two years of age.</note> we
+                  mountet,</l>
+               <l rend="indent">Her lads a’ leugh hearty at me;</l>
+               <l>But O how my courage was bluntet,</l>
+               <l rend="indent">When fient a scrap siller had she.</l>
+            </lg>
+         </div>
+         <div type="section">
+            <head rend="center"><title type="main">Song II.<emph rend="super">10</emph><note
+                     type="head" place="bottom"><emph rend="super">10</emph> First published in
+                        <emph rend="italic">Poems</emph> (1794), pp. 39-40, as part of Turnbull’s
+                     comedy <emph rend="italic">The Recruit</emph>, first performed at
+                     the Dumfries Theater, January 1794 and sung by the character of the Serjeant,
+                     i.e. Mr. Shaw; subsequently reprinted with the songs from <emph rend="italic"
+                        >The Recruit</emph> in <emph rend="italic">Columbian Herald and New Daily
+                        Advertiser</emph> [Charleston, SC] (February 19,
+               1796).</note></title></head>
+
+
+
+            <lg>
+               <head rend="center">I.</head>
+               <l>My friends, unfeelingly, condemn</l>
+               <l rend="indent">My passion for my Polly;<emph rend="super">11</emph><note
+                     type="gloss" place="bottom"><emph rend="super">11</emph> Name of the herione in
+                     John Gay's <emph rend="italic">The Beggar's Opera</emph> (1728), first performed at
+                     Lincoln's Inn Theater in 1728 and frequently re-staged throughout the
+                     eighteenth century, and titular character in Gay's sequel, <emph rend="italic"
+                        >Polly</emph> (1729), first performed at the Haymarket Theatre in 1777.</note></l>
+               <l>They mock my sighs, and bid me leave</l>
+               <l rend="indent">This am’rous melancholy.</l>
+               <l n="5">Ah no, no, no, these sighs alone</l>
+               <l rend="indent" n="30">My tender flame discover!</l>
+               <l>Ah no, no, no, these sighs alone</l>
+               <l rend="indent">Declare how much I love her! </l>
+            </lg>
+
+            <lg>
+               <head rend="center">II.</head>
+               <l>The chearful glass, the jovial crew,</l>
+               <l rend="indent" n="10">That were my pleasure wholly,</l>
+               <l>No more can ease this aching heart</l>
+               <l rend="indent">That burns for thee, my Polly.</l>
+               <l>Ah no, no, no, these sighs alone</l>
+               <l rend="indent">My tender flame discover!</l>
+               <l n="15">Ah no, no, no, these sighs alone</l>
+               <l rend="indent">Declare how much I love her!</l>
+            </lg>
+
+
+
+            <lg>
+               <head rend="center">III.</head>
+               <l>Forbear, unfeeling men, to rail,</l>
+               <l rend="indent">Nor call my passion folly;</l>
+               <l>I’d sooner die, than cease to love</l>
+               <l rend="indent" n="20">My dear, my charming Polly.</l>
+               <l>Ah no, no, no, these sighs alone</l>
+               <l rend="indent">My tender flame discover!</l>
+               <l>Ah no, no, no, these sighs alone</l>
+               <l rend="indent">Declare how much I love her !</l>
+            </lg>
+         </div>
+         <div type="section">
+            <head rend="center"><title type="main">Song IV.<emph rend="super">12</emph><note
+                     type="head" place="bottom"><emph rend="super">12</emph> First published in
+                        <emph rend="italic">Poems</emph> (1794), p. 42, as part of Turnbull’s
+                     comedy <emph rend="italic">The Recruit</emph>, first performed at the
+                     Dumfries Theater, January 1794 and sung by the character of the Drummer, i.e., Mr.
+                     O’Neil; subsequently reprinted with the songs from <emph rend="italic">The
+                        Recruit</emph> in <emph rend="italic">Columbian Herald and New Daily
+                        Advertiser</emph> [Charleston, SC] (February 19,
+               1796).</note></title></head>
+
+
+
+            <lg>
+               <head rend="center">I.</head>
+               <l>The youth who is handsome, courageous and wise,</l>
+               <l rend="indent">Will poverty, bardship, and labor despise;</l>
+               <l>The spade and the cart, the flail and teh plough, </l>
+               <l rend="indent">He'll leave when he hears our row-de-dow-dow!</l>
+
+            </lg>
+
+            <lg>
+               <head rend="center">II.</head>
+               <l n="5">The lad who's in love, and his sweatheart unkind,</l>
+               <l rend="indent">Let him cast all his cares at his back to the wind;</l>
+               <l>Nor to a coy mistress contentedly bow,</l>
+               <l rend="indent">But leave her at once for our row-de-dow-dow!</l>
+
+            </lg>
+
+
+
+            <lg>
+               <head rend="center">III.</head>
+               <l>The man who is tied up in wedlock's close noose,</l>
+               <l rend="indent" n="10">May quickly get rid of a termagant spouse;</l>
+               <l>Let her bellow and scold, the best he can do</l>
+               <l rend="indent">Is, to leave her at once for our row-de-dow-dow!</l>
+
+            </lg>
+         </div>
+         <div type="section">
+            <head rend="center"><title type="main">Finale.<emph rend="super">13</emph><note
+                     type="head" place="bottom"><emph rend="super">13</emph> First published in
+                        <emph rend="italic">Poems</emph> (1794), pp. 46-47, as part of Turnbull’s
+                     comedy <emph rend="italic">The Recruit</emph>, first performed at the
+                     Dumfries Theater, January 1794 and sung by the characters of Sampson, i.e.,
+                     Turnbull, the Drummer, i.e., Mr. O’Neil, Polly, i.e., Miss Harley, and the Serjeant,
+                     i.e., Mr. Shaw; subsequently reprinted with the songs from <emph rend="italic"
+                        >The Recruit</emph> in <emph rend="italic">Columbian Herald and New Daily
+                        Advertiser</emph> [Charleston, SC] (February 19,
+               1796).</note></title></head>
+
+
+
+            <lg>
+               <head rend="center">Sampson.</head>
+               <l>Now, Nell, since we're ance mair agreed,</l>
+               <l rend="indent">I'll to my mending soals wi' speed;</l>
+               <l>Mind you yer wheel--and as for you,</l>
+               <l rend="indent">You've got the lad with the row, dow, dow!</l>
+
+            </lg>
+
+            <lg>
+               <head rend="center">Drummer.</head>
+               <l n="5">Old boy, be wise and mind your trade,</l>
+               <l rend="indent">And, Nell, let that curs'd tongue be laid,</l>
+               <l>Lest ye provoke him, when he's fou',</l>
+               <l rend="indent">To follow the lads with the row-de-dow-dow!</l>
+
+            </lg>
+
+
+
+            <lg>
+               <head rend="center">Polly.</head>
+               <l>Then, farewel, mam, and farewel dad!</l>
+               <l rend="indent" n="10">I'll march along with my soldier lad;</l>
+               <l>Love gives teh word, and our hearts beat true</l>
+               <l rend="indent">With mutual joy, a row-de-dow-dow!</l>
+
+            </lg>
+            <lg>
+               <head rend="center">Serjeant.</head>
+               <l>In peace, or war, whate'er betide,</l>
+               <l rend="indent">With such a sweet and charming bride</l>
+               <l n="15">I'm bless'd for life--and chear'd by you,</l>
+               <l rend="indent">I'll boldly march to the a row-de-dow-dow!</l>
+
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Epistle. To Delia.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="171" to="173">171-173</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="title"><title type="main">Epistle To Delia.<emph rend="super">1, </emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> First published in <emph
+                     rend="italic">Poetical Essays</emph> (1788), pp. 171-173.</note><emph rend="super">2</emph><note type="gloss"
+                  place="bottom"><emph rend="super">2</emph> Alternative name for Artemis or Diana.
+                  Alastair Fowler comments that Delia was often used to denote purity. See <emph
+                     rend="italic">Literary Names</emph> (Oxford: Oxford UP, 2012,
+               p. 44).</note></title></head>
+         <epigraph rend="center">
+            <l><emph rend="high">What I blush’d to speak love made me write</emph></l>
+         </epigraph>
+         <bibl rend="center">Ovid.<emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                  rend="super">3</emph> Thomas Otway, <emph rend="italic">Phaedra to
+                  Hippolytus</emph> in <emph rend="italic">Ovid’s Epistles</emph> (Dublin: 1727),
+               p. 132. </note></bibl>
+         <lg>
+            <l>Read o’er these lines, which faithfully impart</l>
+            <l>The secret dictates of an am’rous heart,</l>
+            <l>A heart, till now, from love’s contagion free,</l>
+            <l>And never mov’d, my Delia, but by thee:</l>
+            <l n="5">For, who could look on such a beauteous maid,</l>
+            <l>And not be with the mighty charm betray’d?</l>
+         </lg>
+         <lg>
+            <l rend="indent">Never did swain such liberty possess,</l>
+            <l>Or feel the pow’r of female beauty less;</l>
+            <l>I saw them fair, impartial was the view,</l>
+            <l n="10">For none had pow’r my passion to subdue.</l>
+            <l>I mock’d each anxious lover when he sigh’d,</l>
+            <l>The Paphian God<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                     rend="super">4</emph> Aphroditus, God of love; hermaphroditic form of Aphrodite
+                  who was said to have landed at Paphos when she rose from the sea.</note> and all
+               his shafts defy’d,</l>
+            <l>Who, to avenge his slighted deity,</l>
+            <l>Has punish’d Damon<emph rend="super">5</emph><note type="gloss" place="bottom"><emph
+                     rend="super">5</emph> Virgilian pastoral name found in <emph rend="italic"
+                     >Eclogue</emph> 8. Cf. also Milton, “Epitaphium Damonis,” in <emph
+                     rend="italic">Poems</emph> (1645).</note> with a sight of thee.</l>
+         </lg>
+
+         <lg>
+            <l n="15" rend="indent">Confider, Delia, how my lab’ring breast</l>
+            <l>Has struggl’d, and the raging flame supprest,</l>
+            <l>When love the secret urg’d me to declare,</l>
+            <l>Then youth and modesty would cry forbear.</l>
+            <l>Sometimes the words in sad suspension hung,</l>
+            <l n="20">And fault’ring accents dy’d upon my tongue,</l>
+            <l>Soft heaving sighs declare my inward pain,</l>
+            <l>And rising blushes all my thoughts explain,</l>
+            <l>My eyes, my looks, the fond emotions prove,</l>
+            <l>For eyes are sure interpreters of love.</l>
+         </lg>
+
+         <lg>
+            <l n="25" rend="indent">Have you not seen, what all with ease may see,</l>
+            <l>The obvious change which love has made on me;</l>
+            <l>An obvious change, for now, alas! no more</l>
+            <l>I boast the freedom which I had before;</l>
+            <l>No more the sports which other youths pursue,</l>
+            <l n="30">Can yield delight, since made a slave by you;</l>
+            <l>From all my dear companions I remove,</l>
+            <l>And seek the silent solitary grove,</l>
+            <l>Where ev’ry flow’r, and ev’ry spreading tree,</l>
+            <l>Can witness well the woes I bear for thee.</l>
+         </lg>
+
+         <lg>
+            <l n="35" rend="indent">No more with charms the rising morn appears,</l>
+            <l>The radiant day a gloomy aspect wears,</l>
+            <l>With tardy pace the joyless moments flow,</l>
+            <l>And ling’ring Phœbus<emph rend="super">6</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">6</emph> God of light or the sun.</note> lengthens out my
+               wo.</l>
+            <l>Soon as the dusky shades of night return,</l>
+            <l n="40">My flames increase, with double rage I burn;</l>
+            <l>Then, wand’ring under Phœbe’s silver ray,</l>
+            <l>Through gloomy shades, I take my lonely way;</l>
+            <l>Or, if the drowsy God my eye-lids close,</l>
+            <l>Thy beauteous image haunts my short repose:</l>
+            <l n="45">Auspicious vision, folded in thy arms,</l>
+            <l>I lie entranc’d, and gaze upon thy charms;</l>
+            <l>Thy words I hear, thy melting kisses feel,</l>
+            <l>And joys which language never can reveal.</l>
+         </lg>
+
+         <lg>
+            <l rend="indent">Pity my pains, bright charmer, and bestow</l>
+            <l n="50">Relief, to one oppress’d with mighty wo;</l>
+            <l>Wo, which the pow’rs of language can’t express,</l>
+            <l>Nor can the frantic suff’rer with them less,</l>
+            <l>Excuse the freedom which you can’t approve,</l>
+            <l>Great is th’ indulgence that is due to love. </l>
+         </lg>
+
+
+      </body>
+   </text>
+</TEI>

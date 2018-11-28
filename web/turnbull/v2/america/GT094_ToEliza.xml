@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>"To Eliza."</title>
+               <title><emph rend="italic">Columbian Herald and New Daily Advertiser</emph></title>
+                  (<pubPlace>Charleston, SC</pubPlace>), <date>June 13, 1796</date></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><title type="main" rend="center"><emph rend="italic">To Eliza.</emph><emph
+                  rend="super">1</emph><note type="head" place="bottom"><emph rend="super">1</emph>
+                  Published in <emph rend="italic">Columbian Herald and New Daily Advertiser</emph>
+                  [Charleston, SC] (June 13, 1796). Turnbull had previously used the name Eliza in
+                  "Pastoral," printed in <emph rend="italic">Columbian Herald and New Daily
+                     Advertiser</emph> [Charleston, SC] (April 26, 1796). </note></title></head>
+
+
+         <lg type="stanza">
+            <l>From virtue if the virgin stray,</l>
+            <l>And yield her heart an easy prey</l>
+            <l>To the lewd voice of guilty love,</l>
+            <l>What can her infamy remove?</l>
+            <l n="5">The youth intemp'rance may allure,</l>
+            <l>And riot mark his midnight hour;</l>
+            <l>Yet age and reason may controul,</l>
+            <l>The passions that debauch’d his soul,</l>
+            <l>And he, returning, fix his fame</l>
+            <l n="10">Secure, and boast a spotless name;</l>
+            <l>But she, wrong’d maid, despised by all,</l>
+            <l>Can never once retrieve her fall!</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Her life, in shameful pleasure spent,</l>
+            <l>Yields her no peace no sweet content;</l>
+            <l n="15">The scorn of all the virgin train,</l>
+            <l>Her guilty footsteps they disdain;</l>
+            <l>By parents shun’d, by friends despised,</l>
+            <l>By none who boast their honor priz'd—</l>
+            <l>Even he who wrought her foul disgrace,</l>
+            <l n="20">Disgusted, leaves her loath’d embrace:</l>
+            <l>Her youth is gone, her beauty flies,</l>
+            <l>In pain she lives, unmourn'd she dies!</l>
+            <l>No husband o’er her silent urn</l>
+            <l>Reclines, his faithful mate to mourn;</l>
+            <l n="25">No father pays his pious care.</l>
+            <l>No weeping mother wanders there;</l>
+            <l>No friendly willows o’er her grave</l>
+            <l>Their drooping boughs in sorrow wave;</l>
+            <l>No pensive maiden deck her tomb</l>
+            <l n="30">With true—love flow’rs of early bloom:</l>
+            <l>Near this sad place no tender dove,</l>
+            <l>In plaintive strains, laments her love:</l>
+            <l>But from the blasted leafless oak,</l>
+            <l>Owls scream, and boding raven croak;</l>
+            <l n="35">Chaste love and honor fly the place</l>
+            <l>Where sleeps the object of disgrace!</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Beware Eliza, then beware!</l>
+            <l>And eager than the subtil snare</l>
+            <l>Of man’s deceitful, honey’d tongue,</l>
+            <l n="40">That lures the heedless and the young,</l>
+            <l>To follow pleasure’s flow'ry maze,</l>
+            <l>And lead the heart from Virtue’s ways:</l>
+            <l>A virgin’s fame’s her chiefest boast,</l>
+            <l>That gone, her peace, her soul is lost!</l>
+         </lg>
+
+      </body>
+   </text>
+</TEI>

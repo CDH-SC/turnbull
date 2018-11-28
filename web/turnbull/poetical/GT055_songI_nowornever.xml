@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Song I.</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope
+                  unit="page" from="213" to="213">213</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Song I.<emph rend="super">1</emph><note type="head"
+                  place="bottom"><emph rend="super">1</emph> First published in <emph rend="italic"
+                     >Poetical Essays</emph> (1788), p. 213.</note></title></head>
+         <note rend="center">Tune. <emph rend="italic">Now or never.</emph><emph rend="super"
+               >2</emph></note>
+         <note type="gloss" place="bottom"><emph rend="super">2</emph> Unidentified.</note>
+         <div1 type="stanza">
+            <head rend="center">I.</head>
+            <lg>
+               <l>Why will you thus my passion scorn,</l>
+               <l rend="indent">And will you love me never?</l>
+               <l>Will you not grant a kind return?</l>
+               <l rend="indent">O do, my dear, be clever. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">II.</head>
+            <lg>
+               <l n="5">Let other youths protest and vow,</l>
+               <l rend="indent">And be your slaves for ever;</l>
+               <l>’Tis what I’ll always scorn to do:</l>
+               <l rend="indent">So pray, my dear, be clever.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">III.</head>
+            <lg>
+               <l>Those blushing cheeks will soon turn pale,</l>
+               <l n="10" rend="indent">Those eyes no shafts deliver,</l>
+               <l>Then, Chloe,<emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                        rend="super">3</emph> Character in a Greek pastoral romance, <emph
+                        rend="italic">Daphnis and Chloe</emph>, often attributed to Longus; Cf.
+                     Alexander Pope, <emph rend="italic">Moral Essays</emph>, ii.157 and Matthew
+                     Prior, “Answer. To Chloe Jealous” in <emph rend="italic">Poems on Several
+                        Occasions</emph> (1707). </note> ev’ry art will fail,</l>
+               <l rend="indent">So pray, my dear, be clever. </l>
+            </lg>
+         </div1>
+
+
+      </body>
+   </text>
+</TEI>

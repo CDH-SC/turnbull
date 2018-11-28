@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Sale of Stationary Ware, at Buchanan’s
+                  Head, K*******ck.</title>, in <title>Poetical Essays,</title>
+                  (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope unit="page"
+                  from="181" to="185">181-185</biblScope></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Sale of Stationary Ware, at Buchanan’s Head,
+                  K*******ck.<emph rend="super">1, </emph><note type="head" place="bottom"><emph
+                     rend="super">1</emph> First published in <emph rend="italic">Poetical Essays
+                  </emph>(1788), pp. 181-185. James Paterson comments that “Who the ‘man of all wares’
+                  ... was, we have not ascertained, nor can our friends in Kilmarnock remember any
+                  house or shop having the sign of ‘Buchanan’s Head’” (Paterson, <emph rend="italic"
+                     >Contemporaries of Burns</emph>, p. 109). The shop-sign presumably featured a
+                  portrait of the learned Renaissance Scottish neo-Latin poet George Buchanan
+                  (1506-1583). In the 1720s and 1730s, “Buchanan’s Head” had been the shop-sign (and
+                  imprint) for the London shop of two Scottish bookseller, James McEuen, and his
+                  more famous successor Andrew Millar, publisher of James Thomson.</note><emph rend="super">2</emph><note
+                  type="gloss" place="bottom"><emph rend="super">2</emph>
+            Kilmarnock.</note></title></head>
+
+
+         <lg>
+            <l>“To a the Warle be it kend,”</l>
+            <l>That I by Auction do intend</l>
+            <l>Great routh o’ Goods and Geer to vend,</l>
+            <l rend="indent2">At lowest price;</l>
+            <l n="5">Sae, pray good people, all attend</l>
+            <l rend="indent2">If ye be wise.</l>
+         </lg>
+
+
+         <lg>
+            <l rend="indent">Imprimis,<emph rend="super">3</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">3</emph>
+                  <emph rend="italic">adv.</emph> Latin meaning firstly; used to introduce a list of
+                  items.</note> then, I can content ye,</l>
+            <l>Wi’ learned Books, and Bibles plenty,</l>
+            <l>Gilt on the backs, and bound right dainty,</l>
+            <l n="10" rend="indent2">In good ca’f sheep:</l>
+            <l>Glow’r at them weil, and I’s indent ye</l>
+            <l rend="indent2">Shall buy them cheap.</l>
+         </lg>
+
+         <lg>
+            <l rend="indent">The rev’rend Brethren o’ the band,</l>
+            <l>May hae whatever they demand,</l>
+            <l n="15">And, they wha like, I winna stand,</l>
+            <l rend="indent2">To sell or niffer;<emph rend="super">4</emph><note type="gloss"
+                  place="bottom"><emph rend="super">4</emph> <emph rend="italic">v.</emph> swap or barter.</note></l>
+            <l>Bring goods or siller i’ yer hand,</l>
+            <l rend="indent2">We winna differ,</l>
+         </lg>
+
+
+         <lg>
+            <l rend="indent">The Wit and Scholar here may find,</l>
+            <l n="20">A’ that can please a learned mind,</l>
+            <l>As, Robin Hood, and Captain Hind,<emph rend="super">5</emph><note type="gloss"
+                  place="bottom"><emph rend="super">5</emph> James Hind (c. 1616-1652), royalist
+                  soldier and highwayman; hero in at least thirteen extant chapbooks. <emph
+                     rend="italic">Hind’s Ramble</emph> (1651) cemented his image as a staunch
+                  royalist, depicting him as abetting in the “Scotch King[’s]” escape, i.e., Charles
+                  II—a depiction Hind, while imprisoned, denied in <emph rend="italic">The True and
+                     Perfect Relation</emph> (1651). In September 1652 Hind was executed for
+                  treason.</note></l>
+            <l rend="indent2">And other sparks;</l>
+            <l>But, what leaves a’ the rest behind,</l>
+            <l rend="indent2">My Father’s Warks.<emph rend="super">6</emph>
+               <note type="gloss" place="bottom"><emph rend="super">6</emph>[GT's note: Hymns and
+                  Spiritual Songs.] May refer to the collections by Isaac Watts (1707-1709, but
+                  frequently reprinted) or by John and Charles Wesley (1753), or perhaps to a local
+                  collection of this title recently printed by Turnbull’s own publisher David Niven
+                  for a congregation in Grammar-School Wynd, Glasgow.</note></l>
+         </lg>
+
+
+         <lg>
+            <l n="25" rend="indent">The Book of Knowledge, that can tell</l>
+            <l>A’ things in heav’n, in earth, and hell;</l>
+            <l>Wi’ Hocus Pocus, magic spell,</l>
+            <l rend="indent2">For greedy rooks;</l>
+            <l>To ragged Chapmen too, I sell</l>
+            <l n="30" rend="indent2">Cheap Question Books.</l>
+         </lg>
+         <lg>
+            <l rend="indent">I’ve Wax and Wafers, Ink and Quills,</l>
+            <l>And best o’ Paper frae the mills,</l>
+            <l>For bundles, bumfodder<emph rend="super">7</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">7</emph>
+                  <emph rend="italic">n.</emph> worthless literature.</note> or bills,</l>
+            <l rend="indent2">For book or letter,</l>
+            <l n="35">There’s nane sae good; cheap, cheap it sells,</l>
+            <l rend="indent2">For ready<emph rend="super">8</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">8</emph>
+                  <emph rend="italic">n.</emph> cash.</note></l>
+         </lg>
+
+
+         <lg>
+            <l rend="indent">But what’s of a’ the rarest show,</l>
+            <l>My Pictures, rang’d in seemly row;</l>
+            <l>Here twelve good Rules, which we should know;</l>
+            <l n="40" rend="indent2">There Captain Bluff;<emph rend="super">9</emph><note
+                  type="gloss" place="bottom"><emph rend="super">9</emph> Cowardly braggart and
+                  spurious veteran of campaigns fought in the Low Countries; see William Congreve’s
+                     <emph rend="italic">Old Bachelor</emph> (1693).</note></l>
+            <l>Here Peeping Tom, and down below </l>
+            <l rend="indent2">Stands Jamie Duff.<emph rend="super">10</emph>
+               <note type="gloss" place="bottom"><emph rend="super">10</emph> The picture
+                  (engraving) that the Kilmarnock bookshop was offering for sale in the Kilmarnock
+                  bookshop was on of John Kay’s Edinburgh portraits. Jamie (or “Baillie”) Duff, who
+                  died in 1788, was a well-known Edinburgh eccentric who joined in local funeral
+                  processions, dressed in mourning, later adding a cheap gilt chain and awarding
+                  himself the title of Baillie: see James Paterson and James Maidment, <emph
+                     rend="italic">Kay’s Edinburgh Portraits</emph>, 2 vols. (London: Hamilton,
+                  Adams; Glasgow: Morison, 1885), I: pp. 18-20.</note></l>
+         </lg>
+
+
+         <lg>
+            <l rend="indent">I’ve China-ware, baith gilt and plain,</l>
+            <l>Of which the Ladies are right fain; </l>
+            <l n="45">And, to drink punch, or yet champaign,</l>
+            <l rend="indent2">Weil polish’d Glasses;</l>
+            <l>And something else, I’ll no explain,</l>
+            <l rend="indent2">For bonny Lasses.</l>
+         </lg>
+
+
+         <lg>
+            <l rend="indent">I’ve Heucks,<emph rend="super">11</emph>
+               <note type="gloss" place="bottom"><emph rend="super">11</emph>
+                  <emph rend="italic">n.</emph> sickles, or perhaps scythes.</note>to sheer the
+               harvest corn;</l>
+            <l n="50">Good Cudgels, made of varnish’d thorn;</l>
+            <l>Rare Spluchans,<emph rend="super">12</emph>
+               <note type="gloss" place="bottom"><emph rend="super">12</emph>
+                  <emph rend="italic">n.</emph> tobacco-pouches.</note> ance by sea-dogs worn,</l>
+            <l rend="indent2">And wyllie foxes;</l>
+            <l>Braw Sneeshing-mills,<emph rend="super">13</emph>
+               <note type="gloss" place="bottom"><emph rend="super">13</emph>
+                  <emph rend="italic">n.</emph> snuff box (sneezing mull).</note> o’ brass and
+               horn;</l>
+            <l rend="indent2">And Barber’s Boxes.</l>
+         </lg>
+
+
+         <lg>
+            <l n="55" rend="indent">I hae Pomatum for the hair;</l>
+            <l>Good plated Buckles, round and square;</l>
+            <l>I hae Black-ball, the choicest ware</l>
+            <l rend="indent2">E’er gaed on leather;</l>
+            <l>I’ve Hoops and Rings, and Ribbons rare,</l>
+            <l n="60" rend="indent2">And a’ thegither.</l>
+         </lg>
+
+
+         <lg>
+            <l rend="indent">The chiel that’s hardly worth a groat,</l>
+            <l>May be provided wi’ a Coat</l>
+            <l>At second hand, and no ae jot</l>
+            <l rend="indent2">The war o’ wear;</l>
+            <l n="65">Auld Breeks and Waistcoats may be got,</l>
+            <l rend="indent2">And Bonnets here.</l>
+         </lg>
+
+
+         <lg>
+            <l rend="indent">I’ve Whips, and Spurs, and Bits for bridles;</l>
+            <l>Clear plated Stirrup-Ir’ns for saddles;</l>
+            <l>Therm-strings<emph rend="super">14</emph>
+               <note type="gloss" place="bottom"><emph rend="super">14</emph>
+                  <emph rend="italic">n.</emph> thairm or catgut cord.</note> for spinning wheels,
+               and fiddles;</l>
+            <l n="70" rend="indent2">And, may be soon,</l>
+            <l>I’ll hae good Pats, and Pans, and Ladles,</l>
+            <l rend="indent2">Or a’ be done. </l>
+         </lg>
+
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Ode V. To Morpheus.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="161" to="162">161-162</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Ode V. To Morpheus.<emph rend="super">1,
+                  </emph><note type="head" place="bottom"><emph rend="super">1</emph> First
+                  published in <emph rend="italic">Poetical Essays</emph> (1788),
+                  pp. 161-162.</note><emph rend="super">2</emph><note type="gloss" place="bottom"><emph rend="super">2</emph> Greek
+                  god of dreams.</note></title></head>
+         <epigraph rend="center">
+            <lg>
+               <l rend="indent"><emph rend="italic">’Tis thine, O gentle God!</emph></l>
+               <l rend="indent"><emph rend="italic">To seal the weary eye of care,</emph></l>
+               <l rend="indent"><emph rend="italic"> Thy sleep compelling rod</emph></l>
+               <l><emph rend="italic">Can raise delightful dreams, and visions heav’nly
+                  fair.</emph></l>
+
+            </lg>
+         </epigraph>
+         <bibl rend="center">Anon.<emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                  rend="super">3</emph> Cf. “sleep-compelling rod,” in Dryden, <emph rend="italic"
+                  >Palemon and Arcite</emph>, line 550, but more closely, Turnbull, “To Laura” [ca.
+               1792], as given in the letter of Robert Burns to George Thomson, Oct. 29, 1793. Cf.
+               also “sleep that knits up the ravelled sleeve of care”: Shakespeare, <emph
+                  rend="italic">Macbeth</emph>, II:ii. 36.</note></bibl>
+
+         <div1 type="stanza" n="1">
+            <head rend="center">I.</head>
+            <lg>
+               <l>Gentle God of soft repose,</l>
+               <l rend="indent">Come, indulgent to my pray’r,</l>
+               <l>My still waking eye-lids close,</l>
+               <l rend="indent">Free my weary soul of care,</l>
+               <l n="5">Let thy pleasing visions rise,</l>
+               <l>Bring my Delia<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                        rend="super">4</emph> Name of Artemis or Diana, often used to denote purity
+                     (See <emph rend="italic">Literary Names</emph> [Oxford: Oxford UP, 2012],
+                     p. 44).</note> to my eyes.</l>
+            </lg>
+
+         </div1>
+         <div1 type="stanza" n="2">
+            <head rend="center">II.</head>
+
+            <lg>
+               <l>All the weary day I mourn,</l>
+               <l rend="indent">Love does ever tyrannize;</l>
+               <l>When the shades of night return,</l>
+               <l n="10" rend="indent">Sleep forsakes my weary eyes:</l>
+               <l>Lull me, gentle God, to rest,</l>
+               <l>Lay me on my Delia’s breast.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="3">
+            <head rend="center">III.</head>
+
+            <lg>
+               <l>Let the kind deluding dream,</l>
+               <l rend="indent">Lead me to delightful bow’rs;</l>
+               <l n="15">Lay me by a limpid stream,</l>
+               <l rend="indent">On a fragrant bed of flow’rs:</l>
+               <l>Gentle God, indulge my pray’r,</l>
+               <l>Let my Delia too be there.</l>
+            </lg>
+         </div1>
+
+      </body>
+   </text>
+</TEI>

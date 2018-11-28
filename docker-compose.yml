@@ -1,0 +1,37 @@
+################################################################################
+#                                     BOILER PLATE
+# Project: Turnbull
+# Description:
+#
+#
+# Technology Stack:
+# - PHP
+# -
+################################################################################
+version: "3.6"
+
+services:
+    # Main project container with PHP project
+    web:
+      build: docker-web/
+      volumes:
+        - type: bind
+          source: ./web
+          target: /var/www/html
+      expose:
+        - "80"
+      environment:
+        VIRTUAL_HOST: turnbull.dev-cdh.org
+        INDEX_DB_HOST: db:3308
+      container_name: turnbull_web
+      tty: true
+
+# Volume for storing the database between container builds
+volumes:
+  indexiuris_db_data:
+
+# A docker network for communicating with the Nginx-Proxy server
+networks:
+  default:
+    external:
+      name: nginx-proxy

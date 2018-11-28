@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Silvanus, or the Genius of Tiviot. A
+                  Fragment</title>, in <title>Poetical Essays,</title>
+               (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope unit="page" from="103"
+                  to="107">103-107</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Silvanus, or The Genius of Tiviot. A Fragment.<emph
+                  rend="super">1</emph><note type="head" place="bottom"><emph rend="super">1</emph>
+                  First published in <emph rend="italic">Poetical Essays</emph> (1788),
+                  pp. 103-107.</note></title></head>
+
+         <lg type="stanza" n="1">
+            <l>That fate how hard where genius is depress’d</l>
+            <l>By poverty, and hid in shades obscure;</l>
+            <l>The ardent flame that would with lustre shine</l>
+            <l>Bright and effulgent, as the solar beam,</l>
+            <l n="5">Is stifl’d and but shows a glimm’ring ray,</l>
+            <l>The patriotic mind, the hero’s flame,</l>
+            <l>The deeply searching philosophic sage,</l>
+            <l>And they who might have tun’d the Muses’ lyre</l>
+            <l>To strains seraphic, that would raise the heart</l>
+            <l n="10">To heav’nly transports and celestial joys,</l>
+            <l>Lie hid, obscure among the vulgar throng,</l>
+            <l>And waste their days in ignorant disguise.</l>
+         </lg>
+         <lg type="stanza" n="2">
+            <l rend="indent">Where rural Tiviot<emph rend="super">2</emph><note type="gloss"
+                  place="bottom"><emph rend="super">2</emph> The river Tiviot, or Teviot, originates
+                  in the Border hills of Selkirk before running into the river Tweed. </note> rolls
+               his silver waves</l>
+            <l>The verdant woods and rocky hills among,</l>
+            <l n="15">Whose airy summits, crown’d with tufted groves,</l>
+            <l>The half embrown’d and half in mantle green,</l>
+            <l>O’er-arch the rills that from their fountains flow</l>
+            <l>And murmur smoothly through the grassy dale,</l>
+            <l>T’ adorn the wild sequester’d fairy scene.</l>
+            <l n="20">There old Palemon<emph rend="super">3</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">3</emph> Variant of Palaemon, a pastoral shepherd in
+                  Virgil’s <emph rend="italic">Eclogue</emph> 3. Cf. Edmund Spenser’s <emph
+                     rend="italic">The Shephearde’s Calendar</emph> (1597) and James Thomson’s
+                  “Autumn” in <emph rend="italic">The Seasons</emph> (1730), lines 209-310.
+                  Thomson’s Lavinia-Palemon episode, drawn by William Hamilton, was one of three
+                  plates, apart from the allegorical figures of the seasons, included in John
+                  Murray’s 1778 illustrated edition of <emph rend="italic">The Seasons</emph>. See
+                  Cohen, <emph rend="italic">The Art of Discrimination</emph> (Berkeley and Los Angeles: UC Press,
+                  1964), p. 281. </note> dwelt, a simple swain,</l>
+            <l>Such as Arcadians<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                     rend="super">4</emph> Inhabitants of Arcadia, an ideal rustic setting and home
+                  of the god Pan.</note> were in golden times,</l>
+            <l>Of venerable aspect, sweet and mild;</l>
+            <l>Gray were the locks that round his temples flow’d,</l>
+            <l>And wanton’d graceful in the passing gale.</l>
+            <l n="25">The darling of his youth, and staff of age,</l>
+            <l>Was virtuous Emma<emph rend="super">5</emph><note type="gloss" place="bottom"><emph
+                     rend="super">5</emph> Pastoral name popularized in the eighteenth century by
+                  Matthew Prior’s amorous ode, <emph rend="italic">Henry and Emma</emph>
+                  (1709).</note> whom he fondly lov’d</l>
+            <l>In youth, and friendship sweet’ned all their days;</l>
+            <l>Bless’d with one pledge of soft connubial love,</l>
+            <l>They pass’d their time, the happiest pair that liv’d.</l>
+         </lg>
+         <lg type="stanza" n="3">
+            <l n="30" rend="indent">Fair, as the morning, smil’d the lovely boy</l>
+            <l>Yclep’d Silvanus,<emph rend="super">6</emph><note type="gloss" place="bottom"><emph
+                     rend="super">6</emph> Spirit of the woods. See Virgil’s <emph rend="italic"
+                     >Aeneid</emph>, Book VIII and Edmund Spenser’s <emph rend="italic">Faerie
+                     Queene</emph> (1590), I.VI.</note> in the forests bred;</l>
+            <l>As some fair tree beside the river’s brink</l>
+            <l>Grows green and stately, lovely to behold,</l>
+            <l>So grew Silvanus, in the bloom of youth,</l>
+            <l n="35">His cheeks were tinged with the rosy dye,</l>
+            <l>His waving locks adown his shoulders fell</l>
+            <l>In beauteous ringlets: such, as Poets tell,</l>
+            <l>Was young Adonis,<emph rend="super">7</emph><note type="gloss" place="bottom"><emph
+                     rend="super">7</emph> In Greek mythology, a beautiful youth.</note> or the
+               Phrygian boy,<emph rend="super">8</emph><note type="gloss" place="bottom"><emph
+                     rend="super">8</emph> Of Phrygia, region in what is modern-day Turkey. Attis,
+                  Phyrgian god of vegetation, was driven to castration by Cybele after which Zeus
+                  allowed his spirit to enter a pine tree and violets to spring from his blood
+                  (Ovid, <emph rend="italic">Fasti</emph>, IV.221).</note></l>
+            <l>Whom rival goddesses did once surround,</l>
+            <l n="40">And made him umpire of the golden prize.</l>
+         </lg>
+         <lg type="stanza" n="4">
+            <l rend="indent">All saw and lov’d Silvanus, yet an air</l>
+            <l>Of pensive thoughtful melancholy sat</l>
+            <l>Strongly depainted on his youthful brow,</l>
+            <l>And downcast eyes, that ever lov’d the ground:</l>
+            <l n="45">Nor would he mingle in the rural sports,</l>
+            <l>Or join the revels of the youthful train;</l>
+            <l>Deep in his heart the inward pleasure glow’d</l>
+            <l>For solitude and joy to them unknown.<emph rend="super">9</emph><note type="gloss"
+                  place="bottom"><emph rend="super">9</emph> David Radcliffe compares this stanza to
+                  James Beattie’s <emph rend="italic">The Minstrel</emph>, Book I (1771) (<emph
+                     rend="italic">Spenser and the Tradition</emph>), perhaps, because, like
+                  Silvanus, Beattie’s Edwin is sired by simple, rural dwellers and is described as
+                  “…no vulgar boy; / Deep thought oft seemed to fix his infant eye / Dainties he
+                  heeded not, nor gaude, nor toy, / Save one short pipe of rudest minstrelsy. /
+                  Silent when glad; affectionate, though shy; / And now his look was most demurely
+                  sad, / And now he laughed aloud, yet none knew why / The neighbors started and
+                  sighed, yet blessed the lad: / Some deemed him wondrous wise, and some believed
+                  him mad” (lines 135-144). </note></l>
+         </lg>
+         <lg type="stanza" n="5">
+            <l rend="indent">Soon as Aurora<emph rend="super">10</emph><note type="gloss"
+                  place="bottom"><emph rend="super">10</emph> Goddess of the dawn.</note> ting’d the
+               blue serene,</l>
+            <l n="50">And orient skies with ruddy lustre shone,</l>
+            <l>Companion of the lark, he bent his way</l>
+            <l>Along the lawns, and brush’d the dews of morn;</l>
+            <l>And, as the landscape brightned all around,</l>
+            <l>He gaz’d enraptur’d on the lovely scene:</l>
+            <l n="55">From hill to hill his eyes excursive rov’d,</l>
+            <l>O’er waving forests and the barren wilds,</l>
+            <l rend="indent">Or reach’d the summit of an airy hill,</l>
+            <l>Or trac’d the gloomy thickets of the grove;</l>
+            <l>Pleas’d with the sound of woodland melody,</l>
+            <l n="60">The bleat of flocks, the tuneful shepherd’s pipe,</l>
+            <l>The falling waters and the murm’ring breeze. </l>
+         </lg>
+         <lg type="stanza" n="6">
+            <l rend="indent">Far from the sight of the incurious eye,</l>
+            <l>And only to the lonely shepherd known,</l>
+            <l>Among the heath-clad hills and vales obscure,</l>
+            <l n="65">A rapid current roll’d its foamy waves</l>
+            <l>O’er precipices of stupendous height,</l>
+            <l>And rous’d the echoes, with the thund’ring noise,</l>
+            <l>Where fractur’d rocks, and old fantastic oaks</l>
+            <l>Nodded impending o’er the hoary steep:</l>
+            <l n="70">There would he sit, beneath some aged tree,</l>
+            <l>And view the rudely wild romantic scene;</l>
+            <l>Pleas’d all alone, the livelong summer day,</l>
+            <l>T’ indulge the sweet enthusiastic joy. </l>
+         </lg>
+         <lg type="stanza" n="7">
+            <l rend="indent">When the bright Sun descended in the west,</l>
+            <l n="75">And modest Cynthia<emph rend="super">11</emph><note type="gloss"
+                  place="bottom"><emph rend="super">11</emph> Alternate name, derived from Mount
+                  Cythus of Delos island, for Artemis, Goddess of the moon. </note> shed her silver
+               light,</l>
+            <l>Then would he listen to the mournful song</l>
+            <l>Of am’rous philomela,<emph rend="super">12</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">12</emph> The nightingale. See Book 4 of Ovid’s <emph
+                     rend="italic">Metamorphoses</emph>, Philip Sidney’s “The Nightingale” (1595)
+                  and Shakespeare’s <emph rend="italic">Titus Andronicus</emph> (1589),
+                  II.iii-iv.</note> in the bow’r,</l>
+            <l>Or, where some ruin’d castle’s tott’ring walls,</l>
+            <l>O’ergrown with ivy, nodded to the moon;</l>
+            <l n="80">Where oft, as superstitious peasants tell,</l>
+            <l>Grim ghosts of murther’d Warriors stalk’d around,</l>
+            <l>He wander’d, and in rapt attention, heard</l>
+            <l>The night owl, and the boding raven’s voice</l>
+            <l>Sound sad and solemn in the lonely halls.</l>
+         </lg>
+         <lg type="stanza" n="8">
+            <l n="85" rend="indent">Nor were the spring and summer months less dear,</l>
+            <l>Or less amusing to the wondrous youth</l>
+            <l>Than when the earth was clad in ermine robe,</l>
+            <l>And gurgling streams, in icy fetters bound;</l>
+            <l>Or when the wind and stormy tempests roar’d,</l>
+            <l n="90">And warring elements, in dire affray, </l>
+            <l>Thunder’d terrific, still he felt a joy</l>
+            <l>That rais’d ideas dreadfully sublime.</l>
+         </lg>
+         <lg type="stanza" n="9">
+            <l rend="indent">Fain would he try’d, in language fit, to paint </l>
+            <l>The sweets of spring, the summers gaudy pride,</l>
+            <l n="95">The wealth of autumn, and in strains sublime,</l>
+            <l>To sing the horrors of a wintry storm;</l>
+            <l>And oft, in artless lays, and numbers wild</l>
+            <l>He bravely try’d the great advent’rous theme.<emph rend="super">13</emph><note
+                  type="gloss" place="bottom"><emph rend="super">13</emph> Silvanus’s attempt “to
+                  paint / The sweets of spring, the summers gaudy pride….” is modeled after James
+                  Thompson’s poem cycle, <emph rend="italic">The Seasons</emph> (1730). </note>
+            </l>
+         </lg>
+
+      </body>
+   </text>
+</TEI>

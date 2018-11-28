@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Elegy IV.</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope
+                  unit="page" from="14" to="15">14-15</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Elegy IV.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> First published in <emph
+                     rend="italic">Poetical Essays</emph> (1788), pp. 14-15.</note></title></head>
+
+
+         <epigraph rend="center">
+            <l rend="indent"><emph rend="italic">------------ all around</emph></l>
+            <l><emph rend="italic"> Smiling the cheerful face of spring is seen</emph>
+            </l>
+
+            <bibl>Bruce<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> Michael Bruce, “Elegy. Written in Spring.” in <emph
+                     rend="italic">Poems on Several Occasions</emph>, ed. John Logan (1770),
+                  pp. 120-127. The first line reads: "Again puts forth her flow’rs; and all
+                  around."</note></bibl>
+         </epigraph>
+         <div1 type="stanza" n="1">
+            <head rend="center">I.</head>
+            <lg>
+               <l>Come, Corydon,<emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                        rend="super">3</emph> Pastoral shepherd, generally characterized as
+                     ineffectual in love, first appearing in Theocritus, <emph rend="italic"
+                        >Idylls</emph> 4 and 5. Corydon subsequently appears in, among others,
+                     Virgil’s <emph rend="italic">Eclogue</emph> 2; Juvenal 9.102; Petrarch, <emph
+                        rend="italic">Eclogue</emph> 6.144; Sidney, <emph rend="italic"
+                        >Arcadia</emph> (1593); and Milton, <emph rend="italic">L’Allegro</emph> 83.
+                     For a comprehensive list see Alastair Fowler, <emph rend="italic">Literary
+                        Names</emph> (Oxford: Oxford UP, 2012), p. 48 n.16.</note> let us our walk
+                  pursue,</l>
+               <l rend="indent">The winding banks and shady woods among,</l>
+               <l>Where little birds their madrigals renew,</l>
+               <l rend="indent">Come, Corydon, and listen to their song.</l>
+            </lg>
+
+         </div1>
+         <div1 type="stanza" n="2">
+            <head rend="center">II.</head>
+
+            <lg>
+               <l n="5"> How sweet the linnet warbles from the spray,</l>
+               <l rend="indent">The blackbird echoes through the vocal grove;</l>
+               <l>The mavis modulates her tuneful lay,</l>
+               <l rend="indent">The painted goldfinch and the cooing dove. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="3">
+            <head rend="center">III.</head>
+
+            <lg>
+               <l>And hark, the cuckoo, harbinger of spring,</l>
+               <l n="10" rend="indent">Though least melodious of the tuneful quire;</l>
+               <l>Yet, most sweet bird, I joy to hear thee sing,</l>
+               <l rend="indent">Thou welcome poet of the vernal lyre.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="4">
+            <head rend="center">IV.</head>
+
+            <lg>
+               <l>Say, Corydon, would’st thou this bliss forego?</l>
+               <l rend="indent">Would’st thou forsake fair Irvine’s shady bow’rs?<emph rend="super"
+                     >4</emph><note type="gloss" place="bottom"><emph rend="super">4</emph> Located
+                     in North Ayrshire on the banks of the eponymously-named River, the coastal town
+                     of Irvine, where Burns lived briefly to learn flax-dressing. The river after
+                     which it is named flows through southwest Scotland, running near Kilmarnock.
+                     Turnbull devoted two other poems to Irvine in <emph rend="italic">Poetical
+                        Essays</emph>, “Irvine Water,” and “Ode VIII: To Irvine Water.”</note></l>
+               <l n="15"> For all the wealth that pop’lous cities show,</l>
+               <l rend="indent">For all the pride of great Edina’s<emph rend="super">5</emph><note
+                     type="gloss" place="bottom"><emph rend="super">5</emph> Edinburgh.</note>
+                  tow’rs?</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="5">
+            <head rend="center">V.</head>
+
+            <lg>
+               <l>Rich landscapes, from Italian masters bought,</l>
+               <l rend="indent">Delight the great, and gayly deck the wall,</l>
+               <l>And here the little sylvan songsters caught,</l>
+               <l n="20" rend="indent">To make the house an epitome of all.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="6">
+            <head rend="center">VI.</head>
+
+            <lg>
+               <l>Let these the world, in miniature, possess,</l>
+               <l rend="indent"> And rob the feather’d race of liberty,</l>
+               <l>I’ll have the whole, nor be content with less,</l>
+               <l rend="indent"> And nature form a landscape fit for me. </l>
+            </lg>
+         </div1>
+
+      </body>
+   </text>
+</TEI>

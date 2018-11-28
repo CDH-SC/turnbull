@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Elegy VII. The Dean.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="23" to="28">23-28</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Elegy VII. The Dean.<emph rend="super"
+                  >1, </emph><note type="head" place="bottom"><emph rend="super">1</emph> First
+                  published in <emph rend="italic">Poetical Essays</emph> (1788), pp. 23-28.</note><emph
+                  rend="super">2</emph><note type="gloss" place="bottom"><emph rend="super">2</emph>
+                   [GT's note: The seat of the late unfortunate Earl of Kilmarnock.] Seat of the Boyd
+                  family, the Dean, known until 1700 as Kilmarnock Castle, and now as Dean Castle,
+                  is just north of the Kilmarnock town centre. The 4th Earl of Kilmarnock, William
+                  Boyd (1705-1746) joined the Jacobite rising in 1745 only after Charles Edward
+                  Stuart visited Callendar House, part of his wife’s inheritance. Convicted of
+                  treason, Boyd was beheaded August 18, 1746 on Tower Hill, and his estates
+                  forfeited. His eldest son, James, Lord Boyd, regained the estate in 1751.
+               </note></title></head>
+
+
+
+         <epigraph rend="center">
+            <l><emph rend="italic">The mould’ring walls confess their beauty past,</emph></l>
+            <l><emph rend="italic">A fragment falls with each revolving blast.</emph>
+            </l>
+
+            <bibl>M<emph rend="super">c</emph>Pherson.<emph rend="super">3</emph><note type="gloss"
+                  place="bottom"><emph rend="super">3</emph> James Macpherson, <emph rend="italic"
+                     >The Highlander; A Poem: in Six Cantos</emph> (1758), p. 59. Turnbull substituted
+                  “revolving blast” for “invading blast.”</note></bibl>
+         </epigraph>
+         <div1 type="stanza" n="1">
+            <head rend="center">I.</head>
+            <lg>
+               <l>Now, in the western main, the sun descends,</l>
+               <l rend="indent">And gold’n clouds the low horizon bound,</l>
+               <l>The solemn night her sable robe extends,</l>
+               <l rend="indent">And nature lies in silence hush’d around. </l>
+            </lg>
+
+         </div1>
+         <div1 type="stanza" n="2">
+            <head rend="center">II.</head>
+
+            <lg>
+               <l n="5">The lonely shepherd leaves the breezy hill,</l>
+               <l rend="indent">And seeks the cottage to indulge repose,</l>
+               <l> The lover wanders by the winding rill,</l>
+               <l rend="indent">To vent the mournful story of his woes.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="3">
+            <head rend="center">III.</head>
+
+            <lg>
+               <l>Pale Luna gilds the plains and shady bow’rs,</l>
+               <l n="10" rend="indent">The limpid streams reflect the silver ray,</l>
+               <l>Now fairies revel, in the silent hours,</l>
+               <l rend="indent">But fly to distant lands, at break of day. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="4">
+            <head rend="center">IV.</head>
+
+            <lg>
+               <l>The night owl screams from out her lonely bow’r,</l>
+               <l rend="indent">Where, all the day, she solitary reigns,</l>
+               <l n="15">Whose voice directs me to yon aged tow’r,</l>
+               <l rend="indent">To view of ruin’d grandeur the remains. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="5">
+            <head rend="center">V.</head>
+
+            <lg>
+               <l>Ah me! how sad the tott’ring fabric stands,</l>
+               <l rend="indent">Who shall preserve it further from decay?</l>
+               <l>Ah none! to other Lords belong its lands,</l>
+               <l n="20" rend="indent"> The antient name extinct and dy’d away.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="6">
+            <head rend="center">VI.</head>
+
+            <lg>
+               <l>That antient dome, which once with grandeur grac’d,</l>
+               <l rend="indent">And proud magnificence o’erlook’d the plain,</l>
+               <l>Its tow’rs and lofty battlements defac’d,</l>
+               <l rend="indent">All desolate and ruinous remain. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="7">
+            <head rend="center">VII.</head>
+
+            <lg>
+               <l n="25">So stands an aged Chief, great in decay,</l>
+               <l rend="indent">Forlorn and sunk beneath a load of years;</l>
+               <l>Yet, spite of time and locks of silver gray,</l>
+               <l rend="indent">His youth majestic from his age appears. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="8">
+            <head rend="center">VIII.</head>
+
+            <lg>
+               <l>The shaggy green her mould’ring walls deface,</l>
+               <l n="30" rend="indent">And ivy wreaths her tott’ring turrets bind,</l>
+               <l>Impending fragments hang, in airy space,</l>
+               <l rend="indent">In dire contention with the raging wind. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="9">
+            <head rend="center">IX.</head>
+
+            <lg>
+               <l>Where yonder stately ash, in verdure clad,</l>
+               <l rend="indent">Extends her boughs outo’er the nodding wall,</l>
+               <l n="35">There, round the table, gen’rous heroes fed,</l>
+               <l rend="indent">While festive mirth resounded through the hall.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="10">
+            <head rend="center">X.</head>
+
+            <lg>
+               <l>Ah! now no heroes those apartments grace,</l>
+               <l rend="indent">Nor social mirth to cheer the dreary walls,</l>
+               <l> But airy phantoms roam from place to place,</l>
+               <l n="40" rend="indent">And hold nocturnal revels in her halls.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="11">
+            <head rend="center">XI.</head>
+
+            <lg>
+               <l>Around the dome the raven and the owl,</l>
+               <l rend="indent">The bat and bittern send a dreary cry,</l>
+               <l>The whistling winds through hollow caverns howl,</l>
+               <l rend="indent">Startling the lonely trav’ller passing by. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="12">
+            <head rend="center">XII.</head>
+
+            <lg>
+               <l n="45">Her gardens, once delightful to the eye,</l>
+               <l rend="indent">With all that art and nature could adorn,</l>
+               <l>Now all o’erwhelm’d with prickly brambles lie,</l>
+               <l rend="indent">A scene of ruin, dismal land forlorn. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="13">
+            <head rend="center">XIII.</head>
+
+            <lg>
+               <l>No more is heard, within the verdant shade,</l>
+               <l n="50" rend="indent">Th’ am’rous youth his secret vows impart,</l>
+               <l>In gentlest accents sooth the list’ning maid,</l>
+               <l rend="indent">Urge his soft flame, and pour out all the heart. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="14">
+            <head rend="center">XIV.</head>
+
+            <lg>
+               <l>The Muse who sung, delighted in the groves,</l>
+               <l rend="indent">Gay as the bird, that carols on the spray,</l>
+               <l n="55">Pensive, amid the dreary scene, she roves</l>
+               <l rend="indent">And tunes to elegy the mournful lay.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="15">
+            <head rend="center">XV.</head>
+
+            <lg>
+               <l>And thou, lorn stream,may’st wail thy mantling bow’rs,</l>
+               <l rend="indent">Where birds melodious oft renew’d the song,</l>
+               <l>And sadly echo through yon vaulted tow’rs,</l>
+               <l n="60" rend="indent">And mourn in consort as thou roll’st along.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="16">
+            <head rend="center">XVI.</head>
+
+            <lg>
+               <l>The aged oft with grief those ruins view,</l>
+               <l rend="indent">While from their bosoms heaves the unbidden sigh,</l>
+               <l>Some relicts still their scenes of youth renew,</l>
+               <l rend="indent">To stop the gushing tear, in vain they try. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="17">
+            <head rend="center">XVII.</head>
+
+            <lg>
+               <l n="65">Short is the date of ought the earth can boast,</l>
+               <l rend="indent">Time ruins all with his corroding hand,</l>
+               <l>The princely palace, rear’d with mighty cost,</l>
+               <l rend="indent">Ev’n brazen tow’rs cannot his rage withstand. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="18">
+            <head rend="center">XVIII.</head>
+
+            <lg>
+               <l>Where are the cities so well known to fame,</l>
+               <l n="70" rend="indent">The pomp of Ilium,<emph rend="super">4</emph><note
+                     type="gloss" place="bottom"><emph rend="super">4</emph> The city of Troy, as in
+                     Homer’s <emph rend="italic">Iliad</emph> and Virgil’s <emph rend="italic"
+                        >Aeneid</emph>.</note>" once so far renown’d?</l>
+               <l>Of Tyrian<emph rend="super">5</emph><note type="gloss" place="bottom"><emph
+                        rend="super">5</emph> Relating to Tyre, an ancient Phoenician city of
+                     extensive commerce.</note> grandeur but remains a name,</l>
+               <l rend="indent">And lofty Babel<emph rend="super">6</emph><note type="gloss"
+                     place="bottom"><emph rend="super">6</emph> The city of Babylon; as recorded in
+                     Genesis 11:1-9, Noah’s descendants migrated from the east, settled in
+                     modern-day Iraq and began to build both the city of Babylon and the tower of
+                     Babel. God confounded their speech so that they could not understand one
+                     another, the tower collapsed, and Babel’s inhabitants were scattered over the
+                     earth. </note> tumbl’d to the ground.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="19">
+            <head rend="center">XIX.</head>
+
+            <lg>
+               <l>Ambition, nourisher of mighty wo,</l>
+               <l rend="indent">Vainly upborn on pride’s high soaring wings,</l>
+               <l n="75">The fatal source whence these disasters flow,</l>
+               <l rend="indent">The fall of empires and the fate of Kings.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="20">
+            <head rend="center">XX.</head>
+
+            <lg>
+               <l>Here might the Muse, in humble strains, be bold</l>
+               <l rend="indent">To tell the great, that all the direful spring</l>
+               <l>Of this sad mass of ruin they behold,</l>
+               <l n="80" rend="indent">Was from r*******n ’gainst a gracious King.<emph rend="super"
+                     >7</emph><note type="gloss" place="bottom"><emph rend="super">7</emph> George II
+                     (1683-1760) reigned from 1727 until his death. In 1745 supporters of the Stuart
+                     monarchy sought to depose George in the last of the Jacobite rebellions, led by
+                     Charles Edward Stuart, i.e., Bonnie Prince Charlie.</note></l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="21">
+            <head rend="center">XXI.</head>
+
+            <lg>
+               <l>But she declines, the mournful tale to tell,</l>
+               <l rend="indent">Of him who suffer’d in the hapless strife,</l>
+               <l>For why? the mournful story’s known too well,</l>
+               <l rend="indent">His honour forfeit nor retain’d his life. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="22">
+            <head rend="center">XXII.</head>
+
+            <lg>
+               <l n="85">Yet shall remembrance oft renew the sigh,</l>
+               <l rend="indent">To mourn the man so lov’d and so ador’d;</l>
+               <l>And when the curious trav’ller passeth by,</l>
+               <l rend="indent">She’ll point the mansion of the hapless Lord.</l>
+            </lg>
+         </div1>
+
+      </body>
+   </text>
+</TEI>

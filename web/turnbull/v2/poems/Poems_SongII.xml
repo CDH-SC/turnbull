@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Song II.</title>, in <title>Poems,</title>
+                  (<pubPlace>Dumfries</pubPlace>, <date>1794</date>),
+               <biblScope>48</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+
+      <body>
+         <head rend="center"><title>Song II. <emph rend="super">1</emph><note type="head" place="bottom"
+                  ><emph rend="super">1</emph>Published in <emph rend="italic">Poems</emph> (1794),
+            p. 48.</note></title></head>
+
+
+       
+         <note rend="center">Tune, <emph rend="italic">“Jem of Aberdeen.”</emph><emph rend="super">2</emph><note
+               type="gloss" place="bottom"><emph rend="super">2</emph> In D. Sime, ed., <emph
+                  rend="italic">The Edinburgh Musical Miscellany</emph> (Edinburgh etc.: for W.
+               Gordon et al., 1792), pp. 303-304. Words only in <emph rend="italic">The Goldfinch,
+                  or New Modern Songster</emph> (1782 etc.), <emph rend="italic">Jem of Aberdeen’s
+                  Garland</emph> (1785). The air was first published in 1790. WorldCat attributes it to James
+               Hook (1746-1827), for half a century the keyboard artist for the Vauxhall Gardens,
+               one of the first performers in England to use the pianoforte for a concerto, and
+               composer of over 2000 songs, including music for over thirty stage works for Drury
+               Lane and Covent Garden theatres (<emph rend="italic">ODNB</emph>).</note></note>
+
+
+         <div>
+            <lg type="stanza" n="1">
+               <l>The summer morn was rising sweet,</l>
+               <l rend="indent">And odours breath’d on ev’ry gale;</l>
+               <l>When on the green I chanc’d to meet</l>
+               <l rend="indent">With lovely Nancy of the dale.</l>
+            </lg>
+         </div>
+
+         <div>
+            <head rend="center">Chorus.</head>
+            <lg type="stanza" n="1">
+               <l n="5">As when o’er eastern hills the sun</l>
+               <l rend="indent">Brings home the new-born may;</l>
+               <l>So look’d the charming village maid,</l>
+               <l rend="indent">As beautiful and gay.</l>
+            </lg>
+         </div>
+
+         <div>
+            <lg type="stanza" n="2">
+               <l>O! have you seen the dew-wet rose,</l>
+               <l rend="indent" n="10">The vi’let blue, and lily pale?</l>
+               <l>These flow’rs their blended sweets disclose</l>
+               <l rend="indent">In lovely Nancy of the dale.</l>
+            </lg>
+            <lg type="stanza" n="3">
+               <l> With downcast look, and many a blush</l>
+               <l rend="indent">I fault’ring told my tender tale,</l>
+               <l n="15">While underneath a may-blown bush</l>
+               <l rend="indent">I sat with Nancy of the dale.</l>
+            </lg>
+            <lg type="stanza" n="3">
+               <l> Would smiling love attend my pray’r,</l>
+               <l rend="indent">And bid my simple arts prevail;</l>
+               <l>I’d soon possess that charming fair,</l>
+               <l rend="indent" n="20">The lovely Nancy of the dale. </l>
+            </lg>
+         </div>
+
+
+
+      </body>
+
+   </text>
+</TEI>

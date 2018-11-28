@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Song I.</title>, in <title>Poems,</title>
+                  (<pubPlace>Dumfries</pubPlace>, <date>1794</date>),
+               <biblScope>47</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+
+      <body>
+         <head rend="center"><title>Song I. <emph rend="super">1</emph><note type="head"
+                  place="bottom"><emph rend="super">1</emph>Published in <emph rend="italic"
+                     >Poems</emph> (1794), p. 47.</note></title></head>
+
+
+
+         <p rend="center">Sung by Mr Turnbull, as Maclymore, in the Reprisal.<emph rend="super"
+               >2</emph><note type="gloss" place="bottom"><emph rend="super">2</emph>
+               <emph rend="italic">The Reprisal</emph>, written by the Scottish novelist and
+               playwright Tobias Smollett, was first performed at the Theater Royal, Drury Lane in
+               1757. Presumably this song was written for a performance in the Dumfries
+               theater.</note></p>
+         <note rend="center">Tune, <emph rend="italic">“Woe’s my heart that we shou’d
+               sunder.”</emph><emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                  rend="super">3</emph> The air is given in Robert Chambers, <emph rend="italic">The
+                  Songs of Scotland Prior to Burns with the Tunes</emph> (Edinburgh: W. &amp; R.
+               Chambers, 1890), pp. 329-330. Chambers comments that Ramsay composed a new song “to
+               supersede a homely one which had long possessed popular favour”: see Allan Ramsay,
+               “With broken words and downcast eyes,” <emph rend="italic">Tea Table
+                  Miscellany</emph>, 2 vols. (Edinburgh, 1724: Glasgow: Crum, 1871), I: pp. 79-80.
+               Chambers also notes: “An air under the title of Alace my heart that we should sunder
+               appears in Playford’s Collection, 1700. There is also one, essentially different from
+               the above, in the <emph rend="italic">Skene Manuscript</emph>, under the title of
+               Alace this night that we suld sinder” (p. 331).</note></note>
+         <lg type="stanza" n="1">
+            <l>When war’s alarms had reach’d our land,</l>
+            <l rend="indent">And loudly roar’d the Gallic thunder;</l>
+            <l>When under George’s high command,<emph rend="super">4</emph><note type="gloss" place="bottom"><emph rend="super">4</emph> That is, King George III.</note></l>
+            <l rend="indent">My heart for glory burn’d like tinder:</l>
+            <l n="5">I held my lassie by the hand,</l>
+            <l rend="indent">Her gushing tears were like to blind her;</l>
+            <l>And as we parted on the strand,</l>
+            <l rend="indent">She cry’d, “My dearest, must we sunder.”</l>
+         </lg>
+         <lg type="stanza" n="2">
+            <l>“When distant, and amid the foe,</l>
+            <l rend="indent" n="10">Far from our native hills you wander,</l>
+            <l>With thee my constant heart shall go,</l>
+            <l rend="indent">By day and night although we sunder:</l>
+            <l>Till Peace her olive ensign shew,</l>
+            <l rend="indent">And hush to sleep Britannia’s thunder,</l>
+            <l n="15">For thee my tears shall ever flow,</l>
+            <l rend="indent">And heave my bosom though we sunder.”</l>
+         </lg>
+
+      </body>
+
+   </text>
+</TEI>

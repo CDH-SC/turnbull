@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>The Clubs. <emph rend="italic">A
+                     Satire.</emph></title>, in <title>Poems,</title>
+               (<pubPlace>Dumfries</pubPlace>, <date>1794</date>), <biblScope unit="page" from="30"
+                  to="32">30-32</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">The Clubs. <emph rend="italic">A Satire.</emph><emph
+                  rend="super">1</emph><note type="head" place="bottom"><emph rend="super">1</emph> First
+                     published in <emph rend="italic">Poems</emph> (1794), pp. 10-12; reprinted in <emph
+                        rend="italic">Columbian Herald and New Daily Advertiser</emph> [Charleston,
+                     SC] (March 15, 1796). Robert Crawford has recently contrasted Turnbull’s
+                     conclusion here that he will “gladly sing / That loyal song ‘GOD SAVE THE
+                     KING!,” with the political ambiguity of Burns’s conclusion to his song “The
+                     Dumfries Volunteers," that “While we sing God save the King, / We’ll ne’er
+                     forget the People!” (Crawford, <emph rend="italic">The Bard</emph> [Princeton:
+                     Princeton University Press, 2009], p. 385; <emph rend="italic">Poems and
+                        Songs</emph>, ed. Kinsley, 3 vols. (Oxford: Clarendon, 1969), II: 764-765,
+                     III: 1469). In December 1792, a riot had broken out in the Dumfries Theatre
+                     when radicals in the audience called for singing the French revolutionary song
+                     “Ça ira,” while hissing “God save the King”: see <emph rend="italic">Letters of
+                        Robert Burns</emph>, ed. G. Ross Roy, 2 vols. (Oxford: Clarendon, 1985), II:
+                     pp. 166, 173.</note></title></head>
+
+         <lg type="stanza">
+            <l> Now jowing bells, with solemn croon,</l>
+            <l>Proclaim another day is done,</l>
+            <l>And fowk wha due decorum keep,</l>
+            <l>Forget their cares in silent sleep;</l>
+            <l n="5">While jovial sauls that fear nae ill,</l>
+            <l>Keep up the noise and riot still.</l>
+            <l>Loud rings the tavern but and ben,</l>
+            <l>With men turn’d sots, and sots turn’d men.</l>
+            <l>Here, may we see a drunken core,</l>
+            <l n="10">That can do nought but sing and roar;</l>
+            <l>Ane, ocean fu’ of nappy liquor,<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                        rend="super">2</emph>
+                     <emph rend="italic">n.</emph> strong ale.</note></l>
+            <l>Lilts at auld Moses and the Vicar;</l>
+            <l>A fat guidman, at the board head,</l>
+            <l>Laments John Barlycorn<emph rend="super">3</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">3</emph> Personification of the barley crop and character
+                  in a popular British ballad. Countless variants of the song exist, including
+                  Burns’s “John Barleycorn: A Ballad” first published in 1787, but written earlier
+                  (Kinsley, I:29-31).</note> is dead;</l>
+            <l n="15">Ane, the maist jovial of the quorum,</l>
+            <l>Cries “damn ye! gie me Tullochgorum.”<emph rend="super">4</emph><note type="gloss"
+                  place="bottom"><emph rend="super">4</emph> Strathspey that can be traced back to
+                  1734 in the Duke of Perth MS. The dance tune gained popularity when Reverend John
+                  Skinner wrote lyrics to accompany it. First published in <emph rend="italic"
+                     >Weekly Magazine, or, Edinburgh Amusement</emph> (May, 1776) and later included
+                  in the <emph rend="italic">Scots Musical Museum</emph>, 3 (1787), song
+               289.</note></l>
+            <l>And here, a Counsellor, hum drum,</l>
+            <l> Sits sweetly tuning “ti, ta, tum!”</l>
+            <l> Tam, wi’ the bottom of a cap</l>
+            <l n="20">Comes o’er his nose a cursed rap;</l>
+            <l> A Bully, snoring at his side,</l>
+            <l> Starts up and swers he’ll skelp his hide;</l>
+            <l> Out o’er he reels, and in his fa’,</l>
+            <l> Breaks table, glasses, bowls an’ a’!</l>
+         </lg>
+
+         <lg type="stanza">
+            <l n="25" rend="indent">Another room a group contains</l>
+            <l>Of busy, cloud’environ’d brains;</l>
+            <l>A set of Politicians, who</l>
+            <l>Direct the course of things below:</l>
+            <l>All Europe’s fate depends on them,</l>
+            <l n="30">Baith Indies their attention claim.</l>
+            <l> Poor Louis’ cause<emph rend="super">5</emph><note type="gloss" place="bottom"><emph
+                     rend="super">5</emph> Louis XVI (1754-1793), King of France at the time of the
+                  French Revolution, was deposed in 1792 and executed January 1793.</note> is
+               fairly try’d,</l>
+            <l>With warm debates on either side.</l>
+            <l>There twa, whas brows portend a storm,</l>
+            <l>Sit busy planning a reform.</l>
+            <l n="35">Here ane, his Liege’s firmest friend,</l>
+            <l>Swears he’ll the government defend.</l>
+            <l>Another, vows his resolution</l>
+            <l>Is, to o’erturn the constitution.</l>
+            <l>A chap, mair noisy than the rest,</l>
+            <l n="40">Declares he likes the——what is’t, best?</l>
+            <l>And swears, by blood, and death, and hell—</l>
+            <l>He kens what he would do himsel’!</l>
+            <l>Whilst others, at a less expence,</l>
+            <l>Are counted miracles of sense;</l>
+            <l n="45">Important looks, and shrugs, and hitches,</l>
+            <l>Do mair than twenty learned speeches!</l>
+         </lg>
+         <lg type="stanza">
+            <l rend="indent">Let those, my friends, delight in noise,</l>
+            <l>Incapable for social joys;</l>
+            <l>Let these ’bout politics debate,</l>
+            <l n="50">And regulate both <emph rend="italic">kirk</emph> and <emph rend="italic"
+                  >state</emph>:</l>
+            <l>With us let all disputes be ended;</l>
+            <l>The times by words will ne’er be mended.</l>
+            <l> My principle, if I dare mention;—</l>
+            <l>I’m sworn a foe to the Convention.<emph rend="super">6</emph><note type="gloss"
+                  place="bottom"><emph rend="super">6</emph> The Scottish radical group the Friends
+                  of the People, founded in July 1792, held three National Conventions in Edinburgh
+                  before its leaders, including the lawyer Thomas Muir of Huntershill, were arrested
+                  for sedition and sentenced to transportation. </note></l>
+            <l n="55">I’ll honour Freedom while I live,</l>
+            <l>But, such as <emph rend="italic">British</emph> laws can give!</l>
+            <l> And though not able to defend</l>
+            <l>My Liege, my aid I’d freely lend:</l>
+            <l>And while I’ve breath I’ll gladly sing</l>
+            <l n="60">That loyal song, “GOD SAVE THE KING!” </l>
+
+         </lg>
+
+
+      </body>
+   </text>
+</TEI>

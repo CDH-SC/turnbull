@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Song.</title>, in <title>The Works of
+                  Robert Burns</title> (<pubPlace>Liverpool</pubPlace>, <date>1800</date>),
+                  <biblScope unit="page" from="140" to="141">140-141</biblScope>.</bibl>
+           
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Song<emph rend="super">1</emph><note type="head"
+                  place="bottom"><emph rend="super">1</emph> From a letter of Robert Burns to George
+                  Thomson, October 29, 1793. First published in James Currie's <emph rend="italic"
+                     >Works of Robert Burns</emph>, 4 vols. (Liverpool: M'Creery, 1800), IV:
+                  pp. 140-141.</note></title></head>
+        
+         <lg type="stanza">
+            <l>O condescend, dear, charming maid,</l>
+            <l rend="indent">My wretched state to view;</l>
+            <l>A tender swain to love betray’d,</l>
+            <l rend="indent">And sad despair by you.&#8212;</l>
+         </lg>
+
+         <lg type="stanza">
+            <l n="5">While here, all melancholy,</l>
+            <l rend="indent">My passion I deplore,</l>
+            <l>Yet, urged by stern resistless fate,</l>
+            <l rend="indent">I love thee more &amp; more.&#8212;</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>I heard of love, &amp; with disdain</l>
+            <l n="10" rend="indent">The urchin’s power denied;</l>
+            <l>I laugh’d at every lover’s pain,</l>
+            <l rend="indent">And mock’d them when they sigh’d.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>But how my state is alter’d!</l>
+            <l rend="indent">Those happy days are o’er;</l>
+            <l n="15">For all thy unrelenting hate,</l>
+            <l rend="indent">I love thee more &amp; more.&#8212;</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>O yield, illustrious Beauty, yield,</l>
+            <l rend="indent">Nor longer let me mourn;</l>
+            <l>And tho victorious in the field,</l>
+            <l n="20" rend="indent">Thy captive do not scorn.&#8212;</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>Let generous pity warm thee,</l>
+            <l rend="indent">My wonted peace restore;</l>
+            <l>And, grateful, I shall bless thee still,</l>
+            <l rend="indent">And love thee more &amp; more.&#8212;</l>
+         </lg>
+
+      </body>
+   </text>
+</TEI>

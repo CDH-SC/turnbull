@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Elegy I.</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope
+                  unit="page" from="3" to="6">3-6</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+
+      <body>
+
+         <head rend="center"><title type="main">Elegy I.<emph rend="super">1</emph></title><note
+               type="head" place="bottom"><emph rend="super">1</emph> First published in <emph
+                  rend="italic">Poetical Essays</emph> (1788), pp. 3-6.</note></head>
+         <div1 type="stanza">
+            <head>I.</head>
+
+            <lg>
+               <l>For rural shades and solitary groves,</l>
+               <l rend="indent">I’ll bid the busy scenes of life farewell;</l>
+               <l>And go where lonely contemplation roves,</l>
+               <l rend="indent">Pleas’d with the sweet Enthusiast<emph rend="super">2</emph><note
+                     type="gloss" place="bottom" n="2"><emph rend="super">2</emph> That is, Music:
+                     “At last divine Cecilia came, / … / The sweet enthusiast, from her sacred
+                     store, / Enlarged the former narrow bounds”: John Dryden, <emph rend="italic"
+                        >Alexander’s Feast, or the Power of Music</emph> (1697), lines 167,
+                     173.</note> to dwell.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head>II.</head>
+
+            <lg>
+               <l n="5"> The mind of man is ever prone to change,</l>
+               <l rend="indent">Is ever stretching after something new:</l>
+               <l>Pleasure the shadow after which we range,</l>
+               <l rend="indent">And still the phantom flies as we pursue.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head>III.</head>
+
+            <lg>
+               <l>One, made the abject slave of sordid gain,</l>
+               <l n="10" rend="indent">Unnumber’d schemes and artifices tries;</l>
+               <l>For this he braves the dangers of the main,</l>
+               <l rend="indent">And barters quiet for the golden prize. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head>IV.</head>
+
+            <lg>
+               <l>Some, whom the noble thoughts of glory fire,</l>
+               <l rend="indent">Pursue, in martial fields, a deathless name,</l>
+               <l n="15">And where unnumber’d multitudes expire,</l>
+               <l rend="indent">They rear the purple column of their fame. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head>V.</head>
+
+            <lg>
+               <l>The meager student,<emph rend="super">3</emph><note type="gloss" place="bottom"
+                        ><emph rend="super">3</emph> “Beside a paly lamp, with bitten nails, the
+                     meagre student o’er a folio sits”: James Graeme, “A Night-Piece,” in his <emph
+                        rend="italic">Poems on Several Occasions</emph> (Edinburgh: Donaldson,
+                     1773), p. 30. </note> by the lamp’s pale light,</l>
+               <l rend="indent">Eager the depths of science to explore,</l>
+               <l>Deny’d the balmy blessings of the night,</l>
+               <l n="20" rend="indent">Still turns the sapient volume<emph rend="super"
+                     >4</emph><note type="gloss" place="bottom"><emph rend="super">4</emph> “Enrag’d
+                     the rustic rout, with foul despight, / From Palinode the sapient volume tore,”
+                     from a short Spenserian poem in praise of Spenser in “To the Editor: Remarks on
+                     the Opinion of Dr. Johnson concerning the Imitation of Spenser,” <emph
+                        rend="italic">Edinburgh Magazine or Literary Miscellany</emph>, VI (August,
+                     1787), p. 50. Turnbull uses the phrase recurrently; cf. “The Vicissitudes of
+                     Fortune,” line 134, in <emph rend="italic">Poetical Essays</emph>, “Elegy,”
+                     line 16, in <emph rend="italic">Columbian Herald and New Daily
+                        Advertiser</emph> [Charleston, SC] (March 25, 1796) and “Epilogue,” line 11,
+                     in the same (April 1, 1796).</note> o’er and o’er.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head>VI.</head>
+
+            <lg>
+               <l>Obsequious, one to pleasure’s magic call,</l>
+               <l rend="indent">The fleeting hours in revelry beguiles,</l>
+               <l>Conducts the blooming beauty through the ball,</l>
+               <l rend="indent">And counts his treasures by his fair one’s smiles.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head>VII.</head>
+
+            <lg>
+               <l n="25">No thoughts of wealth my wishes e’er decoy,</l>
+               <l rend="indent">I ne’er was fir’d with mighty feats of arms;</l>
+               <l>But love of quiet and serener joy,</l>
+               <l rend="indent">Retir’d from busy crouds and wars alarms. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head>VIII.</head>
+
+            <lg>
+               <l>Be mine in simple melody to pour,</l>
+               <l n="30" rend="indent">In Shenstone’s strains, the elegiac lay;<emph rend="super"
+                     >5</emph><note type="gloss" place="bottom"><emph rend="super">5</emph> Chiefly
+                     remembered for his Spenserian imitation, <emph rend="italic">The
+                        School-Mistress</emph> (1737), the English poet and Jacobite sympathizer
+                     William Shenstone (1714-1763) wrote twenty-six elegies by 1748. See <emph
+                        rend="italic">The Works in Verse and Prose</emph>, vol.1, ed. Dodsley
+                     (1764-1765).</note></l>
+               <l>Or, in the solemn silent midnight hour,</l>
+               <l rend="indent">To mourn with thee, O sweet complaining Gray.<emph rend="super"
+                     >6</emph><note type="gloss" place="bottom"><emph rend="super">6</emph> Another
+                     of the English poets Turnbull recurrently cites is Thomas Gray (1716-1771): see
+                     “Elegy IX” in <emph rend="italic">Poetical Essays</emph> (1788) and “Elegy” in
+                        <emph rend="italic">Columbian Herald and New Daily Advertiser</emph>
+                     [Charleston, SC] (March 25, 1796). The London bookseller, poet and playwright
+                     Robert Dodsley, who had included Shenstone’s work in his <emph rend="italic"
+                        >Collection of Poems by Several Hands</emph> (1748), was the first publisher
+                     of Gray’s <emph rend="italic">Elegy</emph>, in 1751 as a quarto pamphlet
+                     originally titled <emph rend="italic">Elegy Wrote in a Country
+                        Churchyard</emph>.</note></l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head>IX.</head>
+
+            <lg>
+               <l>Soft flow my numbers, and without constraint,</l>
+               <l rend="indent">Smooth as the murmurs of a winding rill,</l>
+               <l n="35">Let nature’s hand each beauteous fancy paint;</l>
+               <l rend="indent">For nature’s images are charming still.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head>X.</head>
+
+            <lg>
+               <l>At early dawn, or at the close of day,</l>
+               <l rend="indent">I’ll seek the paths inspired Bards have trode;</l>
+               <l>With Fancy, bright aerial maid,<emph rend="super">7</emph><note type="gloss"
+                     place="bottom"><emph rend="super">7</emph>“Where Fancy, bright aerial Maid, /
+                     Awaits thee with her thousand Charms”: Robert Lloyd, “Ode to Genius,” in <emph
+                        rend="italic">Poetical Works</emph>, 2 vols. (London: Evans, 1774), p. 173;
+                     but cf. also William Cowper, “An Ode, Secundem Artem,” line 25, in <emph
+                        rend="italic">Works of William Cowper</emph>, ed. Southey, London: Baldwin
+                     and Craddock, 1835), p. 331. </note> I’ll stray,</l>
+               <l n="40" rend="indent">And seek her footsteps in the flow’ry road. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head>XI.</head>
+
+            <lg>
+               <l>Then come, my Muse, expand thine airy wing,</l>
+               <l rend="indent"> Should some Mæcenas<emph rend="super">8</emph><note type="gloss"
+                     place="bottom"><emph rend="super">8</emph> Byword for a generous patron of
+                     literature or art derived from Gaius Cilnius Maecenas (65 BC-8BCE), patron of
+                     Horace and Virgil. </note> patronize thy lays,</l>
+               <l>Thou in heroic numbers yet may sing,</l>
+               <l rend="indent">And to the Cypress add the blooming Bays:</l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head>XII.</head>
+
+            <lg>
+               <l n="45">Then though thou tread Parnassus<emph rend="super">9</emph><note
+                     type="gloss" place="bottom"><emph rend="super">9</emph> Mount Parnassus, home of
+                     the muses, and therefore shorthand here for poetry. </note> rugged ways</l>
+               <l rend="indent">Unled by science, up the sacred hill,</l>
+               <l>If Phœbus darts on thee propitious rays;</l>
+               <l rend="indent">By him instructed, thou shalt sing with skill.</l>
+            </lg>
+         </div1>
+
+      </body>
+   </text>
+</TEI>

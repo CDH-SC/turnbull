@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>"Epilogue."</title>
+               <title><emph rend="italic">Columbian Herald and New Daily Advertiser</emph></title>
+                  (<pubPlace>Charleston, SC</pubPlace>), <date>April 1, 1796</date></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><title type="main" rend="center">Epilogue.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> Published in <emph
+                     rend="italic">Columbian Herald and New Daily Advertiser</emph> [Charleston, SC]
+                  (April 1, 1796). The “Epilogue” was first performed as the finale for Turnbull’s
+                  benefit performance of the nautical drama <emph rend="italic">Just in Time</emph>,
+                  for which he also wrote additional songs.</note></title></head>
+
+         <lg type="stanza">
+            <l>All the world’s a stage—so says the Poet,<emph rend="super">2</emph><note
+                  type="gloss" place="bottom"><emph rend="super">2</emph> Shakespeare, <emph
+                     rend="italic">As you Like It</emph> (1623), II.vii. </note></l>
+            <l>And all our aims and all our actions shew it.</l>
+            <l rend="indent">The noisy lawyer wrangling at the bar,</l>
+            <l>Who, with his brethren, holds a wordy war,</l>
+            <l n="5">Loudly, he pleads and bawls, but trust ye me,</l>
+            <l>’Tis not for justice only,—but his fee.</l>
+            <l>The patriot, zealous for his country’s cause,</l>
+            <l>Warmly defends her liberty and laws;</l>
+            <l>But of his heart, too often, the intention</l>
+            <l n="10">Is to grow popular, and gain a pension.</l>
+            <l>The formal student turns the sapient page,<emph rend="super">3</emph><note
+                  type="gloss" place="bottom"><emph rend="super">3</emph> Cf. “sapient volume,” a
+                  phrase Turnbull uses recurrently; see “Elegy I,” line 20 and “The Vicissitudes of
+                  Fortune,” line 134, in <emph rend="italic">Poetical Essays</emph> (1788) and
+                  “Epilogue” <emph rend="italic">Columbian Herald and New Daily Advertiser</emph>
+                  [Charleston, SC] (April 1, 1796), line 11. Cf. also, "Enrag’d the rustic rout, with
+                  foul despight, / From Palinode the sapient volume tore,” from a Spenserian poem in
+                  praise of Spenser in “To the Editor: Remarks on the Opinion of Dr. Johnson
+                  concerning the Imitation of Spenser,” <emph rend="italic">Edinburgh Magazine or
+                     Literary Miscellany</emph>, VI (August, 1787), p. 50.</note></l>
+            <l>Collecting wisdom from each ancient sage;</l>
+            <l>While careless mortals snore away the night,</l>
+            <l>He studies by the glimmering taper’s light;</l>
+            <l n="15">Yet oft this weary toil—indeed ’tis true,</l>
+            <l>Is only for a benefice in view,</l>
+            <l>For wealth the merchant ventures on the main,</l>
+            <l>The learn’d physician practices for gain,</l>
+            <l>And, to be brief, without the least digression,</l>
+            <l n="20">Gain is the end of every man’s profession:</l>
+            <l>For this the actor bellows on the stage,</l>
+            <l>Assumes the comic laugh or tragic rage,</l>
+            <l>And, Proteus<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                     rend="super">4</emph> Shape-shifter in book IV of Homer’s <emph rend="italic"
+                     >Odyssey</emph>.</note> like, full many a shape he wears,</l>
+            <l>Now the gay youth, and then the man of years;</l>
+            <l n="25">Now storms in <emph rend="super">5</emph><note type="gloss" place="bottom"
+               ><emph rend="super">5</emph> Richard III. Cf. Shakespeare, <emph rend="italic">Richard III</emph>
+                  (1592?).</note> with terrific frown,</l>
+            <l>And now a fop, anon a simple clown;</l>
+            <l>Next the starv-d valet, then the rednos’d host,</l>
+            <l>Sometimes an alderman, sometimes a ghost:</l>
+            <l>Yet all our labor in this strange vocation,</l>
+            <l n="30">Is for your money and your approbation:</l>
+            <l>And happy I could my poor attempts the while,</l>
+            <l>From you extort one kind applausive smile.</l>
+            <l>To you whose patronage we share tonight,</l>
+            <l>What words can speak my heartfelt thanks aright,</l>
+            <l n="35">T’ express my gratitude defies my skill,</l>
+            <l>Then kindly for the <emph rend="italic">dead</emph> accept the <emph rend="italic"
+                  >will</emph>. </l>
+         </lg>
+         <bibl><author>G. Turnbull.</author></bibl>
+      </body>
+   </text>
+</TEI>

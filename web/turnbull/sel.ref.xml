@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <head rend="center"><title>Selected References</title></head>
+            <bibl>Alker, Sharon, Leith Davis, and Holly Nelson, eds., <emph rend="italic">Robert
+                  Burns and Transatlantic Culture</emph> (Farnham: Ashgate, 2012).</bibl>
+            <bibl> Barnaby, Paul, and Tom Hubbard, “The International Reception and Literary Impact
+               of Scottish Literature of the Period 1707-1918,” in Manning (2007, below):
+               33-44.</bibl>
+            <bibl>Bueltman, Tanja, Andrew Hinson, and Graeme Morton, <emph rend="italic">The
+                  Scottish Diaspora</emph> (Edinburgh: Edinburgh UP, 2013).</bibl>
+            <bibl>Butler, Nicholas, <emph rend="italic">Votaries of Apollo: the St. Cecilia Society
+                  and the Patronage of Concert Music in Charleston, South Carolina, 1766-1820</emph>
+               (Columbia: Univ. of South Carolina P, 2007).</bibl>
+            <bibl>Campbell, Alexander, <emph rend="italic">An Introduction to the History of Poetry
+                  in Scotland</emph> (Edinburgh: Foulis, 1798).</bibl>
+            <bibl>Carruthers, Gerard, “Robert Burns’s Scots Poetry Contemporaries,” in <emph
+                  rend="italic">Burns and Other Poets</emph>, ed. David Sergeant and Fiona Stafford
+               (Edinburgh: Edinburgh UP, 2012): 38-52.</bibl>
+            <bibl><emph rend="italic">Catalogue of the M'Kie Burnsiana Library</emph> (Kilmarnock:
+               James M'Kie, 1883).</bibl>
+            <bibl>Chambers, Robert, ed., <emph rend="italic">The Life and Works of Robert
+                  Burns</emph>, 4 vols. (Edinburgh: William and Robert Chambers, 1854). </bibl>
+            <bibl>Cohen, Ralph, <emph rend="italic">The Art of Discrimination: Thomson’s The Seasons
+                  and the Language of Criticism</emph> (Berkeley: Univ. of California P,
+               1964).</bibl>
+            <bibl>Crawford, Robert, <emph rend="italic">The Bard: Robert Burns, A Biography</emph>
+               (Princeton: Princeton UP, 2009). </bibl>
+            <bibl>[Crichton, Thomas], account of Turnbull in his “Biographical Sketches of Alexander
+               Wilson,” in <emph rend="italic">The Weaver</emph> [Paisley], 2 (1819); extract
+               reprinted in Paterson, Appendix, pp. 23-24.</bibl>
+            <bibl>Davis, Leith, Ian Duncan, and Janet Sorensen, eds., <emph rend="italic">Scotland
+                  and the Borders of Romanticism</emph> (Cambridge: Cambridge UP, 2004).</bibl>
+            <bibl>Devine, Tom, <emph rend="italic">To the Ends of the Earth: Scotland’s Global
+                  Diaspora, 1750-2010</emph> (Washington, DC: Smithsonian Books; London: Penguin,
+               2011).</bibl>
+            <bibl><emph rend="italic">Dictionary of the Scots Language</emph>, (Edinburgh:
+               University of Glasgow); updated version: http://www.dsl.ac.uk/</bibl>
+            <bibl>Dobson, David, <emph rend="italic">Scottish Trade with Colonial Charleston, 1683
+                  to 1783</emph> (Glasgow: Humming Earth, 2009).</bibl>
+            <bibl>Durey, Michael, <emph rend="italic">Transatlantic Radicals and the Early American
+                  Republic</emph> (Lawrence: Univ. Press of Kansas, 1997). </bibl>
+            <bibl>Easterby, J.H., <emph rend="italic">History of the St. Andrew’s Society of
+                  Charleston, 1729-1929</emph> (Charleston: the Society, 1929).</bibl>
+            <bibl>Eyre-Todd, George., ed., <emph rend="italic">Scottish Poetry of the
+                  Eighteenth-Century</emph>, 2 vols. (London: Sands, 1896). </bibl>
+            <bibl>Fowler, Alastair, <emph rend="italic">Literary Names: Personal Names in English
+                  Literature</emph> (Oxford: Oxford UP, 2012).</bibl>
+            <bibl>Gaskell, Howard, ed., <emph rend="italic">The Poems of Ossian and Related
+                  Works</emph> (Edinburgh: Edinburgh UP, 1996).</bibl>
+            <bibl>Grose, Francis, <emph rend="italic">The Antiquities of Scotland</emph>, 2 vols. (London: Hooper &amp; Wigstead, 1787-1791).</bibl>
+            <bibl>Guthrie, William, et. al., <emph rend="italic">A New Geographical, Historical and
+                  Commercial Grammar…</emph>, 4th ed. (London: J. Knox, 1774).</bibl>
+            <bibl>Hagy, James W., <emph rend="italic">City Directories for Charleston, South
+                  Carolina for … 1803[-]1813</emph> (Baltimore; Clearful, 1995).</bibl>
+            <bibl>Harvey, Paul, ed., <emph rend="italic">The Oxford Companion to Classical
+                  Literature</emph> (Oxford: Clarendon, 1962).</bibl>
+            <bibl>__________________, ed., <emph rend="italic">The Oxford Companion to English
+                  Literature</emph> (Oxford: Clarendon, 1967).</bibl>
+            <bibl>Havens, Raymond, <emph rend="italic">The Influence of Milton on English
+                  Poetry</emph>, (New York: Russell &amp; Russell, 1961).</bibl>
+            <bibl>Hemperley, Marion R., “Federal Naturalization Oaths, Charleston, South Carolina,
+               1790-1860, part 3,” <emph rend="italic">South Carolina Historical Magazine</emph>, 66
+               (1965), 219-228. </bibl>
+            <bibl>Hogen, Charles Beecher, ed., <emph rend="italic">The London Stage,
+                  1660-1800</emph>, 3 vols. (Carbondale: Southern Illinois UP, 1968).</bibl>
+            <bibl>Holcomb, Brent H., <emph rend="italic">South Carolina Naturalizations
+                  1783-1850</emph> (Baltimore: Genealogical Publishing, 1985). </bibl>
+            <bibl>Hook, Andrew, <emph rend="italic">Scotland and America: A Study of Cultural
+                  Relations, 1750-1835</emph>, new ed. (Glasgow: Humming Earth, 2008).</bibl>
+            <bibl>Hoole, W. Stanley, <emph rend="italic">The Ante-Bellum Charleston Theatre</emph>
+               (Tuscaloosa: Univ. of Alabama P, 1946).</bibl>
+            <bibl>Inglis, Ralston, <emph rend="italic">The Dramatic Writers of Scotland</emph>
+               (Glasgow: G. D. Mackellar, 1868).</bibl>
+            <bibl>Kinsley, James, ed., <emph rend="italic">Poems and Songs of Robert Burns</emph>, 3
+               vols. (Oxford: Clarendon Press, 1968). </bibl>
+            <bibl>Leask, Nigel, <emph rend="italic">Robert Burns and Pastoral: Poetry and
+                  Improvement in Late Eighteenth Century Scotland</emph> (Oxford: Oxford UP, 2010). </bibl>
+            <bibl>Lindsay, Maurice, <emph rend="italic">The Burns Encyclopedia</emph>, 3rd ed.
+               (London: Robert Hale, 1980).</bibl>
+            <bibl>Lonsdale, Roger, ed., <emph rend="italic">Thomas Gray and William Collins:
+                  Poetical Works</emph> (Oxford: Oxford UP, 1977).</bibl>
+            <bibl>Manning, Susan, ed., <emph rend="italic">The Edinburgh History of Scottish
+                  Literature: 2: Enlightenment, Britain and Empire, 1707-1918</emph>, gen. eds. Ian
+               Brown, Thomas Clancy, Murray Pittock (Edinburgh: Edinburgh UP, 2007). </bibl>
+            <bibl>Marshall, James, <emph rend="italic">A Winter with Robert Burns: Being Annals of
+                  his Patrons and Associates in Edinburgh during the year 1786-1787</emph>
+               (Edinburgh: Printed by P. Brown, 1846). </bibl>
+            <bibl>McGuirk, Carol M., <emph rend="italic">Robert Burns and the Sentimental
+               Era</emph>, 2nd ed. (East Linton: Tuckwell, 1998). </bibl>
+            <bibl>Meriwether, James B., ed., <emph rend="italic">South Carolina Journals and
+                  Journalists</emph> (Columbia: Southern Studies Program, 1974).</bibl>
+            <bibl>M'Kay, Archibald, <emph rend="italic">History of Kilmarnock</emph> (Kilmarnock:
+               Wilson, 1848). </bibl>
+            <bibl>______________, <emph rend="italic">Burns and His Kilmarnock Friends</emph>
+               (Kilmarnock: M'Kay, 1874). </bibl>
+            <bibl>Moore, John Hammond, comp., <emph rend="italic">South Carolina Newspapers</emph>
+               (Columbia: Univ. of South Carolina P, 1988). </bibl>
+            <bibl>Paterson, James, <emph rend="italic">The Contemporaries of Burns, and More Recent
+                  Poets of Ayrshire</emph> (Edinburgh: Paton, 1840).</bibl>
+            <bibl>Patrick, J. Max, <emph rend="italic">Savannah’s Pioneer Theatre from its Origins
+                  to 1810</emph> (Athens: Univ. of Georgia Press, 1953). </bibl>
+            <bibl>Pittock, Murray, ed., <emph rend="italic">Robert Burns in Global Culture</emph>
+               (Lewisburg: Bucknell UP, 2011). </bibl>
+            <bibl>Purdie, David, et. al., <emph rend="italic">Maurice Lindsay’s Burns
+                  Encyclopaedia</emph>, 4th ed. (London: Robert Hale, 2013). </bibl>
+            <bibl>Radcliffe, David Hill, “Gavin Turnbull, 1770 ca.-1816,” in <emph rend="italic"
+                  >Spenser and the Tradition; English Poetry 1579-1830</emph>, at
+               http://spenserians.cath.vt.edu/AuthorRecord.php?&amp;action=GET&amp;recordid=33336&amp;page=AuthorRecord. </bibl>
+            <bibl>_________________, ‘Turnbull, Gavin (c. 1765-1816),” <emph rend="italic">Oxford
+                  Dictionary of National Biography</emph>, ed. H. C. G. Matthew and Brian Harrison
+               (Oxford: Oxford UP, 2004), 55: 587; updated version:
+               http://www.oxforddnb.com.pallas2.tcl.sc.edu/view/article/64791?docPos=7. </bibl>
+            <bibl>Raven, James, <emph rend="italic">London Booksellers and American Customers:
+                  Transatlantic Literary Community and the Charleston Library Society,
+                  1748-1811</emph> (Columbia: Univ. of South Carolina Press, 2002). </bibl>
+            <bibl>Rogers, Charles, "Gavin Turnbull," in <emph rend="italic">The Book of Robert
+                  Burns</emph>, 3 vols. (London: for the Grampian Club, 1889-1891), II: 287-295. </bibl>
+            <bibl>Rogers, George C., Jr., <emph rend="italic">Charleston in the Age of the
+                  Pinckneys</emph> (Columbia: Univ. of South Carolina Press, 1980).</bibl>
+            <bibl>Roy, G. Ross, ed., <emph rend="italic">The Letters of Robert Burns</emph>, 2 vols.
+               (Oxford: Clarendon, 1985).</bibl>
+            <bibl>Scott, Patrick, “Whatever Happened to Gavin Turnbull? Hunting Down a Friend of
+               Burns in South Carolina, <emph rend="italic">Robert Burns Lives!</emph>,159 (November
+               28, 2012), at: http://www.electricscotland.com/familytree/frank/burns_lives159.htm. </bibl>
+            <bibl>___________, ed., <emph rend="italic">A Bard Unkend: Selected Poems in the
+                  Scottish Dialect by Gavin Turnbull</emph>, Scottish Poetry Reprint Series, no. 10
+               (Columbia, SC: Scottish Poetry Reprints, 2015). </bibl>
+            <bibl>Seilhamer, George O., <emph rend="italic">History of the American Theatre …
+                  1792-1797</emph> (Philadelphia: Globe Printing House, 1891). </bibl>
+            <bibl>Shockley, Martin, <emph rend="italic">The Richmond Stage, 1754-1812</emph>
+               (Charlottesville: Univ. Press of Virginia, 1977). </bibl>
+            <bibl>Sillar, David, "To G---- T-------, Inclosing the Receipt to Make a Poet," in <emph
+                  rend="italic">Poems by David Sillar</emph> (Kilmarnock: Printed by John Wilson),
+               113-114. </bibl>
+            <bibl>Sodders, Richard P., <emph rend="italic">The Theatre Management of Alexandre
+                  Placide in Charleston, 1794-1812</emph>, 2 vols.,unpub. Ph.D. diss. (Louisiana
+               State University, 1983). </bibl>
+            <bibl>Tobin, Terence, <emph rend="italic">Plays by Scots 1660-1800</emph> (Iowa City,
+               IA: University of Iowa Press, 1974). </bibl>
+            <bibl>Turnbull, Gavin, Autograph letter, signed, with transcript of a song by John
+               O'Keefe: M'Kie Collection, Dick Institute, Kilmarnock, image on Future Museum (recto
+               and verso):
+               http://www.futuremuseum.co.uk/collections/people/key-people/burns/manuscripts/letter-from-gavin-turnbull-with-song-.aspx;
+               also on Burns Scotland (verso only):
+               http://www.burnsscotland.com/items/l/letter-from-gavin-turnbull-with-song-.aspxrecto </bibl>
+            <bibl>_____________, <emph rend="italic">Poetical Essays</emph> (Glasgow: David Niven,
+               1788). </bibl>
+            <bibl>_____________, <emph rend="italic">Poems</emph> (Dumfries: for the Author, 1794). </bibl>
+            <bibl>Willis, Eola, <emph rend="italic">The Charleston Stage in the XVIII Century with
+                  Social Settings of the Time</emph> (Columbia, SC: The State Co., 1926; repr. New
+               York: Blum, 1968). </bibl>
+            <bibl>Wyatt, Edward A., IV, “Three Petersburg Theatres,” <emph rend="italic">William
+                  &amp; Mary Quarterly</emph>, 2nd series, 21:2 (April 1941): 83-110. </bibl>
+            <bibl>__________________, ed., <emph rend="italic">Preliminary Checklist for Petersburg,
+                  1786-1876: Virginia Imprint Series</emph>, no. 9, series eds. John Cook Wyllie and
+               Randolph W. Church (Richmond: Virginia State Library, 1949).</bibl>
+
+         </listBibl>
+
+      </body>
+   </text>
+</TEI>

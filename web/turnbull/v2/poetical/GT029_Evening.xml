@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Evening.</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope
+                  unit="page" from="91" to="99">91-99</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Evening. A Poem.<emph rend="super">1</emph><note
+                  type="gloss" place="bottom"><emph rend="super">1</emph> First published in <emph
+                     rend="italic">Poetical Essays</emph> (1788), pp. 91-99. Raymond Havens lists
+                  “Evening” among the many poems influenced by Milton’s <emph rend="italic">Paradise
+                     Lost</emph> (1667), and his octosyllabic poems <emph rend="italic">L’Allegro</emph> and <emph rend="italic">Il Penseroso</emph>
+                  (1631). See Havens, <emph rend="italic">The Influence of Milton on English
+                     Poetry</emph> (New York: Russell &amp; Russell, 1961, pp. 656 and
+               676).</note></title></head>
+         <epigraph rend="center">
+            <l rend="indent"><emph rend="italic">—— Mild ev’ning comes</emph></l>
+            <l><emph rend="italic">Sacred to meditation and the Muse.</emph><emph rend="super"
+                  >2</emph><note type="gloss" place="bottom"><emph rend="super">2</emph>
+                  Unattributed.</note></l>
+         </epigraph>
+
+
+         <lg type="stanza" n="1">
+            <l>Come, dewy Ev’ning, spread thy dusky vail,</l>
+            <l>Along the landscape’s wide extended scene;</l>
+            <l>In sweet confusion, hide the drousy world,</l>
+            <l>Till Cynthia<emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                     rend="super">3</emph> Derives from Mount Cythus of Delos island on which the
+                  Greek goddess of the moon, Artemis was born.</note> gain the empire of the
+               skies,</l>
+            <l n="5">Come, in thy sadly pleasing horrors clad,</l>
+            <l>And aid my numbers, while of thee I sing. </l>
+         </lg>
+         <lg type="stanza" n="2">
+            <l rend="indent">Come, contemplation, from thy sacred cave,</l>
+            <l>To aid th’ advent’rous Muse, and lead her on;</l>
+            <l>And thee, bright fancy, with thy shadowy train</l>
+            <l n="10">Like changeful Proteus,<emph rend="super">4</emph><note type="gloss"
+                  place="bottom"><emph rend="super">4</emph> Shape-shifting ancient of the seas in
+                  Book IV of Homer’s <emph rend="italic">Odyssey</emph>. </note> in a thousand
+               shapes,</l>
+            <l>And mix’d ideas, dreadful and sublime. </l>
+         </lg>
+         <lg type="stanza" n="3">
+            <l rend="indent">Beyond the summit of yon airy hill,</l>
+            <l>Which overlooks the loud resounding main,</l>
+            <l>The fair hair’d sun emits his latest beams,</l>
+            <l n="15">The mountain tops reflect the transient ray,</l>
+            <l>And pointed rocks effulgent shine with gold.</l>
+            <l>Along the level green, the lengthen’d shade</l>
+            <l>Extends gigantic, and with stately strides,</l>
+            <l>The trav’ller seems to walk from hill to hill.</l>
+            <l n="20">The shadowy clouds hang o’er the azure main,</l>
+            <l>In radiant forms, with golden circles bound,</l>
+            <l>To draw the curtain o’er the drooping scene,</l>
+            <l>And send down Phœbus<emph rend="super">5</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">5</emph> The sun, but also an epithet for Apollo.</note> to
+               his wat’ry bed. </l>
+         </lg>
+         <lg type="stanza" n="4">
+            <l rend="indent">Now let me wander o’er the dewy lawn,</l>
+            <l n="25">Or reach the summit of some tow’ring height,</l>
+            <l>Exalted high, above the verdant vales,</l>
+            <l>Where down the rocks the dashing waters fall,</l>
+            <l>And play, in drousy murmurs, to the breeze,</l>
+            <l>Or, where the lovelorn philomela<emph rend="super">6</emph><note type="gloss"
+                  place="bottom"><emph rend="super">6</emph> The nightingale. See Book 4 of Ovid’s
+                     <emph rend="italic">Metamorphoses</emph>, Philip Sidney’s “The Nightingale”
+                  (1595) and Shakespeare’s <emph rend="italic">Titus Andronicus</emph> (1589),
+                  II.iii-iv.</note> sings</l>
+            <l n="30">Her plaintive notes, amid the woodland shades;</l>
+            <l>Or trace the paths inspired Bards have trode,</l>
+            <l>Rapt in extatic visions, when they held</l>
+            <l>Delightful converse with celestial forms. </l>
+         </lg>
+         <lg type="stanza" n="5">
+            <l rend="indent">Hark! from the distant dim discover’d spires,</l>
+            <l n="35">The drousy bells proclaim, with solemn sound,</l>
+            <l>Another day, of fleeting time, elaps’d;</l>
+            <l>The healthy peasant seeks his lowly cot,</l>
+            <l>Remotely shaded by an aged thorn,</l>
+            <l> Where, round the cheerful hearth, the infant throng,</l>
+            <l n="40">With smiling accents, welcome home their fire.</l>
+            <l>The careful shepherd pens his bleating flocks,</l>
+            <l>Within the mud-built walls, and homeward bends</l>
+            <l>His lonely way, and carols as he goes,</l>
+            <l>While vocal rocks re-echo to the song.</l>
+         </lg>
+         <lg type="stanza" n="6">
+            <l n="45" rend="indent">Upon the green, beneath a spreading tree,</l>
+            <l>Whose ample branches form a greateful shade,</l>
+            <l>The rural friends, in homely order rang’d,</l>
+            <l>Discuss, in simple phrase, the village news;</l>
+            <l>Or round some rev’rend, hoary headed sage,</l>
+            <l n="50">Esteem’d an oracle, attentive sit,</l>
+            <l>And listen to the tale of other times.</l>
+         </lg>
+         <lg type="stanza" n="7">
+            <l rend="indent">The nimble younkers, on the dewy green,</l>
+            <l>Pursue their gambols undisturb’d with care,</l>
+            <l>While, pin’d with love, the sprightly youths retire</l>
+            <l n="55">To am’rous vigils, in the secret shade,</l>
+            <l>Where, pleas’d and anxious of th’ appointed hour,</l>
+            <l>The simple virgin, with her artless song,</l>
+            <l>Impatient drives the lazy time away. </l>
+         </lg>
+         <lg type="stanza" n="8">
+            <l rend="indent">But he unhappy, curs’d beyond compare,</l>
+            <l n="60">Who’s doom’d to suffer the coy maid’s disdain, </l>
+            <l>Or to the wood, or gloomy haunt, he flies</l>
+            <l>In sad despair, unheedful of his way;</l>
+            <l>And, in some pensive melancholy strain,</l>
+            <l>Makes woods and wilds repeat his am’rous moan.</l>
+         </lg>
+         <lg type="stanza" n="9">
+            <l n="65" rend="indent">Now solemn silence reigns the world around;</l>
+            <l>In sad solemnity and awful pomp,</l>
+            <l>Circle on circle, roll the dark’ning clouds,</l>
+            <l>And nature shrouds her in the sable robe.</l>
+            <l>The breezes sleep, nor wave the pendant groves,</l>
+            <l n="70">Nor answers echo to the sound of joy:</l>
+            <l>Only the moon-ey’d bat, on restless wings,</l>
+            <l>In airy circles takes her nightly round.</l>
+            <l>The howling fox upon the cloudy hill,</l>
+            <l>Or boding raven from the leafless oak,</l>
+            <l n="75">The sullen beetle’s drousy sounding horn,</l>
+            <l>Or night owl screaming to the rising moon.</l>
+         </lg>
+         <lg type="stanza" n="10">
+            <l rend="indent">Among sequester’d groves, and briery dells,</l>
+            <l>Green shady bow’rs or haunted fountain’s brim,</l>
+            <l>In festive circles, trip the fairy train,</l>
+            <l n="80">Troop after troop leads on the cavalcade;</l>
+            <l>Sylvans and genii, and the dapper elves,</l>
+            <l>In winding maze alternately they shift</l>
+            <l>Their nimble feet to aerial minstrelsey.</l>
+         </lg>
+         <lg type="stanza" n="11">
+            <l rend="indent">Oft, guided by the sweet musician’s strains,</l>
+            <l n="85">Way-faring clowns their destin’d road forsake,</l>
+            <l>Till in the reach of those nocturnal bands,</l>
+            <l>By magic charm’d to sweet perdition run.</l>
+            <l>Mounted on nimble steeds they lightly skim</l>
+            <l>Through airy portals, to the splendid hall,</l>
+            <l n="90">Where sits enthron’d, the beauteous fairy queen.</l>
+            <l>Unnumber’d wonders feast their ravish’d eyes,</l>
+            <l>Beyond what human fancy e’er could paint,</l>
+            <l>Or fab’ling Poets dream; there lovely meads,</l>
+            <l>There chrystal fountains, fragrant shady groves,</l>
+            <l n="95">Delightful walks, and amaranthian bow’rs. </l>
+         </lg>
+         <lg type="stanza" n="12">
+            <l rend="indent">Enamour’d of the shades pale spectres rise,</l>
+            <l>And ghastly phantoms rear their hideous forms,</l>
+            <l>And stalk with strides horrific through the gloom;</l>
+            <l>Grim terror seizes on the human mind,</l>
+            <l n="100">And morbid fancy magnifies the dread.</l>
+            <l>Among the heaving graves and mould’ring tombs,</l>
+            <l>The red wing’d meteor hovers lightly round,</l>
+            <l>And points where some devoted swain shall lie. </l>
+         </lg>
+         <lg type="stanza" n="13">
+            <l rend="indent">Deep in the windings of yon dreary vale,</l>
+            <l n="105">Appears the ruins of an aged fane,<emph rend="super">7</emph><note
+               type="gloss" place="bottom"><emph rend="super">7</emph> <emph rend="italic">n.</emph> a temple or
+                  church.</note></l>
+            <l>In tott’ring fragments mould’ring to decay,</l>
+            <l>If some benighted trav’ller’s<emph rend="super">8</emph><note type="gloss"
+                  place="bottom"><emph rend="super">8</emph> Cf. Thomsons’s “Autumn” in <emph
+                     rend="italic">The Seasons</emph>: “benighted wretch,” line 1143; lines
+                  1113-1162 stage a scene similar to Turnbull’s poem.</note> gloomy path</l>
+            <l>Leads him ill fated near its lonely walls,</l>
+            <l>Soon he accelerates his timid steps</l>
+            <l n="110">To pass unnotic’d these abhor’d abodes;</l>
+            <l>For oft the neighbouring cottagers declare,</l>
+            <l>At solemn midnight, from the founding isles,</l>
+            <l>Sad hollow groans and mournful cries are heard,</l>
+            <l>That round the charnel stalk white sheeted ghosts</l>
+            <l n="115">Or howl beneath the yews funereal shade. </l>
+         </lg>
+         <lg type="stanza" n="14">
+            <l rend="indent">O superstition, monster breeding pow’r,</l>
+            <l>What forms terrific what chimeras dire</l>
+            <l>Dost thou impose upon the mind of man,</l>
+            <l>No sacred place, no consecrated dome,</l>
+            <l n="120">No lonely wood, but has its fiend from thee. </l>
+         </lg>
+         <lg type="stanza" n="15">
+            <l rend="indent">Yet let me here indulge the soothing dream,</l>
+            <l>And credulous believe what others tell</l>
+            <l>Of souls departed, who, when night returns,</l>
+            <l>Revisit those dear scenes which erst they lov’d;</l>
+            <l n="125">Then may I, haply on my lonely walk,</l>
+            <l>Astonish’d see my long lost friends once more;</l>
+            <l>Perhaps whilst I complain, beside the stream,</l>
+            <l>Where oft with Maria,<emph rend="super">9</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">9</emph> Variant of Mary.</note> I have spent the day</l>
+            <l>In fond endearments, she from distant climes</l>
+            <l n="130">May come and listen to her lover’s moan;</l>
+            <l>Or thou, Philander,<emph rend="super">10</emph><note type="gloss" place="bottom"><emph
+                        rend="super">10</emph> A male lover.</note> much beloved youth,</l>
+            <l>May’st come and hover round my nightly bed,</l>
+            <l>Hear my complaints, for my distresses feel,</l>
+            <l>And whisper hope to my desponding soul.</l>
+         </lg>
+         <lg type="stanza" n="16">
+            <l n="135" rend="indent">Disdaining meaner themes, mount, O my Muse,</l>
+            <l>On contemplation’s eagle<emph rend="super">11</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">11</emph> “Triumphs on Contemplation’s eagle wings”: John
+                  Gilbert Cooper, Book II in <emph rend="italic">The Power of Harmony</emph> (1745),
+                  line 289.</note> pinions born,</l>
+            <l>And yonder grand nocturnal scene survey:</l>
+            <l>See Hesperus,<emph rend="super">12</emph><note type="gloss" place="bottom"><emph
+                     rend="super">12</emph> In Greco-Roman mythology, the evening star.</note>
+               bright harbinger of eve,</l>
+            <l>In beauteous order leads the starry train.</l>
+            <l n="140">Beyond yon heath-clad mountain’s sable brow</l>
+            <l>A radiant circle shines; the silver moon,</l>
+            <l>In clouded majesty, emerging slow</l>
+            <l>To light the world, with her reflected beams.</l>
+            <l>The clouds withdrawn, along th’ etherial plain,</l>
+            <l n="145">Pure and serene she holds her lucid way:</l>
+            <l>Around their Queen the circling planets dance,</l>
+            <l>And stars unnumber’d spread from pole to pole.</l>
+            <l>The vallies shine, the mountain’s rocky height,</l>
+            <l>The stately spire, the ivy mantled tow’r,</l>
+            <l n="150">And dimpling streams reflect the silver ray.</l>
+
+         </lg>
+         <lg type="stanza" n="17">
+            <l rend="indent">Hail, gentle Cynthia, purest orb of night,</l>
+            <l>Queen of the starry train, whose radiant lamp</l>
+            <l>Supplies the absence of the God of day;</l>
+            <l>Come, in thy virgin majesty array’d,</l>
+            <l n="155">Clear and transparent, be the wand’rer’s aid,</l>
+            <l>The lover’s guide, that leads him to the bow’r</l>
+            <l>Of promis’d bliss,<emph rend="super">13</emph><note type="gloss" place="bottom"><emph
+                     rend="super">13</emph> “Faire Sir, if euer there ye trauell, shone / The cursed
+                  land where many wend amis, / And know it by the name; it hight the <emph
+                     rend="italic">Bowre of blis</emph>.”: Edmund Spenser, <emph rend="italic">The
+                     Faerie Queen</emph> (1590), 2.1; “Thus talking, hand in hand along they passed
+                  / On to their blissful bower…”: John Milton, <emph rend="italic">Paradise
+                     Lost</emph> (1667), IV.690.</note> where the expecting maid</l>
+            <l>Receives the willing wand’rer to her arms.</l>
+         </lg>
+         <lg type="stanza" n="18">
+            <l rend="indent">What were the lonely night, depriv’d of thee,</l>
+            <l n="160">But horror and impenetrable gloom.</l>
+            <l>When Phœbus hides his chariot in the west,</l>
+            <l>To give another hemisphere the day,</l>
+            <l>Thy milder beams the drooping landscape cheer,</l>
+            <l>And softer shades the face of things assume.</l>
+            <l n="165">Along the rising hill, or by the stream,</l>
+            <l>The lonely trav’ller winds his easy way,</l>
+            <l>Rejoicing thankful of his radiant guide,</l>
+            <l>While the pleas’d shepherd, watching o’er his flock,</l>
+            <l>Amus’d beholds the lawny prospect clear.</l>
+
+         </lg>
+         <lg type="stanza" n="19">
+            <l n="170" rend="indent">These are thy blessings, lovely Cynthia, thine</l>
+            <l>Although unnumber’d yet remain unsung,</l>
+            <l>Thine is the empire of the azure main,</l>
+            <l>Whose swelling tides thy motions all obey;</l>
+            <l>Thy pow’rful sceptre, o’er the vast abyss</l>
+            <l n="175">Extended, bids its waters ebb and flow.</l>
+            <l>By thee the months are measur’d, and by thee</l>
+            <l>The sons of men divide revolving time:</l>
+            <l>For still thy course unvarying rolls the same,</l>
+            <l>Obedient to the Great Supreme command.</l>
+
+         </lg>
+         <lg type="stanza" n="20">
+            <l n="180" rend="indent">Come, ye contracted sons of little soul,</l>
+            <l>Who Nature’s God and all his works confine,</l>
+            <l>Who, like the brutes that graze along the fields,</l>
+            <l>Gaze on those orbs with unadmiring eyes</l>
+            <l>Void of devotion, listen to the truth</l>
+            <l n="185">Which they convey, for they in reason’s ear</l>
+            <l>Proclaim aloud our Maker is divine. </l>
+
+         </lg>
+      </body>
+   </text>
+</TEI>

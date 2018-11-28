@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>The Recruit. A Musical Interlude.</title>,
+               in <title>Poems,</title> (<pubPlace>Dumfries</pubPlace>, <date>1794</date>),
+                  <biblScope unit="page" from="37" to="48">37-48</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <performance>
+            <head rend="center"><title>The Recruit. A Musical Interlude.<emph rend="super">1,
+                     </emph><note type="head" place="bottom"><emph rend="super">1</emph>First
+                     published in <emph rend="italic">Poems</emph> (1794), pp. 37-48, and performed
+                     in Dumfries in January, 1794; subsequent performances in Charleston include
+                     March 12, 1796 and May 30, 1807. Turnbull regularly included the play in the
+                     program for his benefit nights. He and his wife played the leading roles as
+                     Sampson and Nell, the argumentative husband and his equally argumentative wife.
+                     Though the play’s opening draws its humour from marital conflict, threatened
+                     domestic violence, and gender stereotyping, the wife gives as good as she gets:
+                     when Sampson threatens to leave her and join the army, she initially tells him
+                     to go, as he’s worthless anyway. The denouement of the play, when Nell wants
+                     him back, might seem a triumph for Sampson, but to get his release from the
+                     army and return to Nell Sampson has to accept his daughter Olly’s wish to marry
+                     the Sergeant, which he had previously refused. Sampson fits the stereotype of
+                     the village shoemaker or cobbler, as a self-employed and independently-minded
+                     craftsman who (to the resentment of his wife) worked intermittently and took
+                     time off to go drinking with friends; he also fits the shoemaker stereotype in
+                     bring physically small, by contrast with the recruiting sergeant and his the
+                     drummer. (Since there is no surviving portrait of Turnbull, this is the only
+                     clue there is to his own physical appearance.) The language in the play, though
+                     sometimes typographically vernacular, is easy enough to follow when it is acted
+                     or read aloud. The annotations here focus less on glossing words than on
+                     background, allusions or situations that might be missed in reading.
+                     </note><emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                        rend="super">2</emph> One of the few ways for a man to make a clean break
+                     from Scottish rural or small-town life was to join the army, and for those with
+                     no other recourse enlistment became a traditional if drastic escape route from
+                     sexual, marital, financial and legal difficulties. Cf. Song IV. Unlike the
+                     navy, which sent press-gangs ashore to seize men to become seamen, the army
+                     relied on volunteers, sending a recruiting sergeant with a few soldiers (here
+                     just a drummer) to country towns and villages, who drink with likely recruits,
+                     whose acceptance of a small enlistment payment, “the King’s shilling,” usually
+                     spent in celebration with the sergeant, constituted an irrevocable commitment.
+                  </note></title></head>
+            <p rend="center">As performed at the Theatre, Dumfries, January 1794.</p>
+            <castList>
+               <head type="main" rend="center">Persons of the Drama.</head>
+               <castGroup>
+                  <head rend="center"><emph rend="italic">Men.</emph></head>
+                  <castItem><role>Sampson,</role><actor> Mr Turnbull</actor></castItem>
+                  <castItem><role>Drummer,</role><actor> Mr O'Neil.</actor></castItem>
+                  <castItem><role>Serjeant,</role><actor> Mr Shaw.</actor></castItem>
+               </castGroup>
+               <castGroup>
+                  <head rend="center"><emph rend="italic">Women.</emph></head>
+                  <castItem><role>Nell,</role><actor> Mrs Turnbull.</actor></castItem>
+                  <castItem><role>Polly,</role><actor> Miss Harley.</actor></castItem>
+               </castGroup>
+            </castList>
+         </performance>
+      </front>
+
+      <body>
+         <div1 type="scene" n="1">
+            <head rend="center"> Scene I. <emph rend="italic">Sampson's House.</emph></head>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>Nane o’ yer jaw, or by my saul I’ll do’t—</l>
+                  <l>This vera day ye’ll see me a recruit.</l>
+                  <l>Think ye I’ll leave forever in het water,</l>
+                  <l>And be dung deaf wi’ your eternal clatter!</l>
+                  <l>Sae close your slav’ring gab, ye senseless taupie,</l>
+                  <l>Or damn me! by St Crispian!<emph rend="super">3</emph><note type="gloss"
+                        place="bottom"><emph rend="super">3</emph> Patron saint of cobblers and
+                        shoemakers, the appropriate oath for depicting Sampson’s occupation, but
+                        also part of theatre lore from the Agincourt scene in Shakespeare’s <emph
+                           rend="italic">Henry V</emph>.</note> but I’ll strap ye.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">NELL.</speaker>
+               <lg>
+                  <l>Ye’ll strap me faith ! it sets you weel to speak,</l>
+                  <l>After ye’ve tippl’d a’ this blessed week</l>
+                  <l>Wi’ drunken Pate the smith, and Mungo Bell,</l>
+                  <l>And other graceless wretches like yersel’—</l>
+                  <l>Whilst I, a virtuous wife as e’er was seen,</l>
+                  <l>Sit spinning by mysel’ frae morn ’till e’en;</l>
+                  <l>And scrape and had thegether a’ I can,</l>
+                  <l>To serve a silly good-fornaething man:</l>
+                  <l>Gae list, and send ye quickly o’er the sea,</l>
+                  <l>For day, or night, ye’re naething worth to me!</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <l>There the shoe pinches—<emph rend="super">4</emph><note type="gloss"
+                     place="bottom"><emph rend="super">4</emph> In response to Nell’s accusation
+                     that Sampson is “naething worth” to her “for …night,” but perhaps less an
+                     admission of his own sexual inadequacy than a hint at her sexual demands.
+                     Either way, again a relevant proverbial phrase for a shoemaker.</note></l>
+            </sp>
+            <sp>
+               <speaker rend="center">NELL.</speaker>
+               <lg>
+                  <l>Hold your senseless tongue—</l>
+                  <l>I might hae had a lad baith fair and young,</l>
+                  <l>And rich, and good—but nae sic luck for me;</l>
+                  <l>I wish I’d dy’d the day I married thee!</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>I’ll tell ye, Nell, be sparing o’ yer clatter—</l>
+                  <l>Ye married me when ye cou’d do nae better!</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">NELL.</speaker>
+               <lg>
+                  <l>Nae better troth! ye ugly, chreeshy<emph rend="super">5</emph><note
+                        type="gloss" place="bottom"><emph rend="super">5</emph>
+                        <emph rend="italic">adj.</emph> greasy.</note> ghaist!</l>
+                  <l>I’m sure I had an hundred lads amaist:</l>
+                  <l>Ane o’ them dy’d for love o’ me, that’s fact;</l>
+                  <l>The Farmer ran about me till he brake.<emph rend="super">6</emph><note
+                        type="gloss" place="bottom"><emph rend="super">6</emph> Went
+                        bankrupt.</note></l>
+                  <l>Tam Piper left the country,<emph rend="super">7</emph><note type="gloss"
+                        place="bottom"><emph rend="super">7</emph> Travelling pipers were a byword
+                        for brief sexual encounters. </note> and the Taylor</l>
+                  <l>Ran aff to Leith and listed for a sailor.</l>
+                  <l>And then the Laird——</l>
+
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>My dear, mak out the sentence——</l>
+                  <l>Made you ascend the black-stool o’ repentance.<emph rend="super">8</emph><note
+                        type="gloss" place="bottom"><emph rend="super">8</emph> The cutty stool in
+                        church on which offenders stood for public rebuke, when detected as having
+                        had pre- or extra- marital sex, often because the woman was pregnant.
+                     </note></l>
+                  <l>What! out o’ countenance?—Ay, now ye’re catch’d.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">NELL.</speaker>
+               <lg>
+                  <l>Well, than, there cou’d nae be twa be better match’d;</l>
+                  <l>Ye ken fu’ weel, guidman, thousands can tell,</l>
+                  <l>The like good-fortune<emph rend="super">9</emph><note type="gloss"
+                        place="bottom"><emph rend="super">9</emph> Sampson as well as Nell had had
+                        to make public penance for pre-marital sex.</note> happen’d to yoursel’!</l>
+
+               </lg>
+
+               <move type="exit" who="Nell"/>
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>Happen’d to me !—Ay, troth indeed that’s true:</l>
+                  <l>I maun confess she’s equal wi’ me now.</l>
+               </lg>
+
+               <floatingText>
+                  <front>
+                     <titlePart rend="center"><emph rend="italic">Song</emph> I.<emph rend="super"
+                           >10</emph><note type="gloss" place="bottom"><emph rend="super">10</emph>
+                           First published as "Song III" in <emph rend="italic">Poetical
+                              Essays</emph>, (1788), pp. 216-217; reprinted in <emph rend="italic"
+                              >Poems</emph> (1794), pp. 38-39; and again with the songs from <emph
+                              rend="italic">The Recruit</emph> in <emph rend="italic">Columbian
+                              Herald and New Daily Advertiser</emph> [Charleston, SC] (February 19,
+                           1796). The air Turnbull used, “The Muckin’ o’ Geordie’s Byre,” had
+                           appeared in <emph rend="italic">Orpheus Caledonius</emph> (1733), no. 33;
+                              <emph rend="italic">Caledonian Pocket Companion</emph>, II (1745), p.
+                           35; and (with earlier words) in Johnson, <emph rend="italic">Scots
+                              Musical Museum</emph>, I (1787), no. 96; it was also used later by
+                           Burns for his song “Adown winding Nith I did wander” (Kinsley II:701),
+                           published in Thomson, <emph rend="italic">Select Collection of Original
+                              Scotish Airs</emph>, II: set 3 (1799), song 66. </note></titlePart>
+                  </front>
+                  <body>
+                     <div type="verse" n="1">
+                        <lg type="song">
+                           <l>Ye lads, that are plaugit wi’ lasses,</l>
+                           <l rend="indent">Had need to be tenty and slie;</l>
+                           <l>Or soon ye’ll be guidit like asses,</l>
+                           <l rend="indent">If ye be as silly as me.</l>
+                           <l>I courted a lassie for siller,</l>
+                           <l rend="indent">And she was right saucy and sprie; </l>
+                           <l>But gin I was buckl’d until her</l>
+                           <l rend="indent">The fient a scrap siller had she.</l>
+                        </lg>
+                     </div>
+                     <div type="verse" n="2">
+
+                        <l rend="center"><emph rend="italic"><hi rend="bold">II.</hi></emph></l>
+                        <lg>
+
+                           <l>But ken’t ye the way how I gat her,</l>
+                           <l rend="indent">Ye’d say it was cunning o’ me:</l>
+                           <l>The chiels a’ gaed wood to be at her,</l>
+                           <l rend="indent">Sae cadgie the siller to see;</l>
+                           <l>But I gied her something to carry,</l>
+                           <l rend="indent">A sure memorandum to be;</l>
+                           <l>And syne she consented to marry,</l>
+                           <l rend="indent">And wad hae nae other but me. </l>
+                        </lg>
+                     </div>
+                     <div type="verse" n="3">
+                        <l rend="center"><emph rend="italic"><hi rend="bold">III.</hi></emph></l>
+                        <lg>
+
+                           <l>In a doop she began to grow wally,</l>
+                           <l rend="indent">The neighbours a’ ferlit to see;</l>
+                           <l>But I kent the reason fu’ brawly,</l>
+                           <l rend="indent">Wha soon was a daddy to be.</l>
+                           <l>And when the black cutty we mountit,</l>
+                           <l rend="indent">Her lads a’ leugh hearty at me:</l>
+                           <l>But, O! how my courage was bluntit,</l>
+                           <l rend="indent">When fient a scrap siller had she. </l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+               <move type="exit" who="Sampson"/>
+            </sp>
+         </div1>
+         <div1 type="scene" n="2">
+            <head rend="center">Scene II. <emph rend="italic">The Street.</emph></head>
+            <move type="enter" who="Serjeant"/>
+            <sp>
+               <speaker rend="center">SERJEANT.</speaker>
+               <lg>
+                  <l>Hey ho! this love ! this love is such an evil—</l>
+                  <l>’Tis worse than debt, or drink,—ay ’tis the devil!</l>
+                  <l>I’ve trv’d to shake it off, but all in vain;</l>
+                  <l>Spite of all arts I’ve got the fit again. </l>
+               </lg>
+               <floatingText>
+                  <front>
+                     <titlePart rend="center"><emph rend="italic">Song</emph> II.<emph rend="super"
+                           >11</emph><note type="gloss" place="bottom"><emph rend="super">11</emph>
+                           First published in <emph rend="italic">Poems</emph> (1794), pp. 39-40;
+                           subsequently reprinted with the songs from <emph rend="italic">The
+                              Recruit</emph> in <emph rend="italic">Columbian Herald and New Daily
+                              Advertiser</emph> [Charleston, SC] (February 19,
+                        1796).</note></titlePart>
+                  </front>
+                  <body>
+                     <div type="verse" n="1">
+                        <lg type="song">
+                           <l>My friends, unfeelingly, condemn</l>
+                           <l rend="indent">My passion for my Polly;<emph rend="super"
+                                 >12</emph><note type="gloss" place="bottom"><emph rend="super"
+                                    >12</emph> Sampson and Nell’s daughter. </note></l>
+                           <l>They mock my sighs, and bid me leave</l>
+                           <l rend="indent">This am’rous melancholy.</l>
+                           <l>Ah no, no, no, these sighs alone</l>
+                           <l rend="indent">My tender flame discover!</l>
+                           <l>Ah no, no, no, these sighs alone</l>
+                           <l rend="indent">Declare how much I love her! </l>
+                        </lg>
+                     </div>
+                     <div type="verse" n="2">
+                        <l rend="center"><emph rend="italic"><hi rend="bold">II.</hi></emph></l>
+                        <lg>
+
+                           <l>The chearful glass, the jovial crew,</l>
+                           <l rend="indent">That were my pleasure wholly,</l>
+                           <l>No more can ease this aching heart</l>
+                           <l rend="indent">That burns for thee, my Polly.</l>
+                           <l>Ah no, no, no, these sighs alone</l>
+                           <l rend="indent">My tender flame discover!</l>
+                           <l>Ah no, no, no, these sighs alone</l>
+                           <l rend="indent">Declare how much I love her!</l>
+                        </lg>
+                     </div>
+                     <div type="verse" n="3">
+                        <l rend="center"><emph rend="italic"><hi rend="bold">III.</hi></emph></l>
+                        <lg>
+
+                           <l>Forbear, unfeeling men, to rail,</l>
+                           <l rend="indent">Nor call my passion folly;</l>
+                           <l>I’d sooner die, than cease to love</l>
+                           <l rend="indent">My dear, my charming Polly.</l>
+                           <l>Ah no, no, no, these sighs alone</l>
+                           <l rend="indent">My tender flame discover!</l>
+                           <l>Ah no, no, no, these sighs alone</l>
+                           <l rend="indent">Declare how much I love her !</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+
+            </sp>
+            <move type="enter" who="Drummer"/>
+            <sp>
+               <speaker rend="center">DRUMMER.</speaker>
+               <lg>
+                  <l>Aye, there my noble Serjeant sighing stands,</l>
+                  <l>A love-sick swain—</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SERJEANT.</speaker>
+               <lg>
+                  <l>Well, Jack, what’s your demands?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">DRUMMER.</speaker>
+               <lg>
+                  <l>You know, you sent me to enquire about</l>
+                  <l>Your girl, and I have found a secret out:</l>
+                  <l>You’ve lost your chance—</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SERJEANT.</speaker>
+               <lg>
+                  <l>Curse on my luckless fate!—</l>
+                  <l>I wish to see her though, at any rate:</l>
+                  <l>She lov’d me once—I’m sure I’d wed her still,</l>
+                  <l>If I could but secure her father’s will.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">DRUMMER.</speaker>
+               <lg>
+                  <l>His will!—that I’ll procure you in a trice,</l>
+                  <l>Dear Serjeant, if you’ll follow my advice.</l>
+                  <l>You know how many wenches I have trick’d,</l>
+                  <l>How many country bumpkins I have nick’d—</l>
+                  <l>I’ve seen your Polly, and she loves you yet;</l>
+                  <l>Her, with her father’s free consent ye’ll get;</l>
+                  <l>But follow my directions—</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SERJEANT.</speaker>
+               <lg>
+                  <l rend="indent">Never fear——</l>
+                  <l>Who’s this?—By all my hopes, it is my dear!</l>
+                  <l>What, my sweet creature! ever kind and true? </l>
+               </lg>
+            </sp>
+            <move type="enter" who="Polly"/>
+            <sp>
+
+               <speaker rend="center">POLLY.</speaker>
+               <lg>
+                  <l>Yes, my dear Serjeant, ever so to you;</l>
+                  <l>Why did you leave me tho’?—Ah! I’m afraid</l>
+                  <l>You left your Polly for some other maid:</l>
+                  <l>Your vows and promises are false as wind,</l>
+                  <l>For you’re to all, as to your Polly kind.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SERJEANT.</speaker>
+               <lg>
+                  <l>Do stop that pretty lying tongue a while,</l>
+                  <l>And cheer your faithful soldier with a smile.</l>
+                  <l>How does all friends? does thy dad relent?</l>
+                  <l>And may we ever hope for his consent?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">POLLY.<emph rend="super">13</emph><note type="gloss"
+                     place="bottom"><emph rend="super">13</emph> The 1794 text was here misprinted
+                     with the name "Molly."</note></speaker>
+               <lg>
+                  <l>No, he relents not ; but what’s that to me!</l>
+                  <l>My heart, my dearest soldier’s still with thee.</l>
+                  <l>My mother rages, and my father swears,</l>
+                  <l>They growl like greedy wolves and raging bears</l>
+                  <l>He’ll see you shortly ; but howe’er it be,</l>
+                  <l>Secure old dad, and then ye’re sure of me. </l>
+               </lg>
+            </sp>
+            <floatingText>
+               <front>
+                  <titlePart rend="center"><emph rend="italic">Song</emph> III.--Duet.</titlePart>
+               </front>
+               <body>
+                  <div type="verse" n="1">
+                     <sp>
+                        <speaker rend="center">Polly</speaker>
+
+                        <lg type="song">
+                           <l>Lord! what care I for he or she!</l>
+                           <l rend="indent">Why let them scold and hollo;</l>
+                           <l>O’er hill and dale, by land and sea,</l>
+                           <l rend="indent">My soldier I will follow.</l>
+                        </lg>
+                     </sp>
+                  </div>
+                  <div type="verse" n="2">
+                     <sp>
+                        <speaker rend="center">Serjeant.</speaker>
+                        <lg>
+                           <l>Then come, my dearest, to my arms,</l>
+                           <l rend="indent">I’ll add thee to my roll<emph rend="super"
+                                 >14</emph><note type="gloss" place="bottom"><emph rend="super"
+                                    >14</emph> I.e. enlist her, as metaphor for marrying.</note>
+                              O!</l>
+                           <l>And leave for thine all other charms,</l>
+                           <l rend="indent">If your dear lad you’ll follow.</l>
+                        </lg>
+                     </sp>
+                  </div>
+
+               </body>
+            </floatingText>
+            <move type="exit" who="Polly"/>
+            <sp>
+               <speaker rend="center">SERJEANT.</speaker>
+               <lg>
+                  <l>Here comes the Cobbler.—Drummer, mind your duty.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">Drummer.</speaker>
+               <lg>
+                  <l>Yes, Serjeant, for the cause is love and beauty.</l>
+               </lg>
+            </sp>
+            <move type="enter" who="Sampson"/>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>Ay, there’s the lads that lead the merry lives,</l>
+                  <l>Free frae hard labour and ill-natur’d wives:</l>
+                  <l>While I, poor devil, darna tak a chapin,<emph rend="super">15</emph><note
+                        type="gloss" place="bottom"><emph rend="super">15</emph>
+                        <emph rend="italic">n.</emph> (Scottish) half pint.</note></l>
+                  <l>But my unruly spouse is on my tappin.<emph rend="super">16</emph><note
+                        type="gloss" place="bottom"><emph rend="super">16</emph>
+                        <emph rend="italic">n.</emph> Crown of the head.</note></l>
+                  <l>I’ll sell ye her, good Serjeant, if ye’ll tak her,</l>
+                  <l>And try if only better ye can make her.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SERJEANT.</speaker>
+               <lg>
+                  <l>Old boy, I thought you had not need of telling,</l>
+                  <l>There’s better ways to tame a wife than selling.<emph rend="super"
+                        >17</emph><note type="gloss" place="bottom"><emph rend="super">17</emph>
+                        Selling off a difficult wife was a traditional trope in country folk-lore:
+                        cf. Hardy’s <emph rend="italic">The Mayor of Casterbridge</emph>.
+                     </note></l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>How, how, dear sir?—come tell me that wi’ speed;</l>
+                  <l>Ne’er ane to learn that lesson had mair need.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">DRUMMER.</speaker>
+               <lg>
+                  <l>Listen, old boy; and if you be a man,</l>
+                  <l> I’ll try to raise your courage, if I can.</l>
+               </lg>
+               <floatingText>
+                  <front>
+                     <titlePart rend="center"><emph rend="italic">Song</emph> IV.<emph rend="super"
+                           >18</emph><note type="gloss" place="bottom"><emph rend="super">18</emph>
+                           First published in <emph rend="italic">Poems</emph> (1794), p. 42;
+                           subsequently reprinted with the songs from <emph rend="italic">The
+                              Recruit</emph> in <emph rend="italic">Columbian Herald and New Daily
+                              Advertiser</emph> [Charleston, SC] (February 19,
+                        1796).</note></titlePart>
+                  </front>
+                  <body>
+                     <div type="verse" n="1">
+                        <lg type="song">
+                           <l>The youth who is handsome, courageous, and wise,</l>
+                           <l> Will poverty, hardship, and labour despise;</l>
+                           <l>The spade and the cart, the flail and the plough,</l>
+                           <l>He’ll leave when he hears our row-de-dow-dow!<emph rend="super"
+                                 >19</emph><note type="gloss" place="bottom"><emph rend="super"
+                                    >19</emph> Accompanied by a rousing drum-roll to stimulate
+                                 recruiting. </note>
+                           </l>
+                        </lg>
+                     </div>
+                     <div type="verse" n="2">
+                        <l rend="center"><emph rend="italic"><hi rend="bold">II.</hi></emph></l>
+                        <lg>
+
+                           <l>The lad who’s in love, and his sweatheart unkind,</l>
+                           <l>Let him cast all his cares at his back to the wind;</l>
+                           <l>Nor to a coy mistress contentedly bow,</l>
+                           <l>But leave her at once for our row-de-dow-dow! </l>
+                        </lg>
+                     </div>
+                     <div type="verse" n="3">
+                        <l rend="center"><emph rend="italic"><hi rend="bold">III.</hi></emph></l>
+                        <lg>
+
+                           <l>The man who is tied up in wedlock’s close noose,</l>
+                           <l>May quickly get rid of a termagant spouse;</l>
+                           <l>Let her bellow and scold, the best he can do</l>
+                           <l>Is, to leave her at once for our row-de-dow-dow! </l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>There, my old boy !</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+
+               <lg>
+                  <l>Ay, faith! that sang has merit——.</l>
+               </lg>
+
+            </sp>
+            <sp>
+               <speaker rend="center">DRUMMER.</speaker>
+               <lg>
+                  <l>Then leave your wife, if you’re a man of spirit.</l>
+                  <l>I had a wife, in sooth a very devil!</l>
+                  <l>But since I listed she’s been vastly civil,</l>
+                  <l>And let’s me live as happy as a prince;—</l>
+                  <l>For faith, old boy, I’ve never seen her since!</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SERJEANT.</speaker>
+               <lg>
+                  <l>What mean you, Jack? the man’s not worth a shilling!<emph rend="super"
+                        >20</emph><note type="gloss" place="bottom"><emph rend="super">20</emph> On
+                        agreeing to enlist, a recruit was given “the King’s shilling.” </note></l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">DRUMMER.</speaker>
+               <lg>
+                  <l>Ne’er mind, but list the body, if he is willing:</l>
+                  <l>Mind what your Polly said, play well your part,</l>
+                  <l>You’ll get the daughter for the father’s smart. </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SERJEANT.</speaker>
+               <lg>
+                  <l>Here, brother Crispian,<emph rend="super">21</emph><note type="gloss"
+                        place="bottom"><emph rend="super">21</emph> The cobbler, Sampson.</note>
+                     will you take a crown?<emph rend="super">22</emph><note type="gloss"
+                        place="bottom"><emph rend="super">22</emph> Five shillings. The crown was a
+                        silver coin, but is here described as gold.</note>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>I thank ye, sir ; I’ve siller of my own.—</l>
+                  <l>I’ll tell though, as ye’re a man of honour;</l>
+                  <l>My wife, I mean to put a trick upon her;</l>
+                  <l>For as she scalds me wheresoe’er I gang,</l>
+                  <l>At hame, abroad, alane, or in a thrang;</l>
+                  <l>As she’s sae thrawart, this I’ve done to grieve her,</l>
+                  <l>Sworn that this vera day I’ll list and leave her.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SERJEANT.</speaker>
+               <lg>
+                  <l>Bravely determined !—here’s the yellow gold.<emph rend="super">23</emph><note
+                        type="gloss" place="bottom"><emph rend="super">23</emph> Sampson has
+                        refused both a shilling and a crown (five shillings), both silver coins. The
+                        Serjeant now offers him gold as an enlistment payment, either a half-guinea
+                        (10 s. 6 d.) or a guinea (21 shillings), and Sampson accepts.</note>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>I take it—that will learn the jade to scold!</l>
+                  <l>And now, as I hae frankly tald ye a’</l>
+                  <l>My hale intention, sir, without a flaw,</l>
+                  <l>Should Nell relent, and she and I agree,</l>
+                  <l>Ye’ll take your goud again and let me free. </l>
+               </lg>
+            </sp>
+            <move type="enter" who="Nell"/>
+            <sp>
+               <speaker rend="center">Nell.</speaker>
+
+               <lg>
+                  <l>Where is the monster? where’s the drunken brute? </l>
+               </lg>
+
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>’Tis as I tauld ye, Nell, I’m a recruit;</l>
+                  <l> See there’s the yellow lad——</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">NELL.</speaker>
+               <lg>
+                  <l>’Nane o’ yer blether,</l>
+                  <l>Ye auld mis-shapen lump o’ rotten leather:</l>
+                  <l>Listed indeed !—goodman—no just sae fast—</l>
+                  <l>“Let nae the soutter<emph rend="super">24</emph><note type="gloss"
+                        place="bottom"><emph rend="super">24</emph>
+                        <emph rend="italic">n. </emph> shoemaker.</note> go beyond his last.”<emph
+                        rend="super">25</emph><note type="gloss" place="bottom"><emph rend="super"
+                           >25</emph>
+                        <emph rend="italic">n.</emph> the metal foot-mould used both by shoe-makers;
+                        so proverbial for keeping to one’s own business.</note>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>I see, good-wife, ye think I’m but in jest;</l>
+                  <l>But sure as we were kippl’d by the Priest,</l>
+                  <l>I’m fairly listed—and before to-morrow</l>
+                  <l>Gaes o’er yer head, ye’ll find it to yer sorrow.</l>
+                  <l>Come, comrades, let us march—</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">NELL.</speaker>
+               <lg>
+                  <l>My ain dear jewel,</l>
+                  <l>How can you, O how can you be sae cruel</l>
+                  <l>To leave yer wife and daughter here to starve! </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>Indeed, good-wife, it’s whats ye weel deserve;</l>
+                  <l>For, day or night yer tongue lies never still,</l>
+                  <l>But yelps just like the clapper o’ a mill.</l>
+                  <l>If, in the morning, wi’ our neibour Tam</l>
+                  <l>I gang to Mungo Blue’s<emph rend="super">26</emph><note type="gloss"
+                        place="bottom"><emph rend="super">26</emph> The inn or ale-house.</note> to
+                     get a dram;</l>
+                  <l>Scarce can I touch the glass or lift the jug,</l>
+                  <l>Till your damn’d voice gaes yelling thro’ my lug:—</l>
+                  <l>But should I leave the sodgers and gay hame,</l>
+                  <l>Will this last bout yer thrawart temper tame? </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">NELL.</speaker>
+               <lg>
+                  <l>May, that it will—and I shall a’ my life</l>
+                  <l>Remain thy loving and obedient wife. </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>Weel, say nae mair, dear Nell, but kiss and gree!</l>
+                  <l>And now, good sergeant, you and I are free.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SEJEANT.</speaker>
+               <lg>
+                  <l>No faith! old split-birss,<emph rend="super">27</emph><note type="gloss"
+                        place="bottom"><emph rend="super">27</emph>
+                        <emph rend="italic">n.</emph> gad-fly</note> you must go with me:</l>
+                  <l>Long have I wish’d to catch you on the hip;</l>
+                  <l>And now I’ll see you damn’d before ye slip.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>Good lord! what madness !—ay, it’s just the case—</l>
+                  <l>I’ve bit my nose aff just to vex my face!</l>
+                  <l>I wisely laid this plot to humble Nell,</l>
+                  <l>But run my head into the girn mysel’!</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">NELL.</speaker>
+               <lg>
+                  <l>I hae five shillings, tied up in a clout,</l>
+                  <l>And four-pence half-penny, or thereabout,</l>
+                  <l>I hae a siller broach, just like a heart,</l>
+                  <l>I gat frae Andrew Hogg that drave the cart,</l>
+                  <l>I hae a ring—’tis either goud or brass—</l>
+                  <l>A thimble, hussy,<emph rend="super">28</emph><note type="gloss" place="bottom"
+                           ><emph rend="super">28</emph>
+                        <emph rend="italic">n.</emph> a "house-wife" or sewing bag.</note> and a
+                        keeking-glass,<emph rend="super">29</emph><note type="gloss" place="bottom"
+                           ><emph rend="super">29</emph><emph rend="italic">n.</emph> looking-glass,
+                        mirror.</note></l>
+                  <l>And three scotch boddles,<emph rend="super">30</emph><note type="gloss"
+                        place="bottom"><emph rend="super">30</emph>
+                        <emph rend="italic">n.</emph> a copper coin known also as Turners or
+                        Twopenny pieces, equivalent to one sixth of an English penny.</note> I hae
+                     keepet lang,</l>
+                  <l>Ye’s get them a’ if ye’ll but let him gang.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>Dear serjeant, tak her crown, and tak her ring,</l>
+                  <l>Tak a’ she has, before I serve the king;</l>
+                  <l>Tak a’ that’s hers, dear sir, and then tak mine;</l>
+                  <l>First, tak my auld black coat that’s superfine,</l>
+                  <l>And tak my waistcoat and my three-square hat,</l>
+                  <l>That at the last St Crispain’s day I gat;</l>
+                  <l>Take breeks and apron, a’ that I can spare;</l>
+                  <l>Tak strap, last, awl ;—and ye can take nae mair.</l>
+               </lg>
+            </sp>
+            <move type="enter" who="Polly"/>
+            <sp>
+               <speaker rend="center">POLLY.</speaker>
+               <lg>
+                  <l>Can this be true, this woeful news I hear—</l>
+                  <l>My father listed?—gentlemen, forbear;</l>
+                  <l>Forgive a poor old man, who in a passion</l>
+                  <l>Has done a thing against his inclination. </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SERJEANT.</speaker>
+               <lg>
+                  <l>Yes, my dear maid, if any thing could plead,</l>
+                  <l>Your tears should set your father free indeed;</l>
+                  <l>But I have made an oath, and that I’ll keep,</l>
+                  <l>To swear him and attest him e’re I sleep.</l>
+                  <l>Take him along——</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>Nay, now, kind gentlemen,—I pray be civil—</l>
+                  <l>Upon my saul, I never meant you evil!</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">DRUMMER.</speaker>
+               <lg>
+                  <l>Old boy, you say you never meant us ill—</l>
+                  <l>Do you mean well to those that you would kill?</l>
+                  <l>A twelve-month past—remember this, old dad,</l>
+                  <l>The Serjeant, here, your daughter would have wed;</l>
+                  <l>But you got drunk and made so damnd a fuss,</l>
+                  <l>And with a rusty sword and blunderbuss,</l>
+                  <l>Swore wounds and death ! that if he married Polly,</l>
+                  <l>You’d make him in his blood repent his folly!</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>Yes, I remember’t, and to shew you now</l>
+                  <l>That, that fools trick as weel as this I rue;</l>
+                  <l>Tak back yer goud, and without farther strife,</l>
+                  <l>Tak ye my daughter.—and I’ll tak my wife.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SERJEANT.</speaker>
+               <lg>
+                  <l>To shew you, sir, that I’m a man of feeling,<emph rend="super">31</emph><note
+                        type="gloss" place="bottom"><emph rend="super">31</emph> The vaguest of
+                        references to the cult of genteel sensibility, represented by Henry
+                        Mackenzie’s novel <emph rend="italic">The Man of Feeling</emph>
+                        (1771).</note></l>
+                  <l>I’ll take the ransome—fair one, if you’re willing:</l>
+                  <l>Prouder of this recruit—I tell you true,</l>
+                  <l>Than of a regiment such old fools as you.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">POLLY.</speaker>
+               <lg>
+                  <l>To save my father, witness all that’s here,</l>
+                  <l>I give my hand, a hearty volunteer. </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker rend="center">SAMPSON.</speaker>
+               <lg>
+                  <l>By our example let ilk married pair</l>
+                  <l>Of quarrels and domestic strife beware;</l>
+                  <l>And, should a brawl ensue, ne’er gae about</l>
+                  <l>Like us twa fools to let the secret out:</l>
+                  <l>But when ye’re tir’d o’ flyting,<emph rend="super">32</emph><note type="gloss"
+                        place="bottom"><emph rend="super">32</emph> Public disputation involving
+                        personal attack.</note> trust ye me,</l>
+                  <l>The best thing ye can do, ’s to kiss and gree!</l>
+               </lg>
+            </sp>
+         </div1>
+         <div1 type="scene" n="3">
+            <floatingText>
+               <front>
+                  <titlePart rend="center"><emph rend="italic">FINALE.</emph><emph rend="super"
+                        >33</emph><note type="gloss" place="bottom"><emph rend="super">33</emph>
+                        First published in <emph rend="italic">Poems</emph> (1794), pp. 46-47;
+                        subsequently reprinted with the songs from <emph rend="italic"> The
+                           Recruit</emph> in <emph rend="italic">Columbian Herald and New Daily
+                           Advertiser</emph> [Charleston, SC] (February 19, 1796).</note>
+                  </titlePart>
+               </front>
+               <body>
+                  <sp>
+                     <speaker rend="center">SAMPSON.</speaker>
+                     <lg>
+                        <l>Now, Nell, since we’re ance mair agreed,</l>
+                        <l>I’ll to my mending soals wi’ speed;</l>
+                        <l>Mind you yer wheel—and as for you,</l>
+                        <l>You’ve got the lad with the row, dow, dow !</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker rend="center">DRUMMER.</speaker>
+                     <lg>
+                        <l>Old boy, be wise and mind your trade,</l>
+                        <l>And, Nell, let that curs’d tongue be laid,</l>
+                        <l>Lest ye provoke him, when he’s fou’,</l>
+                        <l>To follow the lads with the row, dow, dow!</l>
+
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker rend="center">POLLY.</speaker>
+                     <lg>
+                        <l>Then farewel, mam, and farewel dad!</l>
+                        <l>I’ll march along with my soldier lad;</l>
+                        <l>Love gives the word, and our hearts beat true</l>
+                        <l>With mutual joy, a row, dow, dow!</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker rend="center">SERJEANT.</speaker>
+                     <lg>
+                        <l>In peace, or war, whate’er betide,</l>
+                        <l> With such a sweet and charming bride</l>
+                        <l>I’m bless’d for life—and chear’d by you,</l>
+                        <l>I’ll boldly march to the row, dow, dow !</l>
+                     </lg>
+                  </sp>
+               </body>
+            </floatingText>
+
+
+
+         </div1>
+      </body>
+   </text>
+</TEI>

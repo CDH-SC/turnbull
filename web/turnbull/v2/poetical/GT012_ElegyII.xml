@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Elegy II. Philander.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="7" to="10">7-10</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Elegy II. Philander.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> First published in <emph
+                     rend="italic">Poetical Essays</emph> (1788), pp. 7-10.</note></title></head>
+
+
+         <epigraph rend="center">
+            <l><emph rend="italic">His tears rose honest, honest rose his smile,</emph></l>
+            <l><emph rend="italic">His heart no falsehood knew, his tongue no guile.</emph></l>
+            <bibl>Hamilton of Bangor<emph rend="super">2</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">2</emph> "Epitaph on Sir James Sooty” in <emph rend="italic"
+                     >Poems on Several Occasions</emph> (1748). As a result of his participation in
+                  the Jacobite rebellion of 1745, William Hamilton spent much of his later life
+                  abroad, during which time Adam Smith edited and anonymously published <emph
+                     rend="italic">Poems</emph>. Hamilton did not claim authorship of the work until
+                  the second edition was released in 1758.</note></bibl>
+         </epigraph>
+         <div1 type="stanza" n="1">
+            <head rend="center">I.</head>
+            <lg>
+               <l>Come, sable night, and settle round my head,</l>
+               <l rend="indent">Let not the moon and starry train arise;</l>
+               <l>The meteor’s gleam my weary steps shall lead</l>
+               <l rend="indent">To wander where my lov’d Philander<emph rend="super">3</emph><note
+                     type="gloss" place="bottom"><emph rend="super">3</emph> From philandros; common
+                     name in Renaissance literature for a male lover.</note> lies.</l>
+            </lg>
+
+         </div1>
+         <div1 type="stanza" n="2">
+            <head rend="center">II.</head>
+
+            <lg>
+               <l n="5"> I’ll take my seat beneath the baleful yew,</l>
+               <l rend="indent">Fearless of ghost and wand’ring spectre pale,</l>
+               <l>His grave with show’rs of friendly tears bedew,</l>
+               <l rend="indent">And sigh in consort with the passing gale.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="3">
+            <head rend="center">III.</head>
+
+            <lg>
+               <l>Blow on, ye winds, ye stormy tempests howl,</l>
+               <l n="10" rend="indent">Such sounds are grateful to my list’ning ear,</l>
+               <l>Such melancholy murmurs sooth my soul,</l>
+               <l rend="indent">’Tis all the music now I wish to hear.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="4">
+            <head rend="center">IV.</head>
+
+            <lg>
+               <l>No more shall pleasure’s winning form appear,</l>
+               <l rend="indent">No future prospect e’er shall give relief,</l>
+               <l n="15">Nor consolation’s soothing voice I’ll hear;</l>
+               <l rend="indent">But eager quaff the bitter cup of grief.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="5">
+            <head rend="center">V.</head>
+
+            <lg>
+               <l>In thee, Philander, all my hopes were plac’d,</l>
+               <l rend="indent">Thou dearest friend, thou sweetner of my days,</l>
+               <l>By thee each gloomy prospect was effac’d,</l>
+               <l n="20" rend="indent">And all the tempests jealous spleen could raise. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="6">
+            <head rend="center">VI.</head>
+
+            <lg>
+               <l>Sage were thy counsels, and thy words were wise,</l>
+               <l rend="indent">Thy words in season, ever dear to me,</l>
+               <l>Who now will solve my doubts, when doubts arise,</l>
+               <l rend="indent">Or who (Philander) find so just as thee?</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="7">
+            <head rend="center">VII.</head>
+
+            <lg>
+               <l n="25"> Who will dispel each low’ring cloud of care,</l>
+               <l rend="indent">And balmy peace to this sad breast restore?</l>
+               <l>Or who my griefs and transient pleasures share?</l>
+               <l rend="indent">Ah none! my lov’d Philander—is no more.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="8">
+            <head rend="center">VIII.</head>
+
+            <lg>
+               <l>Now prying memory exerts her pow’r</l>
+               <l n="30" rend="indent">Our joys and past endearments to renew;</l>
+               <l>She takes at once her sadly pleasing tour</l>
+               <l rend="indent">To bring each scene of happiness to view.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="9">
+            <head rend="center">IX.</head>
+
+            <lg>
+               <l>Our days of childhood, spent in careless play,</l>
+               <l rend="indent">Gay as the kids that wanton o’er the green,</l>
+               <l n="35">A thousand gambols chac’d the hours away,</l>
+               <l rend="indent">While minds unclouded sweet’ned ev’ry scene. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="10">
+            <head rend="center">X.</head>
+
+            <lg>
+               <l>Oft have we wander’d by the gurgling rill,</l>
+               <l rend="indent">And trac’d the winding mazes of the wood;</l>
+               <l>Or reach’d the summit of the highest hill,</l>
+               <l n="40" rend="indent">And gazing on the distant landscape stood.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="11">
+            <head rend="center">XI.</head>
+
+            <lg>
+               <l>But when, advancing to maturer age,</l>
+               <l rend="indent"> And childish play and simple joys retir’d,</l>
+               <l>Warm’d by the beauties of each classic page,</l>
+               <l rend="indent">More friendly sentiments our bosoms fir’d.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="12">
+            <head rend="center">XII.</head>
+
+            <lg>
+               <l n="45"> But what avails it me to have been bless’d</l>
+               <l rend="indent">With such a friend so worthy my esteem;</l>
+               <l>When all the darling pleasures, then possess’d,</l>
+               <l rend="indent">Are fled and vanish like an airy dream?</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="13">
+            <head rend="center">XIII.</head>
+
+            <lg>
+               <l>Yet stay ye images for ever dear,</l>
+               <l n="50" rend="indent">Ideas ever welcome to my mind,</l>
+               <l>Ye scenes, remember’d with a friendly tear,</l>
+               <l rend="indent">Which leave a melancholy joy behind.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="13">
+            <head rend="center">XIV.</head>
+
+            <lg>
+               <l>Dear friendly shade, once more I bid adieu,</l>
+               <l rend="indent"> With sighs predictive of my sure return,</l>
+               <l n="55">With ev’ning here, my vigils to renew,</l>
+               <l rend="indent">And nightly by thy narrow dwelling mourn. </l>
+            </lg>
+         </div1>
+
+      </body>
+   </text>
+</TEI>

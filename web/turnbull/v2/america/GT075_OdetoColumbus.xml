@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Ode to Columbus.</title>
+               <title><emph rend="italic">City Gazette and Daily Advertiser,</emph></title>
+                  (<pubPlace>Charleston, SC</pubPlace>), <date>March 5, 1796</date></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head rend="center"><title type="main">Ode to Columbus.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> Published in <emph
+                     rend="italic">City Gazette and Daily Advertiser</emph> [Charleston, SC]
+                  (Supplement, March 5, 1796), p. 1. Possibly written as a prologue for one of the
+                  patriotic theatrical performances repeated yearly by the Charleston, SC theatre
+                  companies.</note></title></head>
+
+         <div1 type="section">
+            <head rend="center">Introduction.</head>
+            <lg type="stanza">
+               <l n="1">While Greece and Rome, renown’d in ancient song,</l>
+               <l>In ruins lie; and Europe’s boasted realms,</l>
+               <l>The muses’ favor’d seats, begin to nod</l>
+               <l>And totter to their fall: the tuneful maids<emph rend="super">2</emph><note
+                     type="gloss" place="bottom"><emph rend="super">2</emph> The nine
+                  muses.</note></l>
+               <l n="5">Explore more happy climes, and hail the shores</l>
+               <l>Of fair Columbia,<emph rend="super">3</emph><note type="gloss" place="bottom"
+                        ><emph rend="super">3</emph> Poetic name in use since the 1730s for the
+                     original Thirteen Colonies of the United States.</note> where celestial
+                  Peace</l>
+               <l>And God-like Freedom reign; a heavenly pair,</l>
+               <l>Who with benignant smile invite from far</l>
+               <l>The exil’d sisters; who, beneath the shade</l>
+               <l n="10">Of their auspicious olive, tune the lyre</l>
+               <l>And pour the sacred song. Then say, ye nine,</l>
+               <l>What theme’s more worthy of the trembling string,</l>
+               <l>Than him who first explor’d the western main,</l>
+               <l>Undaunted measur’d seas unknown before,</l>
+               <l n="15">And gave this infant world to human ken?</l>
+               <l>Or him, who when oppression rais’d the sword,</l>
+               <l>And bade fell discord rage, espous’d her cause,</l>
+               <l>And crown’d her rising states with lasting peace?</l>
+               <l>What names can more the poets numbers claim?</l>
+               <l n="20">Then raise the song of triumph to their fame! </l>
+
+            </lg>
+         </div1>
+         <div1 type="section">
+            <head rend="center">Ode.</head>
+            <lg type="stanza">
+               <l>When from the ports of ancient Spain</l>
+               <l>Columbus first his sails unfurl’d,</l>
+               <l>The sea-green Neiades<emph rend="super">4</emph><note type="gloss" place="bottom"
+                        ><emph rend="super">4</emph> Water nymphs.</note> in his train</l>
+               <l>Thus cheer’d him midst the watry world:</l>
+               <l n="25">Hail, great Columbus! Succeeding times shall see</l>
+               <l>A new creation rais’d by thee.</l>
+               <l>Thou shalt the happy land behold</l>
+               <l>Where lavish plenty laughs around,</l>
+               <l>Her trees surcharg’d with fruits of gold,</l>
+               <l n="30">Fields with spontaneious harvest crown’d.</l>
+               <l>Hail, great Columbus! succeeding times shall see</l>
+               <l>A new creation rais’d by thee.</l>
+               <l>There arts and industry shall rise;</l>
+               <l>The swelling canvas commerce bend;</l>
+               <l n="35">there cities spires shall reach the skies,</l>
+               <l>and walls and lofty tow’rs ascend.</l>
+               <l>Hail, great Columbus! succeeding times shall see</l>
+               <l>A new creation rais’d by thee.</l>
+               <l>Proud royalty with iron sway</l>
+               <l n="40">Shall impious mask her growing gains,</l>
+               <l>To make her colonies obey,</l>
+               <l>Presumptuous forge despotic chains.</l>
+               <l>Hail, great Columbus! succeeding times shall see</l>
+               <l>A new creation rais’d by thee.</l>
+               <l n="45">But Freedom, guardian of the land,</l>
+               <l>In her right hand the hero brings,</l>
+               <l>By Heav’n appointed to command,</l>
+               <l>And curb the insolence of kings.</l>
+               <l>Hail, great commander! succeeding times shall see</l>
+               <l n="50">Their guardian genius still in thee.</l>
+               <l>So long as Phoebus<emph rend="super">5</emph><note type="gloss" place="bottom"
+                        ><emph rend="super">5</emph> God of light, or the sun.</note> gilds the
+                  morn,</l>
+               <l>And Cynthia<emph rend="super">6</emph><note type="gloss" place="bottom"><emph
+                        rend="super">6</emph> Derived from Mount Cythus of Delos island on which the
+                     Greek goddess of the moon, Artemis was born.</note> cheers the ev’ning
+                  hours,</l>
+               <l>While smiling plenty fill her horn</l>
+               <l>And Flora decks the earth with flow’rs;</l>
+               <l n="55">So long, great Columbus! thy happy land shall be</l>
+               <l>The seat of Peace and Liberty. </l>
+            </lg>
+         </div1>
+      </body>
+   </text>
+</TEI>

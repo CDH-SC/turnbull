@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Pastoral II.</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope
+                  unit="page" from="58" to="62">58-62</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Pastoral II.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> First published in <emph
+                     rend="italic">Poetical Essays</emph> (1788), pp. 58-62.</note></title></head>
+
+         <lg type="stanza" n="1">
+            <l>When Sol, with ev’ning rays, adorn’d the west,</l>
+            <l> And wearied shepherds sought their place of rest,</l>
+            <l>Young Strephon,<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> Of Greek derivation, meaning to “evade or turn aside.” In
+                  Sidney’s <emph rend="italic">Arcadia</emph> (1590) Strephon unsuccessfully rivals
+                  for Urania’s love and is a paragon of courtesy. </note> pain’d with unsuccessful
+               love,</l>
+            <l>Thus mourn’d his passion, in a lonely grove:</l>
+         </lg>
+         <lg type="stanza" n="2">
+            <l n="5" rend="indent"> “Ye groves, and list’ning grottoes, hear my strain,</l>
+            <l>To you, of cruel Delia,<emph rend="super">3</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">3</emph> Name of Artemis or Diana, allegedly born on the
+                  island of Delos. Citing Tibullus, Maurice Scêve (1510-64) and Samuel Daniel
+                  (1562-1619), Alastair Fowler argues that Delia was often used to denote purity.
+                  See <emph rend="italic">Literary Names</emph> (Oxford: Oxford UP, 2012),
+                  p. 44.</note> I complain;</l>
+            <l>To those complaints, which she disdains to hear,</l>
+            <l>Ye murm’ring fountains, drop a pitying tear;</l>
+            <l>Ye vocal rocks, repeat my mournful sighs,</l>
+            <l n="10">While, in the grove, the lovesick Strephon dies.</l>
+         </lg>
+         <lg type="stanza" n="3">
+            <l rend="indent">Now, night extends around her dark domain, </l>
+            <l>And solemn silence lulls the peaceful plain,</l>
+            <l>Tir’d nature shares the blessing of repose,</l>
+            <l>The wretched find oblivion of their woes;</l>
+            <l n="15">All but the restless votaries of love,</l>
+            <l>Deny’d the sweets of somnolence to prove,</l>
+            <l>The soft oppression leaves my weary eyes;</l>
+            <l>Ye vocal rocks, repeat my mournful sighs.</l>
+         </lg>
+         <lg type="stanza" n="4">
+            <l rend="indent">With grief I see the dawning day return,</l>
+            <l n="20">And with the falling dews of ev’ning mourn,</l>
+            <l>Taught by sweet Philomela’s plaintive strain,<emph rend="super">4</emph><note
+                  type="gloss" place="bottom"><emph rend="super">4</emph> That is, the nightingale.
+                  Cf. Book 4 of Ovid’s <emph rend="italic">Metamorphoses,</emph> Sir Philip Sidney’s
+                  “The Nightingale” (1595) and Shakespeare’s <emph rend="italic">Titus
+                     Andronicus</emph> (1589), II.iii-iv . </note></l>
+            <l>In some lone shade, I pitiful complain.</l>
+            <l>Begin, sweet bird, thy lovelorn notes prolong;</l>
+            <l>Ye vocal rocks, repeat the mournful song.</l>
+         </lg>
+         <lg type="stanza" n="5">
+            <l n="25" rend="indent">My sheep to crop the tender blade forbear,</l>
+            <l>Nor can unmov’d their keeper’s sorrow hear,</l>
+            <l>The maids and pitying shepherds gather round,</l>
+            <l>And kindly ask who gave the fatal wound;</l>
+            <l>All grieve but Delia, heedless of my cries;</l>
+            <l n="30">Ye vocal rocks, repeat my mournful sighs.</l>
+         </lg>
+         <lg type="stanza" n="6">
+            <l rend="indent">No more the pastimes of the rural field</l>
+            <l>Can cheer my heart, and wonted pleasure yield,</l>
+            <l>Ah! how can these delight my pensive mind,</l>
+            <l>While haughty Delia’s cruel and unkind;</l>
+            <l n="35">From Strephon’s arms precipitate she flies;</l>
+            <l>Ye vocal rocks, repeat my mournful sighs.</l>
+         </lg>
+         <lg type="stanza" n="7">
+            <l rend="indent">A dance was held on yonder shady green,</l>
+            <l>Where many a youth and village maid was seen;</l>
+            <l>There Delia came, in gay apparel drest,</l>
+            <l n="40">And far outshone the beauty of the rest;</l>
+            <l>Then did I see Menalcas<emph rend="super">5</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">5</emph> A character in Virgil’s <emph rend="italic"
+                     >Eclogue</emph> 5. Centered on the shepherd-poet’s desire to achieve worldly
+                  fame through poetry, <emph rend="italic">Eclogue</emph> 5 tells the tale of
+                  Menalcas and Mopsus who mourn their deceased companion, Daphnis. </note> soon
+               advance,</l>
+            <l>And lead the thoughtless charmer through the dance;</l>
+            <l>While sick of jealousy poor Strephon lies;</l>
+            <l>Ye vocal rocks, repeat my mournful sighs.</l>
+         </lg>
+         <lg type="stanza" n="8">
+            <l n="45" rend="indent">What though my music melts each tender maid,</l>
+            <l>And tales of love each list’ning ear invade;</l>
+            <l>For oft they sat around me in my cell,</l>
+            <l>Some pleasing am’rous tale to hear me tell;</l>
+            <l>But Delia ev’ry song and tale disdains;</l>
+            <l n="50">Ye vocal rocks, repeat my mournful strains.</l>
+         </lg>
+         <lg type="stanza" n="9">
+            <l rend="indent">Ah simple youth! how couldst thou think to gain</l>
+            <l>A maid, who treats thy passion with disdain?</l>
+            <l>One whose ambitious mind did still aspire</l>
+            <l>To reign a toast, and shine in rich attire;</l>
+            <l n="55">If thou hadst gold, the surest bait of love,</l>
+            <l>Then mightst thou hope her venal heart to move;</l>
+            <l>But she will still thy scanty fare despise;</l>
+            <l>Ye vocal rocks, repeat my mournful sighs.</l>
+         </lg>
+         <lg type="stanza" n="10">
+            <l rend="indent">Go Delia, go, the nuptial bed prepare,</l>
+            <l n="60">And let Menalcas ev’ry blessing share;</l>
+            <l>Old though he be, his gold can make him young,</l>
+            <l>Unbend his brows, and smooth his rustic tongue:</l>
+            <l>But I, unhappy, whither shall I go?</l>
+            <l>Ah, whither find the solace of my wo?</l>
+            <l n="65">No more I’ll pipe, upon the flow’ry plain,</l>
+            <l>No more the grottoes echo to my strain;</l>
+            <l>I’ll hang my flute upon yon aged tree,</l>
+            <l>There let it hang in memory of me;</l>
+            <l>Which when the breathing zephyrs gently blow,</l>
+            <l n="70">Will softly sound, in soothing notes of wo;</l>
+            <l>Mov’d by the sound, some pitying swain will say,</l>
+            <l>“Its master lov’d the melancholy lay.”</l>
+            <l>Begin, my flute, ye gentle gales arise;</l>
+            <l>Now cease, ye echoes to repeat my sighs.</l>
+         </lg>
+         <lg type="stanza" n="11">
+            <l n="75" rend="indent">There stands a rock which overlooks the deep,</l>
+            <l>Whence careful shepherds drive their heedless sheep;</l>
+            <l>Urg’d by my passion thither will I go,</l>
+            <l>And from the top, this wretched body throw;</l>
+            <l>Then, then perhaps, her stubborn tears may flow,</l>
+            <l n="80">And if she’s human, join the gen’ral wo;</l>
+            <l>But ah! false charmer, spare this crime alone;</l>
+            <l>Vainly to triumph when your lover’s gone.”</l>
+         </lg>
+         <lg type="stanza" n="12">
+            <l rend="indent">Thus sung the shepherd till the early ray</l>
+            <l>Of morn appear’d, and chac’d the shades away;</l>
+            <l n="85">Survey’d the cliff, but seiz’d with sudden fright,</l>
+            <l>Defer’d his leap, till the succeeding night. </l>
+
+         </lg>
+
+      </body>
+   </text>
+</TEI>

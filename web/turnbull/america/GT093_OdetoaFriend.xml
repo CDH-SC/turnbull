@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>"Ode, To a Friend, dissastisfied with his
+                  situation."</title>
+               <title><emph rend="italic">Columbian Herald and New Daily Advertiser</emph></title>
+                  (<pubPlace>Charleston, SC</pubPlace>), <date>May 23, 1796</date>. </bibl>
+
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><title type="main" rend="center">Ode, <emph rend="italic">To a Friend, dissastisfied
+                  with his situation.</emph><emph rend="super">1</emph><note type="head"
+                  place="bottom"><emph rend="super">1</emph> Published in <emph rend="italic"
+                     >Columbian Herald and New Daily Advertiser</emph> [Charleston, SC] (May 23,
+                  1796), p. 2. </note></title></head>
+       
+
+         <lg type="stanza">
+            <l>In vain from place to place we roam,</l>
+            <l>In vain we quit our native home,</l>
+            <l>In vain explore tempestuous seas,</l>
+            <l>To purchase happiness and ease;</l>
+            <l n="5">And hope to find serener skies,</l>
+            <l>Where undisturb’d contentment lies;</l>
+            <l>Dæmon Care, fly where we will,</l>
+            <l>Pursues us like a blood-hound still.</l>
+
+         </lg>
+
+         <lg type="stanza">
+            <l>In frigid northern realms confin’d,</l>
+            <l n="10">We curse the ruthless winter’s wind;</l>
+            <l>The chilling frost and beating rain</l>
+            <l>Drive pleasure from the naked plain;</l>
+            <l>And fiercer foes than those prevail,</l>
+            <l>To make mankind their lot bewail:</l>
+            <l n="15">Oppression rules with iron rod,</l>
+            <l>And vassals tremble at his nod.</l>
+
+         </lg>
+
+         <lg type="stanza">
+            <l> If we retreat to milder climes</l>
+            <l>The scene presents a land of crimes,</l>
+            <l>Where freedom prostituted bleeds,</l>
+            <l n="20">And bears the name of horrid deeds,</l>
+            <l>Who, eager to enjoy the spoils,</l>
+            <l>Involve the land in endless broils.</l>
+         </lg>
+         <lg type="stanza">
+            <l>Where Roman greatness once bore sway,</l>
+            <l>The hills are green the fields are gay;</l>
+            <l n="25">The garden blooms in many a hue,</l>
+            <l>A thousand temples rise to view,</l>
+            <l>Rich palaces of costly mould,</l>
+            <l>Blaze to the sun in burnish’d gold;</l>
+            <l>But superstition’s ghastly face</l>
+            <l n="30">These scenes of luxury disgrace.</l>
+         </lg>
+         <lg type="stanza">
+            <l>And see! Where Greece in ruin lies!</l>
+            <l>Fair Greece, the mighty and the wise;</l>
+            <l>Where classick Athens rose sublime,</l>
+            <l>Whose learning o’er the wreck of time</l>
+            <l n="35">Spreads science to each distant shore,</l>
+            <l>To live when Athens is no more;</l>
+            <l>Now held in slav’ry’s basest chains,</l>
+            <l>Proud ignorance in triumph reigns. </l>
+         </lg>
+         <lg type="stanza">
+            <l>Behold! on Persia’s golden coast,</l>
+            <l n="40">Her ancient wealth and splendour lost,</l>
+            <l>Her lofty domes in ashes laid,</l>
+            <l>Her richest cities long decay’d;</l>
+            <l>Those groves where once her magick stray’d</l>
+            <l>The rude barbarians now invade,</l>
+            <l n="45">And void of law, a people’s guide,</l>
+            <l>Dire outrage lords its far and wide.</l>
+         </lg>
+         <lg type="stanza">
+            <l>If we to Indian groves repair,</l>
+            <l>Care’s meagre form will meet us there:</l>
+            <l>Amidst Arabia’s spicy vales</l>
+            <l n="50">Devouring pestilence prevails,</l>
+            <l>And though on fair Columbia’s coast,</l>
+            <l>Rich Mexico her mines can boast,</l>
+            <l>Her solid hills of richest ore</l>
+            <l>Cannot the bloom of health restore.</l>
+         </lg>
+         <lg type="stanza">
+            <l n="55">Where will the boundless search extend?</l>
+            <l>Where will the painful labour end?</l>
+            <l>Bright reason wisely whispers, “ Care,</l>
+            <l>“Weak man, will haunt thee every where!”</l>
+            <l>Content alone can boast the charm,</l>
+            <l n="60">That can the busy fiend disarm;</l>
+            <l>And care will ever fly the cell,</l>
+            <l>Where Innocence and Virtue dwell.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>

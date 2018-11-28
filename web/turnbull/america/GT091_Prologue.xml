@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>"A Legacy."</title>
+               <title><emph rend="italic">Columbian Herald and New Daily Advertiser</emph></title>
+                  (<pubPlace>Charleston, SC</pubPlace>), <date>March 26, 1796</date></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head><title type="main" rend="center">Prologue. <emph rend="italic">Written and spoken by
+                  Mr. Turnbull, at the Theatre, Dumfries.</emph> To the Heroine, <emph rend="italic"
+                  >A Comedy, by William Reid, Blacksmith.</emph><emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> Published in <emph
+                     rend="italic">Columbian Herald and New Daily Advertiser</emph> [Charleston, SC]
+                  (April 26, 1796). William Reid, Blacksmith, is not the same as the unidentified
+                  Ayrshire black-smith poet Turnbull writes about in “To a Black-Smith,” published in
+                     <emph rend="italic">Poetical Essays</emph> (1788).</note></title></head>
+
+         <lg type="stanza">
+            <l>Apollo,<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> God of the light, or sun.</note> jocund, once to
+                  Vulcan<emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                     rend="super">3</emph> God of fire, including that of volcanoes.</note></l>
+            <l rend="indent">said,</l>
+            <l>“Lord, man, how can ye like that dir-</l>
+            <l rend="indent">ty trade?</l>
+            <l n="5">Thick clouds of smoke: your sable brows</l>
+            <l rend="indent">environ,</l>
+            <l>Your heart’s as stubborn as your bars of</l>
+            <l rend="indent">iron,</l>
+            <l>Could you, like me, on gilded chariot</l>
+            <l n="10" rend="indent">borne,</l>
+            <l>Arise refulgent and renew the moon,</l>
+            <l>Men would respect thee, an all honor</l>
+            <l rend="indent">due</l>
+            <l>That’s paid to me, would be transfer’d</l>
+            <l n="15" rend="indent">to you;</l>
+            <l>But they despise you and your one-eyed</l>
+            <l rend="indent">race,<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                     rend="super">4</emph> Cyclopes, race of one-eyed giants said to live in
+                  Sicily.</note></l>
+            <l>As void of wisdom as they’re void of</l>
+            <l rend="indent">grace:</l>
+            <l n="20">Did e’er a son of thine smooth verses</l>
+            <l rend="indent">sing?</l>
+            <l>Tune the soft lute, or touch the trem-</l>
+            <l rend="indent">bling string?</l>
+            <l>If ever Poet yet was son of thine,</l>
+            <l n="25">My laurel, crown, and scepter, I’ll resign.”</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>Old Vulcan frown’d, and blew his</l>
+            <l rend="indent">pond’rous bellows,</l>
+            <l>Then thought on all his race of sooty</l>
+            <l rend="indent">slows;</l>
+            <l n="30">At last, where Nyth<emph rend="super">5</emph><note type="gloss"
+                  place="bottom"><emph rend="super">5</emph> Starting in East Ayrshire, the river
+                  Nith flows south through Dumfries and Galloway, emptying into the Solway
+                  Firth.</note> flows smoothly o’er</l>
+            <l rend="indent">the ground</l>
+            <l>He, in Dumfries,<emph rend="super">6</emph><note type="gloss" place="bottom"><emph
+                     rend="super">6</emph> In 1793-1794,Turnbull lived in Dumfries, working in and writing for the new theater.</note> a
+               blade of mettle</l>
+            <l rend="indent">sound,</l>
+            <l>Who, soon engag’d with little hesita-</l>
+            <l n="35" rend="indent">tion,</l>
+            <l>To raise his cripple godships repute-</l>
+            <l rend="indent">tion.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>New from the Aavil, polish’d, smooth</l>
+            <l rend="indent">and bright.</l>
+            <l n="40">He brings a beauteous Heroine to-</l>
+            <l rend="indent">night;</l>
+            <l>No antiquated piece in modern guise,</l>
+            <l>Stealing’s a trade our author doth des-</l>
+            <l rend="indent">pise;</l>
+            <l n="45">From natures mine the virgin metal</l>
+            <l rend="indent">came,</l>
+            <l>And his own forge alone produced the</l>
+            <l rend="indent">frame;</l>
+            <l>Then bail the Bard who undertook the</l>
+            <l n="50" rend="indent">cause,</l>
+            <l>And cheer him with the hammers of</l>
+            <l rend="indent">applause. </l>
+         </lg>
+
+
+      </body>
+   </text>
+</TEI>

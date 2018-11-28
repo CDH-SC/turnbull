@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>"Songs in the Musical Interlude and <emph
+                     rend="italic">Just in Time</emph>."</title>
+               <title><emph rend="italic">Columbian Herald and New Daily Advertiser</emph></title>
+                  (<pubPlace>Charleston, SC</pubPlace>), <date>April 20, 1796</date>. </bibl>
+
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><title type="main" rend="center">Songs in the Musical Interlude and <emph
+                  rend="italic">Just in Time</emph><emph rend="super">1</emph><note type="head"
+                  place="bottom"><emph rend="super">1</emph> Published in <emph rend="italic"
+                     >Columbian Herald and New Daily Advertiser</emph> [Charleston, SC] (April 20,
+                  1796), p. 4. The play <emph rend="italic">Just in Time</emph>, by Thomas Hurlstone,
+                  was first performed at Covent Garden, London, on Oct. 27, 1792, with music by
+                  Charles Carter, and received seven further performances during the 1792-93 season.
+                  The play was published by J. Debrett, also dated 1792. See <emph rend="italic">The
+                     London Stage, 1660-1800</emph>, Part 5: 1776-1800, ed. Charles Beecher Hogan, 3
+                  vols. (Carbondale, IL: Southern Illinois University Press, 1968), part 5, vol. 3,
+                  p. 1496. No performance in a Charleston theatre is listed in Hoole, <emph rend="italic">Antebellum
+                     Charleston Theatre</emph> or Sodders, <emph rend="italic">The Theatre
+                     Management of Alexandre Placide</emph>. </note></title></head>
+
+         <div1 type="section">
+            <head rend="center">Song 1st.--Edward</head>
+            <div2 type="stanza">
+               <head rend="center">I.</head>
+               <lg>
+                  <l>Safe from the wreck I’ve reach’d the strand</l>
+                  <l>And hail once more my native land;</l>
+                  <l>Hush’d is the wind, the billows cease</l>
+                  <l>To rage, and all around is peace;</l>
+                  <l n="5">But love within my tortur’d breast</l>
+                  <l>Still rages, and deprives me of my rest.</l>
+               </lg>
+            </div2>
+
+            <div2 type="stanza">
+               <head rend="center">II.</head>
+               <lg>
+                  <l>Though waring elements conspire</l>
+                  <l>To bring me to my heart’s desire,</l>
+                  <l>Though gold I have, enough to bless</l>
+                  <l n="10">The object of my happiness,</l>
+                  <l>If that dear maid is mine no more,</l>
+                  <l>My wealth is useless, and I still am poor.</l>
+               </lg>
+            </div2>
+         </div1>
+         <div1 type="section">
+            <head rend="center">Song 2d.--Ben.</head>
+            <div2 type="stanza">
+               <head rend="center">I.</head>
+               <lg>
+                  <l>Of constancy let others boast,</l>
+                  <l>I’ll find a fair on every coast;</l>
+                  <l>And to whatever clime I roam,</l>
+                  <l>I find in every port a home.</l>
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center">II.</head>
+               <lg>
+                  <l n="5">Why should I wish at sea to drown,</l>
+                  <l>Because a woman’s fair or brown;</l>
+                  <l>For as they vary like the wind,</l>
+                  <l>I’ll sigh for none but she that’s kind.</l>
+               </lg>
+            </div2>
+         </div1>
+         <div1 type="section">
+            <head rend="center">Song 3d.--Daniel.</head>
+            <div2 type="stanza">
+
+               <lg>
+                  <l>Were I but young again, young again, young again,</l>
+                  <l>Were I but young again, hearty and strong,</l>
+                  <l>Oh! How I’d touzle ye, tousle ye, touzle ye,</l>
+                  <l>O how I’d touzle ye all the day long.</l>
+               </lg>
+            </div2>
+         </div1>
+         <div1 type="section">
+            <head rend="center">Song 4th.--Margaret.</head>
+            <div2 type="stanza">
+
+               <lg>
+                  <l>The men once told me I was fair,</l>
+                  <l>They prais'd my handsome shape and air,</l>
+                  <l>My cheeks they likn'd to the rose,</l>
+                  <l>That on the sweet briar blushing grows;</l>
+                  <l n="5">My skin like lilies wash’d with dew,</l>
+                  <l>But Ah! I’m one and wrinkled now.</l>
+               </lg>
+            </div2>
+         </div1>
+         <div1 type="section">
+            <head rend="center">Song 5th.--Susan</head>
+            <div2 type="stanza">
+               <head rend="center">I.</head>
+               <lg>
+                  <l>Last night when all were gone to rest</l>
+                  <l>And all the house asleep but me,</l>
+                  <l>Young Edward to my view confest,</l>
+                  <l>Stood as in life he seemed to be:</l>
+                  <l n="5">With many a sigh sore heav'd his breast,</l>
+                  <l>His falling tears I well could see,</l>
+                  <l>And thus his speech to me address’d,</l>
+                  <l>Sweet Susan, wait a week for me!</l>
+               </lg>
+            </div2>
+
+            <div2 type="stanza">
+               <head rend="center">II.</head>
+               <lg>
+                  <l>Although beneath the briney wave,</l>
+                  <l n="10">Even now a lifeless corpse I be;</l>
+                  <l>This proof of love from thee I crave,</l>
+                  <l>This proof O grant, or woe to thee;</l>
+                  <l>For rising from its wary grave,</l>
+                  <l>My injur'd ghost you’ll quickly see,</l>
+                  <l n="15">Thy truth and future peace to save,</l>
+                  <l>O Susan wait a week for me!</l>
+               </lg>
+            </div2>
+         </div1>
+         <div1 type="section">
+            <head rend="center">Song 6th.--Edward</head>
+            <div2 type="stanza">
+               <head rend="center">I.</head>
+               <lg>
+                  <l>At sea when storms begin to rise,</l>
+                  <l rend="indent">And lightning fires the pole;</l>
+                  <l>When dreadful thunder rends the skies,</l>
+                  <l rend="indent">And fierce the billows roll;</l>
+                  <l n="5">When nought but horror strikes the view,</l>
+                  <l>I think of home and lovely Sue.</l>
+               </lg>
+            </div2>
+
+            <div2 type="stanza">
+               <head rend="center">II.</head>
+               <lg>
+                  <l>When o’er the deck the waves are borne,</l>
+                  <l rend="indent">And cables snapt in twain;</l>
+                  <l>When from the yards the sails are torn,</l>
+                  <l rend="indent" n="10">And drench’d amidst the main;</l>
+                  <l>When death in every surge I view,</l>
+                  <l>I think of home and lovely Sue.</l>
+               </lg>
+            </div2>
+         </div1>
+         <div1 type="section">
+            <head rend="center"><emph rend="italic">Finale.</emph></head>
+            <div2 type="stanza">
+               <head rend="center">Daniel.</head>
+               <lg>
+                  <head rend="center">I.</head>
+                  <l>Come ye pow’rs of social glee,</l>
+                  <l>Smile with them and laugh with me;</l>
+                  <l>All your kindest influence shed,</l>
+                  <l>On my Susan and her Ned. </l>
+               </lg>
+            </div2>
+
+
+            <div2 type="stanza">
+               <head rend="center"><emph rend="italic">Chorus.</emph></head>
+
+               <lg>
+                  <l n="5">Come, ye pow’rs of social glee.</l>
+                  <l>Laugh with them and smile with me. </l>
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center">Susan.</head>
+               <lg>
+                  <head rend="center">II.</head>
+                  <l>Adieu to sighs, adie to tears,</l>
+                  <l>Sleepless nights and boding fears.</l>
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center">Edward.</head>
+               <lg>
+                  <l>Stormy seas and winds adieu,</l>
+                  <l n="10"> All my cares I give to you. </l>
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center">Ben.</head>
+               <lg>
+                  <head rend="center">III.</head>
+                  <l>Poor and ragged stand I here,</l>
+                  <l>Free from Sorrow, love or fear;</l>
+                  <l>Home hath yet no joys for me,</l>
+                  <l>Welcome danger and the sea. </l>
+               </lg>
+            </div2>
+            <div2 type="stanza">
+               <head rend="center"><emph rend="italic">Chorus.</emph></head>
+               <lg>
+                  <l n="15">Come ye pow’rs of social glee,</l>
+                  <l>Smile with them and laugh with me.</l>
+               </lg>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Ode to D**** S*****.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="191" to="193">191-193</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Ode to D**** S*****.<emph rend="super">1,
+                  </emph><note type="head" place="bottom"><emph rend="super">1</emph> First
+                  published in <emph rend="italic">Poetical Essays</emph> (1788),
+                  pp. 191-193.</note><emph rend="super">2</emph><note type="gloss" place="bottom"><emph rend="super">2</emph> The
+                  Ayrshire poet David Sillar (1760-1830) was a friend of Burns and fellow-member of
+                  the Tarbolton Bachelors’ Club. Burns wrote two verse-epistles to Sillar, one first
+                  published in Sillar’s own collection, <emph rend="italic">Poems</emph>
+                  (Kilmarnock: John Wilson, 1789); see <emph rend="italic">Poems and Songs</emph>,
+                  ed. Kinsley, 3 vols. (Oxford: Clarendon, 1969), I: pp. 65, 240. James Paterson notes
+                  that Turnbull’s Ode, “both in versification and sentiment, is an imitation of
+                  Burns’s ‘First Epistle to Davie,’ and we should think not greatly inferior in
+                  merit” (Paterson, <emph rend="italic">Contemporaries of Burns</emph>, p. 95).</note>
+            </title></head>
+
+         <div1 type="stanza">
+            <head rend="center">I.</head>
+            <lg>
+               <l>By this ye’ll figure to yoursel’</l>
+               <l>Dear lad, the method how I dwell,</l>
+               <l rend="indent">And pass the lanely time"</l>
+               <l>In a wee housie, warm and snug,</l>
+               <l n="5">I sit beside the chimla lug,<emph rend="super">3</emph><note type="gloss"
+                     place="bottom"><emph rend="super">3</emph>
+                     <emph rend="italic">n.</emph> fireside.</note></l>
+               <l rend="indent">And spin awa my rhyme.</l>
+               <l>Sometimes the weary ploy I curse,</l>
+               <l rend="indent">That fortune to my share</l>
+               <l>Has thrawn, which ever hauds my purse</l>
+               <l n="10" rend="indent">Sae toom, and back sae bare:</l>
+               <l rend="indent2">Then grumbling, and mumbling,</l>
+               <l rend="indent3">I thraw awa my pen</l>
+               <l rend="indent2">For ever mair, never</l>
+               <l rend="indent3">To write for tasteless men. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">II.</head>
+            <lg>
+               <l n="15">The greatest dults that ever wrote,</l>
+               <l>Have often Noble Patrons got,</l>
+               <l rend="indent">Their nonsense to protect;</l>
+               <l>Whilst chiels of maist ingine and skill,</l>
+               <l>Unnotic’d, unrewarded still,</l>
+               <l n="20" rend="indent">Meet nought but cauld neglect.</l>
+               <l>O Pæn’s<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                        rend="super">4</emph> Apollo, god of medicine, music, especially the lyre,
+                     archery and prophecy.</note> sons, how I repine</l>
+               <l rend="indent">At your unhappy lot,</l>
+               <l>While empty naethings glare and shine,</l>
+               <l rend="indent">Your mem’ries are forgot.</l>
+               <l n="25" rend="indent2">Yet time will sublime still</l>
+               <l rend="indent3">A’ true poetic lays;</l>
+               <l rend="Indent2">And glorious, victorious,</l>
+               <l rend="indent3">Bestow the weil earn’d bays.<emph rend="super">5</emph><note
+                     type="gloss" place="bottom"><emph rend="super">5</emph> Crown fashioned out of
+                     laurel sprigs to honor poets and heroes.</note>
+               </l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">III.</head>
+            <lg>
+               <l>Then heed na, Davie, tho’ we be</l>
+               <l n="30">A race expos’d to misery,</l>
+               <l rend="indent">A’ mankind hae their skair;<emph rend="super">6</emph><note
+                     type="gloss" place="bottom"><emph rend="super">6</emph> All men have their
+                     share [of troubles].</note></l>
+               <l>Yet, wi’ the few whase hearts are fir’d</l>
+               <l>Wi’ love o’ sang, by Him inspir’d,</l>
+               <l rend="indent">What mortals can compare:</l>
+               <l n="35">How sweet, when in the feeling heart,</l>
+               <l rend="indent">Alternate passions glow,</l>
+               <l>The mix’d ideas to impart,</l>
+               <l rend="indent">To paint our joy and wo;</l>
+               <l rend="indent2">Desire conspires</l>
+               <l n="40" rend="indent3">Wi’ love, to form the sang,</l>
+               <l rend="indent2">While pleasing, and easing,</l>
+               <l rend="indent3">The numbers glide alang.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">IV.</head>
+            <lg>
+               <l>The sweets of nature a’ are ours,</l>
+               <l>The verdant fields, the blooming flow’rs,</l>
+               <l n="45" rend="indent">The woodland and the plain:</l>
+               <l>To us the bonny months of spring,</l>
+               <l>Delights and saft sensations bring, </l>
+               <l rend="indent">The vulgar ne’er attain.</l>
+               <l>How sweet, when night is calm and still,</l>
+               <l n="50" rend="indent">Beneath pale Phœbe’s ray,<emph rend="super">7</emph><note
+                     type="gloss" place="bottom"><emph rend="super">7</emph> Sunlight.</note></l>
+               <l>Alang the margin of a rill,</l>
+               <l rend="indent">To wind our lanely way;</l>
+               <l rend="indent2">Still musing, and chusing,</l>
+               <l rend="indent3">Ideas fit to move</l>
+               <l n="55" rend="indent2">Some charmer, and warm her,</l>
+               <l rend="indent3">With all the flames of love.</l>
+            </lg>
+         </div1>
+
+
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Irvine Water. A Poem.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="121" to="131">121-131</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Irvine Water. A Poem.<emph rend="super"
+                  >1</emph><note type="head" place="bottom"><emph rend="super">1</emph> First
+                  published in <emph rend="italic">Poetical Essays</emph> (1788), pp. 121-131.
+               </note></title></head>
+         <epigraph rend="center">
+            <l><emph rend="italic">Yet run for ever by the Muse’s skill,</emph></l>
+            <l><emph rend="italic">And in the smooth description murmur still.</emph></l>
+         </epigraph>
+         <bibl rend="center">Addison.<emph rend="super">2</emph><note type="gloss" place="bottom"
+                  ><emph rend="super">2</emph> Joseph Addison, <emph rend="italic">A Letter from
+                  Italy</emph> (1701), ll. 48-49 and 79-80.</note></bibl>
+
+         <lg type="stanza" n="1">
+            <l>Rous’d at the prospect of the blooming spring,</l>
+            <l>Again my youthful Muse attempts to sing:</l>
+            <l>Of woods and plains, the beauties to rehearse,</l>
+            <l>Or make some fav’rite stream adorn my verse.</l>
+         </lg>
+         <lg type="stanza" n="2">
+            <l n="5" rend="indent">Hail, Irvine,<emph rend="super">3</emph><note type="gloss"
+                  place="bottom"><emph rend="super">3</emph> The river Irvine flows through
+                  southwest Scotland, running near Kilmarnock, down to the coastal town of the same
+                  name. Turnbull devoted two other poems to Irvine in <emph rend="italic">Poetical
+                     Essays</emph> (1788): “Elegy IV" and “Ode VII: To Irvine Water.” </note> thou
+               whose flow’ry banks so gay,</l>
+            <l>And vocal groves first heard my rural lay;</l>
+            <l>Fain would the Muse this early tribute bring,</l>
+            <l>And try the beauties of thy course to sing:</l>
+            <l>Ye Naiades,<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                     rend="super">4</emph> Water nymphs.</note> pour your liquid stores along,</l>
+            <l n="10">And sweetly murmur to the rural song.</l>
+         </lg>
+
+         <lg type="stanza" n="3">
+            <l rend="indent">In vain we search for Simois’ silver source,<emph rend="super"
+                  >5</emph><note type="gloss" place="bottom"><emph rend="super">5</emph> River of
+                  the Trojan plain and, in Greek mythology, name of its God.</note></l>
+            <l>Where Ilium’s ruins<emph rend="super">6</emph><note type="gloss" place="bottom"><emph
+                     rend="super">6</emph> Ancient city of Troy located near the river
+                  Scamander.</note> choke its winding course.</l>
+            <l>No more Scammander<emph rend="super">7</emph><note type="gloss" place="bottom"><emph
+                     rend="super">7</emph> In Greek mythology, Scammander, a personification of the
+                  river flowing from Mount Ida, sided with the Trojans after Achilles insulted him.
+               </note> rages o’er the plains,</l>
+            <l>Yet rolls his waves in Homer’s matchless strains.</l>
+            <l n="15">O, did my Muse, with equal ardour glow,</l>
+            <l>As long thy waves should in my numbers flow.</l>
+         </lg>
+
+         <lg type="stanza" n="4">
+            <l rend="indent">Now dawns the day, the dusky shadows fly,</l>
+            <l>The sun in glory mounts the azure sky,</l>
+            <l>The distant landscape opens to the view,</l>
+            <l n="20">The misty mountains, wet with early dew,</l>
+            <l>Round pearly drops hang pendant on the spray,</l>
+            <l>The flow’rs expand their foliage to the day,</l>
+            <l>On ev’ry verdant bush and blooming thorn,</l>
+            <l>The plumy warblers hail the rosy morn.</l>
+         </lg>
+
+         <lg type="stanza" n="5">
+            <l n="25" rend="indent">What joy to wander undisturb’d with care,</l>
+            <l>To breathe the fragrance of the morning air,</l>
+            <l>Where Irvine’s streams glide gently through the dale,</l>
+            <l>And gather health from ev’ry rising gale;</l>
+            <l>To stray the woods and dewy lawns among,</l>
+            <l n="30">Led by the Muse, to meditate the song,</l>
+            <l>Or curious, wand’ring to an airy height,</l>
+            <l>Indulge my fancy with the varied sight.</l>
+         </lg>
+
+         <lg type="stanza" n="6">
+            <l rend="indent">From where yon mountain’s tufted tops arise,</l>
+            <l>To where the sun rolls down the western skies,</l>
+            <l n="35">Where, midst a spacious frith,<emph rend="super">8</emph><note type="gloss"
+                  place="bottom"><emph rend="super">8</emph>
+                  <emph rend="italic">n.</emph> inlet of the sea.</note> black Arran<emph
+                  rend="super">9</emph><note type="gloss" place="bottom"><emph rend="super">9</emph>
+                  Largest island in the Firth of Clyde, visible from the Ayrshire coast.</note>
+               shrouds</l>
+            <l>Its rocky top, among surrounding clouds,</l>
+            <l>A noble prospect, stretch’d before the eye,</l>
+            <l>May with Hesperia<emph rend="super">10</emph><note type="gloss" place="bottom"><emph
+                     rend="super">10</emph> Poetic name for Italy or Spain.</note> or Arcadia<emph
+                  rend="super">11</emph><note type="gloss" place="bottom"><emph rend="super"
+                     >11</emph> Mountainous district in Greece; in literature, an ideal, rustic
+                  setting.</note> vie</l>
+            <l>Here, winding dales, and lenthen’d plains extend,</l>
+            <l n="40">There, from the vales, the cloud capt hills ascend;</l>
+            <l>Here, waving forests, mantl’d all in green,</l>
+            <l>With fertile fields and flow’ry lawns between;</l>
+            <l>There, winding streams the verdant meads adorn,</l>
+            <l>And, dimpling smooth, reflect the rays of morn.</l>
+            <l n="45">Along the margin rural seats appear,</l>
+            <l>And gardens blooming with the vernal year.</l>
+         </lg>
+
+         <lg type="stanza" n="7">
+            <l rend="indent">What though the wond’ring trav’ller still admires,</l>
+            <l>Italia’s lofty domes and lengthen’d spires;</l>
+            <l>Her gilded prospects, stretch’d in bright array,</l>
+            <l n="50">Poetic scenes with flow’rs and verdure gay,</l>
+            <l>Or let Arabia boast her spicy fields,</l>
+            <l>More precious blessings Caledonia<emph rend="super">12</emph><note type="gloss"
+                  place="bottom"><emph rend="super">12</emph> Literary name for Scotland, formerly a
+                  Roman term for the region.</note> yields;</l>
+            <l>Though less exuberant, our northern soil,</l>
+            <l>Yet peace and plenty crown the lab’rers toil;</l>
+            <l n="55">Here all that’s charming, all that’s sweet is found,</l>
+            <l>And Liberty makes nature smile around.</l>
+         </lg>
+
+         <lg type="stanza" n="8">
+            <l rend="indent">Where first the stream his sacred source forsakes,</l>
+            <l>And, through the wilds, his mazy winding takes;</l>
+            <l>Where water, from the pendant rock, distills,</l>
+            <l n="60">And, foster’d by the gently purling rills,</l>
+            <l>Where circling ivy mantling bow’rs display,</l>
+            <l>The lonely owl forsakes the cheerful day.</l>
+            <l>Here, like some ruffian from the world exil’d,</l>
+            <l>The rav’nous hawk reigns tyrant of the wild;</l>
+            <l n="65">The lonely shepherd, on the banks reclin’d,</l>
+            <l>Nurses fantastic notions in his mind.</l>
+            <l>The turtle wails, upon the aged trees,</l>
+            <l>The water, sounding to the whisp’ring breeze,</l>
+            <l>Repeating caves resound the water’s fall,</l>
+            <l n="70">And melancholy murmurs answer all.</l>
+         </lg>
+
+         <lg type="stanza" n="9">
+            <l rend="indent">As by degrees the Naiades swell the tide,</l>
+            <l>Th’ expanding landscape opens fair and wide;</l>
+            <l>There stately towns and villages arise,</l>
+            <l>And lofty piles, whose turrets reach the skies,</l>
+            <l n="75">Here many an antient tow’r and fortress stands,</l>
+            <l>The sad memorials of contending lands;</l>
+            <l>When kindred nations fiercely strove in arms,</l>
+            <l>And fill’d the hostile land with dire alarms:</l>
+            <l>Then heap’d with slaughter ev’ry field appear’d,</l>
+            <l n="80">And war through all the land his horrid aspect rear’d.</l>
+         </lg>
+
+         <lg type="stanza" n="10">
+            <l rend="indent">Where heaps of carnage strew’d th’ ensanguin’d plain,</l>
+            <l>The skilful farmer rears the yellow grain:</l>
+            <l>The lazy shepherd lies upon the ground,</l>
+            <l>Amid th’ extended trench, and verdant mound;</l>
+            <l n="85">While rough industry plies his useful hand,</l>
+            <l>And fills with plenty all the peaceful land.</l>
+         </lg>
+
+         <lg type="stanza" n="11">
+            <l rend="indent">Along the level holms, with verdure gay,</l>
+            <l>The patient angler slowly bends his way,</l>
+            <l>With taper rod, and well dissembled-hook,</l>
+            <l n="90">To tempt the thoughtless tenants of the brook.</l>
+         </lg>
+
+         <lg type="stanza" n="12">
+            <l rend="indent">Where in the dimpling pool the shepherd spies,</l>
+            <l>Th’ inverted landscape and the liquid skies,</l>
+            <l>The youths with naked arms the waves divide,</l>
+            <l>And smoothly cleave, along the yielding tide.</l>
+            <l n="95">But let each forward heedless youth beware,</l>
+            <l>Nor the sad fate of young Menalcas<emph rend="super">13</emph><note type="gloss"
+                  place="bottom"><emph rend="super">13</emph> Shepherd or rustic figuring in
+                  Virgil’s <emph rend="italic">Eclogues</emph> and Theocritus’s <emph rend="italic"
+                     >Idyls</emph>. Centered on the shepherd-poet’s desire to achieve worldly fame
+                  through poetry, <emph rend="italic">Eclogue</emph> 5 tells the tale of Menalcas
+                  and Mopsus who mourn their deceased companion, Daphnis.</note> share;</l>
+            <l>Who, urg’d by fervent heat, his limbs to cool,</l>
+            <l>Impatient plung’d amid the sullen pool:</l>
+            <l>Eager he strives, his efforts all are vain,</l>
+            <l n="100">Him fate denies the distant shore to gain,</l>
+            <l>The whirling eddies curl above his head,</l>
+            <l>The lovely youth is number’d with the dead.</l>
+            <l>Much was the grief his frantic mother bore,</l>
+            <l>His aged father much, his sweetheart more;</l>
+            <l n="105">Whom love with chains of strong affection bound,</l>
+            <l>And soon the nuptial tie their bliss had crown’d,</l>
+            <l>But fates malignant ’gainst their joy conspir’d,</l>
+            <l>And, all at once, their pleasing hopes retir’d.</l>
+         </lg>
+
+         <lg type="stanza" n="13">
+            <l rend="indent">Now wouldst thou sing what noble feats appear,</l>
+            <l n="110">What antient heroes form’d their dwellings here,</l>
+            <l>The tow’rs of Loudon<emph rend="super">14</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">14</emph> Located in Ayrshire, Loudon Castle is one of the
+                  oldest family seats in Scotland. Paterson comments that Loudon was the “seat of
+                  the Dowager-Marchioness of Hastings, daughter of James-Mure Campbell, fifth Earl
+                  of Loudoun, who died in 1786” (<emph rend="italic">Contemporaries of Burns</emph>,
+                  Edinburgh: Hugh Paton, etc., 1840, p. 102).</note> first salute the eye</l>
+            <l>With lofty walls, and turrets rear’d on high;</l>
+            <l>Gay to the view, upon a rising ground,</l>
+            <l>With pendant woods and shady bow’rs around.</l>
+         </lg>
+
+         <lg type="stanza" n="14">
+            <l n="115" rend="indent">All hail, ye solemn thought-inspiring groves,</l>
+            <l>Where rapt entranc’d, sweet contemplation roves,</l>
+            <l>Where charming fancy leads her airy train,</l>
+            <l>Who touch the Muses’ lyre or breathe th’ enamour’d strain.</l>
+            <l>For there the lover, led by Cynthia’s<emph rend="super">15</emph><note type="gloss"
+                  place="bottom"><emph rend="super">15</emph> Feminine name derived from Mount
+                  Cythus of Delos island on which the Greek goddess of the moon, Artemis was born.
+               </note> ray,</l>
+            <l n="120">Along the river’s margin winds his way;</l>
+            <l>Or pensive, seated ’neath the spreading boughs,</l>
+            <l>Breathes, to the lonely woods, his am’rous vows;</l>
+            <l>While fairies, form their nightly cavalcades,</l>
+            <l>And hold gay revels in the moonlight shades,</l>
+            <l n="125">Aerial minstrels swell the soothing strain,</l>
+            <l>And heav’nly airs enchant the list’ning swain.</l>
+         </lg>
+
+         <lg type="stanza" n="15">
+            <l rend="indent">See where the Dean<emph rend="super">16</emph><note type="gloss"
+                  place="bottom"><emph rend="super">16</emph> Seat of the Boyd family, the Dean,
+                  known until 1700 as Kilmarnock Castle, is situated in Kilmarnock’s modern-day Dean
+                  Castle Country Park. The 4<emph rend="super">th</emph> Earl of Kilmarnock, William
+                  Boyd, participated in the Jacobite uprising of 1715 and 1745 which resulted in his
+                  execution and loss of estates in 1746. His eldest son, James, Lord Boyd, regained
+                  the estate in 1751.</note> her ruin’d fabric rears,</l>
+            <l> A mournful scene, her naked wall appears,</l>
+            <l>The clasping ivy shades her tott’ring tow’rs,</l>
+            <l n="130">Where night-owls form their melancholy bow’rs,</l>
+            <l>Prone from the top, huge ruin’d fragments fall,</l>
+            <l>The howling wind sounds dreary in the hall,</l>
+            <l>No more the voice of mirth is heard to sound,</l>
+            <l>But melancholy silence reigns around.</l>
+         </lg>
+
+         <lg type="stanza" n="16">
+            <l rend="indent" n="135">Where late, an antiquated pile appear’d</l>
+            <l>In days of yore, by Gothic artists rear’d,</l>
+            <l>Upon the margin of the rolling tide,</l>
+            <l>Stands Caprington, of Coila’s tow’rs<emph rend="super">17</emph><note type="gloss"
+                  place="bottom"><emph rend="super">17</emph> Located in Ayrshire, Caprington castle
+                  dates from the 15th century and was remodeled in 1780. As noted by Paterson, in
+                  1788 it was the seat of John Smith Cuninghame, Esq. (<emph rend="italic"
+                     >Contemporaries of Burns</emph>, Edinburgh: Hugh Paton, etc., 1840,
+                  p. 103).</note> the pride,</l>
+            <l>Which with superior majesty appears</l>
+            <l n="140">The tedious labour of revolving years,</l>
+            <l>Its ample walls bespeak its master’s mind,</l>
+            <l>Industry’s friend, benevolent and kind.</l>
+         </lg>
+
+         <lg type="stanza" n="17">
+            <l rend="indent"> What verse, O Fairly,<emph rend="super">18</emph><note type="gloss"
+                  place="bottom"><emph rend="super">18</emph> Reference to the residence of Sir John
+                  Cuninghame Fairlie, Bart. (Paterson, <emph rend="italic">Contemporaries of
+                     Burns</emph>, Edinburgh: Hugh Paton, etc., 1840, p. 103).</note> can thy halls
+               depaint,</l>
+            <l>And stately portico of vast extent,</l>
+            <l n="145">Design’d with taste, and execute with cost,</l>
+            <l>Nor can the neighb’ring seats such beauty boast.</l>
+         </lg>
+
+         <lg type="stanza" n="18">
+            <l rend="indent">High on a mound Dundonald’s ruin<emph rend="super">19</emph><note
+                  type="gloss" place="bottom"><emph rend="super">19</emph> Ancient residence of the
+                  Cochranes of Dundonald (Paterson, <emph rend="italic">Contemporaries of
+                     Burns</emph>, Edinburgh: Hugh Paton, etc., 1840, p. 103).</note> stands,</l>
+            <l>And of the frith a prospect wide commands,</l>
+            <l>Where Arran rears aloft its sable brow,</l>
+            <l n="150">And frowns terrific on the waves below.</l>
+            <l>Ailsey’s round steril rock<emph rend="super">20<note type="gloss" place="bottom"><emph
+                        rend="super">20</emph> Ailsa Craig; prominent rocky islet in the firth of
+                     Clyde, visible from the Ayrshire Coast and, during the Scottish Reformation, a
+                     haven for Catholics.</note></emph> the prospect ends,</l>
+            <l>Whose airy peak among the clouds ascends,</l>
+            <l>Fair Irvine, on the sandy margin plac’d,</l>
+            <l>Appears with lofty spires and turrets grac’d,</l>
+            <l n="155">The swelling surges beat against the shore,</l>
+            <l>And ’mongst the rocky isles tempestuous roar,</l>
+            <l>The stately vessels, on the foaming tide,</l>
+            <l>Loaded with wealth, along the billows ride;</l>
+            <l>I see the crowded masts, and swelling sails,</l>
+            <l n="160">The waving streamers, flying in the gales,</l>
+            <l>And gaze with wonder, on the splendid show,</l>
+            <l>Of lofty towns and busy crowds below.</l>
+         </lg>
+
+         <lg type="stanza" n="19">
+            <l rend="indent">Hold, hold my Muse, at once suspend thy flight,</l>
+            <l>And look enamour’d from this airy height,</l>
+            <l n="165">Where stands secure, upon the river’s side,</l>
+            <l>A rural dwelling, destitute of pride;</l>
+            <l>No costly ornaments the structure grace,</l>
+            <l>But simple nature beautifies the place;</l>
+            <l>Here Ruricola<emph rend="super">21</emph><note type="gloss" place="bottom"><emph
+                     rend="super">21</emph> Latin, a countryman, rustic farmer.</note> dwells, of
+               swains the best,</l>
+            <l n="170">Of feelings and a gen’rous mind possess’d,</l>
+            <l>Improv’d by science, from pedantry free;</l>
+            <l>Skill’d in the rules of deep philosophy;</l>
+            <l>Of plants the aromatic virtue knows,</l>
+            <l>And on his garden ev’ry care bestows,</l>
+            <l n="175">There trims his flow’rs, or prunes th’ encumber’d trees,</l>
+            <l>Or forms a proper station for his bees;</l>
+            <l>Curious, their balmy labours to survey,</l>
+            <l>Delightful task to pass the shining hours away.</l>
+         </lg>
+
+         <lg type="stanza" n="20">
+            <l rend="indent">O gentle swain, how happy could I spend</l>
+            <l n="180">This fleeting life with such a gen’rous friend,</l>
+            <l>Well pleas’d, my tuneful labours to pursue,</l>
+            <l>Improv’d by charming solitude and you.</l>
+         </lg>
+
+         <lg type="stanza" n="21">
+            <l rend="indent">That man how bless’d, who prudently retires,</l>
+            <l>Nor to be great and arrogant aspires;</l>
+            <l n="185">Content alone, with what his fortune gives,</l>
+            <l>To strife unknown, he independent lives:</l>
+            <l>What though no cringing flatt’rers at his gate</l>
+            <l>Stand trembling, and at awful distance wait,</l>
+            <l>Though no obsequious minions call him Lord,</l>
+            <l n="190">Nor cates luxurious heap his humble board,</l>
+            <l>Nor costly ornaments his dwelling hold,</l>
+            <l>Nor chests encumber’d with imprison’d gold,</l>
+            <l>Yet his the life from expectation free,</l>
+            <l>Corroding care and vain anxiety:</l>
+            <l n="195">Peace stands a centinel to guard his door,</l>
+            <l>And keep at distance each malignant pow’r;</l>
+            <l>Time flies for him, on softest silken wings,</l>
+            <l>And each revolving day contentment brings:</l>
+            <l>With joy he breathes the balmy gales of morn,</l>
+            <l n="200">And sees the night a welcome guest return:</l>
+            <l>’Tis his to wander o’er the fertile fields,</l>
+            <l>And taste what nature uncorrupted yields;</l>
+            <l>Her laws to study and her works explore,</l>
+            <l>And on the wings of contemplation soar:</l>
+            <l n="205">Throughout the whole, to trace the gradual line</l>
+            <l>Which leads progressive to the source divine,</l>
+            <l>To teach the soul above the earth t’ ascend,</l>
+            <l>To weigh his dust and meditate his end.</l>
+         </lg>
+
+         <lg type="stanza" n="22">
+            <l rend="indent">Let others toil assiduously for fame,</l>
+            <l n="210">Contend for honour, and a deathless name:</l>
+            <l>All vain applause, and honour I’d resign;</l>
+            <l>Give me a friend, and such a life be mine.</l>
+         </lg>
+
+         <lg type="stanza" n="23">
+            <l rend="indent">Thus, when the summer’s joys could scarce delight,</l>
+            <l>Or grove or stream my weary steps invite;</l>
+            <l n="215">I try’d the Muse, beneath the shade reclin’d,</l>
+            <l>To ease a pensive melancholy mind,</l>
+            <l>To sooth my fancy with the scenes that please,</l>
+            <l>Rural contentment, and poetic ease. </l>
+         </lg>
+      </body>
+   </text>
+</TEI>

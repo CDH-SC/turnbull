@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>"Epitaph."</title>
+               <title><emph rend="italic">The Balance and Columbian Repository</emph></title>
+                  (<pubPlace>Hudson, NY</pubPlace>), <date>August 14, 1804.</date></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head rend="center"><title type="main"><emph rend="italic">Epitaph</emph>.<emph
+                  rend="super">1</emph><note type="head" place="bottom"><emph rend="super">1</emph>
+                  Published in <emph rend="italic">The Balance and Columbian Repository</emph>
+                  [Hudson, NY] (August 14, 1804).</note></title></head>
+         
+         <lg type="stanza">
+            <l rend="indent">Here lies John Fish,</l>
+            <l rend="indent">Who did earnestly wish</l>
+            <l>The baits of Old Satan to shun:</l>
+            <l rend="indent">And if that he shou'd</l>
+            <l rend="indent" n="5">Be caught in the mud,</l>
+            <l>To the net of salvation to run.</l>
+            <l rend="indent">And when drawn by death's hook</l>
+            <l rend="indent">From this turbulent brook,</l>
+            <l>The scene of his sorrow and strife,</l>
+            <l rend="indent" n="10">That he might not be cramm'd</l>
+            <l rend="indent">On the coals with the damn'd,</l>
+            <l>But swim in the waters of Life!</l>
+         </lg>
+      </body>
+   </text>
+</TEI>

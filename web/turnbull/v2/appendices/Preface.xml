@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Preface</title>, in <title>Poems</title>,
+                  (<pubPlace>Glasgow</pubPlace>, <date>1794</date>)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head><title type="main">Preface.<emph rend="super">1</emph><note type="head"
+                  place="bottom"><emph rend="super">1</emph> Printed in <emph rend="italic"
+                     >Poems</emph> (1794), p. i.</note></title></head>
+         <p> Prevented, by many concurring circumstances, from pursuing the liberal plan of
+            education I had once the prospect of accomplishing;<emph rend="super">2</emph><note
+               type="gloss" place="bottom"><emph rend="super">2</emph> Cf. “Preface” in <emph
+                  rend="italic">Poetical Essays</emph> (1788); son of a dyer, Turnbull left school
+               young, working as a carpet-weaver in Kilmarnock. See See Thomas Crichton,
+               “Biographical Sketches of Alexander Wilson,” in <emph rend="italic">The Weaver</emph>
+               [Paisley], 2 (1819); extract reprinted in Paterson, <emph rend="italic">The
+                  Contemporaries of Burns</emph> (Edinburgh: Hugh Paton, etc., 1840), pp. 23-24 and
+               Scott, "Introduction" in <emph rend="italic">A Bard Unkend</emph> (Columbia: Scottish
+               Poetry Reprints, 2015), pp. 5-7.</note> I have not the vanity to imagine the following
+            pieces finished with that accuracy that will stand the test of rigid
+            criticism:—therefore, to the inspection of the lovers of poesy, as it flows spontaneous
+            from the mind, unadorned by rules of art, I submit these juvenile productions—Their
+            candid censure or approbation will ever oblige,</p>
+         <p>G. Turnbull.</p>
+
+
+      </body>
+   </text>
+</TEI>

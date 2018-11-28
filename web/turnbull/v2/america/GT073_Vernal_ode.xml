@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>"Vernal Ode."</title>
+               <title><emph rend="italic">City Gazette and Daily Advertiser,</emph></title>
+                  (<pubPlace>Charleston, SC</pubPlace>), <date>February 27,1796</date></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><title type="main" rend="center">Vernal Ode.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> First published in <emph
+                     rend="italic">City Gazette and Daily Advertiser</emph> [Charleston] (February
+                  26, 1796) and subsequently reprinted in <emph rend="italic">Columbian Herald and
+                     New Daily Advertiser</emph> [Charleston, SC] (March 22 and May 22, 1796).
+               </note></title></head>
+         
+         <lg type="stanza">
+            <l>Haste,<emph rend="super">2</emph><note type="gloss" place="bottom"><emph rend="super">2</emph> Misprinted as "Hase" in <emph rend="italic">City Gazette and Daily Advertiser</emph>.</note> ye hours, and bring the day</l>
+            <l>That ushers in the jocund May.</l>
+            <l>With fragrant Flora in her train,</l>
+            <l>To deck with flow’rs the earth again;</l>
+            <l n="5">And Venus,<emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                     rend="super">3</emph> Goddess of love.</note> queen of soft desire,</l>
+            <l>To wake the lover’s ardent fire,</l>
+            <l>Blythe mirth, a laughter loving maid,</l>
+            <l>And health, in rosy smiles array’d.</l>
+            <l>Come sweet nymphs, and bring along,</l>
+            <l n="10">Joy and pleasure to my song;</l>
+            <l>Wake me with the bird of morn,</l>
+            <l>Ere the dew drops leave the thorn,</l>
+            <l>To behold the radiant sun,</l>
+            <l>When his race is first begun, </l>
+            <l n="15">Shining on the distant hills,</l>
+            <l>Dancing on the crystal rills;</l>
+            <l>Where the straw roof’d cots are seen,</l>
+            <l>Rear’d upon the margin green;</l>
+            <l>Whence the swains, who labour calls</l>
+            <l n="20">Issue from their lowly walls,</l>
+            <l>And far remov’d from care and pain,</l>
+            <l>Chaunt aloud some merry strain;</l>
+            <l>Whilst upon the dewy ground,</l>
+            <l>The sportive cattle nimbly bound,</l>
+            <l n="25">And lambkins, on the yellow mead,</l>
+            <l>Dancing to the shepherd’s reed:</l>
+            <l>And the lovely milk-maid clean,</l>
+            <l>Barefoot tripping o’er the green,</l>
+            <l>Who all unconscious of her charms,</l>
+            <l n="30">The heart of ev’ry rustic warms;</l>
+            <l>And singing as she bears her pail,</l>
+            <l>Rouses the echoes of the dale.</l>
+            <l>Where the winding river flows,</l>
+            <l>Softly murm’ring as it goes,</l>
+            <l n="35">On whose banks the waving woods,</l>
+            <l>Give to view the recent buds,</l>
+            <l>And the lilly white as snow,</l>
+            <l>And the yellow primrose grow;</l>
+            <l>There, Amanda,<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                     rend="super">4</emph> In Latin, “lovable, worthy of love”; popularized by
+                  seventeenth-century poets playwrights. See, for example, Colly Cibber’s <emph
+                     rend="italic">Love’s Last Shift</emph> (1696).</note> let us lie</l>
+            <l n="40">Secure from ev’ry vagrant eye,</l>
+            <l>And lisen to the cuckoo’s song,</l>
+            <l>Sounding loud the woods among;</l>
+            <l>While each soft enamour’d dove,</l>
+            <l>Courting on the boughs above,</l>
+            <l n="45">Will instruct thee how to love. </l>
+
+         </lg>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>The Cottage.</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope
+                  unit="page" from="178" to="180">178-180</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">The Cottage.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> First published in <emph
+                     rend="italic">Poetical Essays</emph>, (1788), pp. 178-180; revised for <emph
+                     rend="italic">Poems</emph> (1794); reprinted in <emph rend="italic">Columbian
+                     Herald and New Daily Advertiser</emph> [Charleston, SC] (March 8, 1796). This
+                  is one of the only poems to which Turnbull made substantive revisions. The text
+                  presented here takes its copytext from 1788 and incorporates into it Turnbull's
+                  revision at line 18 and the additional stanza, stanza V, also from 1794. David
+                  Radcliffe suggests that this poem’s treatment of rural life is in the tradition of
+                  Shenstone's <emph rend="italic">School-Mistress</emph>, but it also alludes more
+                  generally to Robert Fergusson, “The Farmer's Ingle,” and Robert Burns, “The
+                  Cottar's Saturday Night” (<emph rend="italic">Spenser and the
+                  Tradition</emph>).</note></title></head>
+         <epigraph rend="center">
+            <l><emph rend="italic">Hail lowly roofs, where pure contentment dwells.</emph><emph
+                  rend="super">2</emph><note type="gloss" place="bottom"><emph rend="super">2</emph>
+                  Unattributed. Cf. “Where hermit peace with mild contentment dwells”: William
+                  Julius Mickle, <emph rend="italic">Liberty: An Elegy to the Memory of his Royal
+                     Highness Frederic, late Prince of Wales</emph>, line 48 [<emph rend="italic"
+                     >English Poetry Database</emph> from Mickle, <emph rend="italic">Poetical
+                     Works</emph> (1806)]; and “And rural huts, where sweet contentment dwells”:
+                  Edward Ward, <emph rend="italic">Honesty in Distress, but reliev’d by no
+                     Party</emph>, Act 1, line 2 [<emph rend="italic">English Poetry
+                  Database</emph>, from <emph rend="italic">Ward, Miscellaneous Writings</emph>, III
+                  (1712)]. <emph rend="italic">Not in</emph><hi rend="bold">94.</hi></note></l>
+         </epigraph>
+         <lg type="stanza">
+            <head rend="center">I.</head>
+            <l rend="indent">Within the windings of yon woody dale,<emph rend="super">3</emph><note
+                  type="gloss" place="bottom"><emph rend="super">3</emph> yon woody <hi rend="bold"
+                     >88]</hi> a woody <hi rend="bold">94</hi></note></l>
+            <l rend="indent">Beside a burnie,<emph rend="super">4</emph><note type="gloss"
+                  place="bottom"><emph rend="super">4</emph>
+                  <emph rend="italic">n.</emph> small brook.</note> on a bonny green,</l>
+            <l rend="indent">Where raws of whitening hawthorns scent the gale,</l>
+            <l rend="indent">A wee bit canty<emph rend="super">5</emph><note type="gloss"
+                  place="bottom"><emph rend="super">5</emph>
+                  <emph rend="italic">adj.</emph> cheerful.</note> theicket house is seen;</l>
+            <l rend="indent" n="5">Fu' snug it stands frae angry winds, I ween,</l>
+            <l rend="indent">Around, the stacks in rising cones appear,</l>
+            <l rend="indent">Which shaw the owner thrifty is and bien,<emph rend="super"
+                  >6</emph><note type="gloss" place="bottom"><emph rend="super">6</emph>
+                  <emph rend="italic">adj.</emph> comfortable.</note></l>
+            <l rend="indent">Nae pride has he, nor heaps of worthless geer,</l>
+            <l>But routh<emph rend="super">7</emph><note type="gloss" place="bottom"><emph
+                     rend="super">7</emph>
+                  <emph rend="italic">n.</emph> plenty.</note> o' kintra<emph rend="super"
+                  >8</emph><note type="gloss" place="bottom"><emph rend="super">8</emph> o' kintra
+                     <hi rend="bold">88]</hi> of country <hi rend="bold">94</hi></note> fare, the
+               winter days to cheer.</l>
+         </lg>
+         <lg type="stanza">
+            <head rend="center">II.</head>
+            <l rend="indent" n="10">Here stands the bar, to hoord<emph rend="super">9</emph><note
+                  type="gloss" place="bottom"><emph rend="super">9</emph> to hoord <hi rend="bold"
+                     >88]</hi> that hoards <hi rend="bold">94</hi></note> the ripen'd grain,</l>
+            <l rend="indent">With lowly roof, of strae and divets made,</l>
+            <l rend="indent">Where aft the farmer wheels, with might and main,</l>
+            <l rend="indent">The whirling flail, and nae ignoble trade:</l>
+            <l rend="indent">And there the milk-house, where the dairy maid</l>
+            <l rend="indent" n="15">Aft skims the boyns,<emph rend="super">10</emph><note
+                  type="gloss" place="bottom"><emph rend="super">10</emph>
+                  <emph rend="italic">n.</emph> milk-pan.</note> and presses out the whey;</l>
+            <l rend="indent">And here a place, where carts and pleughs are laid;</l>
+            <l rend="indent">And there the stable, for the horse and kye;</l>
+            <l>And here the hen-house stands, and there the grumphies'<emph rend="super"
+                  >11</emph><note type="gloss" place="bottom"><emph rend="super">11</emph> the
+                  grumphies' sty <hi rend="bold">94]</hi> the stinking stye <hi rend="bold">88</hi>.
+                     <emph rend="italic"> grumphies' n.</emph> pigs'. In 1788, this line read "And
+                  here the hen-house stands, and there the stinking stye."</note> stye.</l>
+         </lg>
+         <lg type="stanza">
+            <head rend="center">III.</head>
+            <l rend="indent">Into the ha' house if ye chance to keek,</l>
+            <l rend="indent" n="20">Ye'll tent the ingle<emph rend="super">12</emph><note
+                  type="gloss" place="bottom"><emph rend="super">12</emph>
+                  <emph rend="italic">n.</emph> fire burning on a hearth.</note> blinkin
+               bonnily,</l>
+            <l rend="indent">The crazy rafters, painted o'er wi' reek;<emph rend="super"
+                  >13</emph><note type="gloss" place="bottom"><emph rend="super">13</emph>
+                  <emph rend="italic">n.</emph> smoke.</note></l>
+            <l rend="indent">A twa-arm'd chair within the neuk<emph rend="super">14</emph><note
+                  type="gloss" place="bottom"><emph rend="super">14</emph>
+                  <emph rend="italic">n.</emph> corner, recess.</note> ye'll see,</l>
+            <l rend="indent">Where aft the guidman leans, wi' meikle glee,</l>
+            <l rend="indent">And smoaks his pipe, and tells his pawky<emph rend="super"
+                  >15</emph><note type="gloss" place="bottom"><emph rend="super">15</emph>
+                  <emph rend="italic">adj.</emph> wily.</note> tale;</l>
+            <l rend="indent" n="25">An antic ambry,<emph rend="super">16</emph><note type="gloss"
+                  place="bottom"><emph rend="super">16</emph> antic ambry <hi rend="bold">88]</hi>
+                  antique am'rie <hi rend="bold">94. </hi><emph rend="italic">n.</emph>
+                  cupboard.</note> made of aiken tree,</l>
+            <l rend="indent">Wi' caps and luggies, rang'd upon a dale,</l>
+            <l>And meikle toop-horn spoons, and plates to haud<emph rend="super">17</emph><note
+                  type="gloss" place="bottom"><emph rend="super">17</emph> haud <hi rend="bold"
+                     >88]</hi> had <hi rend="bold">94</hi>
+                  <emph rend="italic">misprint</emph></note> the kail.</l>
+         </lg>
+         <lg type="stanza">
+            <head rend="center">IV.</head>
+            <l rend="indent">Ben i' the spence, for parlour hae they nane,</l>
+            <l rend="indent">The wa's are brawly whiten'd o'er wi' lime;</l>
+            <l rend="indent" n="30">A polish'd chimla, and a clean hearth-stane;</l>
+            <l rend="indent">A keeking-glass,<emph rend="super">18</emph><note type="gloss"
+                  place="bottom"><emph rend="super">18</emph>
+                  <emph rend="italic">n.</emph> looking-glass, mirror.</note> a clock to met the
+               time;</l>
+            <l rend="indent">A curtain'd bed, and eke a cupboard prime:</l>
+            <l rend="indent">The house contains nae mae fligairy things,</l>
+            <l rend="indent">(For luxury is sure an unco crime)</l>
+            <l rend="indent" n="35">Yet, frae this little wealth, contentment springs,</l>
+            <l>And thro' the roof, the voice of discord never rings.</l>
+         </lg>
+         <lg type="stanza">
+            <head rend="center">V.</head>
+            <l rend="indent">Ye, who in lordly halls and bow'rs abide,</l>
+            <l rend="indent">And at who's nod obsequious menials bend,</l>
+            <l rend="indent">May boast your gay attire and gilded pride,</l>
+            <l rend="indent" n="40">And rant and roar, and many thousands spend.</l>
+            <l rend="indent">But cou'd your haughty minds once condescend</l>
+            <l rend="indent">To leave a while the formulas of state,</l>
+            <l rend="indent">Ye'd see sweet peace and happiness attend</l>
+            <l rend="indent">The humble cot, and at an easy rate,</l>
+            <l n="45">More real joy and bless the simple swains await.<emph rend="super"
+                  >19</emph><note type="gloss" place="bottom"><emph rend="super">19</emph><emph
+                     rend="italic"> added</emph>
+                  <hi rend="bold">94]</hi>
+                  <emph rend="italic">not in</emph>
+                  <hi rend="bold"> 88</hi></note></l>
+         </lg>
+
+      </body>
+   </text>
+</TEI>

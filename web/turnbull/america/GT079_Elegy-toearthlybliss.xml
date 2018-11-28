@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>"Elegy."</title>
+               <title><emph rend="italic">Columbian Herald and New Daily Advertiser</emph></title>
+                  (<pubPlace>Charleston, SC</pubPlace>), <date>March 25, 1796</date></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><title type="main" rend="center">Elegy.<emph rend="super">1</emph><note type="head"
+                  place="bottom"><emph rend="super">1</emph> Published in <emph rend="italic"
+                     >Columbian Herald and New Daily Advertiser</emph> [Charleston, SC] (March 25,
+                  1796), p. 4. David Radcliffe reads Turnbull’s "Elegy” as one of many responses to
+                  Thomas Gray’s <emph rend="italic">An Elegy wrote in a Country Churchyard</emph> (1751): the “life argument”
+                  Turnbull develops is implicit in Gray’s elegy and, like Gray, Turnbull relies of a
+                  series of verse characters (<emph rend="italic">Spenser and the
+                  Tradition</emph>).</note></title></head>
+
+
+         <lg type="stanza">
+            <l>To earthly bliss, how various are the ways,</l>
+            <l>So many schemes allure the human mind!</l>
+            <l>Which, as we follow through life’s giddy maze,</l>
+            <l>The phantom flies and leaves us far behind.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l n="5">The greedy abject slave of sordid gain,</l>
+            <l>Unnumber’d daring artifices tries,</l>
+            <l>Undaunted braves the dangers of the main,</l>
+            <l>And barters quiet for the golden prize.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>Obsequious, one at pleasure’s magic call,</l>
+            <l n="10">The fleeting hours in revelry beguiles;</l>
+            <l>Conducts the blooming beauty through the ball,</l>
+            <l>And counts his treasure in his fair one’s smiles.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>The meagre student, by the lamp’s pale light,</l>
+            <l>Eager the depths of science to explore,</l>
+            <l n="15">Deny’d the balmy blessings of the night,</l>
+            <l>Still turns the sapient volume<emph rend="super">2</emph><note type="gloss"
+                  place="bottom"><emph rend="super">2</emph> Enrag’d the rustic rout, with foul
+                  despight, / From Palinode the sapient volume tore,” from a short poem in praise of
+                  Spenser in “To the Editor: Remarks on the Opinion of Dr. Johnson concerning the
+                  Imitation of Spenser,” <emph rend="italic">Edinburgh Magazine or Literary
+                     Miscellany</emph>, VI (August, 1787), p. 50. Turnbull uses the phrase
+                  recurrently; cf. “Elegy I,” line 20 and “The Vicissitudes of Fortune,” line 134,
+                  in <emph rend="italic">Poetical Essays</emph> (1788) and “Epilogue” <emph
+                     rend="italic">Columbian Herald and New Daily Advertiser</emph> [Charleston, SC]
+                  (April 1, 1796), line 11. </note> o’er and o’er.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>Those whom the noble thoughts of glory fire,</l>
+            <l>Pursue, in martial fields, a deathless name;</l>
+            <l>And where unnumber’d multitudes expire,</l>
+            <l n="20">They rear the purple column of their fame.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>Ne’er did the love of wealth my peace destroy,</l>
+            <l>I ne’er was fir’d with mighty feats of arms:</l>
+            <l>Be mine sweet quiet and domestic joy,</l>
+            <l>Far from the busy crowd and war’s alarms.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l n="25">And would inspiring Phoebus,<emph rend="super">3</emph><note type="gloss"
+                  place="bottom"><emph rend="super">3</emph> God of light, or the sun.</note> son of
+                  Jove,<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                     rend="super">4</emph> Poetical equivalent of the Roman god Jupiter, i.e.,
+                  Apollo.</note></l>
+            <l>Teach me to tune the soul enchanting lyre,</l>
+            <l>Nature to paint or pour the song of love,</l>
+            <l>’Tis all the gift, ye Gods, that I desire.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>To woo the muse from dawn ’till closing day,</l>
+            <l n="30">To deck the paths immortal bards have trod,</l>
+            <l>With Fancy, bright Aerieal maid, to stray,</l>
+            <l>And trace her footsteps in the flow’ry road.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>Come then, O come, sweet Muses to my aid,</l>
+            <l>Teach me the pensive moments to employ,</l>
+            <l n="35">To frame the verse beneath the woodland shade.</l>
+            <l>Be thou, sweet Poetry, my love, my joy. </l>
+         </lg>
+
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Ode VI.</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope
+                  unit="page" from="163" to="163">163</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Ode VI.<emph rend="super">1</emph><note type="head"
+                  place="bottom"><emph rend="super">1</emph> First published in <emph rend="italic"
+                     >Poetical Essays</emph> (1788), p. 163. Turnbull included verbatim the first
+                  two lines of "Ode VI" in a later poem as well as a revised version of line 3:
+                  "Boreus with his surly train" ("Gallic Ode," <emph rend="italic">Philadelphia
+                     Minerva</emph> [Philadelphia, PA] (January 27, 1798). </note></title></head>
+         <lg type="stanza">
+            <l>Wintry blasts the forests bend,</l>
+            <l>Leaves in rustling show’rs descend,</l>
+            <l>Boreas,<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> God of the north wind as well as god of winter.</note>
+               surly and unkind,</l>
+            <l>Rides upon the roaring wind;</l>
+            <l n="5">Hail descends, in rattling show’rs,</l>
+            <l>Thund’ring on the tott’ring tow’rs;</l>
+            <l>Midnight ghosts their rites perform,</l>
+            <l>Flying on the rapid storm:</l>
+            <l>Haste, the feast of shells<emph rend="super">3</emph><note type="gloss"
+                  place="bottom"><emph rend="super">3</emph> Drinking whisky out of small scallop
+                  shells, see, e.g., <emph rend="italic">Fingal</emph>, Book V in Gaskell, <emph
+                     rend="italic">The Poems of Ossian and Related Works</emph> (Edinburgh:
+                  Edinburgh UP, 1996), p. 92.</note> prepare,</l>
+            <l n="10">Drink oblivion of your care,</l>
+            <l>Strike, ye Bards, the sounding strings,</l>
+            <l>Sing of Heroes, and of Kings;</l>
+            <l>Let the pleasing tales be told,</l>
+            <l>Of war and mighty Chiefs of old;</l>
+            <l n="15">To admiring youths proclaim</l>
+            <l>Fingal’s deeds, and Ossian’s fame;<emph rend="super">4</emph><note type="gloss"
+                  place="bottom"><emph rend="super">4</emph> Father of Ossian and legendary
+                  hunter-warrior in James Macpherson’s <emph rend="italic">The Works of
+                     Ossian</emph> (1765). See Gaskell, <emph rend="italic">The Poems of Ossian and
+                     Related Works</emph>.</note></l>
+            <l>Let pale fear alone controul</l>
+            <l>The trembling sons of little soul. </l>
+         </lg>
+      </body>
+   </text>
+</TEI>

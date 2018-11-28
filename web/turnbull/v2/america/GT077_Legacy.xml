@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>"A Legacy."</title>
+               <title><emph rend="italic">Columbian Herald and New Daily Advertiser</emph></title>
+                  (<pubPlace>Charleston, SC</pubPlace>), <date>March 24, 1796</date></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head><title type="main" rend="center">A Legacy.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> First published in <emph
+                     rend="italic">Columbian Herald and New Daily Advertiser</emph> [Charleston, SC]
+                  (March 24, 1796). Though Turnbull’s formal schooling had been cut short, during
+                  his later years in Charleston, he supplemented his work for the stage with
+                  teaching, and he is listed as “schoolmaster” in the Charleston City Directories
+                  for 1809 and 1813.</note></title></head>
+         
+
+         <lg type="stanza">
+            <l>Now, Jook, if I should chance to die,</l>
+            <l>And leave my hale estate to thee,</l>
+            <l>’Tis fit that ye should hae a guess</l>
+            <l>Of what ye shortly may possess;</l>
+            <l n="5">Lest some ane sue ye for a share,</l>
+            <l>You, I appoint the lawfu’ heir</l>
+            <l>Of a’ my silver, goods and gear,</l>
+            <l>The inventory follows here.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l> Imprimis<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> Latin for firstly; used to introduce a list.</note>--May I
+               lose my noddle,<emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                     rend="super">3</emph>
+                  <emph rend="italic">n.</emph> head.</note></l>
+            <l n="10">If I’m possessed of, e’er a bodle<emph rend="super">4</emph><note type="gloss"
+                  place="bottom"><emph rend="super">4</emph>
+                  <emph rend="italic">n. </emph>copper coin equivalent to one sixth of an English
+                  penny. Cf. Turnbull’s “The Sword” in <emph rend="italic">Poems</emph> (1794),
+                  pp. 33-34: “’Tis true, I would not plague my noddle / About a rusty useless bodle;”
+                  lines 5-6.</note></l>
+            <l>In a’ the world, save, halfpence three,</l>
+            <l>That Jock the student oweth me;</l>
+            <l>Get if from him by hook or crook.</l>
+            <l>He ow’st me for a Latin book.</l>
+            <l n="15">But what will much delight a scholar,</l>
+            <l>Ye’ll get a ink glass, and a roller,</l>
+            <l>A pen case of a splu<emph rend="super">5</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">5</emph>
+                  <emph rend="italic">n.</emph> tobacco-pouch.</note> has made,</l>
+            <l>A broken knife, that wants the blade,</l>
+            <l>A pair of specks that want the een,</l>
+            <l n="20">Yet better specks were never seen:</l>
+            <l>And likewise, laddie, ye will get</l>
+            <l>The frame that ance was round a slate,</l>
+            <l>A cane that’s broken by the middle</l>
+            <l>The brig and belly of a fiddle</l>
+            <l n="25">A psalm book, and a bagpipe’s drone,</l>
+            <l>A mouse trap, and a lexicon;</l>
+            <l>And what’s of greater value still,</l>
+            <l>The lid of my auld sneeshing mill!<emph rend="super">6</emph><note type="gloss"
+                  place="bottom"><emph rend="super">6</emph>
+                  <emph rend="italic">n.</emph> snuff box (sneezing mull).</note></l>
+         </lg>
+
+         <lg type="stanza">
+            <l>Ye’ll get a Hat that once was new,</l>
+            <l n="30">Though now it’s neither black nor blue,</l>
+            <l>But just between a grey and brown,</l>
+            <l>Japann’d wi’ creesh<emph rend="super">7</emph><note type="gloss" place="bottom"><emph
+                     rend="super">7</emph>
+                  <emph rend="italic">n.</emph> grease.</note> about the crown;</l>
+            <l>Item, a glove of ramskin leather,</l>
+            <l>That coor’d my hands in frosty weather,</l>
+            <l n="35">A Purse made of a mouse’s skin,</l>
+            <l>I held, when rich, my silver in—</l>
+            <l>But hoolie—I had maist neglected</l>
+            <l>To mention ae thing, much respected—</l>
+            <l>I mean a Boiler, made of tin,</l>
+            <l n="40">Runs as fast out as ye’ll fill in:</l>
+            <l>Such was, as ancient Poets tell,</l>
+            <l>The lecky bottom’d Tub of hell—<emph rend="super">8</emph><note type="gloss"
+                  place="bottom"><emph rend="super">8</emph> As punishment for murdering their
+                  husbands on their wedding night, the daughters of Danaus were condemned to fill a
+                  leaky tub with water drawn from a deep well.</note></l>
+            <l>A rusty lock, a three-leg’d stool,</l>
+            <l>And ae lith of tewa-foot rule,</l>
+            <l n="45">Twa chair, of great antiquity,</l>
+            <l>Ten times the age of thee or me;</l>
+            <l>The tane, indeed, no unco stout,</l>
+            <l>For aft the bottom tumbles out,</l>
+            <l>Which gies me mony a weary coup,</l>
+            <l n="50">And lands me backward on my doup;</l>
+            <l>On this mysel’ I sometimes lean,</l>
+            <l>I keep the other for a friend.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">If I had any mair to gie,</l>
+            <l>Nae other man my heir should be:</l>
+            <l n="55">Sae guide it weel, and I’ll indent ye</l>
+            <l>Shall never want, while ye hae plenty. </l>
+         </lg>
+
+
+      </body>
+   </text>
+</TEI>

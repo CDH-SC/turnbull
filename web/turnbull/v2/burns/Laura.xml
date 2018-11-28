@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>"Laura."</title>
+               <title>The Works of Robert Burns</title> (<pubPlace>Liverpool</pubPlace>,
+                  <date>1800</date>), <biblScope unit="page" from="142" to="143"
+               >142-143</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><title type="main" rend="center">Laura<emph rend="super">1</emph><note type="head"
+                  place="bottom"><emph rend="super">1</emph> From a letter of Robert Burns to George
+                  Thomson, October 29, 1793. See James Currie's <emph rend="italic">Works of Robert
+                     Burns</emph>, 4 vols. (Liverpool: M'Creery, 1800), IV: pp. 140-141. Subsequently
+                  published as "Song" in <emph rend="italic">Columbian Herald and New Daily
+                     Advertiser</emph> [Charleston, SC] (April 14, 1796), p. 4. </note></title></head>
+
+
+         <lg>
+            <l n="1">Let me wander where I will</l>
+            <l>By shady wood or winding rill,</l>
+            <l>Where the sweetest may-born flow’rs</l>
+            <l>Paint the meadows and the bow’rs,</l>
+            <l n="5">Where the linnet’s early song</l>
+            <l>Echoes sweet the groves among,</l>
+            <l>Or let me wander where I will,</l>
+            <l>Laura<emph rend="super">2</emph><note type="gloss" place="bottom"><emph rend="super"
+                     >2</emph> The name often associated with the laurel wreath; the subject of
+                  Petrarch’s love poetry.</note> haunts my fancy still.</l>
+         </lg>
+         <lg>
+            <l>If at early dawn I chuse</l>
+            <l n="10">To indulge the smiling muse,</l>
+            <l>If I court some cool retreat</l>
+            <l>To avoid the noon-day heat,</l>
+            <l>If beneath the moon’s pale ray</l>
+            <l>Through unfrequented wilds I stray,</l>
+            <l n="15">Or let me wander where I will</l>
+            <l>Laura haunts my fancy still.</l>
+         </lg>
+         <lg>
+            <l>When at night the drowsy God<emph rend="super">3</emph><note type="gloss"
+                  place="bottom"><emph rend="super">3</emph> Morpheus, god of dreams.</note></l>
+            <l>Waves his sleep compelling rod,<emph rend="super">4</emph><note type="gloss"
+                  place="bottom"><emph rend="super">4</emph> Cf. “sleep-compelling rod,” in Dryden,
+                     <emph rend="italic">Palemon and Arcite</emph>, line 550, but more closely,
+                  Turnbull, “Ode V. To Morpheus” in <emph rend="italic">Poetical Essays</emph>
+                  (1788), epigraph. Cf. also “sleep that knits up the ravelled sleeve of
+                  care”: Shakespeare, <emph rend="italic">Macbeth</emph>, II:ii. 36. </note></l>
+            <l>And to fancy’s wakeful eyes</l>
+            <l n="20">Bids celestial visions rise,</l>
+            <l>Whilst with boundless joy I rove</l>
+            <l>Through the fairy land of love,</l>
+            <l>Or let me wander where I will,</l>
+            <l>O! Laura, haunt my fancy still. </l>
+         </lg>
+
+      </body>
+   </text>
+</TEI>

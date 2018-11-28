@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Elegy on a Curious Original.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="197" to="201">197-201</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Elegy on a Curious Original.<emph
+               rend="super">1</emph><note type="head" place="bottom"><emph rend="super">1</emph>
+               First published in <emph rend="italic">Poetical Essays</emph> (1788),
+                  pp. 197-201.</note></title></head>
+
+         <lg type="stanza">
+            <l>I sing the man of wondrous skill,</l>
+            <l>The best that ever blew a quill,</l>
+            <l>Or keepit gimmers,<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph>
+                  <emph rend="italic">n.</emph> female sheep between first and second
+                  shearing.</note> on a hill</l>
+            <l rend="indent2">By Tay<emph rend="super">3</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">3</emph> The Tay originates in the West, winds across the
+                  Highlands and eventually flows to its mouth at the Firth of Tay.</note> or
+                  Tweed,<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                     rend="super">4</emph> Running through the Borders, the River Tweed forms the
+                  boundary between Scotland and England.</note></l>
+            <l n="5">Or Irvine water,<emph rend="super">5</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">5</emph> The river Irvine flows through southwest Scotland,
+                  running near Kilmarnock, down to the coastal town of Irvine and is featured in
+                  many of Turnbull's poems. Cf. “Ode VII: To Irvine Water” and "Irvine Water" in
+                     <emph rend="italic">Poetical Essays</emph> (1788). </note> smooth and
+               still,</l>
+            <l rend="indent2">Wha now is dead.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Ay when he play’d, the sheep advanc’d,</l>
+            <l>The yowes and lams thegither danc’d,</l>
+            <l>The awkward cattle lap and pranc’d,</l>
+            <l n="10" rend="indent2">Wi’ clumsy speed;</l>
+            <l>And lightfoot look’d like ane entranc’d,</l>
+            <l rend="indent2">To hear his reed.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">The lasses gather’d him about,</l>
+            <l>And ilka gaping kintra lout<emph rend="super">6</emph><note type="gloss"
+                  place="bottom"><emph rend="super">6</emph>
+                  <emph rend="italic">n.</emph> country bumpkin.</note></l>
+            <l n="15">Led on the dance, an unco<emph rend="super">7</emph><note type="gloss"
+                  place="bottom"><emph rend="super">7</emph>
+                  <emph rend="italic">adj.</emph> unknown, unfamiliar, strange.</note> rout,</l>
+            <l rend="indent2">And through the reel,</l>
+            <l>They toss’d the hizzies,<emph rend="super">8</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">8</emph>
+                  <emph rend="italic">n.</emph> disparaging name for women, esp. young frivolous
+                  women.</note> in and out,</l>
+            <l rend="indent2">And gart them squeel.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">He fidg’d, and leugh, to see the fun,</l>
+            <l n="20">Cry’d, till’t again, I’m scarce begun;</l>
+            <l>He wha a bonny lass wad won,</l>
+            <l rend="indent2">Maun wallup here,</l>
+            <l>Then up he play’d the cutty-gun,<emph rend="super">9</emph><note type="gloss"
+                  place="bottom"><emph rend="super">9</emph>
+                  <emph rend="italic">n.</emph> short tobacco pipe.</note></l>
+            <l rend="indent2">Their hearts to cheer.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent" n="25">What signifies a piper’s drone,</l>
+            <l>Or fiddle, for to play upon,</l>
+            <l>’Bout ilka smooth Italian tone</l>
+            <l rend="indent2">Mak nae mair bustle,</l>
+            <l>Willie<emph rend="super">10</emph><note type="gloss" place="bottom"><emph
+                     rend="super">10</emph> Pastoral shepherd and speaker in Spenser’s <emph
+                     rend="italic">The Shepheardes Calender.</emph></note> cou’d gar them a’ stan’
+               yon’</l>
+            <l n="30" rend="indent2">Just wi’ a whistle.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Beside his elbow stood a bicker,<emph rend="super">11</emph><note
+                  type="gloss" place="bottom"><emph rend="super">11</emph>
+                  <emph rend="italic">n.</emph> wooden drinking cup.</note></l>
+            <l>For he made ay his mouthfu’ sicker,</l>
+            <l>And for to mak him play the quicker,</l>
+            <l rend="indent2">They fill’d his cap;</l>
+            <l n="35">He leugh and toutit up the liquor</l>
+            <l rend="indent2">Out ilka drap.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">This rais’d him to a canty key,</l>
+            <l>And gart his whistle sound wi’ glee;</l>
+            <l>An unco merry bod was he,</l>
+            <l n="40" rend="indent2">When ance turn’d sou,</l>
+            <l>And nane wi’ better grace cou’d prie,</l>
+            <l rend="indent2">A lasses’ mou’.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">He had right mony a pawky tale,</l>
+            <l>To tell outo’er a capfu’ ale;</l>
+            <l n="45">His canty jokes cou’d never fail,</l>
+            <l rend="indent2">In time o’ need,</l>
+            <l>To cheer the heart, be’t sick or hale,</l>
+            <l rend="indent2">But now he’s dead.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">He had an unco head o’ wit,</l>
+            <l n="50">Was never noddle sure like it;</l>
+            <l>He was for Priest or Doctor fit,</l>
+            <l rend="indent2">And weil did ken a’</l>
+            <l>The Latin Grammar, ilka bit,</l>
+            <l rend="indent2">As far as <emph rend="italic">Penna</emph>.<emph rend="super"
+                  >12</emph><note type="gloss" place="bottom"><emph rend="super">12</emph>
+                  <emph rend="italic">n.</emph> Latin for contour feather, that is, a
+               pen.</note></l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">He faught, but finile met wi’ scars,</l>
+            <l>For they were only wordy wars;</l>
+            <l>He kent the order o’ the stars,</l>
+            <l rend="indent2">And eke the moon,</l>
+            <l>Cou’d tell, in Venus. or in Mars,</l>
+            <l n="55" rend="indent2">Whate’er was done.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Not Ramsey,<emph rend="super">13</emph><note type="gloss"
+                  place="bottom"><emph rend="super">13</emph> Allan Ramsay (1686-1758), the Scottish
+                  poet for whose play <emph rend="italic">The Gentle Shepherd</emph> Turnbull wrote
+                  a prologue.</note> nor the canty Chiel,<emph rend="super">14</emph><note
+                  type="gloss" place="bottom"><emph rend="super">14</emph> Robert Semphill
+                  (1596-1663), whose “Lament for Habbie Simpson” was the first poem in the “Standard
+                  Habbie” meter later used by both Robert Fergusson and Burns.</note></l>
+            <l>Wha sang Hab Simson’s life sae weil,</l>
+            <l>Nor yet the Bard o’ Gilbert fiel’,<emph rend="super">15</emph><note type="gloss"
+                  place="bottom"><emph rend="super">15</emph> William Hamilton of Gilbertfield
+                  (1665-1751), who wrote a modern verse life of William Wallace.</note></l>
+            <l rend="indent2">Nor Sawny Pope,<emph rend="super">16</emph><note type="gloss"
+                  place="bottom"><emph rend="super">16</emph> The poet Alexander Pope (1688-1744),
+                  notable for the ease with which he claimed to write when young: “I lisp’d in
+                  numbers.”</note></l>
+            <l n="60">Cou’d faster up Parnassus<emph rend="super">17</emph><note type="gloss"
+                  place="bottom"><emph rend="super">17</emph> Home of the Muses.</note> speel,<emph
+                  rend="super">18</emph><note type="gloss" place="bottom"><emph rend="super"
+                     >18</emph>
+                  <emph rend="italic">v.</emph> clamber, climb.</note></l>
+            <l rend="indent2">To reach the top.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Of a’ sic qualities as thae,</l>
+            <l>He was possess’d, and mony mae,</l>
+            <l>The neebours said that he cou’d spae,</l>
+            <l n="65" rend="indent2">And fortunes tell;</l>
+            <l>I doubt it, but if it was sae,</l>
+            <l rend="indent2">He kent himsel’.</l>
+         </lg>
+
+
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Pastoral Elegy, on the Death of Mr Robert
+                  Fergusson.</title>, in <title>Poems,</title> (<pubPlace>Dumfries</pubPlace>,
+                  <date>1794</date>), <biblScope unit="page" from="28" to="30"
+               >28-30</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head rend="center"><title type="main">Pastoral Elegy, on the Death of Mr Robert
+                     Fergusson.<emph rend="super">1</emph><note type="head" place="bottom"><emph
+                        rend="super">1</emph> First published in <emph rend="italic">Poems</emph>
+                     (1794), pp. 28-30; reprinted in <emph rend="italic">Columbian Herald and New Daily
+                        Advertiser</emph> [Charleston, SC] (March 21, 1796). Radcliffe comments, the
+                     “five double-quatrain stanzas are part of the series imitating John
+                     Cunningham’s "Elegy for William Shenstone” (<emph rend="italic">Spenser and the
+                        Tradition</emph>). </note></title></head>
+            <div n="1">
+               <lg type="stanza">
+                  <head rend="center">I.</head>
+                  <l>Why hangs on yon willow the lyre,</l>
+                  <l rend="indent">Which erst by the Muses was strung?</l>
+                  <l> To which, what themselves did inspire,</l>
+                  <l rend="indent">Sweet notes were by Fergusson<emph rend="super">2</emph><note
+                        type="gloss" place="bottom"><emph rend="super">2</emph> Robert Fergusson
+                        (1750-1774). Many of Fergusson’s poems in the Scots dialect appeared in
+                        Walter Ruddiman’s <emph rend="italic">Weekly Magazine</emph>, or <emph
+                           rend="italic">Edinburgh Amusement</emph> (1768-1773). Turnbull cites
+                        Fergusson’s “Braid Cloth” (1771) in his “To a Taylor with Cloth for a New
+                        Suit” published in <emph rend="italic">Poetical Essays</emph> (1788),
+                        pp. 188-190.</note> sung:</l>
+                  <l n="5">Why droops the blyth lark in her nest?</l>
+                  <l rend="indent">Ye lambkins, why bleat ye so sore?</l>
+                  <l>Ye shepherds, why are ye distress’d?</l>
+                  <l rend="indent">Alas! the sweet Bard is no more!</l>
+               </lg>
+            </div>
+
+            <div n="2">
+               <head rend="center">II.</head>
+               <lg type="stanza">
+                  <l>On Fortha’s green banks,<emph rend="super">3</emph><note type="gloss"
+                        place="bottom"><emph rend="super">3</emph> The River Forth flows west to
+                        east from the eastern slopes of Ben Lomond to the Firth of Forth and the
+                        North Sea.</note> where the swain</l>
+                  <l n="10" rend="indent">First carroll’d his pastoral song,</l>
+                  <l>The Naiades,<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                           rend="super">4</emph> Water nymphs.</note> dejected, complain</l>
+                  <l rend="indent">As they glide the sad vallies along.</l>
+                  <l>The wind that howls over the heath</l>
+                  <l rend="indent">Bids the woods the disaster deplore;</l>
+                  <l n="15">And the grottoes, responsive beneath,</l>
+                  <l rend="indent">Repeat, “the sweet Bard is no more!”</l>
+               </lg>
+            </div>
+
+            <div n="3">
+               <head rend="center">III.</head>
+               <lg type="stanza">
+                  <l> The Genius of Scotia was glad,</l>
+                  <l rend="indent">Though her Ramsay<emph rend="super">5</emph><note type="gloss"
+                        place="bottom"><emph rend="super">5</emph> Allan Ramsay (1686-1758), the
+                        Scottish poet for whose play <emph rend="italic">The Gentle Shepherd</emph>
+                        Turnbull wrote a prologue.</note> was laid in the ground,</l>
+                  <l>When she smil’d on the heav’n-favour’d lad,</l>
+                  <l n="20" rend="indent">Who once more should her beauties resound:</l>
+                  <l>Now, reclin’d o’er the rude rocky steep</l>
+                  <l rend="indent">Where the billows hoarse murmuring roar,</l>
+                  <l>Her tears falling fast to the deep,</l>
+                  <l rend="indent">She laments that the Bard is no more!</l>
+               </lg>
+            </div>
+
+            <div n="4">
+               <head rend="center">IV.</head>
+               <lg type="stanza">
+                  <l n="25"> Though wealth never dwelt in his cot,</l>
+                  <l rend="indent">Though grandeur was never his care,</l>
+                  <l>The little that fell to his lot,</l>
+                  <l rend="indent">With his friends he could willingly share.</l>
+                  <l>Mirth still at his banquet was found,</l>
+                  <l n="30" rend="indent">He delighted each guest with his lore;</l>
+                  <l>Who, now pensive sit weeping around,</l>
+                  <l rend="indent">And lament that the Bard is no more!</l>
+               </lg>
+            </div>
+
+            <div n="5">
+               <head rend="center">V.</head>
+               <lg type="stanza">
+                  <l> Arise, his companions so true,</l>
+                  <l rend="indent">And wipe from your eyes the sad tear;</l>
+                  <l n="35">With garlands of death-loving yew</l>
+                  <l rend="indent">Adorn our young Fergusson’s bier:</l>
+                  <l>Behold! where he joins a bright throng,</l>
+                  <l rend="indent">The honey-tongu’d Poets of yore,</l>
+                  <l>And his name shall remain in the song,</l>
+                  <l n="40" rend="indent">Though the Bard, the sweet Bard, is no more! </l>
+
+
+
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

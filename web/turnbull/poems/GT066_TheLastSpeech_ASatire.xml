@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>The Last Speech. <emph rend="italic">A
+                     Satire.</emph>.</title>, in <title>Poems,</title>
+                  (<pubPlace>Dumfries</pubPlace>, <date>1794</date>), <biblScope unit="page"
+                  from="23" to="28">23-28</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div n="1">
+            <head><title type="main" rend="center">The Last Speech. <emph rend="italic">A
+                     Satire</emph><emph rend="super">1</emph><note type="head" place="bottom"><emph
+                        rend="super">1</emph> First published in <emph rend="italic">Poems</emph>
+                     (1794), pp. 23-28.</note></title></head>
+            <div n="2">
+               <head rend="center">Argument</head>
+               <p>[In the month of June 1792, an uncommon rumour was spread around Edinburgh, of Mad
+                  Dogs. and of people being bit by them—A reward of one shilling for the head of
+                  every dog that was killed, was offered; tempted by which, many idle and cruel
+                  people took upon them the trade of Dog-killing.—Influenced by the example of the
+                  magistrates of the metropolis, the same measures were adopted by many of the
+                  inferior towns in Scotland, and many thousands of these faithful animals suffered,
+                  though innocent, and far from the contagion, if any such was then in existence. We
+                  shall suppose one of them at the place of execution, pleading his own cause, and
+                  enveighing against his persecutors.]</p>
+               <byline>Prior.</byline>
+
+            </div>
+
+            <div n="3">
+               <head rend="center"><emph rend="italic">“Dogs Bark Satire.”</emph></head>
+               <lg type="stanza">
+                  <l>Where Nausau <emph rend="super">2</emph><note type="gloss" place="bottom">2
+                        [GT's note: <emph rend="italic">The Statue of King William.</emph>]
+                        Presented to the city of Glasgow in 1735, the statue of the protestant king
+                        of England, Scotland and Ireland, William III, is among the oldest in
+                        Scotland and stood in Trongate until 1897 after which time it was moved to
+                        Glasgow Cross railway station; today it stands in Cathedral Square. </note>
+                     on a gallant steed</l>
+                  <l> Rides day and night, but makes no speed;</l>
+                  <l> Where Glasgow merchants, rich as Jews,</l>
+                  <l> Resort to hear and tell the news;</l>
+                  <l n="5"> And councils, as old Athens’ wise,</l>
+                  <l> Thousands of mighty schemes devise,</l>
+                  <l> As, police guards to take up rogues,</l>
+                  <l> And laws enact for hanging dogs;—</l>
+                  <l> Upon the rail that guards the King,</l>
+                  <l n="10"> Poor Colly, fasten’d in a string,</l>
+                  <l> Sans jury, doom’d to suffer death,</l>
+                  <l> Thus utter’d, with his latest breath—</l>
+                  <l> “What have I done that I should die?</l>
+                  <l> If I must swing pray tell me why?</l>
+                  <l n="15"> Did I e’er bite, or rob, or kill,</l>
+                  <l> Or blood of innocence e’er spill?</l>
+                  <l> Or did I e’er oppress the poor,</l>
+                  <l> Or drive the beggar from the door?</l>
+                  <l> Or break the trust I ought to keep,</l>
+                  <l n="20"> Or kill the hens, or worry sheep?</l>
+                  <l> If I’ve done these, then let me die!</l>
+                  <l> If not, thus cursed noose untie.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l rend="indent">Although I never was a mad dog,</l>
+                  <l> I must confess I’ve been a sad dog!</l>
+                  <l n="25"> And such a wanton canine rover</l>
+                  <l> Lives not ’tween John O’Grots’<emph rend="super">3</emph><note type="gloss"
+                        place="bottom"><emph rend="super">3</emph> I.e., John o’ Groats, the
+                        northernmost point of the Scottish mainland.</note> and Dover!<emph
+                        rend="super">4</emph><note type="gloss" place="bottom"><emph rend="super"
+                           >4</emph> Town and ferry port located in southeast England.</note></l>
+                  <l> But were men hang’d for such a thing,</l>
+                  <l> The gravest of you all would swing.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l rend="indent">Yet, ere I die, let me endeavour,</l>
+                  <l n="30"> To do mankind one signal favour;</l>
+                  <l> For, as by instinct, ’tis confest,</l>
+                  <l> One brute should know another best,</l>
+                  <l> I’ll point out with exactest care</l>
+                  <l> The dogs of whom you should beware:—</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l n="35" rend="indent">For these blood-hounds, who drag’d me hither,</l>
+                  <l> Well I may call each of them brother—</l>
+                  <l> They’re worse than dogs, for I can say</l>
+                  <l> My master I did ne’er betray;</l>
+                  <l> But they, for sake of one poor shilling,</l>
+                  <l n="40"> Leave off their work for Colly killing:</l>
+                  <l> And did the law like sanction give,</l>
+                  <l> Their fellow-mortals to bereave</l>
+                  <l> Of life—and deny it if you can—</l>
+                  <l> For six-pence more they’d kill a man!</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l n="45" rend="indent">Not far from hence a kennel stands,<emph rend="super"
+                        >5</emph><note type="gloss" place="bottom"><emph rend="super">5</emph> [GT's
+                        note: <emph rend="italic">The Council-Chamber.</emph>] Until 1814 the
+                        Tolbooth located in the middle of what is today Glasgow Cross served as the
+                        Council Chambers and site of public hangings. </note></l>
+                  <l> Where scent-dogs gather oft in bands;</l>
+                  <l> Mischief their trade, and night and day</l>
+                  <l> They watch incessant for their prey;</l>
+                  <l> Swift are their legs, and soon their snout</l>
+                  <l n="50"> Can smell the hapless Debtor out:</l>
+                  <l> Come not their magic paws within,</l>
+                  <l> But shun each dog with <emph rend="italic">scarlet skin.</emph><emph
+                        rend="super">6</emph><note type="gloss" place="bottom"><emph rend="super"
+                           >6</emph> Reluctance by tracker dogs to discover rich or
+                        diseased miscreants.</note></l>
+               </lg>
+
+               <lg type="stanza">
+                  <l rend="indent">The oldest canus of our race,</l>
+                  <l> Not far from hence maintains a place;</l>
+                  <l n="55"> For since the Heath’nish system’s o’er,</l>
+                  <l> And Tartarus<emph rend="super">7</emph><note type="gloss" place="bottom"><emph
+                           rend="super">7</emph> In Greek mythology, part of the underworld where
+                        the wicked suffer punishment for their misdeeds on earth.</note> is known no
+                     more,</l>
+                  <l> This Cerberus<emph rend="super">8</emph><note type="gloss" place="bottom"
+                           ><emph rend="super">8</emph> In Greek mythology, the three-headed
+                        watchdog of Hades.</note> was sent to earth,</l>
+                  <l> And here obtain’d a jailor’s birth:</l>
+                  <l> But somewhat diff’rent in his mode;</l>
+                  <l n="60"> For, none e’er saw hell’s grim abode,</l>
+                  <l> ’Till he his triple jaws did ope,</l>
+                  <l> And each was silenc’d with a sop;</l>
+                  <l> But here, the case is alter’d quite,</l>
+                  <l> You enter without sop or bite</l>
+                  <l n="65"> His hell on earth;—but this ne’er doubt,</l>
+                  <l> By heav’n! you’ll pay e’re you get out.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l rend="indent">Another set there is, though <emph rend="italic">tied
+                     up,</emph></l>
+                  <l> Who puff’d with wealth and lordly pride up,</l>
+                  <l> Like rev’rend signiors walk the street,</l>
+                  <l n="70"> And curl their nose at all they meet;</l>
+                  <l> And when they issue forth their will,</l>
+                  <l> It valid stands, or good, or ill:</l>
+                  <l> But none would for an hundred dollars,</l>
+                  <l> Attack those dogs with golden collars.<emph rend="super">9</emph><note
+                        type="gloss" place="bottom"><emph rend="super">9</emph> [GT's note: <emph
+                           rend="italic">A mark of civic authority.</emph>] Heavy gold chain worn as
+                        insignia of office or as a mark of fealty.</note></l>
+               </lg>
+
+               <lg type="stanza">
+                  <l n="75" rend="center">As men, before their dissolution,</l>
+                  <l> Are us’d to make a distribution</l>
+                  <l> Of all their goods and gear, so I</l>
+                  <l> With this old fashion’d form comply:</l>
+                  <l> And as my wealth, nay never doubt me,</l>
+                  <l n="80"> Is only what I have about me;</l>
+                  <l> Which, that my ’foresaid brethren may get,</l>
+                  <l> The following articles I legate:—</l>
+                  <l> First, to my murd’rers I bequeath</l>
+                  <l> My curish nature and my teeth.</l>
+                  <l n="85"> Next, to the kennel, what was mine</l>
+                  <l> Of scent and swiftness I resign.</l>
+                  <l><emph rend="italic">Item</emph>, to Cerb’rus, that fell Grecian,</l>
+                  <l> I leave my greedy disposition.</l>
+                  <l> But to the <emph rend="italic">last</emph>, what shall I grant?</l>
+                  <l n="90"> It must be something that they <emph rend="italic">want</emph>—</l>
+                  <l> My tongue—no—that can never be—</l>
+                  <l> I’ll leave them my <emph rend="italic">sagacity</emph>.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l rend="center">And now—but ah! I plead in vain!</l>
+                  <l> Nought can your cruelty restrain;</l>
+                  <l n="95"> Since, I for majesterial fury,</l>
+                  <l> Must suffer without judge or jury.”</l>
+               </lg>
+            </div>
+
+
+         </div>
+      </body>
+   </text>
+</TEI>

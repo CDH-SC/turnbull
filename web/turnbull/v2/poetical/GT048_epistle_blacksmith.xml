@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Epistle to a Black-Smith.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="188" to="190">188-190</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head><title type="main" rend="center">Epistle to a Black-smith.<emph rend="super"
+                  >1</emph><note type="head" place="bottom"><emph rend="super">1</emph> First
+                  published in <emph rend="italic">Poetical Essays</emph> (1788), pp. 188-190. The
+                  addressee of this poem, an unidentified black-smith poet in Ayr, is not the same
+                  as the “William Reid, Blacksmith,” for whose comedy <emph rend="italic">The
+                     Heroine</emph> performed in Dumfries Turnbull would write a theatrical
+                  prologue, which he eventually published in the <emph rend="italic">Columbian
+                     Herald and New Daily Advertiser</emph> [Charleston, SC] (March 26,
+                  1796).</note></title></head>
+
+         <lg>
+            <l>Dear Sir, if my unnotic’d name,</l>
+            <l>Not yet proclaim’d by trump of fame,</l>
+            <l>Has reach’d your lugs,<emph rend="super">2</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">2</emph>
+                  <emph rend="italic">n.</emph> ears.</note> then swith<emph rend="super"
+                  >3</emph><note type="gloss" place="bottom"><emph rend="super">3</emph>
+                  <emph rend="italic">adv.</emph> rapidly, quickly.</note> attend,</l>
+            <l>This essay of a Bard unkend.</l>
+         </lg>
+
+         <lg>
+            <l n="5" rend="indent">An honest man, lang may he thrive,</l>
+            <l>(And ilka honest man alive)</l>
+            <l>As we were wheeling round the bicker,<emph rend="super">4</emph><note type="gloss"
+                  place="bottom"><emph rend="super">4</emph>
+                  <emph rend="italic">n.</emph> wooden drinking cup; in modern Scottish, vessels
+                  made of wooden staves for holding porridge. </note></l>
+            <l>Tald me that he was unco<emph rend="super">5</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">5</emph>
+                  <emph rend="italic">adj.</emph> unknown, unfamiliar, strange.</note> sicker</l>
+            <l>A’ this braid shire, and other three,</l>
+            <l n="10">Contain’d na sic a chiel as thee;</l>
+            <l>That ye, tho’ thumpin at the study,</l>
+            <l>Cou’d mak a verse on ony body,</l>
+            <l>In nipping, slie, satiric stile,</l>
+            <l>We’ teeth as sharp as ony file.</l>
+         </lg>
+
+         <lg>
+            <l n="15" rend="indent">Bedeen, I gat upo’ my shanks,</l>
+            <l>And gae the carle routh o’ thanks,</l>
+            <l>And sware an aith, e’en b’ my sang,</l>
+            <l>“His metal I shall try e’er lang;</l>
+            <l>And then I’ll tell ye gif the chiel</l>
+            <l n="20">Be useless ir’n or temper’d steel.”</l>
+         </lg>
+
+         <lg>
+            <l rend="indent">It shaws I hae but little gumption,</l>
+            <l>Tho’ no way scanty o’ presumption,</l>
+            <l>To bourd wi’ ane of sic engine,</l>
+            <l>And parts sae far exceeding mine;</l>
+            <l n="25">For, a’ that ken ye can declare,</l>
+            <l>Your match is scarce in ony where,</l>
+            <l>But my impatience may excuse me,</l>
+            <l>Lest ye should for a dult abuse me.</l>
+         </lg>
+
+         <lg>
+            <l rend="indent">O wad my scanty purse but spare,</l>
+            <l n="30">That I might tak a jaunt to Ayr,<emph rend="super">6</emph><note type="gloss"
+                  place="bottom"><emph rend="super">6</emph> Coastal town situated in western
+                  Scotland on the mouth of the River Ayr near Robert Burns’s birthplace. </note></l>
+            <l>Ae night wi’ thee to sing and roar,</l>
+            <l>And set auld care ahint the door;</l>
+            <l>Then we shou’d hae a merry bout,</l>
+            <l>And no sit dumb nor yet cast out.</l>
+         </lg>
+
+         <lg>
+            <l n="35" rend="indent">But, lest that we shou’d ne’er forgether,</l>
+            <l>To get a crack wi’ ane anither,</l>
+            <l>My earnest prayer ay shall be,</l>
+            <l>For routh o’ coals, and ir’n to thee;</l>
+            <l>That ye may lang be hale and canty,</l>
+            <l n="40">And ding that cursed carle <emph rend="italic">want ay</emph>;</l>
+            <l>That ye may ne’er be scant o’ brass,</l>
+            <l>To synd the spark that’s I’ yer hause;</l>
+            <l>That, as ye blaw your smithy fire,</l>
+            <l>Apollo<emph rend="super">7</emph><note type="gloss" place="bottom"><emph rend="super"
+                     >7</emph> God of medicine, music, especially the lyre, archery and
+                  prophecy.</note> may your wit inspire,</l>
+            <l n="45">To gar your easy flowing rhyme,</l>
+            <l>Just like alternate hammers chime;</l>
+            <l>And, that your mind be ne’er perplex’d,</l>
+            <l>But firm as ony anvil fix’d;</l>
+            <l>That, as your gauds of ir’n ye bow,</l>
+            <l n="50">Your enemies may yield to you;</l>
+            <l>May, by the fatal sisters three,<emph rend="super">8</emph><note type="gloss"
+                  place="bottom"><emph rend="super">8</emph> The fates. Cf. the weird sisters in
+                  Shakespeare’s <emph rend="italic">Macbeth</emph> (1606) and Thomas Gray “The Fatal
+                  Sisters. An Ode.” in <emph rend="italic">Thomas Gray and William Collins: Poetical
+                     Works</emph>, ed. Roger Lonsdale (Oxford and New York: Oxford UP, 1977),
+                  p. 62.</note></l>
+            <l>Thy chain of life extended be,</l>
+            <l>Till unto langest life thy dust,</l>
+            <l>Stand proof against the teeth of rust;</l>
+            <l n="55">And, when grim Death, wi’ fatal dart,</l>
+            <l>Shall gar they saul and body part,</l>
+            <l>May this thy Epitaph be made,</l>
+            <l>“Here Vulcan<emph rend="super">9</emph><note type="gloss" place="bottom"><emph rend="super">9</emph> God of fire.</note> lies, a matchless Blade."</l>
+
+         </lg>
+
+
+      </body>
+   </text>
+</TEI>

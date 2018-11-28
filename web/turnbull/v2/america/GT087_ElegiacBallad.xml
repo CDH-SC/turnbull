@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>"An Elegiac Ballad."</title>
+               <title><emph rend="italic">Columbian Herald and New Daily Advertiser</emph></title>
+                  (<pubPlace>Charleston, SC</pubPlace>), <date>April 15, 1796</date></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><title type="main" rend="center">An Elegiac Ballad.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> Published in <emph
+                     rend="italic">Columbian Herald and New Daily Advertiser</emph> [Charleston, SC]
+                  (April 15, 1796), p. 4.</note></title></head>
+        
+         <div1 type="stanza">
+            <head rend="center">I.</head>
+            <lg>
+               <l>Where broad Fortha’s blue green billows<emph rend="super">2</emph><note
+                  type="gloss" place="bottom"><emph rend="super">2</emph> The River Forth flows west to
+                  east from the eastern slopes of Ben Lomond to the Firth of Forth and the
+                  North Sea.</note></l>
+               <l>Murmur to the azure main,</l>
+               <l>Colin<emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                        rend="super">3</emph> Shepherd-poet. Cf. Clement Marot’s <emph rend="italic"
+                        >Complainte de Madame Loysc</emph> (1531); Edmund Spenser’s <emph
+                        rend="italic">Shepheardes Calendar</emph> (1579) and John Gay’s <emph
+                        rend="italic">The Shepherd’s Week</emph> (1714). </note> lay among the
+                  willows,</l>
+               <l>Colin, erst a happy swain,</l>
+               <l n="5">When on Clyde’s sweet banks<emph rend="super">4</emph><note type="gloss"
+                     place="bottom"><emph rend="super">4</emph> Rising in the Lanarkshire hills, the
+                     river Clyde flows through Glasgow, eventually merging into the Firth of
+                     Clyde.</note> he sported,</l>
+               <l>Careless as the herds that graze,</l>
+               <l>And the tuneful Muses courted</l>
+               <l>To record his Peggy’s<emph rend="super">5</emph><note type="gloss" place="bottom"
+                        ><emph rend="super">5</emph> Variant of Meggy, a diminutive of Margaret;
+                     Peggy was the heroine of a popular sixteenth century ballad, “Bonny Peggy
+                     Ramsey” or “Peg a Ramsey,” referenced in Shakespeare’s <emph
+                        rend="italic">Twelfth Night</emph> (c.1601), II.iii.</note> praise. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">II.</head>
+            <lg>
+               <l>Now forsaken by the maiden,</l>
+               <l n="10">Yet by restless love oppress’d,</l>
+               <l>All with deepest sorrow laden,</l>
+               <l>Thus the youth his pain express’d:</l>
+               <l>“Summer glorious and resplendent,</l>
+               <l>Wakes the early morn with glee,</l>
+               <l n="15">Phoebus<emph rend="super">6</emph><note type="gloss" place="bottom"><emph
+                        rend="super">6</emph> God of light, or the sun.</note> o’er you mountain
+                  pendant</l>
+               <l>Shines with joy on all but me!</l>
+            </lg>
+         </div1>
+
+         <div1 type="stanza">
+            <head rend="center">III.</head>
+            <lg>
+               <l>“Pleasures past with pain reviewing</l>
+               <l>In tormenting prospect rise,</l>
+               <l>Mem’ry love’s lost joys renewing</l>
+               <l n="20">Opes the fountains of mine eyes;</l>
+               <l>Hope, her syren song suspended,</l>
+               <l>Smooths no more my brow of care:</l>
+               <l>Rage with disappointment blended</l>
+               <l>Pictures ruin and despair! </l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">IV.</head>
+            <lg>
+               <l n="25">“Welcome then, each gloomy dwelling,</l>
+               <l>Horror’s desolate domains,</l>
+               <l>Where, of human woes still telling,</l>
+               <l>Tear ey’d Melancholy reigns!</l>
+               <l>Fortha, roll thy blue green billows,</l>
+               <l n="30">Murmur smoothly to the main!</l>
+               <l>Wave ye sighing winds the willows,</l>
+               <l>Help me riendly<emph rend="super">7</emph><note type="gloss" place="bottom"><emph
+                        rend="super">7</emph> Printed as such in <emph rend="italic">Columbian
+                        Herald and New Daily Advertiser</emph> [Charleston, SC] (April 15, 1796);
+                     perhaps a misprint for “roundly.”</note> to complain!”</l>
+            </lg>
+         </div1>
+      </body>
+   </text>
+</TEI>

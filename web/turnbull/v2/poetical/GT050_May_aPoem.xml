@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>May. A Poem.</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope
+                  unit="page" from="194" to="197">194-197</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">May. A Poem.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> First published in <emph
+                     rend="italic">Poetical Essays</emph> (1788), pp. 194-197.</note></title></head>
+
+         <lg>
+            <l>Begin, sweet Lass, a merry lay,</l>
+            <l rend="indent">And sing the bonny month of May,</l>
+            <l>When chauntin birds, on ilka spray,</l>
+            <l rend="indent2">And hawthorn sing,</l>
+            <l n="5">And larks salute the rising day,</l>
+            <l rend="indent2">On restless wing.</l>
+         </lg>
+
+         <lg>
+            <l rend="indent'">And hark, the cuckoo, through his throat,</l>
+            <l>Pours out a sweet, but simple note,</l>
+            <l>The goudspink<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph>
+                  <emph rend="italic">n.</emph> linnet.</note> in her painted coat,</l>
+            <l n="10" rend="indent2">And trim array,</l>
+            <l>Gars echo answer, frae the grot,</l>
+            <l rend="indent2">The praise of May.</l>
+         </lg>
+
+         <lg>
+            <l rend="indent">Now, wha wad tine this joyous hour,</l>
+            <l>Beneath the drousy monarch’s pow’r,</l>
+            <l n="15">To snore and sleep in lockit bow’r,</l>
+            <l rend="indent2">While, sad to tell,</l>
+            <l>Terrific dreams our peace devour,</l>
+            <l rend="indent2">Like hags of hell.</l>
+         </lg>
+
+         <lg>
+            <l rend="indent">The sun, emerging frae the sea,</l>
+            <l n="20">Lifts up his radiant head on hi’,</l>
+            <l>Mirk clouds and dusky shadows flee</l>
+            <l rend="indent2">Before the beam,</l>
+            <l>The tap of ilka tow’r and tree,</l>
+            <l rend="indent2">Like siller<emph rend="super">3</emph><note type="gloss"
+                  place="bottom"><emph rend="super">3</emph>
+                  <emph rend="italic">n.</emph> silver.</note> gleam.</l>
+         </lg>
+
+         <lg>
+            <l n="25" rend="indent">A’ nature blooming charms the view,</l>
+            <l>The green-sward earth, and welkin blue,</l>
+            <l>The bent, refresh’d wi’ morning dew,</l>
+            <l rend="indent2">And spreading thorn,</l>
+            <l>Gay vernal flow’rs, of motely hue,</l>
+            <l n="30" rend="indent2">The braes<emph rend="super">4</emph><note type="gloss"
+                  place="bottom"><emph rend="super">4</emph>
+                  <emph rend="italic">n.</emph> steep bank bounding a river valley.</note> adorn.</l>
+         </lg>
+
+         <lg>
+            <l rend="indent">The music of the westlin breeze,</l>
+            <l> That soughs amang the nodding trees,</l>
+            <l>The drousy croon of bizzy bees,</l>
+            <l rend="indent2">In waxen cell,</l>
+            <l n="35">Can lull the passions into ease,</l>
+            <l rend="indent2">And cares expel.</l>
+         </lg>
+
+         <lg>
+            <l rend="indent">Sweet smile the woodland, and the plain,</l>
+            <l>Joy fills the heart of ilka swain,</l>
+            <l>And rouses up the village train,</l>
+            <l n="40" rend="indent2">By creek o’ dawn,</l>
+            <l>Ident<emph rend="super">5</emph><note type="gloss" place="bottom"><emph rend="super"
+                     >5</emph>
+                  <emph rend="italic">adj.</emph> assiduous, diligent, persistent. </note> on rustic
+               toils again,</l>
+            <l rend="indent2">They seek the lawn.</l>
+         </lg>
+
+         <lg>
+            <l rend="indent">Furth frae the theicket cot is seen,</l>
+            <l>The landart<emph rend="super">6</emph><note type="gloss" place="bottom"><emph
+                     rend="super">6</emph>
+                  <emph rend="italic">adj.</emph> of the country.</note> lasses, braw and clean,</l>
+            <l n="45">Skiff lightly o’er the dewy green,</l>
+            <l rend="indent2">Withouten art,</l>
+            <l>In native innocence, I ween,</l>
+            <l rend="indent2">They charm the heart.</l>
+         </lg>
+
+         <lg>
+            <l rend="indent">Now come, my pleasure loving maid,</l>
+            <l n="50">And tent<emph rend="super">7</emph><note type="gloss" place="bottom"><emph
+                     rend="super">7</emph>
+                  <emph rend="italic">v.</emph> attend.</note> the beauties of the shade,</l>
+            <l>The thicket gaudily array’d</l>
+            <l rend="indent2">In rookly green,</l>
+            <l>And burnies,<emph rend="super">8</emph><note type="gloss" place="bottom"><emph
+                     rend="super">8</emph>
+                  <emph rend="italic">n.</emph> brooklets.</note> hurling through the glade,</l>
+            <l rend="indent2">Their waters sheen.</l>
+         </lg>
+
+         <lg>
+            <l n="55" rend="indent">Now is the time for those who love</l>
+            <l>To woo the Muses in the grove,</l>
+            <l>Or wi’ the nymph sweet fancy rove</l>
+            <l rend="indent2">Her flow’ry way;</l>
+            <l>Then come, ye tunefu’ swains, and prove</l>
+            <l n="60" rend="indent2">The joys of May. </l>
+         </lg>
+
+
+      </body>
+   </text>
+</TEI>

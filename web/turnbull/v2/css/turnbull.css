@@ -1,0 +1,341 @@
+/**
+ * turnbull.css
+ *
+ * Author: Center for Digital Humanities - University of South Carolina.
+ * Version: Alpha.
+ * Copyright: 2015. All Rights Reserved.
+ *
+ * Minimum Browser Support:
+ * - IE      10.0
+ * - Opera   12.0
+ * - Chrome   4.0
+ * - Safari   4.0
+ * - Firefox  5.0
+ *
+ * Table of Contents:
+ * - Global Tags and Classes
+ * - Collections Page
+ * - XML Elements and Attributes
+ * - Spinning Loading Icon
+ * - Bootstrap Modifications
+ */
+
+/**
+ * Global Tags and Classes
+ */
+body { background-color: #ECECEC; }
+
+header {
+  color: #FFFFFF;
+  background-color: #012D78;
+}
+header .row {
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+nav {
+  color: #FFFFFF;
+  background-color: #023894;
+}
+nav .form-group { padding-top: 7.5px; }
+
+footer {
+  margin-top: 2%;
+
+  color: #FFFFFF;
+  font-size: 12px;
+
+  background-color: #012D78;
+}
+footer .row {
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
+}
+
+hr { border-color: #929191; }
+
+.excerpt {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 45px;
+  padding-right: 45px;
+}
+.excerpt span { display: block; }
+
+.indent { text-indent: 15px; }
+
+.text-spaced p { line-height: 1.78549; }
+
+/**
+ * Collections Page
+ */
+.panel-turnbull { border-color: #023894; }
+.panel-turnbull > .panel-heading {
+  color: #FFFFFF;
+  background-color: #012D78;
+  border-color: #023894;
+}
+.panel-turnbull > .panel-body {
+  height: 921px;
+  overflow: auto;
+}
+
+/**
+ * Search Page
+ */
+.btn-turnbull {
+  color: #FFFFFF;
+  border-color: #012D78;
+  background-color: #023894;
+}
+.btn-turnbull:focus,
+.btn-turnbull:hover {
+  color: #FFFFFF;
+  border-color: #012D78;
+  background-color: #012D78;
+}
+
+/**
+ * XML Elements and Attributes
+ */
+tei .tooltip-inner {
+  min-width: 250px;
+  max-width: 500px;
+}
+
+l,
+sp
+div1,
+div2,
+list,
+heading,
+speaker,
+titlepart { display: block; }
+
+actor {
+  float: right;
+  clear: right;
+}
+
+bibl {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+byline {
+  display: block;
+  margin-top: 15px;
+}
+
+castitem {
+  display: list-item;
+  margin-bottom: 15px;
+  clear: both;
+
+  list-style: none;
+}
+
+dateline {
+  display: block;
+  margin-top: 15px;
+}
+
+epigraph {
+  display: block;
+  margin-top: 10px;
+}
+
+footnote {
+  float: left;
+  clear: left;
+  margin-top: 10px;
+
+  border-top: 1px solid #000000;
+}
+
+item {
+  display: list-item;
+  list-style: none;
+}
+
+lg {
+  display: block;
+  margin-top: 10px;
+  margin-left: 15px;
+
+  font-size: 14px;
+  text-align: left;
+}
+
+listbibl > bibl {
+  padding-left: 3em;
+  text-indent: -3em;
+}
+
+note {
+  display: block;
+  margin-top: 5px;
+
+  font-size: 9.75px;
+}
+
+number {
+  float: left;
+  margin-left: -45px;
+
+  font-size: 10px;
+  text-indent: 0;
+}
+
+role {
+  float: left;
+  clear: left;
+}
+
+[type="list"] p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+[type="stanza"] { margin-bottom: 15px; }
+
+[rend="bold"] { font-weight: bold; }
+[rend="center"] { text-align: center; }
+[rend="italic"] { font-style: italic; }
+[rend="indent"] { text-indent: 15px; }
+[rend="indent2"] { text-indent: 30px; }
+[rend="indent3"] { text-indent: 45px; }
+[rend="super"] {
+  position: relative;
+  top: -0.5em;
+
+  font-size: 75%;
+  line-height: 0;
+
+  vertical-align: baseline;
+}
+
+/**
+ * Spinning Loading Icon
+ * - This class is credited to http://www.bootply.com/128062
+ */
+.glyphicon-refresh-animate {
+  -webkit-animation: spin 0.7s infinite linear;
+     -moz-animation: spin 0.7s infinite linear;
+       -o-animation: spin 0.7s infinite linear;
+          animation: spin 0.7s infinite linear;
+}
+@-webkit-keyframes spin {
+  from {
+    -webkit-transform: rotate(0deg);
+       -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+         -o-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+       -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+         -o-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@keyframes spin {
+  from {
+    -webkit-transform: rotate(0deg);
+       -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+         -o-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+       -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+         -o-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+/**
+ * DataTables Modifications
+ * - Recolor the pagination button.
+ */
+.pagination > .active > a,
+.pagination > .active > a:focus,
+.pagination > .active > a:hover {
+  border-color: #012D78;
+  background-color: #023894;
+}
+
+/**
+ * Bootstrap Modifications
+ * - Recolor the navigational menu.
+ * - Recolor the tab menu.
+ * - Restyle gray background color of certain items.
+ * - Remove the border radius of all items being used.
+ * - Random minimal changes.
+ */
+nav .nav > li > a,
+nav .nav > li > a:focus,
+nav .nav > li > a:hover,
+nav .nav > li > a:active,
+nav .nav > li > a:visited { color: #FFFFFF; }
+nav .nav > li > a:focus,
+nav .nav > li > a:hover { background-color: #0547B9; }
+
+section .nav > li > a,
+section .nav > li > a:active,
+section .nav > li > a:visited { color: #000000; }
+section .nav > li > a:focus,
+section .nav > li > a:hover {
+  color: #FFFFFF;
+  background-color: #012D78;
+}
+
+.nav > li > a {
+  -webkit-transition: background-color 0.1s ease-in-out;
+     -moz-transition: background-color 0.1s ease-in-out;
+       -o-transition: background-color 0.1s ease-in-out;
+          transition: background-color 0.1s ease-in-out;
+}
+
+.nav-tabs { border-color: #023894; }
+.nav-tabs > li > a { border: none; }
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:active,
+.nav-tabs > li.active > a:visited {
+  color: #FFFFFF;
+
+  border: none;
+  background-color: #023894;
+}
+
+.tab-content { padding-top: 2%; }
+
+blockquote {
+  margin-top: 20px;
+  font-size: 14.5px;
+}
+
+.form-group { margin-bottom: 0; }
+
+blockquote,
+.page-header,
+.list-group-item { border-color: #929191; }
+
+.btn,
+.panel,
+.form-control,
+.panel-heading,
+.nav-tabs > li > a,
+.list-group-item:last-child,
+.list-group-item:first-child,
+.pagination > li:last-child > a,
+.pagination > li:first-child > a {
+  border-radius: 0;
+}

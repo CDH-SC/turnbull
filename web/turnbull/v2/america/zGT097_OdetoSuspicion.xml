@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>"To Eliza."</title>
+               <title><emph rend="italic">Columbian Herald and New Daily Advertiser</emph></title>
+                  (<pubPlace>Charleston, SC</pubPlace>), <date>June 13, 1796</date></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><title type="main" rend="center">Ode to Suspicion.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> Published in <emph
+                     rend="italic">Charleston Courier</emph> [Charleston, SC] (March 17, 1807);
+                  reprinted in <emph rend="italic">Alexandria Daily Advertiser</emph> [Alexandria,
+                  VA] (April 2, 1807); in <emph rend="italic">Port Folio</emph> [Philadelphia, PA],
+                  n.s. 3 (April 11, 1807), pp. 237-238; and in <emph rend="italic">The Observer</emph> [New
+                  York, NY] 1 (May 21, 1809), p. 112 (which omits the Shakesperian epigraph). Radcliffe comments that “Ode to Suspicion”
+                  is in the style of William Collins’s “Ode to Fear” (1746) (<emph rend="italic"
+                     >Spenser and the Tradition</emph>). </note></title></head>
+
+         <epigraph n="1" rend="center">
+            <l><emph rend="italic">Degeneros animos timor arguit.</emph></l>
+            <bibl rend="center">Virgil.<emph rend="super">2</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">2</emph> I.e., fear is the proof of a degenerate mind; from
+                  Virgil’s <emph rend="italic">Aenied</emph>, Book IV, line 13.</note></bibl>
+         </epigraph>
+         <epigraph n="2" rend="center">
+            <l><emph rend="italic">Suspicion always haunts the guilty mind.</emph></l>
+            <bibl rend="center">Shakespeare.<emph rend="super">3</emph><note type="gloss"
+                  place="bottom"><emph rend="super">3</emph> Shakespeare, <emph rend="italic"
+                     >Henry VI</emph> V.vi.11.</note></bibl>
+         </epigraph>
+
+         <lg type="stanza">
+            <l>Ah! who is yon, with haggard mein,<emph rend="super">4</emph><note type="gloss" place="bottom"><emph rend="super">4</emph> Misprint for "mien."</note></l>
+            <l>That lurks in secret place unseen;</l>
+            <l>Yet from the den where he is pent,</l>
+            <l>Full many a wary look is sent;</l>
+            <l n="5">Now every way, with cautious gaze,</l>
+            <l>The wide extended space surveys,</l>
+            <l>Looking around with eyes askance,</l>
+            <l>Then sudden turns with eager glance,</l>
+            <l>When, hark! he hears the rushing wind</l>
+            <l n="10">Disturb the rustling leaves behind;</l>
+            <l>Then down upon the earth, aghast,</l>
+            <l>In haste his trembling limbs are cast?</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>Yes, now I know the monster well:</l>
+            <l>Suspicion, progeny of hell;</l>
+            <l n="15">Of Guilt begot, of Danger born,</l>
+            <l>And nurs’d in Fear’s grim cave forlorn:</l>
+            <l>Away, tormenting fiend, away,</l>
+            <l>Nor urge with Innocence thy stay!</l>
+            <l>Hence! and in some dreary cell</l>
+            <l n="20">With the trembling miser dwell;</l>
+            <l>Feed him with fantastick fears</l>
+            <l>Of want in his declining years;</l>
+            <l>Bid each hollow blast that blows</l>
+            <l>Wake the wretch from short repose,</l>
+            <l n="25">To snatch his bags, and eager hold</l>
+            <l>From fancied thieves his idol gold.</l>
+            <l>Find where, immers’d in tears and sighs,</l>
+            <l>The half neglected lover lies,</l>
+            <l>And place full in his tortur’d sight</l>
+            <l n="30">His fair inconstant all the night:</l>
+            <l>And to augment his soul’s despair,</l>
+            <l>Place thou his hated rival there;</l>
+            <l>Let him the willing charmer kiss</l>
+            <l>And feast in luxury of bliss.</l>
+
+         </lg>
+
+         <lg type="stanza">
+            <l n="35">Or find where under midnight skies</l>
+            <l>Athwart the gloom the murd’rer flies;</l>
+            <l>Whilst he the stings of conscience feels,</l>
+            <l>Be though, fell monster, at his heels;</l>
+            <l>Possess his madly beating brains</l>
+            <l n="40">With racks and gibbets, whips and chains;</l>
+            <l>Let every bush and waving tree</l>
+            <l>Pursuing bloodhounds seem to be!</l>
+            <l>Or find the man whose iron sway</l>
+            <l>Makes the abject prostrate slaves obey,</l>
+            <l n="45">Who by oppression swells his state,</l>
+            <l>And in their misery grows great;</l>
+            <l>Picture some chief whom Justice draws,</l>
+            <l>Espousing the afflicted’s cause,</l>
+            <l>Aiming the meritorious blow</l>
+            <l n="50">To lay the ruthless tyrant low!</l>
+         </lg>
+         <lg type="stanza">
+            <l>For me, no wealth I have to keep,</l>
+            <l>No gold to break my silent sleep,</l>
+            <l>No faithless maid my fancy warms,</l>
+            <l>No rival youth my fears alarms,</l>
+            <l n="55">No blood my guiltless hands hath stain’d,</l>
+            <l>Oppression’s rod I ne’er maintain’d;</l>
+            <l>Free is my heart and void of fear,</l>
+            <l>Then come not with thy scorpions here;</l>
+            <l>Thy foul suggestions hurt not me,</l>
+            <l n="60">The guilty only harbour thee:</l>
+            <l>Then hence! tormenting fiend! away!</l>
+            <l>Nor urge with Innocence thy stay. </l>
+         </lg>
+      </body>
+   </text>
+</TEI>

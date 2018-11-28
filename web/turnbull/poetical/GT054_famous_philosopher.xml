@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Elegy on a Famous Philosopher.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="209" to="212">209-212</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+         <head rend="center"><title type="main">Elegy on a famous philosopher.<emph rend="super"
+                  >1</emph><note type="head" place="bottom"><emph rend="super">1</emph> First
+                  published in <emph rend="italic">Poetical Essays</emph>, (1788), pp. 209-212.
+               </note></title></head>
+         <lg type="stanza">
+            <l>Nae mair I’ll greet and mak a main,</l>
+            <l>For chiels that’s neither dead nor gane,</l>
+            <l>But wail, in doolfu’ dumps, for ane</l>
+            <l rend="indent">Of wondrous meed,</l>
+            <l n="5">For death, a worthy wight has tane,</l>
+            <l rend="indent">J*** G*****’s<emph rend="super">2</emph><note type="gloss"
+                  place="bottom"><emph rend="super">2</emph> John Goldie (1717-1811), a
+                  cabinet-maker and then wine-merchant in Kilmarnock, was a notable local
+                  controversialist, putting forward progressive religious ideas in opposition to
+                  Auld Licht traditionalism. His books included <emph rend="italic">Essays on
+                     Various Important Subjects, Moral and Divine</emph> (3 vols., 180), and <emph
+                     rend="italic">The Gospel Recovered from Its Captive State</emph> (1786). Burns
+                  wrote a verse-epistle to John Goldie in 1785 (<emph rend="italic">Poems and
+                     Songs</emph>, ed. Kinsley, 3 vols. [Oxford: Clarendon, 1969], I: 114-115), and
+                  Goldie was one of those who encouraged Burns to publish <emph rend="italic">Poems,
+                     Chiefly in the Scottish Dialect</emph> (Kilmarnock: Wilson, 1786).</note>
+               dead.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>Thou’rt ever an unwelcome guest,</l>
+            <l>A waefu’ horror breathing pest,</l>
+            <l>As weil’s the worst the vera best,</l>
+            <l n="10" rend="indent">Can naething plead;</l>
+            <l>A famous man by a’ confest,</l>
+            <l rend="indent">J*** G*****’s dead.</l>
+				</lg>
+
+				 <lg type="stanza">
+            <l>Ye tyrant pow’r, ye dinna care,</l>
+            <l>The man o’ parts and knowledge rare,</l>
+            <l n="15">Ye’ll nane, for a’ their wisdom spare,</l>
+            <l rend="indent">Without remeed,</l>
+            <l>The vera heart and saul o’ lair,</l>
+            <l rend="indent">J*** G*****’s dead.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>Ye might far better tane awa</l>
+            <l n="20">Some body guid for nought ava,</l>
+            <l>Sae looten a’ your vengeance fa’</l>
+            <l rend="indent">On some weak head,</l>
+            <l>And no gien sic a man a ca’</l>
+            <l rend="indent">As him that’s dead.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l n="25">I trow ye little kent his merit,</l>
+            <l>What wondrous gifts he did inherit;</l>
+            <l>He had a clear enlightening spirit,</l>
+            <l rend="indent">A shining glead,</l>
+            <l>But a’ that’s guid is wi’ him carrit,</l>
+            <l n="30" rend="indent">For now he’s dead.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>Auld Killie,<emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                     rend="super">3</emph> Perhaps a generic reference to the inhabitants of
+                  Kilmarnock, or more specifically the members of Kilmarnock Kilwinning Lodge, for
+                  whom Burns wrote the song “The Sons of old Killie” (Kinsley I: 299; written 1786
+                  but not published till 1834).</note> mourn in sable hue,</l>
+            <l>The sad and dreary day ye’ll rue,</l>
+            <l>Wha’ll open nature to your view,</l>
+            <l rend="indent">And wisdom spread?</l>
+            <l n="35">Sic men as G***** were but few,</l>
+            <l rend="indent">And now he’s dead.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>Wha will explain the circling year,</l>
+            <l>And represent the rolling Sphere;</l>
+            <l>Or make the Solar System clear,</l>
+            <l n="40" rend="indent">As ony bead,</l>
+            <l>J*** G***** cou’d, what need ye speer?</l>
+            <l rend="indent">But now he’s dead.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>Tho’ he gat little o’ the school,</l>
+            <l>He’d prove, by an unerring rule,</l>
+            <l n="45">That Newton<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                     rend="super">4</emph> Sir Isaac Newton (1642-1726); leading eighteenth-century
+                  British scientist who, in <emph rend="italic">Principia</emph> (1687), postulated
+                  celestial mechanics, describing the structure of the universe.</note> was a
+               frantic fool,</l>
+            <l rend="indent">A crazy head;</l>
+            <l>And soon had bred him muckle dool,<emph rend="super">5</emph><note type="gloss"
+                  place="bottom"><emph rend="super">5</emph>
+                  <emph rend="italic">n.</emph> grief, sorrow, misery.</note></l>
+            <l rend="indent">But now he’s dead.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>He play’d an unco manfu’ part,</l>
+            <l n="50">And had the Gospel-cause at heart,</l>
+            <l>Recover’d it, wi’ toil and smart;</l>
+            <l rend="indent">A doughty deed,</l>
+            <l>And pure Religion did revert,</l>
+            <l rend="indent">But now he’s dead.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>As mony a man has heard him tell,</l>
+            <l>He hated bigotry like hell,</l>
+            <l>Yet had a System, by himsel’,<emph rend="super">6</emph><note type="gloss"
+                  place="bottom"><emph rend="super">6</emph> Perhaps a reference to the prospectus
+                  of <emph rend="italic">A Revise, or a Reform of the Present System of
+                     Astronomy</emph> appended to Goldie's <emph rend="italic">Conclusive Evidences
+                     against Atheism</emph> (1808).</note></l>
+            <l rend="indent">Which was his Creed,</l>
+            <l>Frae modern wits he bore the bell,</l>
+            <l n="60" rend="indent">But now he’s dead.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l>He was a man without a flaw,</l>
+            <l>In’s life he never err’d at a’,</l>
+            <l>His ain opinion was the law,</l>
+            <l rend="indent">Withouten feed;<emph rend="super">7</emph><note type="gloss"
+                  place="bottom"><emph rend="super">7</emph> I.e. without [a lawyer] being
+                  paid.</note></l>
+            <l n="65">The world to him were madmen a’,</l>
+            <l rend="indent">But now he’s dead.</l>
+         </lg>
+
+
+         <lg type="stanza">
+            <head rend="center">His Epitaph.</head>
+
+            <l>Here lies a man without a match,</l>
+            <l>Ne’er ane did sic strange fancies hatch;</l>
+            <l>Of a’ the men, sin’ Adam fell,</l>
+            <l n="70">No ane was right yet but himsel’.</l>
+
+         </lg>
+
+
+
+      </body>
+   </text>
+</TEI>

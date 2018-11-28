@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Song II.</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope
+                  unit="page" from="214" to="216">214-216</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Song II.<emph rend="super">1</emph><note type="head"
+                  place="bottom"><emph rend="super">1</emph> First published in <emph rend="italic"
+                     >Poetical Essays</emph> (1788), pp. 214-216.</note></title></head>
+
+         <div1 type="stanza">
+            <head rend="center">I.</head>
+            <lg>
+               <l>Upon a bank where linnets sung,</l>
+               <l rend="indent">Where rows of nodding lilies sprung,</l>
+               <l rend="indent">And streams fell trickling down,</l>
+               <l>Young Colin<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                  rend="super">2</emph> Shepherd-poet, Cf. Clement Marot’s <emph rend="italic">Complainte de
+                     Madame Loysc</emph> (1531); Edmund Spenser’s <emph rend="italic">Shepheardes
+                        Calendar</emph> (1579); and John Gay’s <emph rend="italic">The Shepherd’s
+                        Week</emph> (1714).</note> sat beneath the shade,</l>
+               <l n="5">While round his sportive lambkins stray’d,</l>
+               <l>As on his rural pipe he play’d,</l>
+               <l rend="indent">And sung of Molly Brown.<emph rend="super">3</emph><note
+                     type="gloss" place="bottom"><emph rend="super">3</emph> Perhaps a misprint for
+                     "Molly Bawn," a traditional Irish ballad ciculated by Jamieson under the name
+                     of "Lord Kenneth and Fair Ellinour" in 1799 and later published in Jamieson,
+                        <emph rend="italic">Popular Ballads</emph>, vol. 1, (1806), 194. </note></l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">II.</head>
+            <lg>
+               <l>Away, he cry’d, ye wanton maids,</l>
+               <l>Who sport beneath the woodland shades,</l>
+               <l n="10" rend="indent">Or triumph o’er the town;</l>
+               <l>Retire, for ah! I know full well,</l>
+               <l>With envy ev’ry breast would swell,</l>
+               <l>To hear me half the beauties tell</l>
+               <l rend="indent">Of charming Molly Brown. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">III.</head>
+            <lg>
+               <l n="15">When o’er the dewy mead she strays,</l>
+               <l>The wond’ring shepherds round her gaze,</l>
+               <l rend="indent">And all enamour’d own,</l>
+               <l>That never, never yet was seen</l>
+               <l>A nymph that trode the flow’ry green,</l>
+               <l n="20">Of such a matchless shape and mien,</l>
+               <l rend="indent">As charming Molly Brown.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">IV.</head>
+            <lg>
+               <l>Let fops, in many a labour’d line,</l>
+               <l>The blooming rose and lily twine</l>
+               <l rend="indent">Some damsel’s head to crown;</l>
+               <l n="25">Yet those, with all their labour’d art,</l>
+               <l>Can ne’er such rapt’rous strains impart,</l>
+               <l>As flow spontaneous from the heart,</l>
+               <l rend="indent">Inspir’d by Molly Brown. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">V.</head>
+            <lg>
+               <l>Her charms the coldest heart can fire,</l>
+               <l n="30"> They wake the soul to soft desire,</l>
+               <l rend="indent">And joy before unknown;</l>
+               <l>For her would hermits quit their cell,</l>
+               <l>And bid their solitude farewell,</l>
+               <l>And on the plains delighted dwell,</l>
+               <l n="35" rend="indent">To gaze on Molly Brown.</l>
+            </lg>
+         </div1>
+         <div1>
+            <head rend="center">VI.</head>
+            <lg>
+               <l>O would the gen’rous pow’rs above</l>
+               <l>Grant me my charming Molly’s love,</l>
+               <l rend="indent">I’d other joys disown;</l>
+               <l>Let others treasure gold in store,</l>
+               <l n="40">And shining orient gems adore,</l>
+               <l>Far happier I, possess’d of more,</l>
+               <l rend="indent">In charming Molly Brown. </l>
+            </lg>
+         </div1>
+      </body>
+   </text>
+</TEI>

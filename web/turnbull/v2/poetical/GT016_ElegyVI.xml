@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Elegy VI.</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope
+                  unit="page" from="20" to="22">20-22</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Elegy VI.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> First published in <emph
+                     rend="italic">Poetical Essays</emph> (1788), pp. 20-22.</note></title></head>
+
+
+         <epigraph rend="center">
+            <l><emph rend="italic">What shall I say, what arguments can prove</emph></l>
+            <l><emph rend="italic">My truth, what colours can describe my love?</emph>
+            </l>
+
+            <bibl>Prior.<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> Matthew Prior, “Celia to Damon,” in <emph rend="italic"
+                     >Poems on Several Occasions</emph> (1720), 34-38. Turnbull substituted “what
+                  shall I say” for Prior’s “what can I say.”</note></bibl>
+         </epigraph>
+         <div1 type="stanza" n="1">
+            <head rend="center">I.</head>
+            <lg>
+               <l>No other maid, of all the youthful train,</l>
+               <l rend="indent">However sweet to others they may be,</l>
+               <l> Shall e’er invade my constant heart again;</l>
+               <l rend="indent">None shall I, Delia,<emph rend="super">3</emph><note type="gloss"
+                     place="bottom"><emph rend="super">3</emph> Name of Artemis or Diana, who was
+                     allegedly born in the island of Delos. Citing Tibullus, Maurice Scêve (1510-64)
+                     and Samuel Daniel (1562-1619), Alastair Fowler argues that Delia was often used
+                     to denote purity. See <emph rend="italic">Literary Names</emph> (Oxford: Oxford
+                     UP, 2012), p. 44.</note> ever love but thee. </l>
+            </lg>
+
+         </div1>
+         <div1 type="stanza" n="2">
+            <head rend="center">II.</head>
+
+            <lg>
+               <l n="5">From thee at first the fatal arrow came,</l>
+               <l rend="indent">And, to my heart, an easy passage found,</l>
+               <l> With secret joy I fed the subtile flame,</l>
+               <l rend="indent">Nor knew the sad effects of such a wound.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="3">
+            <head rend="center">III.</head>
+
+            <lg>
+               <l>I valu’d more one sweet endearing smile</l>
+               <l n="10" rend="indent">Than all the treasure Indian mines afford,</l>
+               <l>Greater I was than if of Albion’s isle,<emph rend="super">4</emph><note
+                     type="gloss" place="bottom"><emph rend="super">4</emph> Ancient name for
+                     Britain, likely derived from the Latin <emph rend="italic">albus</emph> meaning
+                     "white" and thus a reference to the island's southern coast. </note></l>
+               <l rend="indent">And wealthy cities, I were sov’reign Lord. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="4">
+            <head rend="center">IV.</head>
+
+            <lg>
+               <l>But ah! my charmer, little did I know</l>
+               <l rend="indent"> What racks and torments I should shortly prove,</l>
+               <l n="15"> Disdain, the fatal cause of all my wo,</l>
+               <l rend="indent"> And jealousy, the greatest bane of love.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="5">
+            <head rend="center">V.</head>
+
+            <lg>
+               <l>No friend of fortune I, no wealthy swain,</l>
+               <l rend="indent">Possess’d of num’rous herds and fields of corn;</l>
+               <l>For this I suffer thy unjust disdain,</l>
+               <l n="20" rend="indent">Not me, but ’tis my poverty you scorn.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="6">
+            <head rend="center">VI.</head>
+
+            <lg>
+               <l>Yet, yet my fair, the little I could claim,</l>
+               <l rend="indent">All that I could command, and call it mine,</l>
+               <l>All that I had, that instant yours became,</l>
+               <l rend="indent">My heart, my life, my very soul was thine. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="7">
+            <head rend="center">VII.</head>
+
+            <lg>
+               <l n="25">What task can you enjoin me to obey,</l>
+               <l rend="indent">What dreadful penance urge me to sustain?</l>
+               <l>Be what it will, without the least delay,</l>
+               <l rend="indent">It shall be done, your favour to obtain. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="8">
+            <head rend="center">VIII.</head>
+
+            <lg>
+               <l>For thee, I’d brave the dangers of the storm,</l>
+               <l n="30" rend="indent">And like Leander,<emph rend="super">5</emph><note
+                     type="gloss" place="bottom"><emph rend="super">5</emph> In Greek mythology, Leander swam
+                     across the Hellespont every night to be with his lover, Hero. The myth was
+                     versified by Christopher Marlowe and, after Marlowe’s death, George Chapman and
+                     published as <emph rend="italic">Hero and Leander</emph> in 1598.</note>
+                  nightly swim the tide,</l>
+               <l>Gladly I’d meet its ev’ry dreadful form,</l>
+               <l rend="indent">Did you appear, my wat’ry course to guide.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="9">
+            <head rend="center">IX.</head>
+
+            <lg>
+               <l>I’d live on Zembla’s outmost coast<emph rend="super">6</emph><note type="gloss"
+                     place="bottom"><emph rend="super">6</emph> Novaya Zemlya is an archipelago in
+                     the Arctic Ocean and was, in the eighteenth century, commonly referred to by
+                     its Dutch name, Nova Zembla. In <emph rend="italic">A New Geographical,
+                        Historical and Commercial Grammar</emph> (1774) William Guthrie et al.
+                     describe it and “Russian Lapland” as “most uncomfortable regions; the earth,
+                     which is covered with snow nine months in the year, being extremely barren, and
+                     every where encumbered with unwholesome marshes, uninhibited mountains, and
+                     impenetrable thickness,” p. 524.</note> exil’d,</l>
+               <l rend="indent">Where hoary winter chills the joyless year,</l>
+               <l n="35">Where vernal suns and summer never smil’d,</l>
+               <l rend="indent">Yet this were paradise if thou wert near. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="10">
+            <head rend="center">X.</head>
+
+            <lg>
+               <l>But hold, fond youth, what fury moves thy mind?</l>
+               <l rend="indent">What frantic pow’r constrains thee this to tell?</l>
+               <l>Already, to thy sorrow may’st thou find,</l>
+               <l n="40" rend="indent">She knows of thy submission far too well. </l>
+            </lg>
+         </div1>
+
+      </body>
+   </text>
+</TEI>

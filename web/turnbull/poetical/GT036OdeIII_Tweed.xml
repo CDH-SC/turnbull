@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Ode III. To Tweed.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="155" to="158">155-158</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Ode III. To Tweed.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> First published in <emph
+                     rend="italic">Poetical Essays</emph> (1788), pp. 155-158; reprinted as “Ode to the
+                  Tweed” in <emph rend="italic">Columbian Herald and New Daily Advertiser</emph>
+                  [Charleston, SC] (April 19, 1796), 4.</note></title></head>
+
+
+         <div1 type="stanza" n="1">
+            <head rend="center">I.</head>
+            <lg>
+               <l>Far, Tweeda,<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                        rend="super">2</emph> Running through the Borders region of Scotland, the
+                     River Tweed forms the boundary between Scotland and England.</note> from thy
+                  banks I stray,</l>
+               <l rend="indent">Where Glotta’s<emph rend="super">3</emph><note type="gloss"
+                     place="bottom"><emph rend="super">3</emph> Roman name for the Isle of Arran, in
+                     the Firth of Clyde, visible from the Ayrshire coast. </note> swelling surges
+                  roar,</l>
+               <l>No more the verdant fields survey,</l>
+               <l rend="indent">That stretch along thy winding shore.</l>
+            </lg>
+
+         </div1>
+         <div1 type="stanza" n="2">
+            <head rend="center">II.</head>
+
+            <lg>
+               <l n="5">Yet pow’rful fancy’s magic spell,</l>
+               <l rend="indent">Oft wafts me to thy silvan bow’rs:</l>
+               <l>Those lov’d restarts, that pleas’d so well,</l>
+               <l rend="indent">Among the fragrant blooming flow’rs.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="3">
+            <head rend="center">III</head>
+
+            <lg>
+               <l>Where, free from ev’ry anxious care,</l>
+               <l n="10" rend="indent">That sours our more advanced age,</l>
+               <l>Gay as the birds, that wing the air,</l>
+               <l rend="indent">I gently pass’d youth’s golden stage. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="4">
+            <head rend="center">IV.</head>
+
+            <lg>
+               <l>No wish, that from ambition springs,</l>
+               <l rend="indent">E’er stopp’d the progress of my mirth,</l>
+               <l n="15">Nor love, that ev’ry sorrow brings,</l>
+               <l rend="indent">E’er gave a sigh or murmur birth. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="5">
+            <head rend="center">V.</head>
+
+            <lg>
+               <l>No cruel Delia<emph rend="super">4</emph><note type="gloss" place="bottom"><emph
+                        rend="super">4</emph> Alternative name for Artemis or Diana. Citing
+                     Tibullus, Maurice Scêve (1510-64) and Samuel Daniel (1562-1619), Alastair
+                     Fowler argues that Delia was often used to denote purity. See <emph
+                        rend="italic">Literary Names</emph> (Oxford: Oxford UP, 2012), p. 44.</note>
+                  there appear’d,</l>
+               <l rend="indent">No nymph my tender fancy fir’d,</l>
+               <l>No rival’s fatal form I fear’d,</l>
+               <l n="20" rend="indent">With equal love and hate inspir’d.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="6">
+            <head rend="center">VI.</head>
+
+            <lg>
+               <l>Oft, at the early dawn of day,</l>
+               <l rend="indent">Along thy verdant banks I stray’d;</l>
+               <l>Or, scorch’d by Sol’s meridian ray,</l>
+               <l rend="indent">Enjoy’d the coolness of the shade.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="7">
+            <head rend="center">VII.</head>
+
+            <lg>
+               <l n="25">Or, list’ned to the lulling lay,</l>
+               <l rend="indent">Of streams attuned to the gale,</l>
+               <l>Or warbling minstrels, of the spray,</l>
+               <l rend="indent">Or piping shepherds, in the dale. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="8">
+            <head rend="center">VIII.</head>
+
+            <lg>
+               <l>But O! what joy, when winding slow,</l>
+               <l n="30" rend="indent">Yon mountain’s airy top to gain;</l>
+               <l>To gaze upon the scene below,</l>
+               <l rend="indent">The stream, the woodland, and the plain.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="9">
+            <head rend="center">IX.</head>
+
+            <lg>
+               <l>Where, from the mazy river’s side,</l>
+               <l rend="indent">The hills above the vallies rise;</l>
+               <l n="35">And, proud aspiring, seem to hide</l>
+               <l rend="indent">Their peaks among surrounding skies. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="10">
+            <head rend="center">X.</head>
+
+            <lg>
+               <l>The forests wave their verdant heads,</l>
+               <l rend="indent">There fertile cultur’d fields extend;</l>
+               <l>Rich palaces o’erlook the meads,</l>
+               <l n="40" rend="indent">And tow’rs, and shining spires ascend. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="11">
+            <head rend="center">XI.</head>
+
+            <lg>
+               <l>A Gothic ruin,<emph rend="super">5</emph><note type="gloss" place="bottom"><emph
+                        rend="super">5</emph> [GT's note: Melrose Abbey.] Described at length in
+                     Francis Grose’s <emph rend="italic">The Antiquities of Scotland</emph> (1797),
+                     pp. 122-133, St. Mary’s Abbey, located in Roxburghshire, has been in
+                     existence since 664; from 1136 up to the Reformation, the abbey served as the
+                     house of the Cistercian order; in 1610 a portion of the abbey was converted
+                     into a parish church but fell into disuse after 1810.</note> in the wind,</l>
+               <l rend="indent">There hangs in fragments sore decay’d,</l>
+               <l>My pencil oft its tow’rs design’d,</l>
+               <l rend="indent">Its niches, and its spires pourtray’d.</l>
+            </lg>
+         </div1>
+         <div1 type="stanza" n="12">
+            <head rend="center">XII.</head>
+
+            <lg>
+               <l n="45">O happy days, of peace and rest,</l>
+               <l rend="indent">Days never, never to return,</l>
+               <l>Your dear remembrance, in my breast</l>
+               <l rend="indent">Remains, and still your loss I mourn.</l>
+
+            </lg>
+         </div1>
+      </body>
+   </text>
+</TEI>

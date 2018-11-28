@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Song IV.</title>, in <title>Poetical
+                  Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>), <biblScope
+                  unit="page" from="218" to="220">218-220</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Song IV.<emph rend="super">1</emph><note type="head"
+                  place="bottom"><emph rend="super">1</emph> First published in <emph rend="italic"
+                     >Poetical Essays</emph> (1788), pp. 218-220; reprinted as “Tragic Ballad” in <emph
+                     rend="italic">Columbian Herald and New Daily Advertiser</emph> [Charleston, SC]
+                  (April 14, 1796).</note></title></head>
+         <note rend="center">Tune. <emph rend="italic">'Twas when the seas were roaring.</emph><emph
+               rend="super">2</emph><note type="gloss" place="bottom"><emph rend="super">2</emph>
+               Air from Joseph Ritson’s <emph rend="italic">Select Collection of English
+                  Songs</emph>, 3 vols. (London: J. Johnson, 1783), vol. III, song 65. John Gay’s
+               song “’Twas when the seas,” with music attributed to G. F. Handel (HWV 228 no. 10),
+               was originally written for Gay’s opera <emph rend="italic">What D’Ye Call It</emph>
+               (1715) and later adapted in his more famous <emph rend="italic">The Beggar’s
+                  Opera</emph>, Air 28 (1728). It was also published separately as <emph
+                  rend="italic">The Melancholy Nymph or The Faithful Maid</emph>. For discussion of
+               Gay’s authorship of the lyrics beginning see <emph rend="italic">Notes &amp;
+                  Queries</emph>, 7th series, 9 (January 17, 1891), p. 49; (February 14, 1891), p.
+               136.</note></note>
+         <div1 type="stanza">
+            <head rend="center">I.</head>
+            <lg>
+               <l>Beside a stream’s meander,</l>
+               <l rend="indent">That wildly winding flows;</l>
+               <l>Where pensive lovers wander,</l>
+               <l rend="indent">Enamour’d of their woes; </l>
+               <l n="5">Upon the green grass pillow</l>
+               <l rend="indent">Palemon<emph rend="super">3</emph><note type="gloss" place="bottom"
+                        ><emph rend="super">3</emph> Variant of Palaemon, a pastoral shepherd in
+                     Virgil’s <emph rend="italic">Eclogue</emph> 3. Cf. Edmund Spenser’s <emph
+                        rend="italic">The Shephearde’s Calendar</emph> (1597) and James Thomson’s
+                     “Autumn” in <emph rend="italic">The Seasons</emph> (1730), lines 209-310;
+                     Thomson’s Lavinia-Palemon episode, drawn by William Hamilton, was one of three
+                     plates, apart from the allegorical figures of the seasons, included in John
+                     Murray’s 1778 illustrated edition of <emph rend="italic">The Seasons</emph>.
+                  See Ralph Cohen, <emph rend="italic">The Art of Discrimination</emph> (Berkely and Los Angeles: UC Press,
+                     1964), p. 281. </note> lay reclin’d, </l>
+               <l>His canopy, a willow,</l>
+               <l rend="indent">Hung wav’ring in the wind. </l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">II.</head>
+            <lg>
+               <l>In vain, all nature blooming, </l>
+               <l n="10" rend="indent">Would cheer the love-sick boy, </l>
+               <l>His days, in grief consuming,</l>
+               <l rend="indent">Knew no returning joy: </l>
+               <l>All consolation scorning,</l>
+               <l rend="indent">Thus flow’d his mournful tale,</l>
+               <l n="15">His plaint the rocks returning,</l>
+               <l rend="indent">Sad echo’d through the dale. </l>
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">III.</head>
+            <lg>
+               <l>Why did I woo this charmer,</l>
+               <l rend="indent">The cause of all my harms;</l>
+               <l> Or why did nature arm her,</l>
+               <l n="20" rend="indent">With such resistless charms:</l>
+               <l>Yet cruel, as the ocean,</l>
+               <l rend="indent">As winter’s breath severe,</l>
+               <l>She feels no soft emotion</l>
+               <l rend="indent">For all the woes I bear.</l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">IV.</head>
+            <lg>
+               <l n="25">Thus whilst I lie complaining,</l>
+               <l rend="indent">And sigh my soul away,</l>
+               <l>All my complaints disdaining,</l>
+               <l rend="indent">She frolics out the day;</l>
+               <l>A crowd of youths surrounding,</l>
+               <l n="30" rend="indent">In richer robes array’d,</l>
+               <l>And all her praises sounding,</l>
+               <l rend="indent">Delude the simple maid.</l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">V.</head>
+            <lg>
+               <l>Ev’n now, perhaps, with folly,</l>
+               <l rend="indent">And tales of flatt’ry vain,</l>
+               <l n="35">She mocks my melancholy,</l>
+               <l rend="indent">And triumphs o’er my pain;</l>
+               <l>But know, ungentle maiden,</l>
+               <l rend="indent">My griefs are almost o’er;</l>
+               <l>My heart, with sorrow laden,</l>
+               <l rend="indent" n="40">Can bear thy slights no more. </l>
+
+            </lg>
+         </div1>
+         <div1 type="stanza">
+            <head rend="center">VI.</head>
+            <lg>
+               <l>Forget thy luckless lover,</l>
+               <l rend="indent">Who dies, false maid, for you;</l>
+               <l>For him no grief discover,</l>
+               <l rend="indent">But former joys pursue:</l>
+               <l n="45">This said, with looks dejected,</l>
+               <l rend="indent">His sad farewell he took;</l>
+               <l>And all with love distracted,</l>
+               <l rend="indent">He plung’d him in the brook. </l>
+
+            </lg>
+         </div1>
+      </body>
+   </text>
+</TEI>

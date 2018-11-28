@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>Morning. A Poem.</title>, in
+                  <title>Poetical Essays,</title> (<pubPlace>Glasgow</pubPlace>, <date>1788</date>),
+                  <biblScope unit="page" from="77" to="87">77-87</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head rend="center"><title type="main">Morning. A Poem.<emph rend="super">1</emph><note
+                  type="head" place="bottom"><emph rend="super">1</emph> First published in <emph
+                     rend="italic">Poetical Essays</emph> (1788), pp. 77-87. Raymond Havens lists
+                  “Morning” among the many poems influenced by Milton’s octosyllabic poems
+            <emph rend="italic">L’Allegro</emph> and <emph rend="italic">Il Penseroso</emph> (1631). See <emph rend="italic">The Influence of
+                     Milton on English Poetry</emph>, (New York: Russell &amp; Russell, 1961, pp.
+                  656 and 676).</note></title></head>
+         <epigraph rend="center">
+            <l><emph rend="italic">Sweet is the breath of morn, her rising sweet,</emph></l>
+            <l><emph rend="italic">With charm of earliest birds.</emph></l>
+            <bibl>Milton.<emph rend="super">2</emph><note type="gloss" place="bottom"><emph
+                     rend="super">2</emph> John Milton, <emph rend="italic">Paradise Lost</emph>
+                  (1667), IV. 641-642.</note></bibl>
+         </epigraph>
+
+
+         <lg type="stanza" n="1">
+            <l>Awake, my Muse, on fancy’s pinions born,</l>
+            <l>Arise, and sing the beauties of the morn,</l>
+            <l>O Phœbus,<emph rend="super">3</emph><note type="gloss" place="bottom"><emph
+                     rend="super">3</emph> The sun.</note> master of the tuneful nine,<emph
+                  rend="super">4</emph><note type="gloss" place="bottom"><emph rend="super">4</emph>
+                  The nine Muses. Cf. Thomas Warton: “To hold short dalliance with the tuneful Nine”
+                  (Warton, <emph rend="italic">Triumph of Isis</emph> ([749], lines 97-98); and
+                  Robert Burns: “there are such who court the tuneful nine—,” "To Robert Graham of
+                  Fintry, Esqr, with a Request for an Excise Division," line 75 (sent to Graham
+                  September 10, 1788, first published in Currie, 1800; Kinsley, I: 427; III: 1279).
+               </note></l>
+            <l>Inspire my thoughts, and polish ev’ry line.</l>
+         </lg>
+         <lg type="stanza" n="2">
+            <l n="5" rend="indent">Be present, all you kind propitious pow’rs,</l>
+            <l>Welcome attendants on the jocund hours,</l>
+            <l>Ye sports, and little loves, O come along,</l>
+            <l>And rosy health, the sweetest of the throng;</l>
+            <l>Blithe mirth and humour join the festive train,</l>
+            <l n="10">Smile on the Bard, and dance around the strain.</l>
+         </lg>
+         <lg type="stanza" n="3">
+            <l rend="indent">Now, in the east, the faintly gleaming light</l>
+            <l>Divides the empire of the day and night,</l>
+            <l>Thick clouds before Aurora’s chariot<emph rend="super">5</emph><note type="gloss"
+                  place="bottom"><emph rend="super">5</emph> The dawn, poetically depicted as
+                  rose-colored and preceding the sun.</note> fly,</l>
+            <l>The stars grow dim, and leave the op’ning sky,</l>
+            <l n="15">The village cock, with clarion shrill and clear,</l>
+            <l>Proclaims aloud the day’s approach is near;</l>
+            <l>While careful dames, whom love of thrift inspires,</l>
+            <l>Grope through the gloom, to rouse the morning fires,</l>
+            <l>The swallows twitter from the chimney height,</l>
+            <l n="20">Expand their pinions, and renew their flight;</l>
+            <l>The owl and bat, offended at the sun,</l>
+            <l>Forsake the light, the day obnoxious shun,</l>
+            <l>And in some rocky cliff, or ruin gray,</l>
+            <l>Their lonely mansion, dissipate the day. </l>
+         </lg>
+         <lg type="stanza" n="4">
+            <l n="25" rend="indent">Scar’d at these omens of approaching light,</l>
+            <l>Pale fear and horror meditate their flight;</l>
+            <l>The sons of darkness, guilt and grim despair,</l>
+            <l>To low brow’d rocks and gloomy cells repair,</l>
+            <l>White sheeted ghosts, that nightly vigils keep</l>
+            <l n="30">In lone church-yards, and o’er their bodies weep,</l>
+            <l>Evanish, while the mirthful fairy bands</l>
+            <l>Fly hence, and revel in far distant lands.</l>
+            <l>The trav’ller, who had wander’d from his way,</l>
+            <l>Deluded by the meteor’s guileful ray,</l>
+            <l n="35">Adjusts his path, and meditates aghast,</l>
+            <l>The dangers he so narrowly has past,</l>
+            <l>And what, before he fancy’d ghosts, he sees</l>
+            <l>Are foggy stones and stumps of leafless trees.</l>
+         </lg>
+         <lg type="stanza" n="5">
+            <l rend="indent">And now the orient gates of heav’n unfold,</l>
+            <l n="40">The ruddy skies are bright with rays of gold,</l>
+            <l>Dan Phœbus, mounted on his glowing wain,</l>
+            <l>Gives light and life to cheer the world again;</l>
+            <l>The mountain tops reflect the early beams,</l>
+            <l>His burning image dances on the streams;</l>
+            <l n="45">The lofty spire the tow’rs amazing height,</l>
+            <l>Shine from afar, and glitter on the sight.</l>
+            <l>Unnumber’d beauties strike the wond’ring eyes,</l>
+            <l>Gay to the view th’ unbounded prospect lies;</l>
+            <l>Far as the lab’ring sight can trace around,</l>
+            <l n="50">Blue airy hills the wide horizon bound,</l>
+            <l>From pendant rocks the tinkling rills descend,</l>
+            <l>Beneath the breeze, the verdant forests bend,</l>
+            <l>Fresh dewy drops the flow’ry shrubs adorn,</l>
+            <l> Like orient gems, they twinkle on the thorn;</l>
+            <l n="55">Well cultur’d fields the future harvest bear,</l>
+            <l>With all the produce of the smiling year.</l>
+         </lg>
+         <lg type="stanza" n="6">
+            <l rend="indent">The herald lark begins her mattin lay,</l>
+            <l>Sweet sylvan minstrel of the rising day;</l>
+            <l>Up from her nest she soars, on flutt’ring wings,</l>
+            <l n="60">And as she rises, loud and cheerful sings:</l>
+            <l>While, from the hazel green and spreading bush,</l>
+            <l>The cheerful linnet and melodious thrush,</l>
+            <l>The gaudy goldfinch and the cooing dove,</l>
+            <l>With ev’ry tuneful tenant of the grove,</l>
+            <l n="65">Begin their notes, such joy their hearts inspire,</l>
+            <l>Till all around ’tis one confus’d harmonious quire.</l>
+         </lg>
+         <lg type="stanza" n="7">
+            <l rend="indent">Now let me start from sleep, at early dawn,</l>
+            <l>To range the woods or tread the dewy lawn,</l>
+            <l>Delighted with the fragrance of the bow’rs,</l>
+            <l n="70">And scents that blow from aromatic flow’rs,</l>
+            <l>To snuff each balmy gales of morn that brings</l>
+            <l>Etherial sweetness, on its lucid wings,</l>
+            <l>The curious skill of nature’s hand to trace,</l>
+            <l>Display’d, with wonder, in the flow’ry race:</l>
+            <l n="75">But O! what hand can touch a theme so fine,</l>
+            <l>What pencil nature draw so smooth as thine,</l>
+            <l>What youthful bride, bedeck’d in rich array,</l>
+            <l>Can equal, and such glorious pomp display. </l>
+         </lg>
+         <lg type="stanza" n="8">
+            <l rend="indent">Little they know the pleasure which they lose,</l>
+            <l n="80">Who waste the morn in indolent repose;</l>
+            <l>Perhaps by tantalizing dreams betray’d,</l>
+            <l>Or by alarming night mares sore dismay’d,</l>
+            <l>Sometimes the mimic apparition shows</l>
+            <l>A series of inextricable woes;</l>
+            <l n="85">Grim spectres threaten, with terrific air,</l>
+            <l>In all the gloomy horrors of despair;</l>
+            <l>Impending rocks and precipices fright,</l>
+            <l>Or falling from a tow’r’s stupendous height,</l>
+            <l>Sometimes in monsters’ dreadful paws they seem,</l>
+            <l n="90">Or plunging sinking in the turbid stream:</l>
+            <l>Ten thousand forms the tempting dream can find,</l>
+            <l>To tear and torture the distracted mind.</l>
+            <l>Shake off his fetters, break th’ enchanter’s pow’r,</l>
+            <l>And through the country take a morning tour;</l>
+            <l n="95">This sweetens life, and mitigates our woes,</l>
+            <l>And health and smiling cheerfulness bestows.</l>
+         </lg>
+         <lg type="stanza" n="9">
+            <l rend="indent">Hark! from afar the shrill ton’d bugles sound,</l>
+            <l>The distant hills th’ arousing call rebound;</l>
+            <l>The howling dogs, impatient of delay,</l>
+            <l n="100">Leap nimbly round and off at distance bay,</l>
+            <l>With scents sagacious snuff the tainted gale;</l>
+            <l>The neighing coursers nimbly scour the dale:</l>
+            <l>And now the huntsman gives th’ inspiring cry,</l>
+            <l>In mix’d pursuit, men, hounds and horses fly.</l>
+         </lg>
+         <lg type="stanza" n="10">
+            <l n="105" rend="indent">In Caledonia,<emph rend="super">6</emph><note type="gloss"
+                  place="bottom"><emph rend="super">6</emph> Literary name and former Roman term for
+                  Scotland.</note> in the days of old,</l>
+            <l>When ev’ry son was as his father bold,</l>
+            <l>When, in each breast, a manly ardour burn’d,</l>
+            <l>And freedom’s sons the thought of bondage spurn’d;</l>
+            <l>Each hardy youth to martial toil was bred,</l>
+            <l n="110">Their tender limbs in fulgid armour clad,</l>
+            <l>’Twas theirs with speed, th’ unerring dart to throw,</l>
+            <l>To wield the spear, and bend the stubborn bow,</l>
+            <l>To rein the fiery steed, at dawn of day,</l>
+            <l>To range the forest, and dislodge the prey,</l>
+            <l n="115">To brave the tempests, on the rocky shore,</l>
+            <l>And, through the snows, pursue the savage boar;</l>
+            <l>At early dawn they heard th’ arousing call,</l>
+            <l>At night, assembled in the stately hall;</l>
+            <l>The feasts of shells<emph rend="super">7</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">7</emph> Drinking whisky out of small scallop shells, see,
+                  e.g., <emph rend="italic">Fingal</emph>, Book V in Gaskell, <emph rend="italic"
+                     >The Poems of Ossian and Related Works</emph> (Edinburgh: Edinburgh UP, 1996), p. 92.</note> the thought of care
+               beguiles,</l>
+            <l n="120">The fair reward them with auspicious smiles.</l>
+            <l>By gray hair’d Bards, the sounding harps are strung,</l>
+            <l>And mighty chiefs, and deeds of valour sung. </l>
+         </lg>
+         <lg type="stanza" n="11">
+            <l rend="indent">Not such the gaudy youth, of modern years,</l>
+            <l>A butterfly the meager fop appears;</l>
+            <l n="125">A thing transform’d from ev’ry human shape;</l>
+            <l>And what he most resembles is an ape;</l>
+            <l>A gaudy head, but destitute of sense,</l>
+            <l>And oaths and curses are his sole defence,</l>
+            <l>Dress, and the ladies, his supreme delight;</l>
+            <l n="130">The walk by day, and masquerade by night,</l>
+            <l>Keeps up the riot, till the latest hour,</l>
+            <l>And then uncapable ascends his bow’r;</l>
+            <l>In fumes of wine, he sleeps the morn away,</l>
+            <l>And empty dreams of pleasure waste the day.</l>
+         </lg>
+         <lg type="stanza" n="12">
+            <l n="135" rend="indent">The rev’rend hermit, with the rising sun,</l>
+            <l>Already has his orisons begun;</l>
+            <l>Out from his cell, I hear his pray’rs ascend;</l>
+            <l>’Tis thus his days begin and thus they end.</l>
+            <l>The careful farmers rub their half-shut eyes,</l>
+            <l n="140">And call their simple families to rise;</l>
+            <l>With steady view, the welkin they survey,</l>
+            <l>And plan the future labour of the day.</l>
+            <l>The shepherd drives his bleating flock along,</l>
+            <l>And, as he marches, hums his country song.</l>
+            <l n="145">The rosy milk-maid, in the grassy dale,</l>
+            <l>From swelling udders fills her flowing pail;</l>
+            <l>Sweetly she sings, while some enamour’d swain,</l>
+            <l>Her conscious lover, listens to the strain.</l>
+         </lg>
+         <lg type="stanza" n="13">
+            <l rend="indent">Muse, sing the passion of a rural pair,</l>
+            <l n="150">Damon<emph rend="super">8</emph><note type="gloss" place="bottom"><emph
+                     rend="super">8</emph> Virgilian pastoral name found in <emph rend="italic"
+                     >Eclogue</emph> 8. Cf. also Milton, “Epitaphium Damonis,” in <emph
+                     rend="italic">Poems</emph> (1645).</note> the swain, Amanda<emph rend="super"
+                  >9</emph><note type="gloss" place="bottom"><emph rend="super">9</emph> From Latin
+                     <emph rend="italic">amanda</emph> meaning “lovable, worthy of love” and
+                  popularized by seventeenth-century poets and playwrights, e.g., Colly Cibber’s
+                     <emph rend="italic">Love’s Last Shift</emph> (1696).</note> was the fair:</l>
+            <l>Long time he burn’d, with love’s resistless fire,</l>
+            <l>And she as long, conceal’d the same desire;</l>
+            <l>Both lov’d, and both the struggling flame suppress’d,</l>
+            <l>Tho’ words conceal’d, their eyes the truth confess’d,</l>
+            <l n="155">’Till once it chanc’d, at morn Amanda came,</l>
+            <l>And did her passion to the groves proclaim;</l>
+            <l>She sigh’d, and when she thought herself alone,</l>
+            <l>In simple accents, made her am’rous moan. </l>
+         </lg>
+         <lg type="stanza" n="14">
+            <l rend="indent">“Ah hapless maid! how long must I conceal</l>
+            <l n="160">My growing flame, and ne’er my pain reveal,</l>
+            <l>Always in secret, my distress endure,</l>
+            <l>Live in despair, nor hope to speed my cure,</l>
+            <l>O sad restraint, which simple virgins prove,</l>
+            <l>To love, yet never tell how much we love:</l>
+            <l n="165">Fain would I break the bands of virgin pride,</l>
+            <l>Nor longer thus my struggling passion hide,</l>
+            <l>O lovely Damon, O ungrateful boy!</l>
+            <l>Why to thy poor Amanda wild and coy?</l>
+            <l>But why accuse him, now perhaps ev’n he</l>
+            <l n="170">Is in such torment, such distress for me.</l>
+            <l>O lovely Damon, would you once declare</l>
+            <l>Thy secret wishes, and relieve my care,</l>
+            <l>Scarce could the accents from thy lips depart,</l>
+            <l>But I would blush consent, and yield my heart.</l>
+            <l n="175">O aid a lover, ev’ry gentle gale,</l>
+            <l>And to my Damon waft the tender tale.”</l>
+         </lg>
+         <lg type="stanza" n="15">
+            <l rend="indent">Thus wail’d the nymph, when in a secret shade</l>
+            <l>Her lover lay, and heard the am’rous maid,</l>
+            <l>Scarce could he credit what he wish’d to hear,</l>
+            <l n="180">By love deceiv’d (for lovers always fear)</l>
+            <l>What could he do? he seiz’d th’ auspicious time;</l>
+            <l>Condemn him, lovers, if he did a crime,</l>
+            <l>Around her neck his willing arms he threw,</l>
+            <l>While tears of joy her rosy cheeks bedew;</l>
+            <l n="185">O happiest morn (he cries) that ever rose,</l>
+            <l>Reserv’d to put an end to all my woes,</l>
+            <l>To hear that welcome sacred truth reveal’d,</l>
+            <l>Which backward modesty so long conceal’d.</l>
+            <l>Then hear my vow, ye sacred pow’rs above,</l>
+            <l n="190">The guiltless vow of innocence and love;</l>
+            <l>That long as life shall warm this vital frame,</l>
+            <l>My love shall unimpair’d remain the same.</l>
+         </lg>
+         <lg type="stanza" n="16">
+            <l rend="indent">Here stopp’d th’ enraptur’d youth, and left the rest</l>
+            <l>In love’s dumb eloquence to be exprest:</l>
+            <l n="195">The maid stood mute, her transport held her so,</l>
+            <l>And as she gaz’d the tears began to flow,</l>
+            <l>Hymen triumphant, rear’d his torch on high,</l>
+            <l>And stood, prepar’d, the sacred knot to tie:</l>
+            <l>Blithe cupids flutter round the happy pair,</l>
+            <l n="200">And Io pæans<emph rend="super">10</emph><note type="gloss" place="bottom"
+                     ><emph rend="super">10</emph> Greek exclamation of joy or triumph addressed to
+                  Apollo (<emph rend="italic">OED</emph>); in modern usage, a figurative expression
+                  of praise or admiration.</note> warbled through the air.</l>
+
+         </lg>
+         <lg type="stanza" n="17">
+            <l rend="indent">Stripp’d, on the green, the sturdy mowers stand,</l>
+            <l>And each the deathful weapon in his hand;</l>
+            <l>Behind, with rakes, the jolly bands prepare</l>
+            <l>To spread the clover, to the sultry air.</l>
+            <l n="205">Full many a song and rustic joke prevail,</l>
+            <l>And laughter loud, and round unpolish’d tale:</l>
+            <l>On ev’ry field amusive groups appear,</l>
+            <l>And cheerful sounds delight the list’ning ear.</l>
+            <l>Loud echoes answer to the falling rills,</l>
+            <l n="210">Flocks bleat, and shepherds pipe upon the hills,</l>
+            <l>The cattle low, the lab’ring hinds rejoice,</l>
+            <l>And all conspire to form a mix’d harmonious noise.</l>
+         </lg>
+         <lg type="stanza" n="18">
+            <l rend="indent">Now morning bells, from ev’ry distant spire,</l>
+            <l>Make languid sloth and somnolence retire:</l>
+            <l n="215">The flying gales convey the swelling sound,</l>
+            <l>And echoes answer from the hills around.</l>
+            <l>Rous’d at the call, sharp industry awakes,</l>
+            <l>And lying dreams, and balmy rest forsakes;</l>
+            <l>Now sturdy labour urges on the toil,</l>
+            <l n="220">The brawny smith renews his daily moil;</l>
+            <l>Loud hammers thump, and sounding anvils chime,</l>
+            <l>And rustic songs delude the lagging time.</l>
+            <l>The crouded streets are noise and tumult all,</l>
+            <l>The coaches rattle, and loud car-men bawl:</l>
+            <l n="225">Thicker and thicker grows the giddy throng,</l>
+            <l> And busy crouds confus’dly march along.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>

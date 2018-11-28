@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?_xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl><author>Turnbull, Gavin,</author><title>The Sword.</title>, in
+                  <title>Poems,</title> (<pubPlace>Dumfries</pubPlace>, <date>1794</date>),
+                  <biblScope unit="page" from="33" to="34">33-34</biblScope>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+
+      <body>
+
+         <head><title type="main" rend="center">The Sword. To Sir James Campbell, Bart.<emph
+                  rend="super">1, </emph><note type="head" place="bottom"><emph rend="super">1
+                     </emph> First published in <emph rend="italic">Poems</emph> (1794),
+                  pp. 33-34.</note><emph rend="super">2</emph><note type="gloss" place="bottom"><emph rend="super">2</emph> Sir
+                  James Campbell (1679-1756), fifth baronet of Auchinbreck, began his parliamentary
+                  career in 1703 in the retinue of the house of Argyll, eventually serving as one of
+                  the Scottish representatives sent to the first Parliament of Great Britain in
+                  1707. </note></title></head>
+
+         <lg type="stanza">
+            <l> Sir, though I’m not an Antiquarian,</l>
+            <l>I’m not a tasteless rude Barbarian,</l>
+            <l> Who, without pleasure, can behold</l>
+            <l>The venerable works of old;—</l>
+            <l n="5">’Tis true, I would not plague my noddle<emph rend="super">3</emph><note
+                  type="gloss" place="bottom"><emph rend="super">3</emph>
+                  <emph rend="italic">n.</emph> head.</note></l>
+            <l>About a rusty useless bodle;<emph rend="super">4</emph><note type="gloss"
+                  place="bottom"><emph rend="super">4</emph>
+                  <emph rend="italic">n.</emph> copper coin equivalent to one sixth of an English
+                  penny. Cf. Turnbull’s “A Legacy” in <emph rend="italic">Columbian Herald and New
+                     Daily Advertiser</emph> [Charleston, SC] (March 24, 1796), lines 9-10:
+                  “Imprimis—May I lose my noddle, / If I’m possessed of e’er a bodle”.</note></l>
+            <l> Or pay good sterling coin to gather</l>
+            <l>A purse of pieces made of leather:</l>
+            <l>Yet, when I see things worth attention,</l>
+            <l n="10">I’d gladly ply my whole invention.</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent"> When I behold your good Claymore,<emph rend="super">5</emph><note
+                  type="gloss" place="bottom"><emph rend="super">5</emph> Two-handed broad-bladed
+                  longsword used from the 15th to the 17th centuries; after the Acts of Union in
+                  1707, claymore began to refer to basket-hilted swords, carried by Scottish
+                  officers, unlike their English counterparts who carried more slender
+                  sabers.</note></l>
+            <l>That erst some gallant Chieftain wore,</l>
+            <l>O ! how imagination fires</l>
+            <l>My blood, and martial thought inspires!</l>
+            <l n="15">My view is retrospective cast,</l>
+            <l>I seem to live in ages past,</l>
+            <l>When ev’ry sire could see his son</l>
+            <l> Enlarge the conquests he had won;</l>
+            <l>When Rome’s astonish’d chiefs beheld</l>
+            <l n="20">Her legions by our arms repel’d;<emph rend="super">6</emph><note type="gloss"
+                  place="bottom"><emph rend="super">6</emph> In 411 AD, Roman legions controlling
+                  tribes north of Hadrian’s Wall broke down and were forced to depart after repeated
+                  attacks by the Picts.</note></l>
+            <l>And trembling senate heard afar</l>
+            <l>The dire effects of Scottish war!</l>
+         </lg>
+
+         <lg type="stanza">
+            <l rend="indent">Ev’n now, methinks, I see the field</l>
+            <l>Where some of our brave race did wield</l>
+            <l n="25">This ample blade, and reeking bore</l>
+            <l>The point triumphant dy’d in gore.</l>
+            <l>I hear the noise of battle bray,</l>
+            <l>And all the horrors of the fray;</l>
+            <l>I hear the hissing javlins sing,</l>
+            <l n="30">I hear the brazen helmts ring, </l>
+            <l>I see the vanquish’d armies fly,</l>
+            <l>I see the slaughter’d warriors ly;</l>
+            <l>And <emph rend="italic">Campbells,</emph><emph rend="super">7</emph><note
+                  type="gloss" place="bottom"><emph rend="super">7</emph> Campbell clan of
+                  Auchinbreck founded by Duncan Campbell in Argyllshire. In 1628 the then head of
+                  the family received a baronetcy. Additionally, the Auchinbrecks were hereditary
+                  Lieutenant Colonels in the seventeenth and eighteenth centuries and thus
+                  responsible for raising an army for the Duke of Argyll, engaging in battle such as
+                  the Monmouth Rebellion of 1685.</note> conqu’ring, bear away</l>
+            <l>The spoils and glory of the day! </l>
+         </lg>
+
+      </body>
+   </text>
+</TEI>
