@@ -18,10 +18,10 @@ services:
         - type: bind
           source: ./web
           target: /var/www/html
-      expose:
-        - "80"
+      ports:
+        - "127.0.0.1:8090:80"
       environment:
-        VIRTUAL_HOST: turnbull.dev-cdh.org
+        VIRTUAL_HOST: turnbull.cdhsc.org
         INDEX_DB_HOST: db:3308
       container_name: turnbull_web
       tty: true
@@ -29,9 +29,3 @@ services:
 # Volume for storing the database between container builds
 volumes:
   indexiuris_db_data:
-
-# A docker network for communicating with the Nginx-Proxy server
-networks:
-  default:
-    external:
-      name: nginx-proxy
