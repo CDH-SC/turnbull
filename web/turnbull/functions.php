@@ -9,7 +9,8 @@ error_reporting(E_ALL);
 ini_set("display_errors", 1);
 
 // Definitions
-define("ROOT_FOLDER", "http://" . $_SERVER["HTTP_HOST"] . "/turnbull/");
+//define("ROOT_FOLDER", "http://" . $_SERVER["HTTP_HOST"] . "/turnbull/");
+define("ROOT_FOLDER", "/turnbull/");
 
 /**
  * Grab files within a specified directory.
